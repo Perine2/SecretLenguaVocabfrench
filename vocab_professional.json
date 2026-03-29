@@ -396,8 +396,7 @@
 { "word": "prestataire de santé", "translation": "health provider" },
 { "word": "antécédents médicaux", "translation": "medical history" },
 { "word": "dossier de santé électronique (DSE)", "translation": "electronic health record (EHR)" }],
-    "economyandfinance": [
-  { "word": "économie", "translation": "economy" },
+    "economyandfinance": [ { "word": "économie", "translation": "economy" },
   { "word": "finance", "translation": "finance" },
   { "word": "argent", "translation": "money" },
   { "word": "revenu", "translation": "income" },
@@ -597,8 +596,7 @@
   { "word": "compétitivité", "translation": "competitiveness" },
   { "word": "productivité", "translation": "productivity" },
   { "word": "littératie financière", "translation": "financial literacy" }],
-    "educationandteaching": [
-  { "word": "éducation", "translation": "education" },
+    "educationandteaching": [ { "word": "éducation", "translation": "education" },
   { "word": "enseignement", "translation": "teaching" },
   { "word": "apprentissage", "translation": "learning" },
   { "word": "étudiant", "translation": "student" },
@@ -798,8 +796,7 @@
   { "word": "certificat d'achèvement", "translation": "certificate of completion" },
   { "word": "examen national", "translation": "national exam" },
   { "word": "baccalauréat international", "translation": "international baccalaureate" }],
-    "tourismandhospitality": [
-  { "word": "tourisme", "translation": "tourism" },
+    "tourismandhospitality": [ { "word": "tourisme", "translation": "tourism" },
   { "word": "touriste", "translation": "tourist" },
   { "word": "voyageur", "translation": "traveler" },
   { "word": "voyage", "translation": "trip" },
@@ -999,8 +996,7 @@
   { "word": "nourriture de rue", "translation": "street food" },
   { "word": "transports en commun", "translation": "public transport" },
   { "word": "conseil de voyage", "translation": "travel tip" }],
-    "transportandlogistics": [
-  { "word": "transport", "translation": "transport" },
+    "transportandlogistics": [ { "word": "transport", "translation": "transport" },
   { "word": "logistique", "translation": "logistics" },
   { "word": "expédition", "translation": "shipment" },
   { "word": "livraison", "translation": "delivery" },
@@ -1200,8 +1196,7 @@
   { "word": "télématique", "translation": "telematics" },
   { "word": "gestion du fret", "translation": "freight management" },
   { "word": "gestion des commandes", "translation": "order management" }],
-    "customsandbordersecurity": [
-  { "word": "douane", "translation": "customs" },
+    "customsandbordersecurity": [{ "word": "douane", "translation": "customs" },
   { "word": "frontière", "translation": "border" },
   { "word": "sécurité", "translation": "security" },
   { "word": "patrouille", "translation": "patrol" },
@@ -1401,8 +1396,7 @@
   { "word": "zone interdite", "translation": "restricted area" },
   { "word": "détection de contrebande", "translation": "contraband detection" },
   { "word": "application des lois douanières", "translation": "customs enforcement" }],
-    "diplomacyandinternationalrelations": [
-  { "word": "douane", "translation": "customs" },
+    "diplomacyandinternationalrelations": [{ "word": "douane", "translation": "customs" },
   { "word": "diplomatie", "translation": "diplomacy" },
   { "word": "diplomate", "translation": "diplomat" },
   { "word": "ambassadeur", "translation": "ambassador" },
@@ -1603,8 +1597,7 @@
   { "word": "groupe de travail", "translation": "working group" },
   { "word": "comité spécial", "translation": "special committee" },
   { "word": "mission permanente", "translation": "permanent mission" }],
-    "tradeandentrepreneurship": [
-  { "word": "commerce", "translation": "trade" },
+    "tradeandentrepreneurship": [ { "word": "commerce", "translation": "trade" },
   { "word": "commerce", "translation": "commerce" },
   { "word": "entrepreneur", "translation": "entrepreneur" },
   { "word": "entrepreneuriat", "translation": "entrepreneurship" },
@@ -1804,8 +1797,7 @@
   { "word": "fusion", "translation": "merger" },
   { "word": "acquisition", "translation": "acquisition" },
   { "word": "introduction en bourse", "translation": "IPO (Initial Public Offering)" }],
-    "humanitarianandngos": [
-  { "word": "humanitaire", "translation": "humanitarian" },
+    "humanitarianandngos": [{ "word": "humanitaire", "translation": "humanitarian" },
   { "word": "ONG", "translation": "NGO" },
   { "word": "organisation non gouvernementale", "translation": "non-governmental organization" },
   { "word": "œuvre de charité", "translation": "charity" },
@@ -2201,8 +2193,7 @@
 { "word": "restitution", "translation": "restitución" },
 { "word": "exécution", "translation": "ejecución" },
 { "word": "sanction", "translation": "sanción" }],
-"healthandmedicine": [
-{ "word": "santé", "translation": "salud" },
+  "healthandmedicine": [{ "word": "santé", "translation": "salud" },
 { "word": "médecine", "translation": "medicina" },
 { "word": "hôpital", "translation": "hospital" },
 { "word": "clinique", "translation": "clínica" },
@@ -3800,7 +3791,7 @@
 { "word": "politique économique", "translation": "Wirtschaftspolitik" },
 { "word": "taux d'intérêt", "translation": "Zinssatz" },
 { "word": "inflation", "translation": "Inflation" }],
-    "humanitarianandngos": [ { "word": "humanitaire", "translation": "humanitario" },
+    "humanitarianandngos": [{ "word": "humanitaire", "translation": "humanitario" },
 { "word": "ONG", "translation": "ONG" },
   { "word": "organisation non gouvernementale", "translation": "organización no gubernamental" },
   { "word": "charité", "translation": "caridad" },
@@ -4976,7 +4967,7 @@
   { "word": "street food", "translation": "Straßenessen" },
   { "word": "public transport", "translation": "öffentliche Verkehrsmittel" },
   { "word": "travel tip", "translation": "Reisetipp" }],
-    "transportandlogistics": [ { "word": "transport", "translation": "Transport" },
+    "transportandlogistics": [{ "word": "transport", "translation": "Transport" },
 { "word": "logistique", "translation": "Logistik" },
   { "word": "expédition", "translation": "Sendung" },
   { "word": "livraison", "translation": "Lieferung" },
@@ -9797,7 +9788,7 @@
   { "word": "paiement mobile", "translation": "pagamento móvel" },
   { "word": "leader communautaire", "translation": "líder comunitário" },
   { "word": "réunion des parties prenantes", "translation": "reunião de stakeholders" }]
-},
+  },
   "chinese": {
     "lawandjustice": [{ "word": "justice", "translation": "正义" },
 { "word": "tribunal", "translation": "法院" },
