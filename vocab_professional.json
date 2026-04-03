@@ -19156,7 +19156,7 @@
 {"word":"fusion","translation":"слияние"},
 {"word":"acquisition","translation":"поглощение"},
 {"word":"IPO (Introduction en Bourse)","translation":"IPO (первичное публичное размещение)"}],
-    "humanitarianandngos": [{"word":"ONG","translation":"НПО"},
+  "humanitarianandngos": [{"word":"ONG","translation":"НПО"},
 {"word":"organisation non gouvernementale","translation":"негосударственная организация"},
 {"word":"charité","translation":"благотворительность"},
 {"word":"aide","translation":"помощь"},
