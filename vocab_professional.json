@@ -1903,3 +1903,1907 @@
 {"word":"mobile money","translation":"mobil para"},
 {"word":"leader communautaire","translation":"topluluk lideri"},
 {"word":"réunion des parties prenantes","translation":"paydaş toplantısı"}]
+ },
+  "russian": {
+    "lawandjustice": [{"word":"justice","translation":"правосудие"},
+{"word":"tribunal","translation":"суд"},
+{"word":"juge","translation":"судья"},
+{"word":"avocat","translation":"адвокат"},
+{"word":"procureur","translation":"прокурор"},
+{"word":"défendeur","translation":"ответчик"},
+{"word":"plaignant","translation":"истец"},
+{"word":"procès","translation":"судебный процесс"},
+{"word":"jury","translation":"жюри"},
+{"word":"verdict","translation":"вердикт"},
+{"word":"peine","translation":"наказание"},
+{"word":"punition","translation":"штраф / наказание"},
+{"word":"prison","translation":"тюрьма"},
+{"word":"caution","translation":"залог"},
+{"word":"mandat","translation":"ордер"},
+{"word":"arrestation","translation":"арест"},
+{"word":"police","translation":"полиция"},
+{"word":"officier de police","translation":"полицейский"},
+{"word":"crime","translation":"преступление"},
+{"word":"criminel","translation":"преступник"},
+{"word":"coupable","translation":"виновный"},
+{"word":"innocent","translation":"невиновный"},
+{"word":"preuve","translation":"доказательство"},
+{"word":"témoin","translation":"свидетель"},
+{"word":"témoignage","translation":"свидетельские показания"},
+{"word":"contre-interrogatoire","translation":"перекрёстный допрос"},
+{"word":"objection","translation":"возражение"},
+{"word":"rejeté","translation":"отклонено"},
+{"word":"accepté","translation":"принято"},
+{"word":"appel","translation":"апелляция"},
+{"word":"affaire","translation":"дело"},
+{"word":"audience","translation":"заседание"},
+{"word":"assignation à comparaître","translation":"повестка в суд"},
+{"word":"déclaration sous serment","translation":"заявление под присягой"},
+{"word":"déposition","translation":"показания"},
+{"word":"décision","translation":"решение"},
+{"word":"statut","translation":"статус"},
+{"word":"constitution","translation":"конституция"},
+{"word":"règlement","translation":"регламент"},
+{"word":"code","translation":"кодекс"},
+{"word":"clause","translation":"пункт"},
+{"word":"disposition","translation":"положение"},
+{"word":"contrat","translation":"контракт"},
+{"word":"accord","translation":"соглашение"},
+{"word":"violation","translation":"нарушение"},
+{"word":"consentement","translation":"согласие"},
+{"word":"responsabilité","translation":"ответственность"},
+{"word":"dommages","translation":"ущерб"},
+{"word":"compensation","translation":"компенсация"},
+{"word":"règlement à l’amiable","translation":"мирное урегулирование"},
+{"word":"litige","translation":"спор"},
+{"word":"réclamation","translation":"исковое требование"},
+{"word":"poursuite judiciaire","translation":"судебное преследование"},
+{"word":"injonction","translation":"судебный запрет"},
+{"word":"ordonnance restrictive","translation":"ограничительное постановление"},
+{"word":"garde","translation":"опека"},
+{"word":"tutelle","translation":"опека / попечительство"},
+{"word":"adoption","translation":"усыновление"},
+{"word":"divorce","translation":"развод"},
+{"word":"mariage","translation":"брак"},
+{"word":"époux/épouse","translation":"супруг / супруга"},
+{"word":"pension alimentaire pour enfant","translation":"алименты на ребёнка"},
+{"word":"pension alimentaire","translation":"алименты"},
+{"word":"propriété","translation":"собственность"},
+{"word":"patrimoine","translation":"имущество"},
+{"word":"héritage","translation":"наследство"},
+{"word":"testament","translation":"завещание"},
+{"word":"exécuteur testamentaire","translation":"исполнитель завещания"},
+{"word":"fiduciaire","translation":"доверительное лицо"},
+{"word":"bénéficiaire","translation":"бенефициар"},
+{"word":"acte de propriété","translation":"свидетельство о праве собственности"},
+{"word":"titre de propriété","translation":"правоустанавливающий документ"},
+{"word":"propriétaire bailleur","translation":"арендодатель"},
+{"word":"locataire","translation":"арендатор"},
+{"word":"bail","translation":"арендное соглашение"},
+{"word":"expulsion","translation":"выселение"},
+{"word":"saisie immobilière","translation":"ипотечный выкуп / арест имущества"},
+{"word":"faillite","translation":"банкротство"},
+{"word":"créancier","translation":"кредитор"},
+{"word":"débiteur","translation":"должник"},
+{"word":"défaut de paiement","translation":"неуплата"},
+{"word":"hypothèque","translation":"ипотека"},
+{"word":"privilège","translation":"привилегия / преимущество"},
+{"word":"fraude","translation":"мошенничество"},
+{"word":"détournement de fonds","translation":"растрата средств"},
+{"word":"corruption","translation":"коррупция"},
+{"word":"vol","translation":"кража"},
+{"word":"vol à main armée","translation":"разбой с применением оружия"},
+{"word":"agression","translation":"нападение"},
+{"word":"coups et blessures","translation":"телесные повреждения"},
+{"word":"meurtre","translation":"убийство"},
+{"word":"homicide involontaire","translation":"непредумышленное убийство"},
+{"word":"viol","translation":"изнасилование"},
+{"word":"harcèlement","translation":"домогательство"},
+{"word":"discrimination","translation":"дискриминация"},
+{"word":"droits","translation":"права"},
+{"word":"liberté","translation":"свобода"},
+{"word":"égalité","translation":"равенство"},
+{"word":"procédure régulière","translation":"надлежащая процедура"},
+{"word":"procès équitable","translation":"справедливый суд"},
+{"word":"présomption","translation":"презумпция"},
+{"word":"contre-interroger","translation":"допросить противной стороны"},
+{"word":"défense","translation":"защита"},
+{"word":"poursuite","translation":"обвинение"},
+{"word":"pénal","translation":"уголовный"},
+{"word":"correctionnel","translation":"исправительный"},
+{"word":"réhabilitation","translation":"реабилитация"},
+{"word":"libération conditionnelle","translation":"условно-досрочное освобождение"},
+{"word":"probation","translation":"надзор / испытательный срок"},
+{"word":"mineur","translation":"несовершеннолетний"},
+{"word":"détention","translation":"задержание"},
+{"word":"réforme","translation":"реформа"},
+{"word":"terrorisme","translation":"терроризм"},
+{"word":"suspect","translation":"подозреваемый"},
+{"word":"interrogatoire","translation":"допрос"},
+{"word":"confession","translation":"признание"},
+{"word":"surveillance","translation":"наблюдение"},
+{"word":"enquête","translation":"расследование"},
+{"word":"médico-légal","translation":"судебно-медицинский"},
+{"word":"empreinte digitale","translation":"отпечаток пальца"},
+{"word":"ADN","translation":"ДНК"},
+{"word":"juridiction","translation":"юрисдикция"},
+{"word":"lieu du procès","translation":"место суда"},
+{"word":"cour suprême","translation":"верховный суд"},
+{"word":"tribunal de district","translation":"районный суд"},
+{"word":"magistrat","translation":"магистрат"},
+{"word":"application de la loi","translation":"правоприменение"},
+{"word":"législation","translation":"законодательство"},
+{"word":"adoption de la loi","translation":"принятие закона"},
+{"word":"lobby","translation":"лобби"},
+{"word":"précédent juridique","translation":"юридический прецедент"},
+{"word":"droit coutumier","translation":"обычное право"},
+{"word":"droit civil","translation":"гражданское право"},
+{"word":"droit pénal","translation":"уголовное право"},
+{"word":"droit administratif","translation":"административное право"},
+{"word":"droit international","translation":"международное право"},
+{"word":"droits de l’homme","translation":"права человека"},
+{"word":"avocat commis d’office","translation":"адвокат по назначению"},
+{"word":"aide juridique","translation":"юридическая помощь"},
+{"word":"système juridique","translation":"правовая система"},
+{"word":"procédure judiciaire","translation":"судебная процедура"},
+{"word":"contraignant","translation":"обязательный"},
+{"word":"non contraignant","translation":"необязательный"},
+{"word":"médiation","translation":"медиация"},
+{"word":"arbitrage","translation":"арбитраж"},
+{"word":"notaire","translation":"нотариус"},
+{"word":"certifié","translation":"сертифицированный"},
+{"word":"signature","translation":"подпись"},
+{"word":"documentation","translation":"документация"},
+{"word":"officiel","translation":"официальный"},
+{"word":"greffier","translation":"секретарь суда"},
+{"word":"cour d’appel","translation":"апелляционный суд"},
+{"word":"condamnation","translation":"осуждение"},
+{"word":"acquittement","translation":"оправдание"},
+{"word":"libéré conditionnel","translation":"условно освобождённый"},
+{"word":"récidivisme","translation":"рецидив"},
+{"word":"prescription","translation":"срок давности"},
+{"word":"immunité","translation":"иммунитет"},
+{"word":"plaidoyer","translation":"защита / ходатайство"},
+{"word":"négociation de plaidoyer","translation":"сделка о признании вины"},
+{"word":"inculpation","translation":"обвинение"},
+{"word":"comparution initiale","translation":"первое судебное слушание"},
+{"word":"huissier","translation":"судебный исполнитель"},
+{"word":"rôle du tribunal","translation":"судебная коллегия"},
+{"word":"banc des juges","translation":"судейская скамья"},
+{"word":"chambre","translation":"зал суда"},
+{"word":"barreau","translation":"адвокатура"},
+{"word":"éthique","translation":"этика"},
+{"word":"faute professionnelle","translation":"профессиональная ошибка"},
+{"word":"confidentialité","translation":"конфиденциальность"},
+{"word":"client","translation":"клиент"},
+{"word":"honoraires initiaux","translation":"первоначальные гонорары"},
+{"word":"litige judiciaire","translation":"судебный спор"},
+{"word":"délit civil","translation":"гражданское правонарушение"},
+{"word":"négligence","translation":"халатность"},
+{"word":"culpabilité","translation":"виновность"},
+{"word":"intention criminelle","translation":"умысел"},
+{"word":"acte criminel","translation":"преступный акт"},
+{"word":"assignation à comparaître","translation":"повестка в суд"},
+{"word":"restitution","translation":"восстановление"},
+{"word":"application","translation":"применение"},
+{"word":"sanction","translation":"санкция / наказание"}],
+    "healthandmedicine": [{"word":"santé","translation":"здоровье"},
+{"word":"médecine","translation":"медицина"},
+{"word":"hôpital","translation":"больница"},
+{"word":"clinique","translation":"клиника"},
+{"word":"médecin","translation":"врач"},
+{"word":"infirmier/infirmière","translation":"медсестра / медбрат"},
+{"word":"patient","translation":"пациент"},
+{"word":"diagnostic","translation":"диагноз"},
+{"word":"traitement","translation":"лечение"},
+{"word":"thérapie","translation":"терапия"},
+{"word":"maladie","translation":"болезнь"},
+{"word":"affection","translation":"заболевание"},
+{"word":"symptôme","translation":"симптом"},
+{"word":"signe","translation":"признак"},
+{"word":"prévention","translation":"профилактика"},
+{"word":"guérison","translation":"выздоровление"},
+{"word":"chirurgie","translation":"хирургия"},
+{"word":"opération","translation":"операция"},
+{"word":"urgence","translation":"неотложная помощь"},
+{"word":"médecin généraliste","translation":"терапевт"},
+{"word":"spécialiste","translation":"специалист"},
+{"word":"chirurgien","translation":"хирург"},
+{"word":"dentiste","translation":"стоматолог"},
+{"word":"pharmacien","translation":"фармацевт"},
+{"word":"thérapeute","translation":"терапевт"},
+{"word":"psychologue","translation":"психолог"},
+{"word":"psychiatre","translation":"психиатр"},
+{"word":"aidant","translation":"опекун"},
+{"word":"ambulancier","translation":"парамедик"},
+{"word":"sage-femme","translation":"акушерка"},
+{"word":"anesthésiologiste","translation":"анестезиолог"},
+{"word":"radiologue","translation":"радиолог"},
+{"word":"dermatologue","translation":"дерматолог"},
+{"word":"cardiologue","translation":"кардиолог"},
+{"word":"neurologue","translation":"невролог"},
+{"word":"oncologue","translation":"онколог"},
+{"word":"pédiatre","translation":"педиатр"},
+{"word":"gynécologue","translation":"гинеколог"},
+{"word":"médicament","translation":"лекарство"},
+{"word":"pilule","translation":"таблетка"},
+{"word":"comprimé","translation":"таблетка"},
+{"word":"capsule","translation":"капсула"},
+{"word":"injection","translation":"инъекция"},
+{"word":"vaccin","translation":"вакцина"},
+{"word":"antibiotique","translation":"антибиотик"},
+{"word":"analgésique","translation":"обезболивающее"},
+{"word":"antidépresseur","translation":"антидепрессант"},
+{"word":"anti-inflammatoire","translation":"противовоспалительное"},
+{"word":"antiviral","translation":"противовирусное"},
+{"word":"pommade","translation":"мазь"},
+{"word":"crème","translation":"крем"},
+{"word":"sirop","translation":"сироп"},
+{"word":"ordonnance","translation":"рецепт"},
+{"word":"dosage","translation":"дозировка"},
+{"word":"en vente libre","translation":"без рецепта"},
+{"word":"effet secondaire","translation":"побочный эффект"},
+{"word":"test","translation":"тест"},
+{"word":"scanner","translation":"сканирование / КТ"},
+{"word":"radiographie","translation":"рентген"},
+{"word":"IRM","translation":"МРТ"},
+{"word":"analyse de sang","translation":"анализ крови"},
+{"word":"analyse d’urine","translation":"анализ мочи"},
+{"word":"biopsie","translation":"биопсия"},
+{"word":"dépistage","translation":"скрининг"},
+{"word":"bilan de santé","translation":"медицинский осмотр"},
+{"word":"ECG","translation":"ЭКГ"},
+{"word":"échographie","translation":"ультразвуковое исследование"},
+{"word":"laboratoire","translation":"лаборатория"},
+{"word":"moniteur","translation":"монитор"},
+{"word":"thermomètre","translation":"термометр"},
+{"word":"stéthoscope","translation":"стетоскоп"},
+{"word":"pression artérielle","translation":"артериальное давление"},
+{"word":"pouls","translation":"пульс"},
+{"word":"battement du cœur","translation":"сердцебиение"},
+{"word":"cerveau","translation":"мозг"},
+{"word":"cœur","translation":"сердце"},
+{"word":"poumons","translation":"легкие"},
+{"word":"foie","translation":"печень"},
+{"word":"reins","translation":"почки"},
+{"word":"estomac","translation":"желудок"},
+{"word":"intestins","translation":"кишечник"},
+{"word":"pancréas","translation":"поджелудочная железа"},
+{"word":"vessie","translation":"мочевой пузырь"},
+{"word":"peau","translation":"кожа"},
+{"word":"os","translation":"кости"},
+{"word":"muscles","translation":"мышцы"},
+{"word":"nerfs","translation":"нервы"},
+{"word":"artères","translation":"артерии"},
+{"word":"veines","translation":"вены"},
+{"word":"articulations","translation":"суставы"},
+{"word":"gorge","translation":"горло"},
+{"word":"nez","translation":"нос"},
+{"word":"yeux","translation":"глаза"},
+{"word":"oreilles","translation":"уши"},
+{"word":"grippe","translation":"грипп"},
+{"word":"rhume","translation":"простуда"},
+{"word":"fièvre","translation":"лихорадка"},
+{"word":"infection","translation":"инфекция"},
+{"word":"virus","translation":"вирус"},
+{"word":"bactérie","translation":"бактерия"},
+{"word":"diabète","translation":"диабет"},
+{"word":"cancer","translation":"рак"},
+{"word":"asthme","translation":"астма"},
+{"word":"allergie","translation":"аллергия"},
+{"word":"hypertension","translation":"гипертония"},
+{"word":"AVC","translation":"инсульт"},
+{"word":"crise cardiaque","translation":"инфаркт"},
+{"word":"pneumonie","translation":"пневмония"},
+{"word":"tuberculose","translation":"туберкулез"},
+{"word":"arthrite","translation":"артрит"},
+{"word":"migraine","translation":"мигрень"},
+{"word":"obésité","translation":"ожирение"},
+{"word":"insomnie","translation":"бессонница"},
+{"word":"dépression","translation":"депрессия"},
+{"word":"toux","translation":"кашель"},
+{"word":"mal de tête","translation":"головная боль"},
+{"word":"mal de gorge","translation":"боль в горле"},
+{"word":"nausée","translation":"тошнота"},
+{"word":"vomissement","translation":"рвота"},
+{"word":"vertige","translation":"головокружение"},
+{"word":"fatigue","translation":"усталость"},
+{"word":"faiblesse","translation":"слабость"},
+{"word":"gonflement","translation":"отёк"},
+{"word":"éruption cutanée","translation":"высыпание"},
+{"word":"démangeaison","translation":"зуд"},
+{"word":"saignement","translation":"кровотечение"},
+{"word":"éternuement","translation":"чихание"},
+{"word":"nez qui coule","translation":"насморк"},
+{"word":"congestion","translation":"заложенность"},
+{"word":"frissons","translation":"озноб"},
+{"word":"crampes","translation":"судороги"},
+{"word":"essoufflement","translation":"одышка"},
+{"word":"transpiration","translation":"потливость"},
+{"word":"palpitations","translation":"сердцебиение"},
+{"word":"ambulance","translation":"скорая помощь"},
+{"word":"salle d’urgence","translation":"приемное отделение"},
+{"word":"traumatisme","translation":"травма"},
+{"word":"plaie","translation":"рана"},
+{"word":"brûlure","translation":"ожог"},
+{"word":"fracture","translation":"перелом"},
+{"word":"entorse","translation":"растяжение"},
+{"word":"réanimation cardio-pulmonaire","translation":"сердечно-легочная реанимация"},
+{"word":"défibrillateur","translation":"дефибриллятор"},
+{"word":"brancard","translation":"носилки"},
+{"word":"bandage","translation":"бинт"},
+{"word":"pansement","translation":"повязка"},
+{"word":"oxygène","translation":"кислород"},
+{"word":"sauvetage","translation":"спасение"},
+{"word":"choc","translation":"шок"},
+{"word":"triage","translation":"сортировка пациентов"},
+{"word":"évacuation","translation":"эвакуация"},
+{"word":"alerte","translation":"сигнал тревоги"},
+{"word":"hygiène","translation":"гигиена"},
+{"word":"assainissement","translation":"санитария"},
+{"word":"nutrition","translation":"питание"},
+{"word":"soins de santé","translation":"медицинское обслуживание"},
+{"word":"santé publique","translation":"общественное здоровье"},
+{"word":"quarantaine","translation":"карантин"},
+{"word":"isolement","translation":"изоляция"},
+{"word":"sensibilisation","translation":"повышение осведомлённости"},
+{"word":"éducation","translation":"образование"},
+{"word":"assurance","translation":"страхование"},
+{"word":"couverture","translation":"покрытие"},
+{"word":"politique de santé","translation":"политика здравоохранения"},
+{"word":"bien-être","translation":"благополучие"},
+{"word":"mode de vie","translation":"образ жизни"},
+{"word":"forme physique","translation":"физическая форма"},
+{"word":"santé mentale","translation":"психическое здоровье"},
+{"word":"dossier médical","translation":"медицинская карта"},
+{"word":"consultation","translation":"консультация"},
+{"word":"orientation médicale","translation":"направление к врачу"},
+{"word":"rendez-vous","translation":"приём"},
+{"word":"facture médicale","translation":"медицинский счет"},
+{"word":"autorisation","translation":"разрешение"},
+{"word":"consentement","translation":"согласие"},
+{"word":"confidentialité","translation":"конфиденциальность"},
+{"word":"liste d’attente","translation":"лист ожидания"},
+{"word":"admission","translation":"поступление"},
+{"word":"sortie","translation":"выписка"},
+{"word":"plan de soins","translation":"план лечения"},
+{"word":"visite chez le spécialiste","translation":"приём у специалиста"},
+{"word":"gestionnaire de cas","translation":"куратор дела"},
+{"word":"prestataire de soins","translation":"медицинский работник"},
+{"word":"antécédents médicaux","translation":"анамнез"},
+{"word":"dossier de santé électronique (DSE)","translation":"электронная медицинская карта (ЭМК)"}],
+    "economyandfinance": [{"word":"économie","translation":"экономика"},
+{"word":"finance","translation":"финансы"},
+{"word":"argent","translation":"деньги"},
+{"word":"revenu","translation":"доход"},
+{"word":"dépense","translation":"расход"},
+{"word":"recette","translation":"прибыль / доход"},
+{"word":"profit","translation":"прибыль"},
+{"word":"perte","translation":"убыток"},
+{"word":"budget","translation":"бюджет"},
+{"word":"coût","translation":"стоимость"},
+{"word":"investissement","translation":"инвестиция"},
+{"word":"capital","translation":"капитал"},
+{"word":"intérêt","translation":"процент"},
+{"word":"prêt","translation":"заём"},
+{"word":"dette","translation":"долг"},
+{"word":"crédit","translation":"кредит"},
+{"word":"épargne","translation":"сбережения"},
+{"word":"solde","translation":"баланс"},
+{"word":"transaction","translation":"транзакция"},
+{"word":"espèces","translation":"наличные"},
+{"word":"banque","translation":"банк"},
+{"word":"compte","translation":"счёт"},
+{"word":"dépôt","translation":"депозит"},
+{"word":"retrait","translation":"снятие"},
+{"word":"relevé","translation":"выписка"},
+{"word":"inflation","translation":"инфляция"},
+{"word":"déflation","translation":"дефляция"},
+{"word":"récession","translation":"рецессия"},
+{"word":"boom économique","translation":"экономический бум"},
+{"word":"PIB","translation":"ВВП"},
+{"word":"croissance","translation":"рост"},
+{"word":"ralentissement","translation":"замедление"},
+{"word":"richesse","translation":"богатство"},
+{"word":"actifs","translation":"активы"},
+{"word":"passifs","translation":"обязательства"},
+{"word":"capitaux propres","translation":"собственный капитал"},
+{"word":"actionnaire","translation":"акционер"},
+{"word":"partie prenante","translation":"заинтересованная сторона"},
+{"word":"dividende","translation":"дивиденд"},
+{"word":"action","translation":"акция"},
+{"word":"obligation","translation":"облигация"},
+{"word":"monnaie","translation":"валюта"},
+{"word":"échange","translation":"обмен"},
+{"word":"taux","translation":"ставка"},
+{"word":"marché","translation":"рынок"},
+{"word":"commerce","translation":"торговля"},
+{"word":"importation","translation":"импорт"},
+{"word":"exportation","translation":"экспорт"},
+{"word":"tarif douanier","translation":"таможенная пошлина"},
+{"word":"impôt","translation":"налог"},
+{"word":"TVA","translation":"НДС"},
+{"word":"audit","translation":"аудит"},
+{"word":"impôt sur le revenu","translation":"подоходный налог"},
+{"word":"impôt sur les sociétés","translation":"корпоративный налог"},
+{"word":"exonération","translation":"освобождение"},
+{"word":"déduction","translation":"вычет"},
+{"word":"paie","translation":"зарплата"},
+{"word":"salaire","translation":"заработная плата"},
+{"word":"prime","translation":"премия"},
+{"word":"pension","translation":"пенсия"},
+{"word":"retraite","translation":"выход на пенсию"},
+{"word":"fonds","translation":"фонды"},
+{"word":"subvention","translation":"субсидия"},
+{"word":"politique","translation":"политика"},
+{"word":"règlement","translation":"регламент"},
+{"word":"loi","translation":"закон"},
+{"word":"conformité","translation":"соответствие"},
+{"word":"fraude","translation":"мошенничество"},
+{"word":"détournement de fonds","translation":"растрата"},
+{"word":"faillite","translation":"банкротство"},
+{"word":"insolvabilité","translation":"неспособность платить"},
+{"word":"fusion","translation":"слияние"},
+{"word":"acquisition","translation":"поглощение"},
+{"word":"prise de contrôle","translation":"приобретение контроля"},
+{"word":"taux d’intérêt","translation":"процентная ставка"},
+{"word":"banque centrale","translation":"центральный банк"},
+{"word":"politique monétaire","translation":"денежно-кредитная политика"},
+{"word":"politique budgétaire","translation":"бюджетная политика"},
+{"word":"dépenses","translation":"расходы"},
+{"word":"excédent","translation":"профицит"},
+{"word":"déficit","translation":"дефицит"},
+{"word":"balance commerciale","translation":"торговый баланс"},
+{"word":"consommateur","translation":"потребитель"},
+{"word":"producteur","translation":"производитель"},
+{"word":"fournisseur","translation":"поставщик"},
+{"word":"demande","translation":"спрос"},
+{"word":"offre","translation":"предложение"},
+{"word":"prix","translation":"цена"},
+{"word":"prix de revient","translation":"себестоимость"},
+{"word":"prix de détail","translation":"розничная цена"},
+{"word":"vente en gros","translation":"оптовая продажа"},
+{"word":"taux d’inflation","translation":"уровень инфляции"},
+{"word":"risque","translation":"риск"},
+{"word":"rendement","translation":"доходность"},
+{"word":"portefeuille","translation":"портфель"},
+{"word":"diversification","translation":"диверсификация"},
+{"word":"liquidité","translation":"ликвидность"},
+{"word":"solvabilité","translation":"платежеспособность"},
+{"word":"effet de levier","translation":"финансовый рычаг"},
+{"word":"capital-risque","translation":"венчурный капитал"},
+{"word":"investisseur providentiel","translation":"бизнес-ангел"},
+{"word":"entrepreneuriat","translation":"предпринимательство"},
+{"word":"startup","translation":"стартап"},
+{"word":"entreprise","translation":"компания"},
+{"word":"société","translation":"общество / компания"},
+{"word":"PDG","translation":"генеральный директор"},
+{"word":"directeur financier","translation":"финансовый директор"},
+{"word":"introduction en bourse","translation":"первичное размещение акций (IPO)"},
+{"word":"courtier","translation":"брокер"},
+{"word":"trading","translation":"торговля"},
+{"word":"marché boursier","translation":"фондовый рынок"},
+{"word":"bourse","translation":"биржа"},
+{"word":"indice","translation":"индекс"},
+{"word":"NASDAQ","translation":"NASDAQ"},
+{"word":"NYSE","translation":"NYSE"},
+{"word":"Dow Jones","translation":"Dow Jones"},
+{"word":"FTSE","translation":"FTSE"},
+{"word":"contrats à terme","translation":"фьючерсные контракты"},
+{"word":"options","translation":"опционы"},
+{"word":"produits dérivés","translation":"деривативы"},
+{"word":"couverture","translation":"хеджирование"},
+{"word":"spéculation","translation":"спекуляция"},
+{"word":"actif","translation":"актив"},
+{"word":"actif tangible","translation":"материальный актив"},
+{"word":"actif intangible","translation":"нематериальный актив"},
+{"word":"valeur nette","translation":"чистая стоимость"},
+{"word":"revenus","translation":"доходы"},
+{"word":"marge bénéficiaire","translation":"рентабельность"},
+{"word":"revenu brut","translation":"валовой доход"},
+{"word":"revenu net","translation":"чистый доход"},
+{"word":"coût d’exploitation","translation":"операционные расходы"},
+{"word":"frais généraux","translation":"общехозяйственные расходы"},
+{"word":"amortissement","translation":"амортизация"},
+{"word":"facture","translation":"счёт"},
+{"word":"facturation","translation":"выставление счетов"},
+{"word":"reçu","translation":"квитанция"},
+{"word":"paiement","translation":"платёж"},
+{"word":"virement électronique","translation":"электронный перевод"},
+{"word":"virement bancaire","translation":"банковский перевод"},
+{"word":"banque en ligne","translation":"онлайн-банк"},
+{"word":"banque mobile","translation":"мобильный банк"},
+{"word":"porteur d’intérêt","translation":"заинтересованное лицо"},
+{"word":"taux fixe","translation":"фиксированная ставка"},
+{"word":"taux variable","translation":"плавающая ставка"},
+{"word":"hypothèque","translation":"ипотека"},
+{"word":"versement","translation":"взнос"},
+{"word":"garantie","translation":"гарантия"},
+{"word":"garant","translation":"поручитель"},
+{"word":"score de crédit","translation":"кредитный рейтинг"},
+{"word":"historique de crédit","translation":"кредитная история"},
+{"word":"carte de crédit","translation":"кредитная карта"},
+{"word":"carte de débit","translation":"дебетовая карта"},
+{"word":"conseiller financier","translation":"финансовый консультант"},
+{"word":"planificateur","translation":"планировщик / финансовый советник"},
+{"word":"économiste","translation":"экономист"},
+{"word":"secteur économique","translation":"сектор экономики"},
+{"word":"secteur public","translation":"государственный сектор"},
+{"word":"secteur privé","translation":"частный сектор"},
+{"word":"organisation à but non lucratif","translation":"некоммерческая организация"},
+{"word":"financement participatif","translation":"краудфандинг"},
+{"word":"collecte de fonds","translation":"сбор средств"},
+{"word":"dons","translation":"пожертвования"},
+{"word":"coût-bénéfice","translation":"анализ затрат и выгод"},
+{"word":"évaluation","translation":"оценка"},
+{"word":"rapport financier","translation":"финансовый отчёт"},
+{"word":"résultats trimestriels","translation":"квартальные результаты"},
+{"word":"rapport annuel","translation":"годовой отчёт"},
+{"word":"rapport d’audit","translation":"аудиторский отчёт"},
+{"word":"bilan","translation":"баланс"},
+{"word":"compte de résultat","translation":"отчёт о прибылях и убытках"},
+{"word":"flux de trésorerie","translation":"денежный поток"},
+{"word":"seuil de rentabilité","translation":"точка безубыточности"},
+{"word":"prévision","translation":"прогноз"},
+{"word":"projection","translation":"прогнозирование"},
+{"word":"modèle financier","translation":"финансовая модель"},
+{"word":"analyse de sensibilité","translation":"анализ чувствительности"},
+{"word":"scénario","translation":"сценарий"},
+{"word":"référence","translation":"ссылка"},
+{"word":"meilleure pratique","translation":"лучшие практики"},
+{"word":"croissance économique","translation":"экономический рост"},
+{"word":"macroéconomie","translation":"макроэкономика"},
+{"word":"microéconomie","translation":"микроэкономика"},
+{"word":"chaîne d’approvisionnement","translation":"цепочка поставок"},
+{"word":"logistique","translation":"логистика"},
+{"word":"biens","translation":"товары"},
+{"word":"services","translation":"услуги"},
+{"word":"compétitivité","translation":"конкурентоспособность"},
+{"word":"productivité","translation":"производительность"},
+{"word":"littératie financière","translation":"финансовая грамотность"}],
+    "educationandteaching": [{"word":"enseignement","translation":"преподавание"},
+{"word":"apprentissage","translation":"обучение"},
+{"word":"étudiant","translation":"студент"},
+{"word":"élève","translation":"ученик"},
+{"word":"enseignant","translation":"учитель"},
+{"word":"éducateur","translation":"воспитатель"},
+{"word":"instructeur","translation":"инструктор"},
+{"word":"professeur","translation":"профессор / преподаватель"},
+{"word":"chargé de cours","translation":"лектор"},
+{"word":"tuteur","translation":"тьютор"},
+{"word":"mentor","translation":"наставник"},
+{"word":"coach","translation":"коуч"},
+{"word":"stagiaire","translation":"стажёр"},
+{"word":"salle de classe","translation":"классная комната"},
+{"word":"école","translation":"школа"},
+{"word":"université","translation":"университет"},
+{"word":"collège","translation":"колледж"},
+{"word":"institution","translation":"учреждение"},
+{"word":"académie","translation":"академия"},
+{"word":"programme scolaire","translation":"учебная программа"},
+{"word":"syllabus","translation":"учебный план"},
+{"word":"matière","translation":"предмет"},
+{"word":"cours","translation":"курс"},
+{"word":"leçon","translation":"урок"},
+{"word":"conférence","translation":"лекция"},
+{"word":"atelier","translation":"мастерская / семинар"},
+{"word":"séminaire","translation":"семинар"},
+{"word":"formation","translation":"обучение / подготовка"},
+{"word":"module","translation":"модуль"},
+{"word":"unité","translation":"единица / раздел"},
+{"word":"devoir","translation":"домашнее задание"},
+{"word":"travail à domicile","translation":"домашняя работа"},
+{"word":"test","translation":"тест"},
+{"word":"examen","translation":"экзамен"},
+{"word":"évaluation","translation":"оценка"},
+{"word":"quiz","translation":"викторина"},
+{"word":"note","translation":"оценка"},
+{"word":"score","translation":"балл"},
+{"word":"diplôme","translation":"диплом"},
+{"word":"certificat","translation":"сертификат"},
+{"word":"diplôme universitaire","translation":"университетский диплом"},
+{"word":"licence","translation":"бакалавр"},
+{"word":"master","translation":"магистр"},
+{"word":"doctorat","translation":"докторантура"},
+{"word":"PhD","translation":"кандидат наук / PhD"},
+{"word":"thèse","translation":"диссертация"},
+{"word":"dissertation","translation":"курсова́я работа / диссертация"},
+{"word":"recherche","translation":"исследование"},
+{"word":"étude","translation":"учёба / исследование"},
+{"word":"projet","translation":"проект"},
+{"word":"système éducatif","translation":"система образования"},
+{"word":"éducation primaire","translation":"начальное образование"},
+{"word":"éducation secondaire","translation":"среднее образование"},
+{"word":"enseignement supérieur","translation":"высшее образование"},
+{"word":"préscolaire","translation":"дошкольное образование"},
+{"word":"jardin d’enfants","translation":"детский сад"},
+{"word":"école élémentaire","translation":"начальная школа"},
+{"word":"collège","translation":"средняя школа"},
+{"word":"lycée","translation":"старшая школа / лицей"},
+{"word":"diplômé","translation":"выпускник"},
+{"word":"postuniversitaire","translation":"послевузовское образование"},
+{"word":"inscription","translation":"запись / регистрация"},
+{"word":"admission","translation":"поступление"},
+{"word":"enregistrement","translation":"регистрация"},
+{"word":"académique","translation":"академический"},
+{"word":"chercheur","translation":"исследователь"},
+{"word":"bourse d’études","translation":"стипендия"},
+{"word":"subvention","translation":"грант / субсидия"},
+{"word":"financement","translation":"финансирование"},
+{"word":"frais de scolarité","translation":"плата за обучение"},
+{"word":"semestre","translation":"семестр"},
+{"word":"trimestre","translation":"триместр / четверть"},
+{"word":"année scolaire","translation":"учебный год"},
+{"word":"année académique","translation":"академический год"},
+{"word":"vacances","translation":"каникулы"},
+{"word":"pause","translation":"перерыв"},
+{"word":"récréation","translation":"перемена"},
+{"word":"jour férié","translation":"праздничный день"},
+{"word":"bureau","translation":"кабинет / офис"},
+{"word":"chaise","translation":"стул"},
+{"word":"tableau noir","translation":"чёрная доска"},
+{"word":"tableau blanc","translation":"белая доска"},
+{"word":"marqueur","translation":"маркер"},
+{"word":"craie","translation":"мел"},
+{"word":"gomme","translation":"ластик"},
+{"word":"manuel scolaire","translation":"учебник"},
+{"word":"cahier d’exercices","translation":"тетрадь для упражнений"},
+{"word":"cahier","translation":"тетрадь"},
+{"word":"dossier","translation":"папка / досье"},
+{"word":"classeur","translation":"папка-регистратор"},
+{"word":"stylo","translation":"ручка"},
+{"word":"crayon","translation":"карандаш"},
+{"word":"règle","translation":"линейка"},
+{"word":"calculatrice","translation":"калькулятор"},
+{"word":"ordinateur portable","translation":"ноутбук"},
+{"word":"tablette","translation":"планшет"},
+{"word":"apprentissage en ligne","translation":"онлайн-обучение"},
+{"word":"cours en ligne","translation":"онлайн-курс"},
+{"word":"apprentissage numérique","translation":"цифровое обучение"},
+{"word":"apprentissage à distance","translation":"дистанционное обучение"},
+{"word":"apprentissage hybride","translation":"гибридное обучение"},
+{"word":"plateforme","translation":"платформа"},
+{"word":"application","translation":"приложение"},
+{"word":"application de quiz","translation":"приложение для викторин"},
+{"word":"jury d’examen","translation":"экзаменационная комиссия"},
+{"word":"retour d’information","translation":"обратная связь"},
+{"word":"participation","translation":"участие"},
+{"word":"présence","translation":"присутствие"},
+{"word":"ponctualité","translation":"пунктуальность"},
+{"word":"discipline","translation":"дисциплина"},
+{"word":"règlement scolaire","translation":"школьный устав"},
+{"word":"comportement","translation":"поведение"},
+{"word":"motivation","translation":"мотивация"},
+{"word":"effort","translation":"усилие"},
+{"word":"performance","translation":"успеваемость / результативность"},
+{"word":"succès","translation":"успех"},
+{"word":"échec","translation":"неудача / провал"},
+{"word":"redoublement","translation":"повторное обучение"},
+{"word":"abandon scolaire","translation":"отчисление"},
+{"word":"soutien","translation":"поддержка"},
+{"word":"tutorat","translation":"репетиторство"},
+{"word":"aide supplémentaire","translation":"дополнительная помощь"},
+{"word":"classe de rattrapage","translation":"подготовительный класс"},
+{"word":"programme pour surdoués","translation":"программа для одарённых детей"},
+{"word":"éducation spécialisée","translation":"специальное образование"},
+{"word":"éducation inclusive","translation":"инклюзивное образование"},
+{"word":"pédagogie","translation":"педагогика"},
+{"word":"didactique","translation":"дидактика"},
+{"word":"méthodologie","translation":"методология"},
+{"word":"approche","translation":"подход"},
+{"word":"style d’apprentissage","translation":"стиль обучения"},
+{"word":"apprenant visuel","translation":"визуальный учащийся"},
+{"word":"apprenant auditif","translation":"аудиальный учащийся"},
+{"word":"apprenant kinesthésique","translation":"кинестетический учащийся"},
+{"word":"pensée critique","translation":"критическое мышление"},
+{"word":"résolution de problèmes","translation":"решение проблем"},
+{"word":"collaboration","translation":"сотрудничество"},
+{"word":"travail d’équipe","translation":"командная работа"},
+{"word":"créativité","translation":"креативность"},
+{"word":"innovation","translation":"инновации"},
+{"word":"connaissance","translation":"знание"},
+{"word":"compétence","translation":"компетенция / навык"},
+{"word":"alphabétisation","translation":"грамотность"},
+{"word":"numératie","translation":"цифровая грамотность / математическая грамотность"},
+{"word":"bilingue","translation":"двуязычный"},
+{"word":"multilingue","translation":"многоязычный"},
+{"word":"langue étrangère","translation":"иностранный язык"},
+{"word":"seconde langue","translation":"второй язык"},
+{"word":"apprentissage des langues","translation":"изучение языков"},
+{"word":"grammaire","translation":"грамматика"},
+{"word":"vocabulaire","translation":"лексика"},
+{"word":"prononciation","translation":"произношение"},
+{"word":"orthographe","translation":"орфография"},
+{"word":"lecture","translation":"чтение"},
+{"word":"écriture","translation":"письмо"},
+{"word":"expression orale","translation":"устная речь"},
+{"word":"écoute","translation":"аудирование / слушание"},
+{"word":"compréhension","translation":"понимание"},
+{"word":"fluidité","translation":"беглость"},
+{"word":"précision","translation":"точность"},
+{"word":"préparation aux examens","translation":"подготовка к экзаменам"},
+{"word":"révision","translation":"повторение / ревизия"},
+{"word":"mémorisation","translation":"запоминание"},
+{"word":"objectifs d’apprentissage","translation":"цели обучения"},
+{"word":"résultats d’apprentissage","translation":"результаты обучения"},
+{"word":"centré sur l’étudiant","translation":"ориентированный на студента"},
+{"word":"centré sur l’enseignant","translation":"ориентированный на преподавателя"},
+{"word":"critères d’évaluation","translation":"критерии оценки"},
+{"word":"environnement d’apprentissage","translation":"учебная среда"},
+{"word":"classe inclusive","translation":"инклюзивный класс"},
+{"word":"gestion de classe","translation":"управление классом"},
+{"word":"fournitures scolaires","translation":"школьные принадлежности"},
+{"word":"réunion parents-enseignants","translation":"родительское собрание"},
+{"word":"bulletin scolaire","translation":"табель / школьный отчёт"},
+{"word":"réussite académique","translation":"академическая успеваемость"},
+{"word":"distinctions","translation":"отличия / награды"},
+{"word":"major de promotion","translation":"лучший выпускник"},
+{"word":"doyen","translation":"декан"},
+{"word":"directeur","translation":"директор"},
+{"word":"proviseur","translation":"директор школы"},
+{"word":"conseil scolaire","translation":"школьный совет"},
+{"word":"ministère de l’éducation","translation":"министерство образования"},
+{"word":"réforme éducative","translation":"образовательная реформа"},
+{"word":"école publique","translation":"государственная школа"},
+{"word":"école privée","translation":"частная школа"},
+{"word":"internat","translation":"интернат"},
+{"word":"enseignement à domicile","translation":"домашнее обучение"},
+{"word":"test standardisé","translation":"стандартизированный тест"},
+{"word":"test de QI","translation":"тест на IQ"},
+{"word":"certificat de fin de formation","translation":"сертификат о завершении обучения"},
+{"word":"examen national","translation":"национальный экзамен"},
+{"word":"baccalauréat international","translation":"международный бакалавриат (IB)"}],
+    "tourismandhospitality": [{"word":"tourisme","translation":"туризм"}
+{"word":"touriste","translation":"турист"}
+{"word":"voyageur","translation":"путешественник"}
+{"word":"voyage","translation":"путешествие"}
+{"word":"trajet","translation":"маршрут"}
+{"word":"vacances","translation":"отпуск"}
+{"word":"industrie du tourisme","translation":"туристическая индустрия"}
+{"word":"hôtellerie","translation":"гостиничный бизнес"}
+{"word":"hôte","translation":"хозяин"}
+{"word":"invité","translation":"гость"}
+{"word":"destination","translation":"пункт назначения"}
+{"word":"attraction","translation":"достопримечательность"}
+{"word":"visite touristique","translation":"туристическая экскурсия"}
+{"word":"excursion","translation":"экскурсия"}
+{"word":"itinéraire","translation":"маршрут"}
+{"word":"tour","translation":"тур"}
+{"word":"agence de voyage","translation":"туристическое агентство"}
+{"word":"guide touristique","translation":"туристический гид"}
+{"word":"agent de voyage","translation":"туристический агент"}
+{"word":"assurance voyage","translation":"страхование путешествий"}
+{"word":"réservation","translation":"бронирование"}
+{"word":"enregistrement","translation":"регистрация"}
+{"word":"départ","translation":"отправление"}
+{"word":"confirmation","translation":"подтверждение"}
+{"word":"annulation","translation":"отмена"}
+{"word":"nouvelle réservation","translation":"новое бронирование"}
+{"word":"horaire","translation":"расписание"}
+{"word":"retard","translation":"задержка"}
+{"word":"arrivée","translation":"прибытие"}
+{"word":"aéroport","translation":"аэропорт"}
+{"word":"terminal","translation":"терминал"}
+{"word":"porte d’embarquement","translation":"выход на посадку"}
+{"word":"compagnie aérienne","translation":"авиакомпания"}
+{"word":"vol","translation":"рейс"}
+{"word":"carte d’embarquement","translation":"посадочный талон"}
+{"word":"billet","translation":"билет"}
+{"word":"passeport","translation":"паспорт"}
+{"word":"visa","translation":"виза"}
+{"word":"douane","translation":"таможня"}
+{"word":"immigration","translation":"иммиграционный контроль"}
+{"word":"contrôle de sécurité","translation":"контроль безопасности"}
+{"word":"bagages","translation":"багаж"}
+{"word":"valise","translation":"чемодан"}
+{"word":"bagage à main","translation":"ручная кладь"}
+{"word":"récupération des bagages","translation":"получение багажа"}
+{"word":"bagages perdus","translation":"потерянный багаж"}
+{"word":"transport","translation":"транспорт"}
+{"word":"taxi","translation":"такси"}
+{"word":"navette","translation":"шаттл"}
+{"word":"bus","translation":"автобус"}
+{"word":"autocar","translation":"междугородний автобус"}
+{"word":"train","translation":"поезд"}
+{"word":"chemin de fer","translation":"железная дорога"}
+{"word":"métro","translation":"метро"}
+{"word":"tramway","translation":"трамвай"}
+{"word":"location de voiture","translation":"аренда автомобиля"}
+{"word":"conducteur","translation":"водитель"}
+{"word":"permis","translation":"водительские права"}
+{"word":"GPS","translation":"GPS"}
+{"word":"carburant","translation":"топливо"}
+{"word":"péage","translation":"платная дорога"}
+{"word":"parking","translation":"парковка"}
+{"word":"hôtel","translation":"отель"}
+{"word":"auberge","translation":"гостевой дом"}
+{"word":"motel","translation":"мотель"}
+{"word":"station balnéaire","translation":"курорт"}
+{"word":"maison d’hôtes","translation":"дом для гостей"}
+{"word":"chambre d’hôtes","translation":"комната в гостевом доме"}
+{"word":"hébergement","translation":"размещение"}
+{"word":"logement","translation":"жильё"}
+{"word":"réception","translation":"рецепция"}
+{"word":"concierge","translation":"консьерж"}
+{"word":"portier","translation":"швейцар/дверной"}
+{"word":"service de ménage","translation":"уборка"}
+{"word":"service en chambre","translation":"обслуживание номеров"}
+{"word":"nettoyage","translation":"чистка"}
+{"word":"blanchisserie","translation":"прачечная"}
+{"word":"chambre double","translation":"двухместный номер"}
+{"word":"chambre simple","translation":"одноместный номер"}
+{"word":"suite","translation":"люкс"}
+{"word":"chambre twin","translation":"номер с двумя кроватями"}
+{"word":"deluxe","translation":"делюкс"}
+{"word":"standard","translation":"стандарт"}
+{"word":"numéro de réservation","translation":"номер бронирования"}
+{"word":"équipements","translation":"удобства"}
+{"word":"piscine","translation":"бассейн"}
+{"word":"salle de sport","translation":"тренажёрный зал"}
+{"word":"spa","translation":"спа"}
+{"word":"bien-être","translation":"благополучие"}
+{"word":"massage","translation":"массаж"}
+{"word":"restaurant","translation":"ресторан"}
+{"word":"café","translation":"кафе"}
+{"word":"bar","translation":"бар"}
+{"word":"pub","translation":"паб"}
+{"word":"buffet","translation":"шведский стол"}
+{"word":"à la carte","translation":"по меню"}
+{"word":"petit-déjeuner","translation":"завтрак"}
+{"word":"déjeuner","translation":"обед"}
+{"word":"dîner","translation":"ужин"}
+{"word":"menu","translation":"меню"}
+{"word":"repas","translation":"еда"}
+{"word":"plat","translation":"блюдо"}
+{"word":"entrée","translation":"закуска"}
+{"word":"plat principal","translation":"основное блюдо"}
+{"word":"dessert","translation":"десерт"}
+{"word":"boisson","translation":"напиток"}
+{"word":"serveur","translation":"официант"}
+{"word":"serveuse","translation":"официантка"}
+{"word":"chef","translation":"шеф-повар"}
+{"word":"cuisinier","translation":"повар"}
+{"word":"cuisine","translation":"кухня"}
+{"word":"personnel hôtelier","translation":"отельный персонал"}
+{"word":"pourboire","translation":"чаевые"}
+{"word":"addition","translation":"счёт"}
+{"word":"reçu","translation":"квитанция"}
+{"word":"facture","translation":"счёт-фактура"}
+{"word":"paiement","translation":"оплата"}
+{"word":"espèces","translation":"наличные"}
+{"word":"carte","translation":"карта"}
+{"word":"carte de crédit","translation":"кредитная карта"}
+{"word":"carte de débit","translation":"дебетовая карта"}
+{"word":"devise étrangère","translation":"иностранная валюта"}
+{"word":"taux de change","translation":"обменный курс"}
+{"word":"banque","translation":"банк"}
+{"word":"distributeur automatique","translation":"банкомат"}
+{"word":"visite guidée","translation":"экскурсия с гидом"}
+{"word":"audioguide","translation":"аудиогид"}
+{"word":"musée","translation":"музей"}
+{"word":"monument","translation":"памятник"}
+{"word":"site historique","translation":"исторический объект"}
+{"word":"château","translation":"замок"}
+{"word":"église","translation":"церковь"}
+{"word":"temple","translation":"храм"}
+{"word":"mosquée","translation":"мечеть"}
+{"word":"événement culturel","translation":"культурное событие"}
+{"word":"festival","translation":"фестиваль"}
+{"word":"parade","translation":"парад"}
+{"word":"plage","translation":"пляж"}
+{"word":"montagne","translation":"гора"}
+{"word":"nature","translation":"природа"}
+{"word":"randonnée","translation":"поход"}
+{"word":"aventure","translation":"приключение"}
+{"word":"safari","translation":"сафари"}
+{"word":"croisière","translation":"круиз"}
+{"word":"ferry","translation":"паром"}
+{"word":"bateau","translation":"лодка"}
+{"word":"yacht","translation":"яхта"}
+{"word":"navigation à voile","translation":"парусный спорт"}
+{"word":"plongée","translation":"дайвинг"}
+{"word":"plongée avec tuba","translation":"снорклинг"}
+{"word":"natation","translation":"плавание"}
+{"word":"surf","translation":"серфинг"}
+{"word":"camping","translation":"кемпинг"}
+{"word":"terrain de camping","translation":"кемпинговая площадка"}
+{"word":"tente","translation":"палатка"}
+{"word":"sac à dos","translation":"рюкзак"}
+{"word":"guide de voyage","translation":"путеводитель"}
+{"word":"application","translation":"приложение"}
+{"word":"avis","translation":"отзыв"}
+{"word":"évaluation","translation":"оценка"}
+{"word":"recommandation","translation":"рекомендация"}
+{"word":"blog de voyage","translation":"туристический блог"}
+{"word":"vlog de voyage","translation":"влог о путешествиях"}
+{"word":"influenceur","translation":"инфлюенсер"}
+{"word":"expérience","translation":"опыт"}
+{"word":"souvenirs","translation":"сувениры"}
+{"word":"photo","translation":"фото"}
+{"word":"appareil photo","translation":"фотокамера"}
+{"word":"vidéo","translation":"видео"}
+{"word":"barrière linguistique","translation":"языковой барьер"}
+{"word":"traduction","translation":"перевод"}
+{"word":"communication","translation":"коммуникация"}
+{"word":"sécurité","translation":"безопасность"}
+{"word":"urgence","translation":"чрезвычайная ситуация"}
+{"word":"santé","translation":"здоровье"}
+{"word":"clinique","translation":"клиника"}
+{"word":"hôpital","translation":"больница"}
+{"word":"conseil aux voyageurs","translation":"совет для путешественников"}
+{"word":"ambassade","translation":"посольство"}
+{"word":"consulat","translation":"консульство"}
+{"word":"coutumes locales","translation":"местные обычаи"}
+{"word":"souvenir","translation":"сувенир"}
+{"word":"shopping","translation":"шоппинг"}
+{"word":"marché","translation":"рынок"}
+{"word":"nourriture de rue","translation":"уличная еда"}
+{"word":"transport public","translation":"общественный транспорт"}
+{"word":"conseil de voyage","translation":"совет путешественнику"}],
+    "transportandlogistics": [{"word":"transport","translation":"транспорт"}
+{"word":"logistique","translation":"логистика"}
+{"word":"expédition","translation":"отправка"}
+{"word":"livraison","translation":"доставка"}
+{"word":"fret","translation":"груз"}
+{"word":"cargo","translation":"груз"}
+{"word":"transport routier","translation":"автомобильный транспорт"}
+{"word":"entrepôt","translation":"склад"}
+{"word":"inventaire","translation":"инвентаризация"}
+{"word":"stockage","translation":"хранение"}
+{"word":"distribution","translation":"распределение"}
+{"word":"emballage","translation":"упаковка"}
+{"word":"chargement","translation":"погрузка"}
+{"word":"déchargement","translation":"разгрузка"}
+{"word":"messagerie","translation":"курьерская служба"}
+{"word":"transporteur","translation":"перевозчик"}
+{"word":"responsable logistique","translation":"логистический менеджер"}
+{"word":"chaîne d’approvisionnement","translation":"цепочка поставок"}
+{"word":"approvisionnement","translation":"снабжение"}
+{"word":"demande","translation":"спрос"}
+{"word":"stock","translation":"запас"}
+{"word":"suivi","translation":"отслеживание"}
+{"word":"itinéraire","translation":"маршрут"}
+{"word":"horaire","translation":"расписание"}
+{"word":"emploi du temps","translation":"распорядок"}
+{"word":"transit","translation":"транзит"}
+{"word":"port","translation":"порт"}
+{"word":"havre","translation":"гавань"}
+{"word":"conteneur","translation":"контейнер"}
+{"word":"palette","translation":"паллет"}
+{"word":"chariot élévateur","translation":"погрузчик"}
+{"word":"douane","translation":"таможня"}
+{"word":"dédouanement","translation":"таможенное оформление"}
+{"word":"manifeste","translation":"манифест"}
+{"word":"connaissement","translation":"коносамент"}
+{"word":"bon de livraison","translation":"накладная"}
+{"word":"étiquette d’expédition","translation":"этикетка отправки"}
+{"word":"code-barres","translation":"штрих-код"}
+{"word":"scanner","translation":"сканер"}
+{"word":"ramassage","translation":"сбор"}
+{"word":"kilométrage","translation":"пробег"}
+{"word":"carburant","translation":"топливо"}
+{"word":"diesel","translation":"дизель"}
+{"word":"péage","translation":"платная дорога"}
+{"word":"autoroute","translation":"автомагистраль"}
+{"word":"route","translation":"дорога"}
+{"word":"chemin de fer","translation":"железная дорога"}
+{"word":"train","translation":"поезд"}
+{"word":"locomotive","translation":"локомотив"}
+{"word":"wagon","translation":"вагон"}
+{"word":"voiture","translation":"вагон/автомобиль"}
+{"word":"rail","translation":"рельс"}
+{"word":"quai","translation":"платформа/пирс"}
+{"word":"aéroport","translation":"аэропорт"}
+{"word":"compagnie aérienne","translation":"авиакомпания"}
+{"word":"piste","translation":"взлетно-посадочная полоса"}
+{"word":"terminal","translation":"терминал"}
+{"word":"embarquement","translation":"посадка"}
+{"word":"départ","translation":"отправление"}
+{"word":"arrivée","translation":"прибытие"}
+{"word":"porte","translation":"ворота/выход"}
+{"word":"bagages","translation":"багаж"}
+{"word":"valises","translation":"чемоданы"}
+{"word":"enregistrement","translation":"регистрация"}
+{"word":"déclaration en douane","translation":"таможенная декларация"}
+{"word":"avion","translation":"самолет"}
+{"word":"aéronef","translation":"воздушное судно"}
+{"word":"vol","translation":"рейс"}
+{"word":"billet","translation":"билет"}
+{"word":"siège","translation":"место"}
+{"word":"passager","translation":"пассажир"}
+{"word":"pilote","translation":"пилот"}
+{"word":"équipage","translation":"экипаж"}
+{"word":"bus","translation":"автобус"}
+{"word":"autocar","translation":"междугородний автобус"}
+{"word":"navette","translation":"шаттл"}
+{"word":"taxi","translation":"такси"}
+{"word":"covoiturage","translation":"совместная поездка"}
+{"word":"Uber","translation":"Убер"}
+{"word":"Lyft","translation":"Лифт"}
+{"word":"tarif","translation":"тариф"}
+{"word":"billetterie","translation":"касса/продажа билетов"}
+{"word":"réservation","translation":"бронирование"}
+{"word":"annulation","translation":"отмена"}
+{"word":"retard","translation":"задержка"}
+{"word":"trafic","translation":"трафик/движение"}
+{"word":"congestion","translation":"пробка"}
+{"word":"GPS","translation":"GPS"}
+{"word":"navigation","translation":"навигация"}
+{"word":"planification d’itinéraire","translation":"планирование маршрута"}
+{"word":"temps de livraison","translation":"время доставки"}
+{"word":"temps estimé","translation":"расчетное время"}
+{"word":"temps réel","translation":"реальное время"}
+{"word":"hub","translation":"логистический хаб"}
+{"word":"dépôt","translation":"депо/склад"}
+{"word":"chaîne logistique","translation":"логистическая цепочка"}
+{"word":"dernier kilomètre","translation":"последняя миля"}
+{"word":"logistique inverse","translation":"обратная логистика"}
+{"word":"e-commerce","translation":"электронная коммерция"}
+{"word":"commande","translation":"заказ"}
+{"word":"exécution","translation":"исполнение"}
+{"word":"fournisseur logistique","translation":"логистический поставщик"}
+{"word":"logistique tierce partie","translation":"3PL логистика"}
+{"word":"3PL","translation":"логистика третьей стороны"}
+{"word":"4PL","translation":"логистика четвертой стороны"}
+{"word":"flotte","translation":"автопарк"}
+{"word":"véhicule","translation":"транспортное средство"}
+{"word":"conducteur","translation":"водитель"}
+{"word":"permis","translation":"водительские права"}
+{"word":"autorisation","translation":"разрешение"}
+{"word":"inspection","translation":"инспекция"}
+{"word":"conformité","translation":"соответствие"}
+{"word":"réglementation","translation":"регулирование"}
+{"word":"sécurité routière","translation":"дорожная безопасность"}
+{"word":"accident","translation":"авария"}
+{"word":"panne","translation":"поломка"}
+{"word":"assurance","translation":"страхование"}
+{"word":"couverture","translation":"покрытие/страховое покрытие"}
+{"word":"réparation","translation":"ремонт"}
+{"word":"maintenance","translation":"обслуживание"}
+{"word":"pièces de rechange","translation":"запасные части"}
+{"word":"quai de chargement","translation":"погрузочная платформа"}
+{"word":"remorque","translation":"прицеп"}
+{"word":"semi-remorque","translation":"полуприцеп"}
+{"word":"camion articulé","translation":"сочлененный грузовик"}
+{"word":"transport de marchandises","translation":"грузовые перевозки"}
+{"word":"centre logistique","translation":"логистический центр"}
+{"word":"gestion d’entrepôt","translation":"управление складом"}
+{"word":"contrôle des stocks","translation":"контроль запасов"}
+{"word":"itinéraire de livraison","translation":"маршрут доставки"}
+{"word":"préparation de commande","translation":"подготовка заказа"}
+{"word":"emballage de commande","translation":"упаковка заказа"}
+{"word":"temps de transit","translation":"время в пути"}
+{"word":"transitaire","translation":"экспедитор"}
+{"word":"logiciel logistique","translation":"логистическое программное обеспечение"}
+{"word":"système de gestion du transport","translation":"система управления транспортом"}
+{"word":"scanner de code-barres","translation":"сканер штрих-кодов"}
+{"word":"RFID","translation":"RFID"}
+{"word":"chaîne du froid","translation":"холодовая цепь"}
+{"word":"contrôle de température","translation":"контроль температуры"}
+{"word":"produits périssables","translation":"скоропортящиеся товары"}
+{"word":"matières dangereuses","translation":"опасные вещества"}
+{"word":"assurance cargo","translation":"страхование груза"}
+{"word":"suivi de conteneur","translation":"отслеживание контейнера"}
+{"word":"droits de douane","translation":"таможенные пошлины"}
+{"word":"importation","translation":"импорт"}
+{"word":"exportation","translation":"экспорт"}
+{"word":"incoterms","translation":"инкотермс"}
+{"word":"FOB","translation":"FOB"}
+{"word":"CIF","translation":"CIF"}
+{"word":"commissionnaire en douane","translation":"таможенный брокер"}
+{"word":"entrepôt sous douane","translation":"таможенный склад"}
+{"word":"facture de fret","translation":"фрахтовый счет"}
+{"word":"coordinateur logistique","translation":"координатор логистики"}
+{"word":"optimisation d’itinéraire","translation":"оптимизация маршрута"}
+{"word":"responsable chaîne d’approvisionnement","translation":"менеджер цепочки поставок"}
+{"word":"centre d’expédition","translation":"экспедиционный центр"}
+{"word":"suivi en temps réel","translation":"отслеживание в реальном времени"}
+{"word":"réseau logistique","translation":"логистическая сеть"}
+{"word":"analyse prédictive","translation":"прогностический анализ"}
+{"word":"logistique numérique","translation":"цифровая логистика"}
+{"word":"véhicule autonome","translation":"автономное транспортное средство"}
+{"word":"livraison par drone","translation":"доставка дронами"}
+{"word":"camion électrique","translation":"электрический грузовик"}
+{"word":"empreinte carbone","translation":"углеродный след"}
+{"word":"durabilité","translation":"устойчивость"}
+{"word":"logistique verte","translation":"зелёная логистика"}
+{"word":"intermodal","translation":"интермодальный"}
+{"word":"multimodal","translation":"мультимодальный"}
+{"word":"péniche","translation":"баржа"}
+{"word":"navire","translation":"судно"}
+{"word":"compagnie maritime","translation":"судоходная компания"}
+{"word":"porte-conteneurs","translation":"контейнеровоз"}
+{"word":"transport maritime","translation":"морские перевозки"}
+{"word":"fret aérien","translation":"воздушные грузоперевозки"}
+{"word":"fret maritime","translation":"морские грузоперевозки"}
+{"word":"fret routier","translation":"автомобильные грузоперевозки"}
+{"word":"fret ferroviaire","translation":"железнодорожные грузоперевозки"}
+{"word":"fret en vrac","translation":"насыпной груз"}
+{"word":"fret général","translation":"общий груз"}
+{"word":"coût du fret","translation":"стоимость перевозки"}
+{"word":"supplément carburant","translation":"топливный сбор"}
+{"word":"hub logistique","translation":"логистический хаб"}
+{"word":"commerce mondial","translation":"мировая торговля"}
+{"word":"marché du fret","translation":"рынок грузоперевозок"}
+{"word":"transporteur de fret","translation":"грузовой перевозчик"}
+{"word":"point de ramassage","translation":"пункт сбора"}
+{"word":"confirmation de livraison","translation":"подтверждение доставки"}
+{"word":"preuve de livraison","translation":"доказательство доставки"}
+{"word":"inspection douanière","translation":"таможенный осмотр"}
+{"word":"suivi du véhicule","translation":"отслеживание транспортного средства"}
+{"word":"télématique","translation":"телематика"}
+{"word":"gestion du fret","translation":"управление грузом"}
+{"word":"gestion des commandes","translation":"управление заказами"}],
+    "customsandbordersecurity": [{"word":"douanes","translation":"таможня"}
+{"word":"frontière","translation":"граница"}
+{"word":"sécurité","translation":"безопасность"}
+{"word":"patrouille","translation":"патруль"}
+{"word":"poste de contrôle","translation":"контрольный пункт"}
+{"word":"dédouanement","translation":"таможенное оформление"}
+{"word":"passeport","translation":"паспорт"}
+{"word":"visa","translation":"виза"}
+{"word":"immigration","translation":"иммиграция"}
+{"word":"déclaration","translation":"декларация"}
+{"word":"taxe","translation":"налог"}
+{"word":"tarif","translation":"тариф"}
+{"word":"importation","translation":"импорт"}
+{"word":"exportation","translation":"экспорт"}
+{"word":"contrebande","translation":"контрабанда"}
+{"word":"inspection","translation":"инспекция"}
+{"word":"document","translation":"документ"}
+{"word":"identité","translation":"личность"}
+{"word":"contrôle","translation":"контроль"}
+{"word":"scanner","translation":"сканер"}
+{"word":"rayons X","translation":"рентген"}
+{"word":"détection","translation":"обнаружение"}
+{"word":"surveillance","translation":"наблюдение"}
+{"word":"caméra","translation":"камера"}
+{"word":"radar","translation":"радар"}
+{"word":"clôture","translation":"забор"}
+{"word":"mur","translation":"стена"}
+{"word":"barrière","translation":"барьер"}
+{"word":"porte","translation":"дверь"}
+{"word":"entrée","translation":"вход"}
+{"word":"sortie","translation":"выход"}
+{"word":"passage","translation":"проход"}
+{"word":"port","translation":"порт"}
+{"word":"port maritime","translation":"морской порт"}
+{"word":"aéroport","translation":"аэропорт"}
+{"word":"frontière terrestre","translation":"сухопутная граница"}
+{"word":"agent des douanes","translation":"таможенный агент"}
+{"word":"agent frontalier","translation":"пограничный агент"}
+{"word":"agent d’immigration","translation":"иммиграционный агент"}
+{"word":"droit de douane","translation":"таможенная пошлина"}
+{"word":"amende","translation":"штраф"}
+{"word":"sanction","translation":"санкция"}
+{"word":"réglementation","translation":"регламент"}
+{"word":"conformité","translation":"соответствие"}
+{"word":"loi","translation":"закон"}
+{"word":"restriction","translation":"ограничение"}
+{"word":"interdit","translation":"запрещено"}
+{"word":"banni","translation":"запрещенный"}
+{"word":"contrôlé","translation":"контролируемый"}
+{"word":"quota","translation":"квота"}
+{"word":"licence","translation":"лицензия"}
+{"word":"permis","translation":"разрешение"}
+{"word":"marchandises","translation":"товары"}
+{"word":"cargo","translation":"груз"}
+{"word":"expédition","translation":"отправка"}
+{"word":"fret","translation":"груз"}
+{"word":"entrepôt","translation":"склад"}
+{"word":"zone sous douane","translation":"таможенная зона"}
+{"word":"transit","translation":"транзит"}
+{"word":"itinéraire","translation":"маршрут"}
+{"word":"voyage","translation":"путешествие"}
+{"word":"transport","translation":"транспорт"}
+{"word":"formulaire douanier","translation":"таможенная форма"}
+{"word":"manifeste","translation":"манифест"}
+{"word":"certificat","translation":"сертификат"}
+{"word":"origine","translation":"происхождение"}
+{"word":"destination","translation":"пункт назначения"}
+{"word":"facture","translation":"счет-фактура"}
+{"word":"liste de colisage","translation":"упаковочный лист"}
+{"word":"formulaire de déclaration","translation":"декларационная форма"}
+{"word":"commissionnaire en douane","translation":"таможенный брокер"}
+{"word":"agence","translation":"агентство"}
+{"word":"administration","translation":"администрация"}
+{"word":"droit international","translation":"международное право"}
+{"word":"zone frontalière","translation":"пограничная зона"}
+{"word":"exemption de visa","translation":"освобождение от визы"}
+{"word":"réfugié","translation":"беженец"}
+{"word":"asile","translation":"убежище"}
+{"word":"nationalité","translation":"гражданство"}
+{"word":"citoyenneté","translation":"гражданство"}
+{"word":"résidence","translation":"место жительства"}
+{"word":"interdiction d’entrée","translation":"запрет на въезд"}
+{"word":"liste noire","translation":"черный список"}
+{"word":"liste de surveillance","translation":"список наблюдения"}
+{"word":"biométrique","translation":"биометрический"}
+{"word":"empreinte digitale","translation":"отпечаток пальца"}
+{"word":"reconnaissance faciale","translation":"распознавание лиц"}
+{"word":"vérification d’identité","translation":"проверка личности"}
+{"word":"détention","translation":"задержание"}
+{"word":"arrestation","translation":"арест"}
+{"word":"enquête","translation":"расследование"}
+{"word":"application de la loi","translation":"правоприменение"}
+{"word":"saisie","translation":"изъятие"}
+{"word":"confiscation","translation":"конфискация"}
+{"word":"audit","translation":"аудит"}
+{"word":"rapport","translation":"отчет"}
+{"word":"renseignement","translation":"разведка"}
+{"word":"informateur","translation":"информатор"}
+{"word":"trafic de drogue","translation":"наркотрафик"}
+{"word":"trafic humain","translation":"торговля людьми"}
+{"word":"blanchiment d’argent","translation":"отмывание денег"}
+{"word":"immigration illégale","translation":"нелегальная иммиграция"}
+{"word":"séjour prolongé","translation":"продленное пребывание"}
+{"word":"sans papiers","translation":"без документов"}
+{"word":"faux passeport","translation":"поддельный паспорт"}
+{"word":"document falsifié","translation":"поддельный документ"}
+{"word":"fausse identité","translation":"фальшивая личность"}
+{"word":"code des douanes","translation":"таможенный кодекс"}
+{"word":"contrôle frontalier","translation":"пограничный контроль"}
+{"word":"transfrontalier","translation":"трансграничный"}
+{"word":"zone","translation":"зона"}
+{"word":"périmètre","translation":"периметр"}
+{"word":"alerte","translation":"тревога"}
+{"word":"alarme","translation":"сигнализация"}
+{"word":"urgence","translation":"чрезвычайная ситуация"}
+{"word":"intervention rapide","translation":"быстрое вмешательство"}
+{"word":"coordination","translation":"координация"}
+{"word":"opération conjointe","translation":"совместная операция"}
+{"word":"coopération internationale","translation":"международное сотрудничество"}
+{"word":"accord","translation":"соглашение"}
+{"word":"traité","translation":"договор"}
+{"word":"convention","translation":"конвенция"}
+{"word":"contrôle de sécurité","translation":"контроль безопасности"}
+{"word":"évaluation en douane","translation":"таможенная оценка"}
+{"word":"union douanière","translation":"таможенный союз"}
+{"word":"accord commercial","translation":"торговое соглашение"}
+{"word":"embargo","translation":"эмбарго"}
+{"word":"sanctions","translation":"санкции"}
+{"word":"restriction à l’importation","translation":"ограничение на импорт"}
+{"word":"licence d’exportation","translation":"лицензия на экспорт"}
+{"word":"contrôle du cargo","translation":"контроль груза"}
+{"word":"unité canine","translation":"кинологическое подразделение"}
+{"word":"chien renifleur","translation":"ищейка"}
+{"word":"stupéfiants","translation":"наркотики"}
+{"word":"explosifs","translation":"взрывчатые вещества"}
+{"word":"armes","translation":"оружие"}
+{"word":"munition","translation":"боеприпасы"}
+{"word":"marchandises dangereuses","translation":"опасные грузы"}
+{"word":"quarantaine","translation":"карантин"}
+{"word":"inspection sanitaire","translation":"санитарный контроль"}
+{"word":"sécurité alimentaire","translation":"пищевое обеспечение"}
+{"word":"formation douanière","translation":"таможенное обучение"}
+{"word":"officiel","translation":"официальный"}
+{"word":"hors taxes","translation":"без пошлин"}
+{"word":"processus de dédouanement","translation":"процесс таможенного оформления"}
+{"word":"clôture frontalière","translation":"пограничный забор"}
+{"word":"passeport biométrique","translation":"биометрический паспорт"}
+{"word":"scanner douanier","translation":"таможенный сканер"}
+{"word":"inspection des bagages","translation":"осмотр багажа"}
+{"word":"profilage","translation":"профилирование"}
+{"word":"voyageur","translation":"пассажир"}
+{"word":"voie douanière","translation":"таможенный путь"}
+{"word":"couloir rouge","translation":"красный коридор"}
+{"word":"couloir vert","translation":"зеленый коридор"}
+{"word":"déclaration en douane","translation":"таможенная декларация"}
+{"word":"portiques automatiques","translation":"автоматические ворота"}
+{"word":"pré-dédouanement","translation":"предварительное таможенное оформление"}
+{"word":"informations passager avancées","translation":"расширенная информация о пассажирах"}
+{"word":"demande de visa","translation":"заявление на визу"}
+{"word":"contrôle des passeports","translation":"паспортный контроль"}
+{"word":"bureau des douanes","translation":"таможенное управление"}
+{"word":"tampon d’entrée","translation":"штамп въезда"}
+{"word":"tampon de sortie","translation":"штамп выезда"}
+{"word":"réglementation douanière","translation":"таможенное регулирование"}
+{"word":"inspection douanière","translation":"таможенная инспекция"}
+{"word":"entretien de visa","translation":"собеседование для визы"}
+{"word":"droit de l’immigration","translation":"иммиграционное право"}
+{"word":"carte de voyageur","translation":"карта путешественника"}
+{"word":"migration","translation":"миграция"}
+{"word":"visa de transit","translation":"транзитная виза"}
+{"word":"logiciel douanier","translation":"таможенное программное обеспечение"}
+{"word":"base de données douanière","translation":"таможенная база данных"}
+{"word":"tentative de contrebande","translation":"попытка контрабанды"}
+{"word":"système d’alerte","translation":"система тревоги"}
+{"word":"coffre cargo","translation":"грузовой отсек"}
+{"word":"exonération de droits de douane","translation":"освобождение от пошлин"}
+{"word":"inspection du manifeste","translation":"проверка манифеста"}
+{"word":"manifeste de vol","translation":"авиационный манифест"}
+{"word":"autorité portuaire","translation":"портовая администрация"}
+{"word":"inspection de conteneur","translation":"проверка контейнера"}
+{"word":"transitaire","translation":"экспедитор"}
+{"word":"entrepôt sous douane","translation":"таможенный склад"}
+{"word":"conformité commerciale","translation":"торговое соответствие"}
+{"word":"évaluation en douane","translation":"таможенная оценка"}
+{"word":"taxe à l’importation","translation":"импортный налог"}
+{"word":"déclaration d’exportation","translation":"экспортная декларация"}
+{"word":"poste frontière","translation":"пограничный пост"}
+{"word":"patrouille nocturne","translation":"ночной патруль"}
+{"word":"entrée illégale","translation":"нелегальный въезд"}
+{"word":"port d’entrée","translation":"пункт въезда"}
+{"word":"permis d’entrée","translation":"разрешение на въезд"}
+{"word":"permis de séjour","translation":"вид на жительство"}
+{"word":"autorisation d’entrée","translation":"разрешение на въезд"}
+{"word":"zone restreinte","translation":"ограниченная зона"}
+{"word":"détection de contrebande","translation":"обнаружение контрабанды"}
+{"word":"application des douanes","translation":"таможенное применение"}],
+    "diplomacyandinternationalrelations": [{"word":"diplomatie","translation":"дипломатия"}
+{"word":"diplomate","translation":"дипломат"}
+{"word":"ambassadeur","translation":"посол"}
+{"word":"ambassade","translation":"посольство"}
+{"word":"consulat","translation":"консульство"}
+{"word":"consulaire","translation":"консульский"}
+{"word":"étranger","translation":"иностранец/иностранный"}
+{"word":"relations","translation":"отношения"}
+{"word":"international","translation":"международный"}
+{"word":"négociation","translation":"переговоры"}
+{"word":"accord","translation":"соглашение"}
+{"word":"traité","translation":"договор"}
+{"word":"protocole","translation":"протокол"}
+{"word":"sommet","translation":"саммит"}
+{"word":"bilatéral","translation":"двусторонний"}
+{"word":"multilatéral","translation":"многосторонний"}
+{"word":"délégation","translation":"делегация"}
+{"word":"envoyé","translation":"посланник"}
+{"word":"chargé d’affaires","translation":"поверенный в делах"}
+{"word":"ministre des affaires étrangères","translation":"министр иностранных дел"}
+{"word":"politique étrangère","translation":"внешняя политика"}
+{"word":"affaires étrangères","translation":"иностранные дела"}
+{"word":"mission diplomatique","translation":"дипломатическая миссия"}
+{"word":"corps diplomatique","translation":"дипломатический корпус"}
+{"word":"table de négociation","translation":"стол переговоров"}
+{"word":"médiateur","translation":"посредник"}
+{"word":"médiation","translation":"посредничество"}
+{"word":"arbitrage","translation":"арбитраж"}
+{"word":"alliance","translation":"альянс"}
+{"word":"coalition","translation":"коалиция"}
+{"word":"pacte","translation":"пакт"}
+{"word":"résolution","translation":"резолюция"}
+{"word":"reconnaissance","translation":"признание"}
+{"word":"souveraineté","translation":"суверенитет"}
+{"word":"indépendance","translation":"независимость"}
+{"word":"intergouvernemental","translation":"межправительственный"}
+{"word":"mondial","translation":"глобальный"}
+{"word":"mondialisation","translation":"глобализация"}
+{"word":"régional","translation":"региональный"}
+{"word":"transnational","translation":"транснациональный"}
+{"word":"coopération","translation":"сотрудничество"}
+{"word":"collaboration","translation":"взаимодействие"}
+{"word":"engagement","translation":"обязательство/вовлеченность"}
+{"word":"partenariat","translation":"партнерство"}
+{"word":"stratégique","translation":"стратегический"}
+{"word":"droit international","translation":"международное право"}
+{"word":"paix","translation":"мир"}
+{"word":"maintien de la paix","translation":"поддержание мира"}
+{"word":"conflit","translation":"конфликт"}
+{"word":"guerre","translation":"война"}
+{"word":"cessez-le-feu","translation":"перемирие"}
+{"word":"trêve","translation":"прекращение огня"}
+{"word":"contrôle des armements","translation":"контроль над вооружениями"}
+{"word":"désarmement","translation":"разоружение"}
+{"word":"non-prolifération","translation":"нераспространение"}
+{"word":"sanction","translation":"санкция"}
+{"word":"embargo","translation":"эмбарго"}
+{"word":"boycott","translation":"бойкот"}
+{"word":"pression","translation":"давление"}
+{"word":"soft power","translation":"мягкая сила"}
+{"word":"hard power","translation":"жесткая сила"}
+{"word":"diplomatie publique","translation":"публичная дипломатия"}
+{"word":"échange culturel","translation":"культурный обмен"}
+{"word":"immunité diplomatique","translation":"дипломатический иммунитет"}
+{"word":"passeport diplomatique","translation":"дипломатический паспорт"}
+{"word":"réunion au sommet","translation":"встреча на высшем уровне"}
+{"word":"pourparlers de haut niveau","translation":"переговоры на высоком уровне"}
+{"word":"dialogue","translation":"диалог"}
+{"word":"table ronde","translation":"круглый стол"}
+{"word":"relations bilatérales","translation":"двусторонние отношения"}
+{"word":"forum multilatéral","translation":"многосторонний форум"}
+{"word":"gouvernance mondiale","translation":"глобальное управление"}
+{"word":"organisme international","translation":"международная организация"}
+{"word":"Nations Unies","translation":"Организация Объединенных Наций"}
+{"word":"Conseil de sécurité de l’ONU","translation":"Совет Безопасности ООН"}
+{"word":"Assemblée générale","translation":"Генеральная Ассамблея"}
+{"word":"Cour internationale de Justice","translation":"Международный Суд"}
+{"word":"Cour pénale internationale","translation":"Международный уголовный суд"}
+{"word":"ONG","translation":"НПО/Неправительственная организация"}
+{"word":"organisation internationale","translation":"международная организация"}
+{"word":"institution mondiale","translation":"мировой институт"}
+{"word":"G7","translation":"G7"}
+{"word":"G20","translation":"G20"}
+{"word":"Union européenne","translation":"Европейский Союз"}
+{"word":"Union africaine","translation":"Африканский Союз"}
+{"word":"ASEAN","translation":"АСЕАН"}
+{"word":"OTAN","translation":"НАТО"}
+{"word":"organisation de traités","translation":"организация по договорам"}
+{"word":"coopération inter-agences","translation":"межведомственное сотрудничество"}
+{"word":"politique","translation":"политика"}
+{"word":"stratégie","translation":"стратегия"}
+{"word":"cadre","translation":"рамки/структура"}
+{"word":"agenda","translation":"повестка дня"}
+{"word":"initiative","translation":"инициатива"}
+{"word":"consensus","translation":"консенсус"}
+{"word":"ratification","translation":"ратификация"}
+{"word":"mise en œuvre","translation":"реализация"}
+{"word":"motion","translation":"предложение"}
+{"word":"veto","translation":"вето"}
+{"word":"intervention","translation":"вмешательство"}
+{"word":"humanitaire","translation":"гуманитарный"}
+{"word":"réfugié","translation":"беженец"}
+{"word":"asile","translation":"убежище"}
+{"word":"migration","translation":"миграция"}
+{"word":"visa","translation":"виза"}
+{"word":"frontière","translation":"граница"}
+{"word":"démarcation","translation":"демаркация"}
+{"word":"territoire","translation":"территория"}
+{"word":"nation","translation":"нация"}
+{"word":"État","translation":"государство"}
+{"word":"chef d’État","translation":"глава государства"}
+{"word":"chef de gouvernement","translation":"глава правительства"}
+{"word":"président","translation":"президент"}
+{"word":"premier ministre","translation":"премьер-министр"}
+{"word":"dignitaire étranger","translation":"иностранный высокопоставленный представитель"}
+{"word":"canal diplomatique","translation":"дипломатический канал"}
+{"word":"canal discret","translation":"закулисный канал"}
+{"word":"émissaire","translation":"эмиссар"}
+{"word":"diplomatie de sommet","translation":"дипломатия саммитов"}
+{"word":"diplomatie navette","translation":"шаттловая дипломатия"}
+{"word":"diplomatie silencieuse","translation":"тихая дипломатия"}
+{"word":"diplomatie préventive","translation":"превентивная дипломатия"}
+{"word":"diplomatie de crise","translation":"кризисная дипломатия"}
+{"word":"pression internationale","translation":"международное давление"}
+{"word":"aide internationale","translation":"международная помощь"}
+{"word":"aide au développement","translation":"помощь в развитии"}
+{"word":"accord bilatéral","translation":"двустороннее соглашение"}
+{"word":"déclaration conjointe","translation":"совместное заявление"}
+{"word":"communiqué","translation":"коммюнике"}
+{"word":"acte final","translation":"финальный акт"}
+{"word":"lettre d’intention","translation":"письмо о намерениях"}
+{"word":"protocole d’accord","translation":"протокол о соглашении"}
+{"word":"convention","translation":"конвенция"}
+{"word":"obligations du traité","translation":"обязательства по договору"}
+{"word":"traité de paix","translation":"мирный договор"}
+{"word":"accord frontalier","translation":"пограничное соглашение"}
+{"word":"accord maritime","translation":"морское соглашение"}
+{"word":"accord nucléaire","translation":"ядерное соглашение"}
+{"word":"accord commercial","translation":"торговое соглашение"}
+{"word":"libre-échange","translation":"свободная торговля"}
+{"word":"levée d’embargo","translation":"снятие эмбарго"}
+{"word":"tension diplomatique","translation":"дипломатическая напряженность"}
+{"word":"incident diplomatique","translation":"дипломатический инцидент"}
+{"word":"rupture des négociations","translation":"разрыв переговоров"}
+{"word":"restauration des relations","translation":"восстановление отношений"}
+{"word":"normalisation","translation":"нормализация"}
+{"word":"réétablissement","translation":"возобновление"}
+{"word":"rupture des relations","translation":"разрыв отношений"}
+{"word":"expulsion","translation":"высылка"}
+{"word":"rappel","translation":"отзыв"}
+{"word":"convocation","translation":"созыв"}
+{"word":"excuses","translation":"извинения"}
+{"word":"note de protestation","translation":"нота протеста"}
+{"word":"démarche","translation":"дипломатическая инициатива"}
+{"word":"protestation diplomatique","translation":"дипломатический протест"}
+{"word":"visite bilatérale","translation":"двусторонний визит"}
+{"word":"visite d’État","translation":"государственный визит"}
+{"word":"visite de bonne volonté","translation":"визит доброй воли"}
+{"word":"réunion ministérielle","translation":"министерская встреча"}
+{"word":"communiqué de presse","translation":"пресс-релиз"}
+{"word":"note diplomatique","translation":"дипломатическая нота"}
+{"word":"note circulaire","translation":"циркулярная нота"}
+{"word":"valise diplomatique","translation":"дипломатический дипломат"}
+{"word":"renseignement","translation":"разведка"}
+{"word":"confidentiel","translation":"конфиденциально"}
+{"word":"classifié","translation":"секретно"}
+{"word":"déclassifié","translation":"рассекречено"}
+{"word":"discours diplomatique","translation":"дипломатическая речь"}
+{"word":"statut international","translation":"международный статус"}
+{"word":"médiateur tiers","translation":"третья сторона-посредник"}
+{"word":"mission d’enquête","translation":"следственная миссия"}
+{"word":"résolution de conflit","translation":"разрешение конфликта"}
+{"word":"reconstruction post-conflit","translation":"восстановление после конфликта"}
+{"word":"mission d’observation","translation":"миссия наблюдения"}
+{"word":"envoyé spécial","translation":"специальный посланник"}
+{"word":"accord de paix","translation":"мирное соглашение"}
+{"word":"processus de paix","translation":"мирный процесс"}
+{"word":"démilitarisation","translation":"демилитаризация"}
+{"word":"organe de contrôle international","translation":"международный контрольный орган"}
+{"word":"conférence internationale","translation":"международная конференция"}
+{"word":"aide étrangère","translation":"иностранная помощь"}
+{"word":"déclaration de sommet","translation":"саммитная декларация"}
+{"word":"invitation officielle","translation":"официальное приглашение"}
+{"word":"pays hôte","translation":"страна-хозяин"}
+{"word":"pays partenaire","translation":"страна-партнер"}
+{"word":"signataire","translation":"подписант"}
+{"word":"phase de négociation","translation":"этап переговоров"}
+{"word":"note politique","translation":"политическая записка"}
+{"word":"groupe de travail","translation":"рабочая группа"}
+{"word":"comité spécial","translation":"специальный комитет"}
+{"word":"mission permanente","translation":"постоянная миссия"}],
+    "tradeandentrepreneurship": [{"word":"commerce","translation":"торговля"}
+{"word":"entrepreneur","translation":"предприниматель"}
+{"word":"entrepreneuriat","translation":"предпринимательство"}
+{"word":"startup","translation":"стартап"}
+{"word":"affaires","translation":"бизнес"}
+{"word":"entreprise","translation":"предприятие"}
+{"word":"société","translation":"компания"}
+{"word":"marché","translation":"рынок"}
+{"word":"marketing","translation":"маркетинг"}
+{"word":"ventes","translation":"продажи"}
+{"word":"revenu","translation":"доход"}
+{"word":"profit","translation":"прибыль"}
+{"word":"perte","translation":"убыток"}
+{"word":"investissement","translation":"инвестиция"}
+{"word":"investisseur","translation":"инвестор"}
+{"word":"capital","translation":"капитал"}
+{"word":"risque","translation":"риск"}
+{"word":"financement","translation":"финансирование"}
+{"word":"capital d’amorçage","translation":"посевной капитал"}
+{"word":"investisseur providentiel","translation":"бизнес-ангел"}
+{"word":"capital-risque","translation":"венчурный капитал"}
+{"word":"fonds propres","translation":"собственный капитал"}
+{"word":"action","translation":"акция"}
+{"word":"actionnaire","translation":"акционер"}
+{"word":"partie prenante","translation":"заинтересованная сторона"}
+{"word":"partenariat","translation":"партнёрство"}
+{"word":"entreprise individuelle","translation":"индивидуальное предприятие"}
+{"word":"responsabilité limitée","translation":"ограниченная ответственность"}
+{"word":"plan d’affaires","translation":"бизнес-план"}
+{"word":"présentation","translation":"презентация"}
+{"word":"modèle économique","translation":"бизнес-модель"}
+{"word":"proposition de valeur","translation":"ценностное предложение"}
+{"word":"innovation","translation":"инновация"}
+{"word":"rupture","translation":"разрыв/disruption"}
+{"word":"scalabilité","translation":"масштабируемость"}
+{"word":"croissance","translation":"рост"}
+{"word":"expansion","translation":"расширение"}
+{"word":"franchise","translation":"франшиза"}
+{"word":"licence","translation":"лицензия"}
+{"word":"distribution","translation":"распространение"}
+{"word":"vente en gros","translation":"оптовая продажа"}
+{"word":"vente au détail","translation":"розничная продажа"}
+{"word":"commerce électronique","translation":"электронная коммерция"}
+{"word":"plateforme","translation":"платформа"}
+{"word":"fournisseur","translation":"поставщик"}
+{"word":"client","translation":"клиент"}
+{"word":"consommateur","translation":"потребитель"}
+{"word":"acheteur","translation":"покупатель"}
+{"word":"vendeur","translation":"продавец"}
+{"word":"service","translation":"услуга"}
+{"word":"produit","translation":"продукт"}
+{"word":"marchandises","translation":"товары"}
+{"word":"logistique","translation":"логистика"}
+{"word":"chaîne d’approvisionnement","translation":"цепочка поставок"}
+{"word":"inventaire","translation":"инвентарь"}
+{"word":"livraison","translation":"доставка"}
+{"word":"commande","translation":"заказ"}
+{"word":"facture","translation":"счёт-фактура"}
+{"word":"paiement","translation":"оплата"}
+{"word":"transaction","translation":"транзакция"}
+{"word":"paiement en ligne","translation":"онлайн-платёж"}
+{"word":"tarification","translation":"ценообразование"}
+{"word":"coût","translation":"стоимость"}
+{"word":"marge","translation":"маржа"}
+{"word":"marge brute","translation":"валовая маржа"}
+{"word":"bénéfice net","translation":"чистая прибыль"}
+{"word":"point mort","translation":"точка безубыточности"}
+{"word":"flux de trésorerie","translation":"денежный поток"}
+{"word":"comptabilité","translation":"бухгалтерия"}
+{"word":"tenue de livres","translation":"ведение учёта"}
+{"word":"bilan","translation":"баланс"}
+{"word":"compte de résultat","translation":"отчёт о прибылях и убытках"}
+{"word":"rapport financier","translation":"финансовый отчёт"}
+{"word":"audit","translation":"аудит"}
+{"word":"impôt","translation":"налог"}
+{"word":"fiscalité","translation":"налогообложение"}
+{"word":"déclaration fiscale","translation":"налоговая декларация"}
+{"word":"numéro fiscal","translation":"налоговый номер"}
+{"word":"importation","translation":"импорт"}
+{"word":"exportation","translation":"экспорт"}
+{"word":"douane","translation":"таможня"}
+{"word":"tarif","translation":"тариф"}
+{"word":"accord commercial","translation":"торговое соглашение"}
+{"word":"barrière commerciale","translation":"торговый барьер"}
+{"word":"libre-échange","translation":"свободная торговля"}
+{"word":"syndicat","translation":"профсоюз"}
+{"word":"commerce international","translation":"международная торговля"}
+{"word":"commerce intérieur","translation":"внутренняя торговля"}
+{"word":"balance commerciale","translation":"торговый баланс"}
+{"word":"offre","translation":"предложение"}
+{"word":"demande","translation":"спрос"}
+{"word":"politique économique","translation":"экономическая политика"}
+{"word":"taux d’intérêt","translation":"процентная ставка"}
+{"word":"inflation","translation":"инфляция"}
+{"word":"déflation","translation":"дефляция"}
+{"word":"récession","translation":"рецессия"}
+{"word":"croissance économique","translation":"экономический рост"}
+{"word":"PIB","translation":"ВВП"}
+{"word":"compétitivité","translation":"конкурентоспособность"}
+{"word":"productivité","translation":"производительность"}
+{"word":"travail","translation":"работа"}
+{"word":"main-d’œuvre","translation":"рабочая сила"}
+{"word":"employeur","translation":"работодатель"}
+{"word":"employé","translation":"сотрудник"}
+{"word":"salaires","translation":"зарплата"}
+{"word":"rémunération","translation":"вознаграждение"}
+{"word":"paie","translation":"выплата"}
+{"word":"ressources humaines","translation":"кадровая служба"}
+{"word":"embauche","translation":"найм"}
+{"word":"recrutement","translation":"рекрутинг"}
+{"word":"entretien","translation":"собеседование"}
+{"word":"contrat","translation":"контракт"}
+{"word":"freelance","translation":"фрилансер"}
+{"word":"externalisation","translation":"аутсорсинг"}
+{"word":"enregistrement d’entreprise","translation":"регистрация компании"}
+{"word":"constitution","translation":"устав"}
+{"word":"marque déposée","translation":"торговая марка"}
+{"word":"brevet","translation":"патент"}
+{"word":"propriété intellectuelle","translation":"интеллектуальная собственность"}
+{"word":"marque","translation":"бренд"}
+{"word":"branding","translation":"брендинг"}
+{"word":"logo","translation":"логотип"}
+{"word":"publicité","translation":"реклама"}
+{"word":"campagne","translation":"кампания"}
+{"word":"promotion","translation":"продвижение"}
+{"word":"relations publiques","translation":"связи с общественностью"}
+{"word":"médias","translation":"СМИ"}
+{"word":"réseaux sociaux","translation":"социальные сети"}
+{"word":"influenceur","translation":"инфлюенсер"}
+{"word":"stratégie","translation":"стратегия"}
+{"word":"planification","translation":"планирование"}
+{"word":"leadership","translation":"лидерство"}
+{"word":"gestion","translation":"управление"}
+{"word":"opérations","translation":"операции"}
+{"word":"KPI","translation":"ключевой показатель эффективности"}
+{"word":"performance","translation":"эффективность"}
+{"word":"objectif","translation":"цель"}
+{"word":"jalon","translation":"веха"}
+{"word":"date limite","translation":"срок"}
+{"word":"gestion des risques","translation":"управление рисками"}
+{"word":"assurance","translation":"страхование"}
+{"word":"responsabilité","translation":"ответственность"}
+{"word":"conformité","translation":"соответствие"}
+{"word":"réglementation","translation":"регулирование"}
+{"word":"structure juridique","translation":"правовая структура"}
+{"word":"personne morale","translation":"юридическое лицо"}
+{"word":"gouvernance","translation":"управление"}
+{"word":"conseil","translation":"совет"}
+{"word":"PDG","translation":"генеральный директор"}
+{"word":"fondateur","translation":"основатель"}
+{"word":"co-fondateur","translation":"соучредитель"}
+{"word":"incubateur d’entreprises","translation":"бизнес-инкубатор"}
+{"word":"accélérateur","translation":"акселератор"}
+{"word":"espace de coworking","translation":"коворкинг"}
+{"word":"mentor d’affaires","translation":"бизнес-наставник"}
+{"word":"coach d’affaires","translation":"бизнес-коуч"}
+{"word":"réseautage","translation":"нетворкинг"}
+{"word":"présentation pitch","translation":"презентация pitch"}
+{"word":"journée de démonstration","translation":"демо-день"}
+{"word":"financement participatif","translation":"краудфандинг"}
+{"word":"pair-à-pair","translation":"P2P"}
+{"word":"bootstrap","translation":"самофинансирование"}
+{"word":"monétisation","translation":"монетизация"}
+{"word":"vente additionnelle","translation":"дополнительная продажа"}
+{"word":"acquisition client","translation":"привлечение клиента"}
+{"word":"conversion","translation":"конверсия"}
+{"word":"attrition","translation":"отток"}
+{"word":"expérience utilisateur","translation":"пользовательский опыт"}
+{"word":"UI","translation":"пользовательский интерфейс"}
+{"word":"UX","translation":"пользовательский опыт"}
+{"word":"agile","translation":"agile"}
+{"word":"lean startup","translation":"lean startup"}
+{"word":"MVP (Produit Minimum Viable)","translation":"MVP (Минимально жизнеспособный продукт)"}
+{"word":"prototype","translation":"прототип"}
+{"word":"itération","translation":"итерация"}
+{"word":"validation","translation":"валидация"}
+{"word":"retour d’information","translation":"обратная связь"}
+{"word":"traction","translation":"тракшн"}
+{"word":"technologie","translation":"технология"}
+{"word":"mobile-first","translation":"mobile-first"}
+{"word":"SaaS","translation":"SaaS"}
+{"word":"B2B","translation":"B2B"}
+{"word":"B2C","translation":"B2C"}
+{"word":"D2C","translation":"D2C"}
+{"word":"session pitch","translation":"сессия pitch"}
+{"word":"levée de fonds","translation":"привлечение инвестиций"}
+{"word":"stratégie de sortie","translation":"стратегия выхода"}
+{"word":"fusion","translation":"слияние"}
+{"word":"acquisition","translation":"поглощение"}
+{"word":"IPO (Introduction en Bourse)","translation":"IPO (первичное публичное размещение)"}],
+    "humanitarianandngos": [{"word":"humanitaire","translation":"гуманитарный"}
+{"word":"ONG","translation":"НПО"}
+{"word":"organisation non gouvernementale","translation":"негосударственная организация"}
+{"word":"charité","translation":"благотворительность"}
+{"word":"aide","translation":"помощь"}
+{"word":"secours","translation":"спасение"}
+{"word":"soutien","translation":"поддержка"}
+{"word":"assistance","translation":"ассистанция"}
+{"word":"urgence","translation":"чрезвычайная ситуация"}
+{"word":"crise","translation":"кризис"}
+{"word":"catastrophe","translation":"катастрофа"}
+{"word":"reprise","translation":"восстановление"}
+{"word":"réponse","translation":"реакция"}
+{"word":"abri","translation":"приют"}
+{"word":"nourriture","translation":"пища"}
+{"word":"eau","translation":"вода"}
+{"word":"assainissement","translation":"влагоотведение"}
+{"word":"hygiène","translation":"гигиена"}
+{"word":"santé","translation":"здоровье"}
+{"word":"nutrition","translation":"питание"}
+{"word":"vaccination","translation":"вакцинация"}
+{"word":"épidémie","translation":"эпидемия"}
+{"word":"pandémie","translation":"пандемия"}
+{"word":"déplacement","translation":"перемещение"}
+{"word":"réfugié","translation":"беженец"}
+{"word":"asile","translation":"убежище"}
+{"word":"migrant","translation":"мигрант"}
+{"word":"personne déplacée interne","translation":"внутренне перемещённое лицо"}
+{"word":"réinstallation","translation":"переселение"}
+{"word":"conflit","translation":"конфликт"}
+{"word":"maintien de la paix","translation":"миротворчество"}
+{"word":"protection","translation":"защита"}
+{"word":"sécurité","translation":"безопасность"}
+{"word":"genre","translation":"гендер"}
+{"word":"violence basée sur le genre","translation":"гендерно‑обусловленное насилие"}
+{"word":"droits de l’homme","translation":"права человека"}
+{"word":"plaidoyer","translation":"адвокация"}
+{"word":"sensibilisation","translation":"повышение осведомлённости"}
+{"word":"campagne","translation":"кампания"}
+{"word":"communauté","translation":"сообщество"}
+{"word":"développement","translation":"развитие"}
+{"word":"projet","translation":"проект"}
+{"word":"programme","translation":"программа"}
+{"word":"initiative","translation":"инициатива"}
+{"word":"collaboration","translation":"сотрудничество"}
+{"word":"partenariat","translation":"партнёрство"}
+{"word":"donateur","translation":"донор"}
+{"word":"financement","translation":"финансирование"}
+{"word":"subvention","translation":"грант"}
+{"word":"don","translation":"пожертвование"}
+{"word":"sponsor","translation":"спонсор"}
+{"word":"parrainage","translation":"опека/спонсорская помощь"}
+{"word":"bénévole","translation":"волонтёр"}
+{"word":"bénévolat","translation":"волонтёрство"}
+{"word":"personnel","translation":"персонал"}
+{"word":"travailleur de terrain","translation":"полевой работник"}
+{"word":"coordinateur","translation":"координатор"}
+{"word":"logisticien","translation":"логист"}
+{"word":"médecin","translation":"врач"}
+{"word":"conseiller","translation":"консультант"}
+{"word":"psychologue","translation":"психолог"}
+{"word":"assistant social","translation":"социальный работник"}
+{"word":"éducation","translation":"образование"}
+{"word":"scolarisation","translation":"обучение"}
+{"word":"alphabétisation","translation":"грамотность"}
+{"word":"autonomisation","translation":"расширение прав и возможностей"}
+{"word":"inclusion","translation":"инклюзия"}
+{"word":"équité","translation":"справедливость"}
+{"word":"justice","translation":"правосудие"}
+{"word":"dignité","translation":"достоинство"}
+{"word":"renforcement des capacités","translation":"укрепление потенциала"}
+{"word":"formation","translation":"обучение"}
+{"word":"évaluation","translation":"оценка"}
+{"word":"suivi","translation":"мониторинг"}
+{"word":"impact","translation":"влияние"}
+{"word":"base de référence","translation":"базовый уровень"}
+{"word":"indicateur","translation":"индикатор"}
+{"word":"objectif","translation":"цель"}
+{"word":"bénéficiaire","translation":"бенефициар/получатель помощи"}
+{"word":"vulnérable","translation":"уязвимый"}
+{"word":"marginalisé","translation":"маргинализированный"}
+{"word":"basé sur la communauté","translation":"основано на сообществе"}
+{"word":"local","translation":"местный"}
+{"word":"durabilité","translation":"устойчивость"}
+{"word":"résilience","translation":"устойчивость/жизнеспособность"}
+{"word":"climat","translation":"климат"}
+{"word":"changement climatique","translation":"изменение климата"}
+{"word":"insécurité alimentaire","translation":"продовольственная нестабильность"}
+{"word":"faim","translation":"голод"}
+{"word":"malnutrition","translation":"недоедание"}
+{"word":"moyens de subsistance","translation":"средства к существованию"}
+{"word":"agriculture","translation":"сельское хозяйство"}
+{"word":"culture","translation":"культура"}
+{"word":"microfinance","translation":"микрофинансирование"}
+{"word":"entrepreneuriat","translation":"предпринимательство"}
+{"word":"jeunesse","translation":"молодёжь"}
+{"word":"enfants","translation":"дети"}
+{"word":"femmes","translation":"женщины"}
+{"word":"filles","translation":"девочки"}
+{"word":"hommes","translation":"мужчины"}
+{"word":"garçons","translation":"мальчики"}
+{"word":"personnes âgées","translation":"пожилые люди"}
+{"word":"handicapé","translation":"человек с инвалидностью"}
+{"word":"inclusif","translation":"инклюзивный"}
+{"word":"accès","translation":"доступ"}
+{"word":"opportunité","translation":"возможность"}
+{"word":"infrastructure","translation":"инфраструктура"}
+{"word":"reconstruction","translation":"реставрация"}
+{"word":"politique","translation":"политика"}
+{"word":"gouvernance","translation":"управление"}
+{"word":"partie prenante","translation":"заинтересованная сторона"}
+{"word":"coordination","translation":"координация"}
+{"word":"couloir humanitaire","translation":"гуманитарный коридор"}
+{"word":"convoi","translation":"конвой"}
+{"word":"distribution","translation":"распределение"}
+{"word":"stock","translation":"запас"}
+{"word":"entrepôt","translation":"склад"}
+{"word":"logistique","translation":"логистика"}
+{"word":"transport","translation":"транспорт"}
+{"word":"expédition","translation":"отправка"}
+{"word":"douane","translation":"таможня"}
+{"word":"permis","translation":"разрешение"}
+{"word":"documentation","translation":"документация"}
+{"word":"enregistrement","translation":"регистрация"}
+{"word":"identification","translation":"идентификация"}
+{"word":"données","translation":"данные"}
+{"word":"enquête","translation":"опрос/расследование"}
+{"word":"formulaire","translation":"форма"}
+{"word":"rapport","translation":"отчёт"}
+{"word":"tableau de bord","translation":"панель управления"}
+{"word":"communication","translation":"коммуникация"}
+{"word":"médias","translation":"СМИ"}
+{"word":"presse","translation":"пресса"}
+{"word":"déclaration","translation":"заявление"}
+{"word":"appel","translation":"призыв"}
+{"word":"appel d’urgence","translation":"экстренный призыв"}
+{"word":"droit international","translation":"международное право"}
+{"word":"droit humanitaire","translation":"гуманитарное право"}
+{"word":"Convention de Genève","translation":"Женевская конвенция"}
+{"word":"Croix-Rouge","translation":"Красный Крест"}
+{"word":"CICR","translation":"МККК"}
+{"word":"ONU","translation":"ООН"}
+{"word":"UNICEF","translation":"ЮНИСЕФ"}
+{"word":"HCR","translation":"УВКБ ООН"}
+{"word":"PAM","translation":"ВПП"}
+{"word":"OMS","translation":"ВОЗ"}
+{"word":"OCHA","translation":"УВКБ ООН (OCHA)"}
+{"word":"ONG locale","translation":"местная НПО"}
+{"word":"ONG internationale","translation":"международная НПО"}
+{"word":"agence donatrice","translation":"донорское агентство"}
+{"word":"société civile","translation":"гражданское общество"}
+{"word":"secteur privé","translation":"частный сектор"}
+{"word":"lacune de financement","translation":"дефицит финансирования"}
+{"word":"approvisionnement","translation":"снабжение"}
+{"word":"fournitures","translation":"поставки"}
+{"word":"matériaux","translation":"материалы"}
+{"word":"médicaments","translation":"лекарства"}
+{"word":"vaccin","translation":"вакцина"}
+{"word":"psychosocial","translation":"психосоциальный"}
+{"word":"traumatisme","translation":"травма"}
+{"word":"guérison","translation":"исцеление"}
+{"word":"kit d’abri","translation":"комплект для укрытия"}
+{"word":"kit d’hygiène","translation":"гигиенический набор"}
+{"word":"kit dignité","translation":"набор достоинства"}
+{"word":"colis alimentaire","translation":"продовольственный набор"}
+{"word":"ration","translation":"норма продовольствия"}
+{"word":"point de distribution","translation":"пункт распределения"}
+{"word":"réunion de coordination","translation":"координационное собрание"}
+{"word":"visite de terrain","translation":"полевой визит"}
+{"word":"mission","translation":"миссия"}
+{"word":"briefing","translation":"брифинг"}
+{"word":"rapport de terrain","translation":"полевой отчёт"}
+{"word":"rapport de situation","translation":"ситуационный отчёт"}
+{"word":"plan logistique","translation":"логистический план"}
+{"word":"plan stratégique","translation":"стратегический план"}
+{"word":"budget","translation":"бюджет"}
+{"word":"dépense","translation":"расход"}
+{"word":"responsabilité","translation":"ответственность"}
+{"word":"transparence","translation":"прозрачность"}
+{"word":"éthique","translation":"этика"}
+{"word":"neutralité","translation":"нейтралитет"}
+{"word":"impartialité","translation":"беспристрастность"}
+{"word":"indépendance","translation":"независимость"}
+{"word":"bureau de terrain","translation":"полевой офис"}
+{"word":"siège","translation":"штаб"}
+{"word":"système de cluster","translation":"кластерная система"}
+{"word":"cluster protection","translation":"кластер защиты"}
+{"word":"cluster WASH","translation":"кластер ВОСГ"}
+{"word":"cluster sécurité alimentaire","translation":"кластер продовольственной безопасности"}
+{"word":"cluster santé","translation":"кластер здравоохранения"}
+{"word":"cluster éducation","translation":"кластер образования"}
+{"word":"transfert d’argent","translation":"денежный перевод"}
+{"word":"bon","translation":"талон"}
+{"word":"mobile money","translation":"мобильные деньги"}
+{"word":"leader communautaire","translation":"лидер сообщества"}
+{"word":"réunion des parties prenantes","translation":"встреча заинтересованных сторон"}] 
