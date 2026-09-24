@@ -1,9 +1,179 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+  "english": {
+    "englishfrench": [{
+en:"Hello, how are you?",
+translation:"Bonjour, comment allez-vous?"
+},
+
+{
+en:"What is your name?",
+translation:"Comment vous appelez-vous ?"
+},
+
+{
+en:"My name is John.",
+translation:"Je m'appelle John."
+},
+
+{
+en:"Where do you live?",
+translation:"Où habitez-vous ?"
+},
+
+{
+en:"I live in Cameroon.",
+translation:"J'habite au Cameroun."
+},
+
+{
+en:"I am very happy today.",
+translation:"Je suis très heureux aujourd'hui."
+},
+
+{
+en:"What time is it?",
+translation:"Quelle heure est-il ?"
+},
+
+{
+en:"I would like some water.",
+translation:"Je voudrais de l'eau."
+},
+
+{
+en:"Where is the school?",
+translation:"Où est l'école ?"
+},
+
+{
+en:"I like learning languages.",
+translation:"J'aime apprendre les langues."
+},
+
+{
+en:"See you tomorrow.",
+translation:"À demain."
+},
+
+{
+en:"Have a nice day.",
+translation:"Passez une bonne journée."
+},
+
+{
+en:"Thank you very much.",
+translation:"Merci beaucoup."
+},
+
+{
+en:"You are welcome.",
+translation:"Je vous en prie."
+},
+
+{
+en:"I do not understand.",
+translation:"Je ne comprends pas."
+},
+  { "en": "Excuse me, where is the restroom?", "translation": "Excusez-moi, où sont les toilettes ?" },
+  { "en": "How much does this cost?", "translation": "Combien coûte ceci ?" },
+  { "en": "Can you help me, please?", "translation": "Pouvez-vous m'aider, s'il vous plaît ?" },
+  { "en": "I speak a little English.", "translation": "Je parle un peu anglais." },
+  { "en": "What do you do for a living?", "translation": "Que faites-vous dans la vie ?" },
+  { "en": "I am looking for a restaurant.", "translation": "Je cherche un restaurant." },
+  { "en": "Nice to meet you.", "translation": "Ravi de vous rencontrer." },
+  { "en": "Where is the nearest bank?", "translation": "Où se trouve la banque la plus proche ?" },
+  { "en": "It is a beautiful day.", "translation": "C'est une belle journée." },
+  { "en": "I am very tired tonight.", "translation": "Je suis très fatigué ce soir." },
+  { "en": "What is your phone number?", "translation": "Quel est votre numéro de téléphone ?" },
+  { "en": "Can you repeat that, please?", "translation": "Pouvez-vous répéter cela, s'il vous plaît ?" },
+  { "en": "I am lost, can you guide me?", "translation": "Je suis perdu, pouvez-vous me guider ?" },
+  { "en": "Where can I buy a ticket?", "translation": "Où puis-je acheter un billet ?" },
+  { "en": "I need a doctor immediately.", "translation": "J'ai besoin d'un médecin immédiatement." },
+  { "en": "Do you have any brothers or sisters?", "translation": "Avez-vous des frères ou des sœurs ?" },
+  { "en": "What is your favorite food?", "translation": "Quel est votre plat préféré ?" },
+  { "en": "I love listening to music.", "translation": "J'aime écouter de la musique." },
+  { "en": "Where are you going?", "translation": "Où allez-vous ?" },
+  { "en": "I am going to the supermarket.", "translation": "Je vais au supermarché." },
+  { "en": "Can I pay by credit card?", "translation": "Puis-je payer par carte de crédit ?" },
+  { "en": "The weather is very hot today.", "translation": "Le temps est très chaud aujourd'hui." },
+  { "en": "What are your plans for the weekend?", "translation": "Quels sont vos projets pour le week-end ?" },
+  { "en": "I am waiting for the bus.", "translation": "J'attends le bus." },
+  { "en": "Can you speak more slowly, please?", "translation": "Pouvez-vous parler plus lentement, s'il vous plaît ?" },
+  { "en": "I am sorry for being late.", "translation": "Je suis désolé d'être en retard." },
+  { "en": "Where did you buy this book?", "translation": "Où avez-vous acheté ce livre ?" },
+  { "en": "I want to visit this city.", "translation": "Je veux visiter cette ville." },
+  { "en": "Good luck with your project.", "translation": "Bonne chance pour votre projet." },
+  { "en": "Congratulations on your success.", "translation": "Félicitations pour votre réussite." },
+  { "en": "What does this word mean?", "translation": "Que signifie ce mot ?" },
+  { "en": "I completely agree with you.", "translation": "Je suis tout à fait d'accord avec vous." },
+  { "en": "I have a big family.", "translation": "J'ai une grande famille." },
+  { "en": "Where is the international airport?", "translation": "Où se trouve l'aéroport international ?" },
+  { "en": "I am learning how to cook.", "translation": "J'apprends à cuisiner." },
+  { "en": "It is starting to rain.", "translation": "Il commence à pleuvoir." },
+  { "en": "Can you open the window, please?", "translation": "Pouvez-vous ouvrir la fenêtre, s'il vous plaît ?" },
+  { "en": "I will call you later.", "translation": "Je vous appellerai plus tard." },
+  { "en": "What is your email address?", "translation": "Quelle est votre adresse e-mail ?" },
+  { "en": "I enjoy reading books.", "translation": "J'apprécie de lire des livres." },
+  { "en": "Where can I park my car?", "translation": "Où puis-je garer ma voiture ?" },
+  { "en": "Have a safe trip.", "translation": "Bon voyage." },
+  { "en": "I am looking for a job.", "translation": "Je cherche un emploi." },
+  { "en": "This coffee is too hot.", "translation": "Ce café est trop chaud." },
+  { "en": "Can you close the door, please?", "translation": "Pouvez-vous fermer la porte, s'il vous plaît ?" },
+  { "en": "I will be back in ten minutes.", "translation": "Je serai de retour dans dix minutes." },
+  { "en": "What is happening here?", "translation": "Que se passe-t-il ici ?" },
+  { "en": "I forgot my keys at home.", "translation": "J'ai oublié mes clés à la maison." },
+  { "en": "The library is closed on Sundays.", "translation": "La bibliothèque est fermée le dimanche." },
+  { "en": "I need to practice my English.", "translation": "J'ai besoin de pratiquer mon anglais." },
+  { "en": "Can you show me on the map?", "translation": "Pouvez-vous me montrer sur la carte ?" },
+  { "en": "I am proud of you.", "translation": "Je suis fier de vous." },
+  { "en": "What is your date of birth?", "translation": "Quelle est votre date de naissance ?" },
+  { "en": "I work from home today.", "translation": "Je travaille depuis la maison aujourd'hui." },
+  { "en": "The museum is free for students.", "translation": "Le musée est gratuit pour les étudiants." },
+  { "en": "I want to buy a laptop.", "translation": "Je veux acheter un ordinateur portable." },
+  { "en": "Are you ready to order?", "translation": "Êtes-vous prêt à commander ?" },
+  { "en": "I would like a cup of tea.", "translation": "Je voudrais une tasse de thé." },
+  { "en": "Where is the nearest pharmacy?", "translation": "Où est la pharmacie la plus proche ?" },
+  { "en": "This is a very difficult question.", "translation": "C'est une question très difficile." },
+  { "en": "I prefer tea over coffee.", "translation": "Je préfère le thé au café." },
+  { "en": "What is the capital of this country?", "translation": "Quelle est la capitale de ce pays ?" },
+  { "en": "I have been waiting for an hour.", "translation": "J'attends depuis une heure." },
+  { "en": "The train leaves at three o'clock.", "translation": "Le train part à trois heures." },
+  { "en": "Can I have the check, please?", "translation": "Puis-je avoir l'addition, s'il vous plaît ?" },
+  { "en": "I am allergic to seafood.", "translation": "Je suis allergique aux fruits de mer." },
+  { "en": "Where did you go last weekend?", "translation": "Où êtes-vous allé le week-end dernier ?" },
+  { "en": "I need to renew my passport.", "translation": "Je dois renouveler mon passeport." },
+  { "en": "The hotel room is very comfortable.", "translation": "La chambre d'hôtel est très confortable." },
+  { "en": "What is the emergency phone number?", "translation": "Quel est le numéro de téléphone d'urgence ?" },
+  { "en": "I am learning to play the guitar.", "translation": "J'apprends à jouer de la guitare." },
+  { "en": "The internet connection is too slow.", "translation": "La connexion internet est trop lente." },
+  { "en": "Can you recommend a good book?", "translation": "Pouvez-vous recommander un bon livre ?" },
+  { "en": "I have an appointment at noon.", "translation": "J'ai un rendez-vous à midi." },
+  { "en": "The store opens at nine in the morning.", "translation": "Le magasin ouvre à neuf heures du matin." },
+  { "en": "I cannot find my glasses.", "translation": "Je ne trouve pas mes lunettes." },
+  { "en": "What is your professional background?", "translation": "Quel est votre parcours professionnel ?" },
+  { "en": "I have five years of experience.", "translation": "J'ai cinq ans d'expérience." },
+  { "en": "The company is growing rapidly.", "translation": "L'entreprise grandit rapidement." },
+  { "en": "We need to hire more employees.", "translation": "Nous devons embaucher plus d'employés." },
+  { "en": "The annual report is ready.", "translation": "Le rapport annuel est prêt." },
+  { "en": "We must reduce our operational costs.", "translation": "Nous devons réduire nos coûts opérationnels." },
+  { "en": "The contract has been signed by both parties.", "translation": "Le contrat a été signé par les deux parties." },
+  { "en": "The judge will hear the case tomorrow.", "translation": "Le juge entendra l'affaire demain." },
+  { "en": "He was accused of financial fraud.", "translation": "Il a été accusé de fraude financière." },
+  { "en": "The defense attorney made a strong argument.", "translation": "L'avocat de la défense a présenté un argument solide." },
+  { "en": "You must comply with local laws.", "translation": "Vous devez vous conformer aux lois locales." },
+  { "en": "The supreme court rejected the appeal.", "translation": "La cour suprême a rejeté l'appel." },
+  { "en": "A new law was passed yesterday.", "translation": "Une nouvelle loi a été adoptée hier." },
+  { "en": "The contract includes a confidentiality clause.", "translation": "Le contrat comprend une clause de confidentialité." },
+  { "en": "He filed a lawsuit against his employer.", "translation": "Il a intenté un procès contre son employeur." },{ "en": "The patient needs immediate surgery.", "translation": "Le patient a besoin d'une chirurgie immédiate." },{ "en": "She was diagnosed with a rare disease.", "translation": "Elle a été diagnostiquée avec une maladie rare." },{ "en": "Take this medication twice a day.", "translation": "Prenez ce médicament deux fois par jour." },{ "en": "The symptoms include fever and headache.", "translation": "Les symptômes incluent la fièvre et les maux de tête." },{ "en": "He is recovering well from the operation.", "translation": "Il se remet bien de l'opération." },{ "en": "The doctor checked my blood pressure.", "translation": "Le médecin a vérifié ma pression artérielle." },{ "en": "Wash your hands to prevent infection.", "translation": "Lavez-vous les mains pour prévenir l'infection." },{ "en": "The hospital has modern equipment.", "translation": "L'hôpital dispose d'équipements modernes." },{ "en": "Inflation has increased this month.", "translation": "L'inflation a augmenté ce mois-ci." },{ "en": "The stock market crashed yesterday.", "translation": "La bourse s'est effondrée hier." },{ "en": "We need to secure a bank loan.", "translation": "Nous devons obtenir un prêt bancaire." },{ "en": "Interest rates are currently very low.", "translation": "Les taux d'intérêt sont actuellement très bas." },{ "en": "The country is facing an economic crisis.", "translation": "Le pays fait face à une crise économique." },{ "en": "Our revenue grew by ten percent.", "translation": "Notre chiffre d'affaires a augmenté de dix pour cent." },{ "en": "He invests his money in real estate.", "translation": "Il investit son argent dans l'immobilier." },{ "en": "The fiscal budget must be approved.", "translation": "Le budget fiscal doit être approuvé." },{ "en": "Higher education should be accessible to all.", "translation": "L'enseignement supérieur devrait être accessible à tous." },{ "en": "The students are preparing for final exams.", "translation": "Les étudiants se préparent pour les examens finaux." },{ "en": "She obtained a master's degree in science.", "translation": "Elle a obtenu un diplôme de master en sciences." },{ "en": "The school curriculum needs updating.", "translation": "Le programme scolaire a besoin d'être mis à jour." },{ "en": "Online learning has become popular.", "translation": "L'apprentissage en ligne est devenu populaire." },{ "en": "The teacher gave us a lot of homework.", "translation": "L'enseignant nous a donné beaucoup de devoirs." },{ "en": "He received a scholarship to study abroad.", "translation": "Il a reçu une bourse pour étudier à l'étranger." },{ "en": "Attendance is mandatory for this course.", "translation": "La présence est obligatoire pour ce cours." },{ "en": "The project deadline is next Friday.", "translation": "La date limite du projet est vendredi prochain." },{ "en": "We need to set up a meeting.", "translation": "Nous devons organiser une réunion." },{ "en": "Please check the attached document.", "translation": "Veuillez vérifier le document ci-joint." },{ "en": "I will send you the confirmation email.", "translation": "Je vous enverrai l'e-mail de confirmation." },{ "en": "Let's discuss this matter tomorrow.", "translation": "Discutons de cette affaire demain." },{ "en": "Thank you for your quick response.", "translation": "Merci pour votre réponse rapide." },{ "en": "We value your professional opinion.", "translation": "Nous apprécions votre opinion professionnelle." },{ "en": "The strategy proved to be effective.", "translation": "La stratégie s'est avérée efficace." },{ "en": "We must protect our intellectual property.", "translation": "Nous devons protéger notre propriété intellectuelle." },{ "en": "The suspect has the right to remain silent.", "translation": "Le suspect a le droit de garder le silence." },{ "en": "The court reached a final decision.", "translation": "Le tribunal est parvenu à une décision finale." },{ "en": "He was released on bail.", "translation": "Il a été libéré sous caution." },{ "en": "They signed a commercial lease agreement.", "translation": "Ils ont signé un contrat de bail commercial." },{ "en": "The legal fees are quite high.", "translation": "Les frais juridiques sont assez élevés." },{ "en": "She works as a corporate lawyer.", "translation": "Elle travaille comme avocate d'affaires." },{ "en": "The witness provided crucial evidence.", "translation": "Le témoin a fourni une preuve cruciale." },{ "en": "Regular exercise improves your physical health.", "translation": "L'exercice régulier améliore votre santé physique." },{ "en": "You should drink more water every day.", "translation": "Vous devriez boire plus d'eau chaque jour." },{ "en": "Mental health is as important as physical health.", "translation": "La santé mentale est aussi importante que la santé physique." },{ "en": "The clinic offers free vaccinations.", "translation": "La clinique propose des vaccinations gratuites." },{ "en": "He suffers from chronic back pain.", "translation": "Il souffre de douleurs lombaires chroniques." },{ "en": "A balanced diet prevents many diseases.", "translation": "Un régime équilibré prévient de nombreuses maladies." },{ "en": "The medical staff is very professional.", "translation": "Le personnel médical est très professionnel." },{ "en": "She gave birth to a healthy baby.", "translation": "Elle a donné naissance à un bébé en bonne santé." },{ "en": "The investment portfolio is well diversified.", "translation": "Le portefeuille d'investissement est bien diversifié." },{ "en": "Our profit margins have decreased.", "translation": "Nos marges bénéficiaires ont diminué." },{ "en": "The Central Bank controls monetary policy.", "translation": "La Banque Centrale contrôle la politique monétaire." },{ "en": "Tax evasion is a serious crime.", "translation": "L'évasion fiscale est un crime grave." },{ "en": "The global market is highly volatile.", "translation": "Le marché mondial est très volatil." },{ "en": "We need to analyze the financial data.", "translation": "Nous devons analyser les données financières." },{ "en": "The merger will create a larger company.", "translation": "La fusion créera une entreprise plus grande." },{ "en": "They are launching a new product line.", "translation": "Ils lancent une nouvelle gamme de produits." },{ "en": "The professor gave an inspiring lecture.", "translation": "Le professeur a donné un cours magistral inspirant." },{ "en": "Primary education is free in this country.", "translation": "L'enseignement primaire est gratuit dans ce pays." },{ "en": "He failed the exam because he did not study.", "translation": "Il a échoué à l'examen parce qu'il n'a pas étudié." },{ "en": "Interactive teaching methods are more engaging.", "translation": "Les méthodes d'enseignement interactives sont plus attrayantes." },{ "en": "The university campus is beautiful.", "translation": "Le campus universitaire est magnifique." },{ "en": "She is doing research in chemistry.", "translation": "Elle fait des recherches en chimie." },{ "en": "Students must develop critical thinking.", "translation": "Les étudiants doivent développer leur pensée critique." },{ "en": "The school library has thousands of books.", "translation": "La bibliothèque scolaire possède des milliers de livres." },{ "en": "Can you give me a concrete example?", "translation": "Pouvez-vous me donner un exemple concret ?" },{ "en": "We need to find a sustainable solution.", "translation": "Nous devons trouver une solution durable." },{ "en": "The negotiations are still ongoing.", "translation": "Les négociations sont toujours en cours." },{ "en": "I look forward to working with you.", "translation": "J'ai hâte de travailler avec vous." },{ "en": "The dynamic team achieved great results.", "translation": "L'équipe dynamique a obtenu d'excellents résultats." },{ "en": "Please keep me updated on the situation.", "translation": "Veuillez me tenir informé de la situation." },{ "en": "The product quality meets our expectations.", "translation": "La qualité du produit répond à nos attentes." },{ "en": "We must respect the environment.", "translation": "Nous devons respecter l'environnement." },{ "en": "The judge declared the contract null and void.", "translation": "Le juge a déclaré le contrat nul et de nul effet." },{ "en": "He was arrested for driving under the influence.", "translation": "Il a été arrêté pour conduite sous l'empire d'un état alcoolique." },{ "en": "The jury found the defendant guilty.", "translation": "Le jury a déclaré l'accusé coupable." },{ "en": "International law regulates relationships between states.", "translation": "Le droit international régule les relations entre États." },{ "en": "She specializes in human rights law.", "translation": "Elle se spécialise dans le droit des droits de l'homme." },{ "en": "The contract guarantees a fixed monthly income.", "translation": "Le contrat garantit un revenu mensuel fixe." },{ "en": "He filed a patent for his invention.", "translation": "Il a déposé un brevet pour son invention." },{ "en": "Justice must be served fairly.", "translation": "La justice doit être rendue équitablement." },{ "en": "The surgeon performed a heart transplant.", "translation": "Le chirurgien a pratiqué une transplantation cardiaque." },{ "en": "Antibiotics are used to treat bacterial infections.", "translation": "Les antibiotiques sont utilisés pour traiter les infections bactériennes." },{ "en": "Obesity is a major public health concern.", "translation": "L'obésité est un problème de santé publique majeur." },{ "en": "The pharmacy requires a valid prescription.", "translation": "La pharmacie exige une ordonnance valide." },{ "en": "She works as a nurse in a local clinic.", "translation": "Elle travaille comme infirmière dans une clinique locale." },{ "en": "Vaccines save millions of lives each year.", "translation": "Les vaccins sauvent des millions de vies chaque année." },{ "en": "He has a high fever and a sore throat.", "translation": "Il a une forte fièvre et un mal de gorge." },{ "en": "The medical emergency team arrived quickly.", "translation": "L'équipe d'urgence médicale est arrivée rapidement." },{ "en": "The economic indicators show signs of recovery.", "translation": "Les indicateurs économiques montrent des signes de reprise." },{ "en": "We must control public spending.", "translation": "Nous devons contrôler les dépenses publiques." },{ "en": "The company has a positive cash flow.", "translation": "L'entreprise a un flux de trésorerie positif." },{ "en": "Foreign investments stimulate economic growth.", "translation": "Les investissements étrangers stimulent la croissance économique." },{ "en": "The commercial trade balance is negative.", "translation": "La balance commerciale est négative." },{ "en": "He manages a large investment fund.", "translation": "Il gère un grand fonds d'investissement." },{ "en": "Microfinance helps small entrepreneurs.", "translation": "La microfinance aide les petits entrepreneurs." },{ "en": "The purchasing power has decreased significantly.", "translation": "Le pouvoir d'achat a diminué de manière significative." },{ "en": "The teacher evaluates student performance regularly.", "translation": "L'enseignant évalue régulièrement les performances des élèves." },{ "en": "Early childhood education is crucial for development.", "translation": "L'éducation de la petite enfance est cruciale pour le développement." },{ "en": "He graduated with honors from university.", "translation": "Il a obtenu son diplôme universitaire avec mention." },{ "en": "Vocational training offers practical job skills.", "translation": "La formation professionnelle offre des compétences professionnelles pratiques." },{ "en": "The school organizes extracurricular activities.", "translation": "L'école organise des activités parascolaires." },{ "en": "Literacy rates have improved globally.", "translation": "Les taux d'alphabétisation se sont améliorés dans le monde." },{ "en": "The pedagogical approach is innovative.", "translation": "L'approche pédagogique est innovante." },{ "en": "We must encourage lifelong learning.", "translation": "Nous devons encourager l'apprentissage tout au long de la vie." }],
+    "englishgerman": [],
+    "englishitalian": [],
+    "englishspanish": [],
+    "englishportuguese": [],
+    "englishrussian": [],
+    "englisharabic": [],
+    "englishturkish": [],
+    "englishhindi": [],
+    "englishpolish": [],
+    "englishchinese": []
+  }
 }
