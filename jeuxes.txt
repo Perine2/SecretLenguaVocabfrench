@@ -5844,7 +5844,1005 @@
   {
     "id": "es-ru-196",
     "es": "Llegué bien.","ru": "Я благополучно добрался."},{"id": "es-ru-197","es": "Que duermas bien.","ru": "Спи сладко."},{"id": "es-ru-198","es": "Dulces sueños.","ru": "Приятных снов."},{"id": "es-ru-199","es": "Hasta la próxima.","ru": "До следующего раза."},{"id": "es-ru-200","es": "¡Adiós!","ru": "Пока-пока!"}],
-    "spanisharabic": [],
+    "spanisharabic": [{
+    "id": "es-ar-001",
+    "es": "¿Hola, cómo está?",
+    "ar": "مرحباً، كيف حالك؟"
+  },
+  {
+    "id": "es-ar-002",
+    "es": "¿Cómo se llama?",
+    "ar": "ما اسمك؟"
+  },
+  {
+    "id": "es-ar-003",
+    "es": "Me llamo John.",
+    "ar": "اسمي جون."
+  },
+  {
+    "id": "es-ar-004",
+    "es": "Mucho gusto en conocerle.",
+    "ar": "تشرفت بمعرفتك."
+  },
+  {
+    "id": "es-ar-005",
+    "es": "¿De dónde viene?",
+    "ar": "من أين أنت؟"
+  },
+  {
+    "id": "es-ar-006",
+    "es": "Vengo de Francia.",
+    "ar": "أنا من فرنسا."
+  },
+  {
+    "id": "es-ar-007",
+    "es": "¿Dónde vive?",
+    "ar": "أين تسكن؟"
+  },
+  {
+    "id": "es-ar-008",
+    "es": "Vivo en París.",
+    "ar": "أسكن في باريس."
+  },
+  {
+    "id": "es-ar-009",
+    "es": "¿Cuántos años tiene?",
+    "ar": "كم عمرك؟"
+  },
+  {
+    "id": "es-ar-010",
+    "es": "Tengo treinta años.",
+    "ar": "عمري ثلاثون عاماً."
+  },
+  {
+    "id": "es-ar-011",
+    "es": "¿En qué trabaja?",
+    "ar": "ما هي مهنتك؟"
+  },
+  {
+    "id": "es-ar-012",
+    "es": "Soy estudiante.",
+    "ar": "أنا طالب."
+  },
+  {
+    "id": "es-ar-013",
+    "es": "¿Habla inglés?",
+    "ar": "هل تتحدث الإنجليزية؟"
+  },
+  {
+    "id": "es-ar-014",
+    "es": "Hablo un poco de inglés.",
+    "ar": "أتحدث القليل من الإنجليزية."
+  },
+  {
+    "id": "es-ar-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "ar": "هل يمكنك مساعدتي، من فضلك؟"
+  },
+  {
+    "id": "es-ar-016",
+    "es": "Muchas gracias.",
+    "ar": "شكراً جزيلاً."
+  },
+  {
+    "id": "es-ar-017",
+    "es": "De nada.",
+    "ar": "على الرحب والسعة."
+  },
+  {
+    "id": "es-ar-018",
+    "es": "Por favor.",
+    "ar": "من فضلك."
+  },
+  {
+    "id": "es-ar-019",
+    "es": "Disculpe.",
+    "ar": "المعذرة."
+  },
+  {
+    "id": "es-ar-020",
+    "es": "Lo siento.",
+    "ar": "أنا آسف."
+  },
+  {
+    "id": "es-ar-021",
+    "es": "¿Qué hora es?",
+    "ar": "كم الساعة؟"
+  },
+  {
+    "id": "es-ar-022",
+    "es": "Son las diez.",
+    "ar": "إنها الساعة العاشرة."
+  },
+  {
+    "id": "es-ar-023",
+    "es": "¿Dónde está el baño?",
+    "ar": "أين المرحاض؟"
+  },
+  {
+    "id": "es-ar-024",
+    "es": "Es por allá.",
+    "ar": "إنه من ذلك الاتجاه."
+  },
+  {
+    "id": "es-ar-025",
+    "es": "¿Cuánto cuesta?",
+    "ar": "كم ثمن هذا?"
+  },
+  {
+    "id": "es-ar-026",
+    "es": "Es demasiado caro.",
+    "ar": "هذا غالٍ جداً."
+  },
+  {
+    "id": "es-ar-027",
+    "es": "¿Dónde está la estación de tren?",
+    "ar": "أين محطة القطار؟"
+  },
+  {
+    "id": "es-ar-028",
+    "es": "Busco un buen restaurante.",
+    "ar": "أبحث عن مطعم جيد."
+  },
+  {
+    "id": "es-ar-029",
+    "es": "La cuenta, por favor.",
+    "ar": "الحساب، من فضلك."
+  },
+  {
+    "id": "es-ar-030",
+    "es": "¿Cómo está el clima hoy?",
+    "ar": "كيف الطقس اليوم؟"
+  },
+  {
+    "id": "es-ar-031",
+    "es": "Hace buen tiempo.",
+    "ar": "الطقس جميل."
+  },
+  {
+    "id": "es-ar-032",
+    "es": "Está lloviendo.",
+    "ar": "إنها تمطر."
+  },
+  {
+    "id": "es-ar-033",
+    "es": "Tengo hambre.",
+    "ar": "أنا جائع."
+  },
+  {
+    "id": "es-ar-034",
+    "es": "Tengo sed.",
+    "ar": "أنا عطشان."
+  },
+  {
+    "id": "es-ar-035",
+    "es": "Estoy cansado.",
+    "ar": "أنا متعب."
+  },
+  {
+    "id": "es-ar-036",
+    "es": "No entiendo.",
+    "ar": "لا أفهم."
+  },
+  {
+    "id": "es-ar-037",
+    "es": "¿Puede repetir?",
+    "ar": "هل يمكنك التكرار؟"
+  },
+  {
+    "id": "es-ar-038",
+    "es": "Hable más despacio, por favor.",
+    "ar": "تحدث ببطء أكثر، من فضلك."
+  },
+  {
+    "id": "es-ar-039",
+    "es": "¿Cómo se dice eso en árabe?",
+    "ar": "كيف يقال هذا باللغة العربية؟"
+  },
+  {
+    "id": "es-ar-040",
+    "es": "¿Qué significa esta palabra?",
+    "ar": "ما معنى هذه الكلمة؟"
+  },
+  {
+    "id": "es-ar-041",
+    "es": "Te amo.",
+    "ar": "أنا أحبك."
+  },
+  {
+    "id": "es-ar-042",
+    "es": "Te extraño.",
+    "ar": "أشتاق إليك."
+  },
+  {
+    "id": "es-ar-043",
+    "es": "¡Buena suerte!",
+    "ar": "حظاً موفقاً!"
+  },
+  {
+    "id": "es-ar-044",
+    "es": "¡Felicitaciones!",
+    "ar": "تهانينا!"
+  },
+  {
+    "id": "es-ar-045",
+    "es": "¡Feliz cumpleaños!",
+    "ar": "عيد ميلاد سعيد!"
+  },
+  {
+    "id": "es-ar-046",
+    "es": "¡Buen voyage!",
+    "ar": "رحلة سعيدة!"
+  },
+  {
+    "id": "es-ar-047",
+    "es": "Que tenga un buen día.",
+    "ar": "أتمنى لك يوماً سعيداً."
+  },
+  {
+    "id": "es-ar-048",
+    "es": "Hasta pronto.",
+    "ar": "أراك قريباً."
+  },
+  {
+    "id": "es-ar-049",
+    "es": "Hasta mañana.",
+    "ar": "أراك غداً."
+  },
+  {
+    "id": "es-ar-050",
+    "es": "Adiós.",
+    "ar": "إلى اللقاء."
+  },
+  {
+    "id": "es-ar-051",
+    "es": "¿A dónde va?",
+    "ar": "إلى أين أنت ذاهب؟"
+  },
+  {
+    "id": "es-ar-052",
+    "es": "Voy al supermercado.",
+    "ar": "أنا ذاهب إلى السوبرماركت."
+  },
+  {
+    "id": "es-ar-053",
+    "es": "¿Qué es esto?",
+    "ar": "ما هذا؟"
+  },
+  {
+    "id": "es-ar-054",
+    "es": "No lo sé.",
+    "ar": "لا أعرف."
+  },
+  {
+    "id": "es-ar-055",
+    "es": "¿Está seguro?",
+    "ar": "هل أنت متأكد؟"
+  },
+  {
+    "id": "es-ar-056",
+    "es": "Sí, estoy seguro.",
+    "ar": "نعم، أنا متأكد."
+  },
+  {
+    "id": "es-ar-057",
+    "es": "Creo que sí.",
+    "ar": "أظن ذلك."
+  },
+  {
+    "id": "es-ar-058",
+    "es": "Creo que no.",
+    "ar": "لا أظن ذلك."
+  },
+  {
+    "id": "es-ar-059",
+    "es": "No hay problema.",
+    "ar": "لا مشكلة."
+  },
+  {
+    "id": "es-ar-060",
+    "es": "No importa.",
+    "ar": "لا يهم."
+  },
+  {
+    "id": "es-ar-061",
+    "es": "¿Qué estás comiendo?",
+    "ar": "ماذا تأكل؟"
+  },
+  {
+    "id": "es-ar-062",
+    "es": "Está delicioso.",
+    "ar": "هذا لذيذ."
+  },
+  {
+    "id": "es-ar-063",
+    "es": "No me gusta.",
+    "ar": "لا يعجبني هذا."
+  },
+  {
+    "id": "es-ar-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "ar": "ما هي هواياتك؟"
+  },
+  {
+    "id": "es-ar-065",
+    "es": "Me gusta leer libros.",
+    "ar": "أحب قراءة الكتب."
+  },
+  {
+    "id": "es-ar-066",
+    "es": "Me gusta escuchar música.",
+    "ar": "أحب الاستماع إلى الموسيقى."
+  },
+  {
+    "id": "es-ar-067",
+    "es": "¿Hace deporte?",
+    "ar": "هل تمارس الرياضة؟"
+  },
+  {
+    "id": "es-ar-068",
+    "es": "Juego al fútbol.",
+    "ar": "ألعب كرة القدم."
+  },
+  {
+    "id": "es-ar-069",
+    "es": "Estoy viendo una película.",
+    "ar": "أنا أشاهد فيلماً."
+  },
+  {
+    "id": "es-ar-070",
+    "es": "¿Dónde lo compraste?",
+    "ar": "أين اشتريت هذا؟"
+  },
+  {
+    "id": "es-ar-071",
+    "es": "Es un regalo.",
+    "ar": "هذه هدية."
+  },
+  {
+    "id": "es-ar-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "ar": "هل يمكنك إغلاق النافذة، من فضلك؟"
+  },
+  {
+    "id": "es-ar-073",
+    "es": "Hace frío aquí.",
+    "ar": "الجو بارد هنا."
+  },
+  {
+    "id": "es-ar-074",
+    "es": "Hace calor afuera.",
+    "ar": "الجو حار بالخارج."
+  },
+  {
+    "id": "es-ar-075",
+    "es": "¿Dónde están mis llaves?",
+    "ar": "أين مفاتيحي؟"
+  },
+  {
+    "id": "es-ar-076",
+    "es": "Están sobre la mesa.",
+    "ar": "إنها على الطاولة."
+  },
+  {
+    "id": "es-ar-077",
+    "es": "Tengo que irme.",
+    "ar": "يجب أن أذهب."
+  },
+  {
+    "id": "es-ar-078",
+    "es": "Cuídate.",
+    "ar": "اعتنِ بنفسك."
+  },
+  {
+    "id": "es-ar-079",
+    "es": "Hasta luego.",
+    "ar": "أراك لاحقاً."
+  },
+  {
+    "id": "es-ar-080",
+    "es": "Buenas noches.",
+    "ar": "تصبح على خير."
+  },
+  {
+    "id": "es-ar-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "ar": "هل لديك إخوة أو أخوات؟"
+  },
+  {
+    "id": "es-ar-082",
+    "es": "Tengo un hermano y una hermana.",
+    "ar": "لدي أخ وأخت."
+  },
+  {
+    "id": "es-ar-083",
+    "es": "¿Está casado?",
+    "ar": "هل أنت متزوج؟"
+  },
+  {
+    "id": "es-ar-084",
+    "es": "Soy soltero.",
+    "ar": "أنا أعزل."
+  },
+  {
+    "id": "es-ar-085",
+    "es": "¿Tienes hijos?",
+    "ar": "هل لديك أطفال؟"
+  },
+  {
+    "id": "es-ar-086",
+    "es": "Tengo dos hijos.",
+    "ar": "لدي طفلان."
+  },
+  {
+    "id": "es-ar-087",
+    "es": "¿Dónde trabajas?",
+    "ar": "أين تعمل؟"
+  },
+  {
+    "id": "es-ar-088",
+    "es": "Trabajo en una oficina.",
+    "ar": "أعمل في مكتب."
+  },
+  {
+    "id": "es-ar-089",
+    "es": "¿Le gusta el café o el té?",
+    "ar": "هل تحب القهوة أم الشاي؟"
+  },
+  {
+    "id": "es-ar-090",
+    "es": "Prefiero tomar té.",
+    "ar": "أفضل شرب الشاي."
+  },
+  {
+    "id": "es-ar-091",
+    "es": "Es una buena idea.",
+    "ar": "هذه فكرة جيدة."
+  },
+  {
+    "id": "es-ar-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "ar": "أنا متعب، سأذهب إلى الفراش."
+  },
+  {
+    "id": "es-ar-093",
+    "es": "¿Cuál es su película favorita?",
+    "ar": "ما هو فيلمك المفضل؟"
+  },
+  {
+    "id": "es-ar-094",
+    "es": "¿Puede mostrarme el camino?",
+    "ar": "هل يمكنك إرشادي إلى الطريق؟"
+  },
+  {
+    "id": "es-ar-095",
+    "es": "Perdí mi teléfono.",
+    "ar": "لقد فقدت هاتفي."
+  },
+  {
+    "id": "es-ar-096",
+    "es": "Llame a un médico, por favor.",
+    "ar": "اتصل بالطبيب، من فضلك."
+  },
+  {
+    "id": "es-ar-097",
+    "es": "Es una emergencia.",
+    "ar": "هذه حالة طوارئ."
+  },
+  {
+    "id": "es-ar-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "ar": "هل لديك كلمة سر الواي فاي؟"
+  },
+  {
+    "id": "es-ar-099",
+    "es": "Internet está muy lento.",
+    "ar": "الإنترنت بطيء جداً."
+  },
+  {
+    "id": "es-ar-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "ar": "يجب علي إلغاء تذكرتي."
+  },{
+    "id": "es-ar-101",
+    "es": "¿Cuánto dura el viaje?",
+    "ar": "كم تستغرق الرحلة؟"
+  },
+  {
+    "id": "es-ar-102",
+    "es": "¿Podemos parar aquí?",
+    "ar": "هل يمكننا التوقف هنا؟"
+  },
+  {
+    "id": "es-ar-103",
+    "es": "Necesito un recibo.",
+    "ar": "أحتاج إلى إيصال."
+  },
+  {
+    "id": "es-ar-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "ar": "أين يمكنني تحويل المال؟"
+  },
+  {
+    "id": "es-ar-105",
+    "es": "¿Hay un banco cerca?",
+    "ar": "هل يوجد بنك بالقرب من هنا؟"
+  },
+  {
+    "id": "es-ar-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "ar": "هل تقبلون بطاقات الائتمان؟"
+  },
+  {
+    "id": "es-ar-107",
+    "es": "Pago en efectivo.",
+    "ar": "سأدفع نقداً."
+  },
+  {
+    "id": "es-ar-108",
+    "es": "¿Puede hacerme un descuento?",
+    "ar": "هل يمكنك إعطائي خصماً؟"
+  },
+  {
+    "id": "es-ar-109",
+    "es": "Esta es mi última palabra.",
+    "ar": "هذه كلمتي الأخيرة."
+  },
+  {
+    "id": "es-ar-110",
+    "es": "Solo estoy mirando.",
+    "ar": "أنا أنظر فقط."
+  },
+  {
+    "id": "es-ar-111",
+    "es": "¿Lo tiene en otra talla?",
+    "ar": "هل لديك هذا بمقاس آخر؟"
+  },
+  {
+    "id": "es-ar-112",
+    "es": "¿Dónde está el probador?",
+    "ar": "أين غرفة القياس؟"
+  },
+  {
+    "id": "es-ar-113",
+    "es": "Me queda bien.",
+    "ar": "هذا يناسبني جيداً."
+  },
+  {
+    "id": "es-ar-114",
+    "es": "Me lo llevo.",
+    "ar": "سآخذه."
+  },
+  {
+    "id": "es-ar-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "ar": "أين يمكنني ترك حقيبتي؟"
+  },
+  {
+    "id": "es-ar-116",
+    "es": "¿Tienen comida vegetariana?",
+    "ar": "هل لديكم طعام نباتي؟"
+  },
+  {
+    "id": "es-ar-117",
+    "es": "Soy alérgico.",
+    "ar": "لدي حساسية."
+  },
+  {
+    "id": "es-ar-118",
+    "es": "Sin picante, por favor.",
+    "ar": "ليس حاراً، من فضلك."
+  },
+  {
+    "id": "es-ar-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "ar": "أحضر لي كوباً من الماء، من فضلك."
+  },
+  {
+    "id": "es-ar-120",
+    "es": "¡Buen provecho!",
+    "ar": "بالهناء والشفاء!"
+  },
+  {
+    "id": "es-ar-121",
+    "es": "¡Salud!",
+    "ar": "في صحتك!"
+  },
+  {
+    "id": "es-ar-122",
+    "es": "La comida estaba maravillosa.",
+    "ar": "الطعام كان رائعاً."
+  },
+  {
+    "id": "es-ar-123",
+    "es": "Me gustaría reservar una habitación.",
+    "ar": "أود حجز غرفة."
+  },
+  {
+    "id": "es-ar-124",
+    "es": "¿El desayuno está incluido?",
+    "ar": "هل وجبة الإفطار مشمولة؟"
+  },
+  {
+    "id": "es-ar-125",
+    "es": "¿A qué hora es la salida?",
+    "ar": "في أي ساعة تسجيل المغادرة؟"
+  },
+  {
+    "id": "es-ar-126",
+    "es": "¿Puede llamar a un taxi?",
+    "ar": "هل يمكنك الاتصال بسيارة أجرة؟"
+  },
+  {
+    "id": "es-ar-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "ar": "خذني إلى هذا العنوان، من فضلك."
+  },
+  {
+    "id": "es-ar-128",
+    "es": "Deténgase aquí, por favor.",
+    "ar": "توقف هنا، من فضلك."
+  },
+  {
+    "id": "es-ar-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "ar": "هل توجد محطة حافلات بالقرب من هنا؟"
+  },
+  {
+    "id": "es-ar-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "ar": "في أي وقت ينطلق القطار القادم؟"
+  },
+  {
+    "id": "es-ar-131",
+    "es": "El tren está retrasado.",
+    "ar": "القطار متأخر."
+  },
+  {
+    "id": "es-ar-132",
+    "es": "Perdí mi vuelo.",
+    "ar": "لقد فاتتني رحلتي الطيران."
+  },
+  {
+    "id": "es-ar-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "ar": "أين منطقة استلام الأمتعة؟"
+  },
+  {
+    "id": "es-ar-134",
+    "es": "Esta no es mi maleta.",
+    "ar": "هذه ليست حقيبتي."
+  },
+  {
+    "id": "es-ar-135",
+    "es": "Mi pasaporte desapareció.",
+    "ar": "لقد اختفى جواز سفري."
+  },
+  {
+    "id": "es-ar-136",
+    "es": "¿Dónde está la embajada?",
+    "ar": "أين السفارة؟"
+  },
+  {
+    "id": "es-ar-137",
+    "es": "Necesito ayuda de la policía.",
+    "ar": "أحتاج إلى مساعدة الشرطة."
+  },
+  {
+    "id": "es-ar-138",
+    "es": "Déjame en paz.",
+    "ar": "اتركني وشأني."
+  },
+  {
+    "id": "es-ar-139",
+    "es": "¡Vete!",
+    "ar": "اذهب بعيداً!"
+  },
+  {
+    "id": "es-ar-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "ar": "النجدة! لقد سرقني أحدهم."
+  },
+  {
+    "id": "es-ar-141",
+    "es": "Me perdí.",
+    "ar": "لقد ضللت الطريق."
+  },
+  {
+    "id": "es-ar-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "ar": "هل يمكنك أن تريني على الخريطة أين أنا؟"
+  },
+  {
+    "id": "es-ar-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "ar": "ما هو رقم هاتفك؟"
+  },
+  {
+    "id": "es-ar-144",
+    "es": "Escríbalo, por favor.",
+    "ar": "اكتبه، من فضلك."
+  },
+  {
+    "id": "es-ar-145",
+    "es": "Te llamaré.",
+    "ar": "سأتصل بك."
+  },
+  {
+    "id": "es-ar-146",
+    "es": "Mándame un mensaje.",
+    "ar": "أرسل لي رسالة."
+  },
+  {
+    "id": "es-ar-147",
+    "es": "¿Está en las redes sociales?",
+    "ar": "هل أنت على وسائل التواصل الاجتماعي؟"
+  },
+  {
+    "id": "es-ar-148",
+    "es": "Te sigo.",
+    "ar": "أنا أتابعك."
+  },
+  {
+    "id": "es-ar-149",
+    "es": "¿Qué hay de nuevo?",
+    "ar": "ما الأخبار؟"
+  },
+  {
+    "id": "es-ar-150",
+    "es": "Nada especial.",
+    "ar": "لا شيء مميز."
+  },
+  {
+    "id": "es-ar-151",
+    "es": "No veo la hora.",
+    "ar": "أتطلع إلى ذلك بشوق."
+  },
+  {
+    "id": "es-ar-152",
+    "es": "No me importa.",
+    "ar": "لا يهمني."
+  },
+  {
+    "id": "es-ar-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "ar": "لا تقلق، كل شيء سيكون على ما يرام."
+  },
+  {
+    "id": "es-ar-154",
+    "es": "Cálmate, por favor.",
+    "ar": "اهدأ، من فضلك."
+  },
+  {
+    "id": "es-ar-155",
+    "es": "No te estreses.",
+    "ar": "لا توتر نفسك."
+  },
+  {
+    "id": "es-ar-156",
+    "es": "¡Es increíble!",
+    "ar": "هذا أمر لا يصدق!"
+  },
+  {
+    "id": "es-ar-157",
+    "es": "Estoy orgulloso de ti.",
+    "ar": "أنا فخور بك."
+  },
+  {
+    "id": "es-ar-158",
+    "es": "Hiciste un buen trabajo.",
+    "ar": "لقد قمت بعمل جيد."
+  },
+  {
+    "id": "es-ar-159",
+    "es": "¡Ánimo!",
+    "ar": "ارفع رأسك! / ابتهج!"
+  },
+  {
+    "id": "es-ar-160",
+    "es": "¡No te rindas!",
+    "ar": "لا تستسلم!"
+  },
+  {
+    "id": "es-ar-161",
+    "es": "La práctica hace al maestro.",
+    "ar": "التكرار يعلم الشطار."
+  },
+  {
+    "id": "es-ar-162",
+    "es": "Comencemos mañana.",
+    "ar": "فلنبدأ غداً."
+  },
+  {
+    "id": "es-ar-163",
+    "es": "No tengo tiempo hoy.",
+    "ar": "ليس لدي وقت اليوم."
+  },
+  {
+    "id": "es-ar-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "ar": "يمكننا الالتقاء في عطلة نهاية الأسبوع."
+  },
+  {
+    "id": "es-ar-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "ar": "متى لديك وقت؟"
+  },
+  {
+    "id": "es-ar-166",
+    "es": "Soy flexible.",
+    "ar": "وقتي مرن."
+  },
+  {
+    "id": "es-ar-167",
+    "es": "Depende del clima.",
+    "ar": "هذا يعتمد على حالة الطقس."
+  },
+  {
+    "id": "es-ar-168",
+    "es": "Está nublado hoy.",
+    "ar": "الجو غائم اليوم."
+  },
+  {
+    "id": "es-ar-169",
+    "es": "Está nevando afuera.",
+    "ar": "تتساقط الثلوج بالخارج."
+  },
+  {
+    "id": "es-ar-170",
+    "es": "El viento está muy fuerte.",
+    "ar": "الرياح قوية جداً."
+  },
+  {
+    "id": "es-ar-171",
+    "es": "Mañana estará soleado.",
+    "ar": "غداً سيكون مشمساً."
+  },
+  {
+    "id": "es-ar-172",
+    "es": "Amo el verano.",
+    "ar": "أحب الصيف."
+  },
+  {
+    "id": "es-ar-173",
+    "es": "El invierno es demasiado largo.",
+    "ar": "الشتاء طويل جداً."
+  },
+  {
+    "id": "es-ar-174",
+    "es": "Es mi estación favorita.",
+    "ar": "هذا هو فصلي المفضل."
+  },
+  {
+    "id": "es-ar-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "ar": "ماذا فعلت في عطلة نهاية الأسبوع؟"
+  },
+  {
+    "id": "es-ar-176",
+    "es": "Me quedé en casa.",
+    "ar": "لقد بقيت في المنزل."
+  },
+  {
+    "id": "es-ar-177",
+    "es": "Visité a mis amigos.",
+    "ar": "لقد زرت أصدقائي."
+  },
+  {
+    "id": "es-ar-178",
+    "es": "Nos divertimos mucho.",
+    "ar": "لقد استمتعنا كثيراً."
+  },
+  {
+    "id": "es-ar-179",
+    "es": "Fue una surprise.",
+    "ar": "كانت هذه مفاجأة."
+  },
+  {
+    "id": "es-ar-180",
+    "es": "Compré un auto nuevo.",
+    "ar": "لقد اشتريت سيارة جديدة."
+  },
+  {
+    "id": "es-ar-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "ar": "تهانينا على العمل الجديد!"
+  },
+  {
+    "id": "es-ar-182",
+    "es": "¿Cuándo comienzas?",
+    "ar": "متى تبدأ؟"
+  },
+  {
+    "id": "es-ar-183",
+    "es": "Comienzo el próximo lunes.",
+    "ar": "سأبدأ يوم الاثنين القادم."
+  },
+  {
+    "id": "es-ar-184",
+    "es": "Estoy un poco nervioso.",
+    "ar": "أنا متوتر قليلاً."
+  },
+  {
+    "id": "es-ar-185",
+    "es": "Es completamente normal.",
+    "ar": "هذا أمر طبيعي تماماً."
+  },
+  {
+    "id": "es-ar-186",
+    "es": "Lo lograrás.",
+    "ar": "سوف تنجح في ذلك."
+  },
+  {
+    "id": "es-ar-187",
+    "es": "Creo en ti.",
+    "ar": "أنا أؤمن بك."
+  },
+  {
+    "id": "es-ar-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "ar": "شكراً جزيلاً على دعمك."
+  },
+  {
+    "id": "es-ar-189",
+    "es": "Eres un buen amigo.",
+    "ar": "أنت صديق جيد."
+  },
+  {
+    "id": "es-ar-190",
+    "es": "Siempre estoy aquí para ti.",
+    "ar": "أنا هنا دائماً من أجلك."
+  },
+  {
+    "id": "es-ar-191",
+    "es": "Esto significa mucho para mí.",
+    "ar": "هذا يعني الكثير لي."
+  },
+  {
+    "id": "es-ar-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "ar": "فلنلتقِ مجدداً قريباً."
+  },
+  {
+    "id": "es-ar-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "ar": "يجب علي الذهاب الآن حقاً."
+  },
+  {
+    "id": "es-ar-194",
+    "es": "Que llegues bien a casa.",
+    "ar": "رافقتك السلامة إلى المنزل."
+  },
+  {
+    "id": "es-ar-195",
+    "es": "Escríbeme cuando llegues.",
+    "ar": "اكتب لي عندما تصل."
+  },
+  {
+    "id": "es-ar-196",
+    "es": "Llegué bien.",
+    "ar": "لقد وصلت بسلام."
+  },
+  {
+    "id": "es-ar-197",
+    "es": "Que duermas bien.",
+    "ar": "نم جيداً."
+  },
+  {
+    "id": "es-ar-198",
+    "es": "Dulces sueños.",
+    "ar": "أحلاماً سعيدة."
+  },
+  {
+    "id": "es-ar-199",
+    "es": "Hasta la próxima.",
+    "ar": "إلى المرة القادمة."
+  },
+  {
+    "id": "es-ar-200",
+    "es": "¡Adiós!",
+    "ar": "وداعاً!"
+  }],
     "spanishturkish": [],
     "spanishhindi": [],
     "spanishpolish": [],
