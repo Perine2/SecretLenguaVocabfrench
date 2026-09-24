@@ -4854,8 +4854,1976 @@
     "pt": "Escreve-me quando chegares."
   },
   {"id": "it-pt-196","it": "Sono arrivato bene.","pt": "Cheguei bem."},{"id": "it-pt-197","it": "Dormi bene.","pt": "Dorme bem."},{"id": "it-pt-198","it": "Sogni d'oro.","pt": "Bons sonhos."},{"id": "it-pt-199","it": "Alla prossima volta.","pt": "Até à próxima."},{"id": "it-pt-200","it": "Ciao ciao!","pt": "Adeus! / Tchau!"}],
-    "italianrussian": [],
-    "italianarabic": [],
+    "italianrussian": [{
+    "id": "it-ru-001",
+    "it": "Ciao, come sta?",
+    "ru": "Здравствуйте, как у вас дела?"
+  },
+  {
+    "id": "it-ru-002",
+    "it": "Come si chiama?",
+    "ru": "Как вас зовут?"
+  },
+  {
+    "id": "it-ru-003",
+    "it": "Mi chiamo John.",
+    "ru": "Меня зовут Джон."
+  },
+  {
+    "id": "it-ru-004",
+    "it": "Piacere di conoscerla.",
+    "ru": "Рад с вами познакомиться."
+  },
+  {
+    "id": "it-ru-005",
+    "it": "Da dove viene?",
+    "ru": "Откуда вы?"
+  },
+  {
+    "id": "it-ru-006",
+    "it": "Vengo dalla Francia.",
+    "ru": "Я из Франции."
+  },
+  {
+    "id": "it-ru-007",
+    "it": "Dove abita?",
+    "ru": "Где вы живёте?"
+  },
+  {
+    "id": "it-ru-008",
+    "it": "Abito a Parigi.",
+    "ru": "Я живу в Париже."
+  },
+  {
+    "id": "it-ru-009",
+    "it": "Quanti anni ha?",
+    "ru": "Сколько вам лет?"
+  },
+  {
+    "id": "it-ru-010",
+    "it": "Ho trent'anni.",
+    "ru": "Мне тридцать лет."
+  },
+  {
+    "id": "it-ru-011",
+    "it": "Che lavoro fa?",
+    "ru": "Кем вы работаете?"
+  },
+  {
+    "id": "it-ru-012",
+    "it": "Sono uno studente.",
+    "ru": "Я студент."
+  },
+  {
+    "id": "it-ru-013",
+    "it": "Parla inglese?",
+    "ru": "Вы говорите по-английски?"
+  },
+  {
+    "id": "it-ru-014",
+    "it": "Parlo un po' di inglese.",
+    "ru": "Я немного говорю по-английски."
+  },
+  {
+    "id": "it-ru-015",
+    "it": "Può aiutarmi, per favore?",
+    "ru": "Пожалуйста, вы можете мне помочь?"
+  },
+  {
+    "id": "it-ru-016",
+    "it": "Grazie mille.",
+    "ru": "Большое спасибо."
+  },
+  {
+    "id": "it-ru-017",
+    "it": "Prego.",
+    "ru": "Пожалуйста / Не за что."
+  },
+  {
+    "id": "it-ru-018",
+    "it": "Per favore.",
+    "ru": "Пожалуйста."
+  },
+  {
+    "id": "it-ru-019",
+    "it": "Mi scusi.",
+    "ru": "Извините."
+  },
+  {
+    "id": "it-ru-020",
+    "it": "Mi dispiace.",
+    "ru": "Мне очень жаль."
+  },
+  {
+    "id": "it-ru-021",
+    "it": "Che ore sono?",
+    "ru": "Который час?"
+  },
+  {
+    "id": "it-ru-022",
+    "it": "Sono le dieci.",
+    "ru": "Сейчас десять часов."
+  },
+  {
+    "id": "it-ru-023",
+    "it": "Dov'è il bagno?",
+    "ru": "Где находится туалет?"
+  },
+  {
+    "id": "it-ru-024",
+    "it": "È da quella parte.",
+    "ru": "Это в той стороне."
+  },
+  {
+    "id": "it-ru-025",
+    "it": "Quanto costa?",
+    "ru": "Сколько это стоит?"
+  },
+  {
+    "id": "it-ru-026",
+    "it": "È troppo caro.",
+    "ru": "Это слишком дорого."
+  },
+  {
+    "id": "it-ru-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "ru": "Где железнодорожный вокзал?"
+  },
+  {
+    "id": "it-ru-028",
+    "it": "Cerco un buon ristorante.",
+    "ru": "Я ищу хороший ресторан."
+  },
+  {
+    "id": "it-ru-029",
+    "it": "Il conto, per favore.",
+    "ru": "Счёт, пожалуйста."
+  },
+  {
+    "id": "it-ru-030",
+    "it": "Com'è il tempo oggi?",
+    "ru": "Какая сегодня погода?"
+  },
+  {
+    "id": "it-ru-031",
+    "it": "Il tempo è bello.",
+    "ru": "Погода хорошая."
+  },
+  {
+    "id": "it-ru-032",
+    "it": "Piove.",
+    "ru": "Идёт дождь."
+  },
+  {
+    "id": "it-ru-033",
+    "it": "Ho fame.",
+    "ru": "Я хочу есть."
+  },
+  {
+    "id": "it-ru-034",
+    "it": "Ho sete.",
+    "ru": "Я хочу пить."
+  },
+  {
+    "id": "it-ru-035",
+    "it": "Sono stanco.",
+    "ru": "Я устал."
+  },
+  {
+    "id": "it-ru-036",
+    "it": "Non capisco.",
+    "ru": "Я не понимаю."
+  },
+  {
+    "id": "it-ru-037",
+    "it": "Può ripetere?",
+    "ru": "Вы можете повторить?"
+  },
+  {
+    "id": "it-ru-038",
+    "it": "Parli più lentamente, per favore.",
+    "ru": "Говорите медленнее, пожалуйста."
+  },
+  {
+    "id": "it-ru-039",
+    "it": "Come si dice in russo?",
+    "ru": "Как это будет по-русски?"
+  },
+  {
+    "id": "it-ru-040",
+    "it": "Cosa significa questa parola?",
+    "ru": "Что значит это слово?"
+  },
+  {
+    "id": "it-ru-041",
+    "it": "Ti amo.",
+    "ru": "Я тебя люблю."
+  },
+  {
+    "id": "it-ru-042",
+    "it": "Mi manchi.",
+    "ru": "Я по тебе скучаю."
+  },
+  {
+    "id": "it-ru-043",
+    "it": "Buona fortuna!",
+    "ru": "Удачи!"
+  },
+  {
+    "id": "it-ru-044",
+    "it": "Congratulazioni!",
+    "ru": "Поздравляю!"
+  },
+  {
+    "id": "it-ru-045",
+    "it": "Buon compleanno!",
+    "ru": "С днём рождения!"
+  },
+  {
+    "id": "it-ru-046",
+    "it": "Buon viaggio!",
+    "ru": "Счастливого пути!"
+  },
+  {
+    "id": "it-ru-047",
+    "it": "Buona giornata.",
+    "ru": "Хорошего дня."
+  },
+  {
+    "id": "it-ru-048",
+    "it": "A presto.",
+    "ru": "До скорого."
+  },
+  {
+    "id": "it-ru-049",
+    "it": "A domani.",
+    "ru": "До завтра."
+  },
+  {
+    "id": "it-ru-050",
+    "it": "Arrivederci.",
+    "ru": "До свидания."
+  },
+  {
+    "id": "it-ru-051",
+    "it": "Dove va?",
+    "ru": "Куда вы идёте?"
+  },
+  {
+    "id": "it-ru-052",
+    "it": "Vado al supermercato.",
+    "ru": "Я иду в супермаркет."
+  },
+  {
+    "id": "it-ru-053",
+    "it": "Cos'è questo?",
+    "ru": "Что это такое?"
+  },
+  {
+    "id": "it-ru-054",
+    "it": "Non lo so.",
+    "ru": "Я не знаю."
+  },
+  {
+    "id": "it-ru-055",
+    "it": "È sicuro?",
+    "ru": "Вы уверены?"
+  },
+  {
+    "id": "it-ru-056",
+    "it": "Sì, sono sicuro.",
+    "ru": "Да, я уверен."
+  },
+  {
+    "id": "it-ru-057",
+    "it": "Penso di sì.",
+    "ru": "Думаю, да."
+  },
+  {
+    "id": "it-ru-058",
+    "it": "Penso di no.",
+    "ru": "Думаю, нет."
+  },
+  {
+    "id": "it-ru-059",
+    "it": "Nessun problema.",
+    "ru": "Без проблем."
+  },
+  {
+    "id": "it-ru-060",
+    "it": "Non importa.",
+    "ru": "Это неважно / Ничего страшного."
+  },
+  {
+    "id": "it-ru-061",
+    "it": "Cosa mangi?",
+    "ru": "Что ты ешь?"
+  },
+  {
+    "id": "it-ru-062",
+    "it": "È delizioso.",
+    "ru": "Это очень вкусно."
+  },
+  {
+    "id": "it-ru-063",
+    "it": "Non mi piace.",
+    "ru": "Мне это не нравится."
+  },
+  {
+    "id": "it-ru-064",
+    "it": "Quali sono i suoi hobby?",
+    "ru": "Каковы ваши увлечения?"
+  },
+  {
+    "id": "it-ru-065",
+    "it": "Mi piace leggere libri.",
+    "ru": "Мне нравится читать книги."
+  },
+  {
+    "id": "it-ru-066",
+    "it": "Mi piace ascoltare musica.",
+    "ru": "Мне нравится слушать музыку."
+  },
+  {
+    "id": "it-ru-067",
+    "it": "Fa sport?",
+    "ru": "Вы занимаетесь спортом?"
+  },
+  {
+    "id": "it-ru-068",
+    "it": "Gioco a calcio.",
+    "ru": "Я играю в футбол."
+  },
+  {
+    "id": "it-ru-069",
+    "it": "Guardo un film.",
+    "ru": "Я смотрю фильм."
+  },
+  {
+    "id": "it-ru-070",
+    "it": "Dove l'hai comprato?",
+    "ru": "Где ты это купил?"
+  },
+  {
+    "id": "it-ru-071",
+    "it": "È un regalo.",
+    "ru": "Это подарок."
+  },
+  {
+    "id": "it-ru-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "ru": "Закройте окно, пожалуйста."
+  },
+  {
+    "id": "it-ru-073",
+    "it": "Fa freddo qui.",
+    "ru": "Здесь холодно."
+  },
+  {
+    "id": "it-ru-074",
+    "it": "Fa caldo fuori.",
+    "ru": "На улице жарко."
+  },
+  {
+    "id": "it-ru-075",
+    "it": "Dove sono le mie chiavi?",
+    "ru": "Где мои ключи?"
+  },
+  {
+    "id": "it-ru-076",
+    "it": "Sono sul tavolo.",
+    "ru": "Они на столе."
+  },
+  {
+    "id": "it-ru-077",
+    "it": "Devo andare.",
+    "ru": "Мне пора идти."
+  },
+  {
+    "id": "it-ru-078",
+    "it": "Stammi bene.",
+    "ru": "Береги себя."
+  },
+  {
+    "id": "it-ru-079",
+    "it": "A più tardi.",
+    "ru": "До встречи."
+  },
+  {
+    "id": "it-ru-080",
+    "it": "Buonanotte.",
+    "ru": "Спокойной ночи."
+  },
+  {
+    "id": "it-ru-081",
+    "it": "Ha fratelli o sorelle?",
+    "ru": "У вас есть братья или сёстры?"
+  },
+  {
+    "id": "it-ru-082",
+    "it": "Ho un fratello e una sorella.",
+    "ru": "У меня есть брат и сестра."
+  },
+  {
+    "id": "it-ru-083",
+    "it": "È sposato?",
+    "ru": "Вы замужем / женаты?"
+  },
+  {
+    "id": "it-ru-084",
+    "it": "Sono celibe.",
+    "ru": "Я холост / не замужем."
+  },
+  {
+    "id": "it-ru-085",
+    "it": "Hai figli?",
+    "ru": "У тебя есть дети?"
+  },
+  {
+    "id": "it-ru-086",
+    "it": "Ho due figli.",
+    "ru": "У меня двое детей."
+  },
+  {
+    "id": "it-ru-087",
+    "it": "Dove lavori?",
+    "ru": "Где ты работаешь?"
+  },
+  {
+    "id": "it-ru-088",
+    "it": "Lavoro in ufficio.",
+    "ru": "Я работаю в офисе."
+  },
+  {
+    "id": "it-ru-089",
+    "it": "Le piace il caffè o il tè?",
+    "ru": "Вы любите кофе или чай?"
+  },
+  {
+    "id": "it-ru-090",
+    "it": "Preferisco bere il tè.",
+    "ru": "Я предпочитаю чай."
+  },
+  {
+    "id": "it-ru-091",
+    "it": "È una buona idea.",
+    "ru": "Это хорошая идея."
+  },
+  {
+    "id": "it-ru-092",
+    "it": "Sono stanco, vado a letto.",
+    "ru": "Я устал, пойду спать."
+  },
+  {
+    "id": "it-ru-093",
+    "it": "Qual è il suo film preferito?",
+    "ru": "Какой ваш любимый фильм?"
+  },
+  {
+    "id": "it-ru-094",
+    "it": "Può indicarmi la strada?",
+    "ru": "Вы можете показать мне дорогу?"
+  },
+  {
+    "id": "it-ru-095",
+    "it": "Ho perso il mio telefono.",
+    "ru": "Я потерял свой телефон."
+  },
+  {
+    "id": "it-ru-096",
+    "it": "Chiami un medico, per favore.",
+    "ru": "Вызовите врача, пожалуйста."
+  },
+  {
+    "id": "it-ru-097",
+    "it": "È un'emergenza.",
+    "ru": "Это экстренный случай."
+  },
+  {
+    "id": "it-ru-098",
+    "it": "Ha la password del Wi-Fi?",
+    "ru": "У вас есть пароль от Wi-Fi?"
+  },
+  {
+    "id": "it-ru-099",
+    "it": "Internet è molto lento.",
+    "ru": "Интернет очень медленный."
+  },
+  {
+    "id": "it-ru-100",
+    "it": "Devo annullare il mio biglietto.",
+    "ru": "Мне нужно отменить свой билет."
+  },{
+    "id": "it-ru-101",
+    "it": "Quanto dura il viaggio?",
+    "ru": "Сколько времени займёт поездка?"
+  },
+  {
+    "id": "it-ru-102",
+    "it": "Possiamo fermarci qui?",
+    "ru": "Мы можем здесь остановиться?"
+  },
+  {
+    "id": "it-ru-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "ru": "Мне нужен чек."
+  },
+  {
+    "id": "it-ru-104",
+    "it": "Dove posso cambiare il denaro?",
+    "ru": "Где я могу обменять деньги?"
+  },
+  {
+    "id": "it-ru-105",
+    "it": "C'è una banca qui vicino?",
+    "ru": "Есть ли поблизости банк?"
+  },
+  {
+    "id": "it-ru-106",
+    "it": "Accettate carte di credito?",
+    "ru": "Вы принимаете кредитные карты?"
+  },
+  {
+    "id": "it-ru-107",
+    "it": "Pago in contanti.",
+    "ru": "Я заплачу наличными."
+  },
+  {
+    "id": "it-ru-108",
+    "it": "Può farmi uno sconto?",
+    "ru": "Вы можете сделать мне скидку?"
+  },
+  {
+    "id": "it-ru-109",
+    "it": "Questa è la mia ultima parola.",
+    "ru": "Это моё последнее слово."
+  },
+  {
+    "id": "it-ru-110",
+    "it": "Sto solo dando un'occhiata.",
+    "ru": "Я просто осмотрюсь."
+  },
+  {
+    "id": "it-ru-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "ru": "У вас есть это другого размера?"
+  },
+  {
+    "id": "it-ru-112",
+    "it": "Dov'è il camerino?",
+    "ru": "Где примерочная?"
+  },
+  {
+    "id": "it-ru-113",
+    "it": "Mi sta bene.",
+    "ru": "Мне это подходит."
+  },
+  {
+    "id": "it-ru-114",
+    "it": "Lo prendo.",
+    "ru": "Я это беру."
+  },
+  {
+    "id": "it-ru-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "ru": "Где я могу оставить свою сумку?"
+  },
+  {
+    "id": "it-ru-116",
+    "it": "Avete cibo vegetariano?",
+    "ru": "У вас есть вегетарианская еда?"
+  },
+  {
+    "id": "it-ru-117",
+    "it": "Sono allergico.",
+    "ru": "У меня аллергия."
+  },
+  {
+    "id": "it-ru-118",
+    "it": "Non piccante, per favore.",
+    "ru": "Не острое, пожалуйста."
+  },
+  {
+    "id": "it-ru-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "ru": "Принесите мне стакан воды, пожалуйста."
+  },
+  {
+    "id": "it-ru-120",
+    "it": "Buon appetito!",
+    "ru": "Приятного аппетита!"
+  },
+  {
+    "id": "it-ru-121",
+    "it": "Cin cin!",
+    "ru": "За здоровье / Будем здоровы!"
+  },
+  {
+    "id": "it-ru-122",
+    "it": "Il cibo era meraviglioso.",
+    "ru": "Еда была чудесной."
+  },
+  {
+    "id": "it-ru-123",
+    "it": "Vorrei prenotare una camera.",
+    "ru": "Я хотел бы забронировать номер."
+  },
+  {
+    "id": "it-ru-124",
+    "it": "La colazione è inclusa?",
+    "ru": "Завтрак включён?"
+  },
+  {
+    "id": "it-ru-125",
+    "it": "A che ora è il check-out?",
+    "ru": "В какое время выезд?"
+  },
+  {
+    "id": "it-ru-126",
+    "it": "Può chiamare un taxi?",
+    "ru": "Вы можете вызвать такси?"
+  },
+  {
+    "id": "it-ru-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "ru": "Отвезите меня по этому адресу, пожалуйста."
+  },
+  {
+    "id": "it-ru-128",
+    "it": "Si fermi qui, per favore.",
+    "ru": "Остановитесь здесь, пожалуйста."
+  },
+  {
+    "id": "it-ru-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "ru": "Есть ли здесь поблизости автобусная остановка?"
+  },
+  {
+    "id": "it-ru-130",
+    "it": "A che ora parte il prossimo treno?",
+    "ru": "Во сколько отправляется следующий поезд?"
+  },
+  {
+    "id": "it-ru-131",
+    "it": "Il treno è in ritardo.",
+    "ru": "Поезд задерживается."
+  },
+  {
+    "id": "it-ru-132",
+    "it": "Ho perso il mio volo.",
+    "ru": "Я опоздал на свой рейс."
+  },
+  {
+    "id": "it-ru-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "ru": "Где выдача багажа?"
+  },
+  {
+    "id": "it-ru-134",
+    "it": "Questa non è la mia valigia.",
+    "ru": "Это не мой чемодан."
+  },
+  {
+    "id": "it-ru-135",
+    "it": "Il mio passaporto è sparito.",
+    "ru": "Мой паспорт пропал."
+  },
+  {
+    "id": "it-ru-136",
+    "it": "Dov'è l'ambasciata?",
+    "ru": "Где находится посольство?"
+  },
+  {
+    "id": "it-ru-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "ru": "Мне нужна помощь полиции."
+  },
+  {
+    "id": "it-ru-138",
+    "it": "Lasciami in pace.",
+    "ru": "Оставь меня в покое."
+  },
+  {
+    "id": "it-ru-139",
+    "it": "Vai via!",
+    "ru": "Уходи!"
+  },
+  {
+    "id": "it-ru-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "ru": "Помогите! Меня обокрали."
+  },
+  {
+    "id": "it-ru-141",
+    "it": "Mi sono perso.",
+    "ru": "Я заблудился."
+  },
+  {
+    "id": "it-ru-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "ru": "Вы можете показать на карте, где я нахожусь?"
+  },
+  {
+    "id": "it-ru-143",
+    "it": "Qual è il suo numero di telefono?",
+    "ru": "Какой у вас номер телефона?"
+  },
+  {
+    "id": "it-ru-144",
+    "it": "Lo scriva, per favore.",
+    "ru": "Запишите это, пожалуйста."
+  },
+  {
+    "id": "it-ru-145",
+    "it": "Ti chiamerò.",
+    "ru": "Я тебе позвоню."
+  },
+  {
+    "id": "it-ru-146",
+    "it": "Mandami un messaggio.",
+    "ru": "Отправь мне сообщение."
+  },
+  {
+    "id": "it-en-147",
+    "it": "È sui social media?",
+    "ru": "Вы есть в социальных сетях?"
+  },
+  {
+    "id": "it-ru-148",
+    "it": "Ti seguo.",
+    "ru": "Я на тебя подпишусь."
+  },
+  {
+    "id": "it-ru-149",
+    "it": "Quali sono le novità?",
+    "ru": "Что нового?"
+  },
+  {
+    "id": "it-ru-150",
+    "it": "Nulla di speciale.",
+    "ru": "Ничего особенного."
+  },
+  {
+    "id": "it-ru-151",
+    "it": "Non vedo l'ora.",
+    "ru": "Жду с нетерпением."
+  },
+  {
+    "id": "it-ru-152",
+    "it": "Non mi importa.",
+    "ru": "Мне всё равно."
+  },
+  {
+    "id": "it-ru-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "ru": "Не волнуйся, всё будет хорошо."
+  },
+  {
+    "id": "it-ru-154",
+    "it": "Calmati, per favore.",
+    "ru": "Успокойся, пожалуйста."
+  },
+  {
+    "id": "it-ru-155",
+    "it": "Non stressarti.",
+    "ru": "Не нервничай."
+  },
+  {
+    "id": "it-ru-156",
+    "it": "È incredibile!",
+    "ru": "Это невероятно!"
+  },
+  {
+    "id": "it-ru-157",
+    "it": "Sono orgoglioso di te.",
+    "ru": "Я горжусь тобой."
+  },
+  {
+    "id": "it-ru-158",
+    "it": "Hai fatto un buon lavoro.",
+    "ru": "Ты отлично справился."
+  },
+  {
+    "id": "it-ru-159",
+    "it": "Su col morale!",
+    "ru": "Выше нос! / Не падай духом!"
+  },
+  {
+    "id": "it-ru-160",
+    "it": "Non ti arrendere!",
+    "ru": "Не сдавайся!"
+  },
+  {
+    "id": "it-ru-161",
+    "it": "L'esercizio rende perfetti.",
+    "ru": "Повторение — мать учения."
+  },
+  {
+    "id": "it-ru-162",
+    "it": "Cominciamo domani.",
+    "ru": "Давай начнём завтра."
+  },
+  {
+    "id": "it-ru-163",
+    "it": "Non ho tempo oggi.",
+    "ru": "У меня сегодня нет времени."
+  },
+  {
+    "id": "it-ru-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "ru": "Мы можем встретиться на выходных."
+  },
+  {
+    "id": "it-ru-165",
+    "it": "Quando hai tempo?",
+    "ru": "Когда у тебя есть время?"
+  },
+  {
+    "id": "it-ru-166",
+    "it": "Sono flessibile.",
+    "ru": "Я подстроюсь."
+  },
+  {
+    "id": "it-ru-167",
+    "it": "Dipende dal tempo.",
+    "ru": "Это зависит от погоды."
+  },
+  {
+    "id": "it-ru-168",
+    "it": "È nuvoloso oggi.",
+    "ru": "Сегодня облачно."
+  },
+  {
+    "id": "it-ru-169",
+    "it": "Nevica fuori.",
+    "ru": "На улице идёт снег."
+  },
+  {
+    "id": "it-ru-170",
+    "it": "Il vento è molto forte.",
+    "ru": "Ветер очень сильный."
+  },
+  {
+    "id": "it-ru-171",
+    "it": "Domani sarà soleggiato.",
+    "ru": "Завтра будет солнечно."
+  },
+  {
+    "id": "it-ru-172",
+    "it": "Amo l'estate.",
+    "ru": "Я люблю лето."
+  },
+  {
+    "id": "it-ru-173",
+    "it": "L'inverno è troppo lungo.",
+    "ru": "Зима слишком долгая."
+  },
+  {
+    "id": "it-ru-174",
+    "it": "È la mia stagione preferita.",
+    "ru": "Это моё любимое время года."
+  },
+  {
+    "id": "it-ru-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "ru": "Что ты делал на выходных?"
+  },
+  {
+    "id": "it-ru-176",
+    "it": "Sono rimasto a casa.",
+    "ru": "Я остался дома."
+  },
+  {
+    "id": "it-ru-177",
+    "it": "Ho visitato i miei amici.",
+    "ru": "Я ходил в гости к друзьям."
+  },
+  {
+    "id": "it-ru-178",
+    "it": "Ci siamo divertiti molto.",
+    "ru": "Мы отлично провели время."
+  },
+  {
+    "id": "it-ru-179",
+    "it": "È stata una sorpresa.",
+    "ru": "Это был сюрприз."
+  },
+  {
+    "id": "it-ru-180",
+    "it": "Ho comprato una nuova auto.",
+    "ru": "Я купил новую машину."
+  },
+  {
+    "id": "it-ru-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "ru": "Поздравляю с новой работой!"
+  },
+  {
+    "id": "it-ru-182",
+    "it": "Quando cominci?",
+    "ru": "Когда ты начинаешь?"
+  },
+  {
+    "id": "it-ru-183",
+    "it": "Comincio lunedì prossimo.",
+    "ru": "Я начинаю в следующий понедельник."
+  },
+  {
+    "id": "it-ru-184",
+    "it": "Sono un po' nervoso.",
+    "ru": "Я немного нервничаю."
+  },
+  {
+    "id": "it-ru-185",
+    "it": "È del tutto normale.",
+    "ru": "Это совершенно нормально."
+  },
+  {
+    "id": "it-ru-186",
+    "it": "Ce la farai.",
+    "ru": "Ты справишься."
+  },
+  {
+    "id": "it-ru-187",
+    "it": "Credo in te.",
+    "ru": "Я в тебя верю."
+  },
+  {
+    "id": "it-ru-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "ru": "Большое спасибо за поддержку."
+  },
+  {
+    "id": "it-ru-189",
+    "it": "Sei un buon amico.",
+    "ru": "Ты хороший друг."
+  },
+  {
+    "id": "it-ru-190",
+    "it": "Ci sono sempre per te.",
+    "ru": "Я всегда рядом."
+  },
+  {
+    "id": "it-ru-191",
+    "it": "Questo significa molto per me.",
+    "ru": "Это много значит для меня."
+  },
+  {
+    "id": "it-ru-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "ru": "Давай скоро снова встретимся."
+  },
+  {
+    "id": "it-ru-193",
+    "it": "Adesso devo proprio andare.",
+    "ru": "Мне действительно пора идти."
+  },
+  {
+    "id": "it-ru-194",
+    "it": "Fai buon rientro a casa.",
+    "ru": "Хорошей дороги домой."
+  },
+  {
+    "id": "it-ru-195",
+    "it": "Scrivimi quando arrivi.",
+    "ru": "Напиши мне, когда приедешь."
+  },
+  {"id": "it-ru-196","it": "Sono arrivato bene.","ru": "Я благополучно добрался."},{"id": "it-ru-197","it": "Dormi bene.","ru": "Спи сладко."},{"id": "it-ru-198","it": "Sogni d'oro.","ru": "Приятных снов."},{"id": "it-ru-199","it": "Alla prossima volta.","ru": "До следующего раза."},{"id": "it-ru-200","it": "Ciao ciao!","ru": "Пока-пока!"}],
+    "italianarabic": [{
+    "id": "it-ar-001",
+    "it": "Ciao, come sta?",
+    "ar": "مرحباً، كيف حالك؟"
+  },
+  {
+    "id": "it-ar-002",
+    "it": "Come si chiama?",
+    "ar": "ما اسمك؟"
+  },
+  {
+    "id": "it-ar-003",
+    "it": "Mi chiamo John.",
+    "ar": "اسمي جون."
+  },
+  {
+    "id": "it-ar-004",
+    "it": "Piacere di conoscerla.",
+    "ar": "تشرفت بمعرفتك."
+  },
+  {
+    "id": "it-ar-005",
+    "it": "Da dove viene?",
+    "ar": "من أين أنت؟"
+  },
+  {
+    "id": "it-ar-006",
+    "it": "Vengo dalla Francia.",
+    "ar": "أنا من فرنسا."
+  },
+  {
+    "id": "it-ar-007",
+    "it": "Dove abita?",
+    "ar": "أين تسكن؟"
+  },
+  {
+    "id": "it-ar-008",
+    "it": "Abito a Parigi.",
+    "ar": "أسكن في باريس."
+  },
+  {
+    "id": "it-ar-009",
+    "it": "Quanti anni ha?",
+    "ar": "كم عمرك؟"
+  },
+  {
+    "id": "it-ar-010",
+    "it": "Ho trent'anni.",
+    "ar": "عمري ثلاثون عاماً."
+  },
+  {
+    "id": "it-ar-011",
+    "it": "Che lavoro fa?",
+    "ar": "ما هي مهنتك؟"
+  },
+  {
+    "id": "it-ar-012",
+    "it": "Sono uno studente.",
+    "ar": "أنا طالب."
+  },
+  {
+    "id": "it-ar-013",
+    "it": "Parla inglese?",
+    "ar": "هل تتحدث الإنجليزية؟"
+  },
+  {
+    "id": "it-ar-014",
+    "it": "Parlo un po' di inglese.",
+    "ar": "أتحدث القليل من الإنجليزية."
+  },
+  {
+    "id": "it-ar-015",
+    "it": "Può aiutarmi, per favore?",
+    "ar": "هل يمكنك مساعدتي، من فضلك؟"
+  },
+  {
+    "id": "it-ar-016",
+    "it": "Grazie mille.",
+    "ar": "شكراً جزيلاً."
+  },
+  {
+    "id": "it-ar-017",
+    "it": "Prego.",
+    "ar": "على الرحب والسعة."
+  },
+  {
+    "id": "it-ar-018",
+    "it": "Per favore.",
+    "ar": "من فضلك."
+  },
+  {
+    "id": "it-ar-019",
+    "it": "Mi scusi.",
+    "ar": "المعذرة."
+  },
+  {
+    "id": "it-ar-020",
+    "it": "Mi dispiace.",
+    "ar": "أنا آسف."
+  },
+  {
+    "id": "it-ar-021",
+    "it": "Che ore sono?",
+    "ar": "كم الساعة؟"
+  },
+  {
+    "id": "it-ar-022",
+    "it": "Sono le dieci.",
+    "ar": "إنها الساعة العاشرة."
+  },
+  {
+    "id": "it-ar-023",
+    "it": "Dov'è il bagno?",
+    "ar": "أين المرحاض؟"
+  },
+  {
+    "id": "it-ar-024",
+    "it": "È da quella parte.",
+    "ar": "إنه من ذلك الاتجاه."
+  },
+  {
+    "id": "it-ar-025",
+    "it": "Quanto costa?",
+    "ar": "كم ثمن هذا؟"
+  },
+  {
+    "id": "it-ar-026",
+    "it": "È troppo caro.",
+    "ar": "هذا غالٍ جداً."
+  },
+  {
+    "id": "it-ar-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "ar": "أين محطة القطار؟"
+  },
+  {
+    "id": "it-ar-028",
+    "it": "Cerco un buon ristorante.",
+    "ar": "أبحث عن مطعم جيد."
+  },
+  {
+    "id": "it-ar-029",
+    "it": "Il conto, per favore.",
+    "ar": "الحساب، من فضلك."
+  },
+  {
+    "id": "it-ar-030",
+    "it": "Com'è il tempo oggi?",
+    "ar": "كيف الطقس اليوم؟"
+  },
+  {
+    "id": "it-ar-031",
+    "it": "Il tempo è bello.",
+    "ar": "الطقس جميل."
+  },
+  {
+    "id": "it-ar-032",
+    "it": "Piove.",
+    "ar": "إنها تمطر."
+  },
+  {
+    "id": "it-ar-033",
+    "it": "Ho fame.",
+    "ar": "أنا جائع."
+  },
+  {
+    "id": "it-ar-034",
+    "it": "Ho sete.",
+    "ar": "أنا عطشان."
+  },
+  {
+    "id": "it-ar-035",
+    "it": "Sono stanco.",
+    "ar": "أنا متعب."
+  },
+  {
+    "id": "it-ar-036",
+    "it": "Non capisco.",
+    "ar": "لا أفهم."
+  },
+  {
+    "id": "it-ar-037",
+    "it": "Può ripetere?",
+    "ar": "هل يمكنك التكرار؟"
+  },
+  {
+    "id": "it-ar-038",
+    "it": "Parli più lentamente, per favore.",
+    "ar": "تحدث ببطء أكثر، من فضلك."
+  },
+  {
+    "id": "it-ar-039",
+    "it": "Come si dice in arabo?",
+    "ar": "كيف يقال هذا باللغة العربية؟"
+  },
+  {
+    "id": "it-ar-040",
+    "it": "Cosa significa questa parola?",
+    "ar": "ما معنى هذه الكلمة؟"
+  },
+  {
+    "id": "it-ar-041",
+    "it": "Ti amo.",
+    "ar": "أنا أحبك."
+  },
+  {
+    "id": "it-ar-042",
+    "it": "Mi manchi.",
+    "ar": "أشتاق إليك."
+  },
+  {
+    "id": "it-ar-043",
+    "it": "Buona fortuna!",
+    "ar": "حظاً موفقاً!"
+  },
+  {
+    "id": "it-ar-044",
+    "it": "Congratulazioni!",
+    "ar": "تهانينا!"
+  },
+  {
+    "id": "it-ar-045",
+    "it": "Buon compleanno!",
+    "ar": "عيد ميلاد سعيد!"
+  },
+  {
+    "id": "it-ar-046",
+    "it": "Buon viaggio!",
+    "ar": "رحلة سعيدة!"
+  },
+  {
+    "id": "it-ar-047",
+    "it": "Buona giornata.",
+    "ar": "أتمنى لك يوماً سعيداً."
+  },
+  {
+    "id": "it-ar-048",
+    "it": "A presto.",
+    "ar": "أراك قريباً."
+  },
+  {
+    "id": "it-ar-049",
+    "it": "A domani.",
+    "ar": "أراك غداً."
+  },
+  {
+    "id": "it-ar-050",
+    "it": "Arrivederci.",
+    "ar": "إلى اللقاء."
+  },
+  {
+    "id": "it-ar-051",
+    "it": "Dove va?",
+    "ar": "إلى أين أنت ذاهب؟"
+  },
+  {
+    "id": "it-ar-052",
+    "it": "Vado al supermercato.",
+    "ar": "أنا ذاهب إلى السوبرماركت."
+  },
+  {
+    "id": "it-ar-053",
+    "it": "Cos'è questo?",
+    "ar": "ما هذا؟"
+  },
+  {
+    "id": "it-ar-054",
+    "it": "Non lo so.",
+    "ar": "لا أعرف."
+  },
+  {
+    "id": "it-ar-055",
+    "it": "È sicuro?",
+    "ar": "هل أنت متأكد؟"
+  },
+  {
+    "id": "it-ar-056",
+    "it": "Sì, sono sicuro.",
+    "ar": "نعم، أنا متأكد."
+  },
+  {
+    "id": "it-ar-057",
+    "it": "Penso di sì.",
+    "ar": "أظن ذلك."
+  },
+  {
+    "id": "it-ar-058",
+    "it": "Penso di no.",
+    "ar": "لا أظن ذلك."
+  },
+  {
+    "id": "it-ar-059",
+    "it": "Nessun problema.",
+    "ar": "لا مشكلة."
+  },
+  {
+    "id": "it-ar-060",
+    "it": "Non importa.",
+    "ar": "لا يهم."
+  },
+  {
+    "id": "it-ar-061",
+    "it": "Cosa mangi?",
+    "ar": "ماذا تأكل؟"
+  },
+  {
+    "id": "it-ar-062",
+    "it": "È delizioso.",
+    "ar": "هذا لذيذ."
+  },
+  {
+    "id": "it-ar-063",
+    "it": "Non mi piace.",
+    "ar": "لا يعجبني هذا."
+  },
+  {
+    "id": "it-ar-064",
+    "it": "Quali sono i suoi hobby?",
+    "ar": "ما هي هواياتك؟"
+  },
+  {
+    "id": "it-ar-065",
+    "it": "Mi piace leggere libri.",
+    "ar": "أحب قراءة الكتب."
+  },
+  {
+    "id": "it-ar-066",
+    "it": "Mi piace ascoltare musica.",
+    "ar": "أحب الاستماع إلى الموسيقى."
+  },
+  {
+    "id": "it-ar-067",
+    "it": "Fa sport?",
+    "ar": "هل تمارس الرياضة؟"
+  },
+  {
+    "id": "it-ar-068",
+    "it": "Gioco a calcio.",
+    "ar": "ألعب كرة القدم."
+  },
+  {
+    "id": "it-ar-069",
+    "it": "Guardo un film.",
+    "ar": "أنا أشاهد فيلماً."
+  },
+  {
+    "id": "it-ar-070",
+    "it": "Dove l'hai comprato?",
+    "ar": "أين اشتريت هذا؟"
+  },
+  {
+    "id": "it-ar-071",
+    "it": "È un regalo.",
+    "ar": "هذه هدية."
+  },
+  {
+    "id": "it-ar-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "ar": "هل يمكنك إغلاق النافذة، من فضلك؟"
+  },
+  {
+    "id": "it-ar-073",
+    "it": "Fa freddo qui.",
+    "ar": "الجو بارد هنا."
+  },
+  {
+    "id": "it-ar-074",
+    "it": "Fa caldo fuori.",
+    "ar": "الجو حار بالخارج."
+  },
+  {
+    "id": "it-ar-075",
+    "it": "Dove sono le mie chiavi?",
+    "ar": "أين مفاتيحي؟"
+  },
+  {
+    "id": "it-ar-076",
+    "it": "Sono sul tavolo.",
+    "ar": "إنها على الطاولة."
+  },
+  {
+    "id": "it-ar-077",
+    "it": "Devo andare.",
+    "ar": "يجب أن أذهب."
+  },
+  {
+    "id": "it-ar-078",
+    "it": "Stammi bene.",
+    "ar": "اعتنِ بنفسك."
+  },
+  {
+    "id": "it-ar-079",
+    "it": "A più tardi.",
+    "ar": "أراك لاحقاً."
+  },
+  {
+    "id": "it-ar-080",
+    "it": "Buonanotte.",
+    "ar": "تصبح على خير."
+  },
+  {
+    "id": "it-ar-081",
+    "it": "Ha fratelli o sorelle?",
+    "ar": "هل لديك إخوة أو أخوات؟"
+  },
+  {
+    "id": "it-ar-082",
+    "it": "Ho un fratello e una sorella.",
+    "ar": "لدي أخ وأخت."
+  },
+  {
+    "id": "it-ar-083",
+    "it": "È sposato?",
+    "ar": "هل أنت متزوج؟"
+  },
+  {
+    "id": "it-ar-084",
+    "it": "Sono celibe.",
+    "ar": "أنا أعزب."
+  },
+  {
+    "id": "it-ar-085",
+    "it": "Hai figli?",
+    "ar": "هل لديك أطفال؟"
+  },
+  {
+    "id": "it-ar-086",
+    "it": "Ho due figli.",
+    "ar": "لدي طفلان."
+  },
+  {
+    "id": "it-ar-087",
+    "it": "Dove lavori?",
+    "ar": "أين تعمل؟"
+  },
+  {
+    "id": "it-ar-088",
+    "it": "Lavoro in ufficio.",
+    "ar": "أعمل في مكتب."
+  },
+  {
+    "id": "it-ar-089",
+    "it": "Le piace il caffè o il tè?",
+    "ar": "هل تحب القهوة أم الشاي؟"
+  },
+  {
+    "id": "it-ar-090",
+    "it": "Preferisco bere il tè.",
+    "ar": "أفضل شرب الشاي."
+  },
+  {
+    "id": "it-ar-091",
+    "it": "È una buona idea.",
+    "ar": "هذه فكرة جيدة."
+  },
+  {
+    "id": "it-ar-092",
+    "it": "Sono stanco, vado a letto.",
+    "ar": "أنا متعب، سأذهب إلى الفراش."
+  },
+  {
+    "id": "it-ar-093",
+    "it": "Qual è il suo film preferito?",
+    "ar": "ما هو فيلمك المفضل؟"
+  },
+  {
+    "id": "it-ar-094",
+    "it": "Può indicarmi la strada?",
+    "ar": "هل يمكنك إرشادي إلى الطريق؟"
+  },
+  {
+    "id": "it-ar-095",
+    "it": "Ho perso il mio telefono.",
+    "ar": "لقد فقدت هاتفي."
+  },
+  {
+    "id": "it-ar-096",
+    "it": "Chiami un medico, per favore.",
+    "ar": "اتصل بالطبيب، من فضلك."
+  },
+  {
+    "id": "it-ar-097",
+    "it": "È un'emergenza.",
+    "ar": "هذه حالة طوارئ."
+  },
+  {
+    "id": "it-ar-098",
+    "it": "Ha la password del Wi-Fi?",
+    "ar": "هل لديك كلمة سر الواي فاي؟"
+  },
+  {
+    "id": "it-ar-099",
+    "it": "Internet è molto lento.",
+    "ar": "الإنترنت بطيء جداً."
+  },
+  {
+    "id": "it-ar-100",
+    "it": "Devo annullare il mio biglietto.",
+    "ar": "يجب علي إلغاء تذكرتي."
+  },{
+    "id": "it-ar-101",
+    "it": "Quanto dura il viaggio?",
+    "ar": "كم تستغرق الرحلة؟"
+  },
+  {
+    "id": "it-ar-102",
+    "it": "Possiamo fermarci qui?",
+    "ar": "هل يمكننا التوقف هنا؟"
+  },
+  {
+    "id": "it-ar-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "ar": "أحتاج إلى إيصال."
+  },
+  {
+    "id": "it-ar-104",
+    "it": "Dove posso cambiare il denaro?",
+    "ar": "أين يمكنني تحويل المال؟"
+  },
+  {
+    "id": "it-ar-105",
+    "it": "C'è una banca qui vicino?",
+    "ar": "هل يوجد بنك بالقرب من هنا؟"
+  },
+  {
+    "id": "it-ar-106",
+    "it": "Accettate carte di credito?",
+    "ar": "هل تقبلون بطاقات الائتمان؟"
+  },
+  {
+    "id": "it-ar-107",
+    "it": "Pago in contanti.",
+    "ar": "سأدفع نقداً."
+  },
+  {
+    "id": "it-ar-108",
+    "it": "Può farmi uno sconto?",
+    "ar": "هل يمكنك إعطائي خصماً؟"
+  },
+  {
+    "id": "it-ar-109",
+    "it": "Questa è la mia ultima parola.",
+    "ar": "هذه كلمتي الأخيرة."
+  },
+  {
+    "id": "it-ar-110",
+    "it": "Sto solo dando un'occhiata.",
+    "ar": "أنا أنظر فقط."
+  },
+  {
+    "id": "it-ar-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "ar": "هل لديك هذا بمقاس آخر؟"
+  },
+  {
+    "id": "it-ar-112",
+    "it": "Dov'è il camerino?",
+    "ar": "أين غرفة القياس؟"
+  },
+  {
+    "id": "it-ar-113",
+    "it": "Mi sta bene.",
+    "ar": "هذا يناسبني جيداً."
+  },
+  {
+    "id": "it-ar-114",
+    "it": "Lo prendo.",
+    "ar": "سآخذه."
+  },
+  {
+    "id": "it-ar-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "ar": "أين يمكنني ترك حقيبتي؟"
+  },
+  {
+    "id": "it-ar-116",
+    "it": "Avete cibo vegetariano?",
+    "ar": "هل لديكم طعام نباتي؟"
+  },
+  {
+    "id": "it-ar-117",
+    "it": "Sono allergico.",
+    "ar": "لدي حساسية."
+  },
+  {
+    "id": "it-ar-118",
+    "it": "Non piccante, per favore.",
+    "ar": "ليس حاراً، من فضلك."
+  },
+  {
+    "id": "it-ar-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "ar": "أحضر لي كوباً من الماء، من فضلك."
+  },
+  {
+    "id": "it-ar-120",
+    "it": "Buon appetito!",
+    "ar": "بالهناء والشفاء!"
+  },
+  {
+    "id": "it-ar-121",
+    "it": "Cin cin!",
+    "ar": "في صحتك!"
+  },
+  {
+    "id": "it-ar-122",
+    "it": "Il cibo era meraviglioso.",
+    "ar": "الطعام كان رائعاً."
+  },
+  {
+    "id": "it-ar-123",
+    "it": "Vorrei prenotare una camera.",
+    "ar": "أود حجز غرفة."
+  },
+  {
+    "id": "it-ar-124",
+    "it": "La colazione è inclusa?",
+    "ar": "هل وجبة الإفطار مشمولة؟"
+  },
+  {
+    "id": "it-ar-125",
+    "it": "A che ora è il check-out?",
+    "ar": "في أي ساعة تسجيل المغادرة؟"
+  },
+  {
+    "id": "it-ar-126",
+    "it": "Può chiamare un taxi?",
+    "ar": "هل يمكنك الاتصال بسيارة أجرة؟"
+  },
+  {
+    "id": "it-ar-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "ar": "خذني إلى هذا العنوان، من فضلك."
+  },
+  {
+    "id": "it-ar-128",
+    "it": "Si fermi qui, per favore.",
+    "ar": "توقف هنا، من فضلك."
+  },
+  {
+    "id": "it-ar-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "ar": "هل توجد محطة حافلات بالقرب من هنا؟"
+  },
+  {
+    "id": "it-ar-130",
+    "it": "A che ora parte il prossimo treno?",
+    "ar": "في أي وقت ينطلق القطار القادم؟"
+  },
+  {
+    "id": "it-ar-131",
+    "it": "Il treno è in ritardo.",
+    "ar": "القطار متأخر."
+  },
+  {
+    "id": "it-ar-132",
+    "it": "Ho perso il mio volo.",
+    "ar": "لقد فاتتني رحلتي الطيران."
+  },
+  {
+    "id": "it-ar-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "ar": "أين منطقة استلام الأمتعة؟"
+  },
+  {
+    "id": "it-ar-134",
+    "it": "Questa non è la mia valigia.",
+    "ar": "هذه ليست حقيبتي."
+  },
+  {
+    "id": "it-ar-135",
+    "it": "Il mio passaporto è sparito.",
+    "ar": "لقد اختفى جواز سفري."
+  },
+  {
+    "id": "it-ar-136",
+    "it": "Dov'è l'ambasciata?",
+    "ar": "أين السفارة؟"
+  },
+  {
+    "id": "it-ar-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "ar": "أحتاج إلى مساعدة الشرطة."
+  },
+  {
+    "id": "it-ar-138",
+    "it": "Lasciami in pace.",
+    "ar": "اتركني وشأني."
+  },
+  {
+    "id": "it-ar-139",
+    "it": "Vai via!",
+    "ar": "اذهب بعيداً!"
+  },
+  {
+    "id": "it-ar-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "ar": "النجدة! لقد سرقني أحدهم."
+  },
+  {
+    "id": "it-ar-141",
+    "it": "Mi sono perso.",
+    "ar": "لقد ضللت الطريق."
+  },
+  {
+    "id": "it-ar-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "ar": "هل يمكنك أن تريني على الخريطة أين أنا؟"
+  },
+  {
+    "id": "it-ar-143",
+    "it": "Qual è il suo numero di telefono?",
+    "ar": "ما هو رقم هاتفك؟"
+  },
+  {
+    "id": "it-ar-144",
+    "it": "Lo scriva, per favore.",
+    "ar": "اكتبه، من فضلك."
+  },
+  {
+    "id": "it-ar-145",
+    "it": "Ti chiamerò.",
+    "ar": "سأتصل بك."
+  },
+  {
+    "id": "it-ar-146",
+    "it": "Mandami un messaggio.",
+    "ar": "أرسل لي رسالة."
+  },
+  {
+    "id": "it-ar-147",
+    "it": "È sui social media?",
+    "ar": "هل أنت على وسائل التواصل الاجتماعي؟"
+  },
+  {
+    "id": "it-ar-148",
+    "it": "Ti seguo.",
+    "ar": "أنا أتابعك."
+  },
+  {
+    "id": "it-ar-149",
+    "it": "Quali sono le novità?",
+    "ar": "ما الأخبار؟"
+  },
+  {
+    "id": "it-ar-150",
+    "it": "Nulla di speciale.",
+    "ar": "لا شيء مميز."
+  },
+  {
+    "id": "it-ar-151",
+    "it": "Non vedo l'ora.",
+    "ar": "أتطلع إلى ذلك بشوق."
+  },
+  {
+    "id": "it-ar-152",
+    "it": "Non mi importa.",
+    "ar": "لا يهمني."
+  },
+  {
+    "id": "it-ar-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "ar": "لا تقلق، كل شيء سيكون على ما يرام."
+  },
+  {
+    "id": "it-ar-154",
+    "it": "Calmati, per favore.",
+    "ar": "اهدأ، من فضلك."
+  },
+  {
+    "id": "it-ar-155",
+    "it": "Non stressarti.",
+    "ar": "لا توتر نفسك."
+  },
+  {
+    "id": "it-ar-156",
+    "it": "È incredibile!",
+    "ar": "هذا أمر لا يصدق!"
+  },
+  {
+    "id": "it-ar-157",
+    "it": "Sono orgoglioso di te.",
+    "ar": "أنا فخور بك."
+  },
+  {
+    "id": "it-ar-158",
+    "it": "Hai fatto un buon lavoro.",
+    "ar": "لقد قمت بعمل جيد."
+  },
+  {
+    "id": "it-ar-159",
+    "it": "Su col morale!",
+    "ar": "ارفع رأسك! / ابتهج!"
+  },
+  {
+    "id": "it-ar-160",
+    "it": "Non ti arrendere!",
+    "ar": "لا تستسلم!"
+  },
+  {
+    "id": "it-ar-161",
+    "it": "L'esercizio rende perfetti.",
+    "ar": "التكرار يعلم الشطار."
+  },
+  {
+    "id": "it-ar-162",
+    "it": "Cominciamo domani.",
+    "ar": "فلنبدأ غداً."
+  },
+  {
+    "id": "it-ar-163",
+    "it": "Non ho tempo oggi.",
+    "ar": "ليس لدي وقت اليوم."
+  },
+  {
+    "id": "it-ar-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "ar": "يمكننا الالتقاء في عطلة نهاية الأسبوع."
+  },
+  {
+    "id": "it-ar-165",
+    "it": "Quando hai tempo?",
+    "ar": "متى لديك وقت؟"
+  },
+  {
+    "id": "it-ar-166",
+    "it": "Sono flessibile.",
+    "ar": "وقتي مرن."
+  },
+  {
+    "id": "it-ar-167",
+    "it": "Dipende dal tempo.",
+    "ar": "هذا يعتمد على حالة الطقس."
+  },
+  {
+    "id": "it-ar-168",
+    "it": "È nuvoloso oggi.",
+    "ar": "الجو غائم اليوم."
+  },
+  {
+    "id": "it-ar-169",
+    "it": "Nevica fuori.",
+    "ar": "تتساقط الثلوج بالخارج."
+  },
+  {
+    "id": "it-ar-170",
+    "it": "Il vento è molto forte.",
+    "ar": "الرياح قوية جداً."
+  },
+  {
+    "id": "it-ar-171",
+    "it": "Domani sarà soleggiato.",
+    "ar": "غداً سيكون مشمساً."
+  },
+  {
+    "id": "it-ar-172",
+    "it": "Amo l'estate.",
+    "ar": "أحب الصيف."
+  },
+  {
+    "id": "it-ar-173",
+    "it": "L'inverno è troppo lungo.",
+    "ar": "الشتاء طويل جداً."
+  },
+  {
+    "id": "it-ar-174",
+    "it": "È la mia stagione preferita.",
+    "ar": "هذا هو فصلي المفضل."
+  },
+  {
+    "id": "it-ar-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "ar": "ماذا فعلت في عطلة نهاية الأسبوع؟"
+  },
+  {
+    "id": "it-ar-176",
+    "it": "Sono rimasto a casa.",
+    "ar": "لقد بقيت في المنزل."
+  },
+  {
+    "id": "it-ar-177",
+    "it": "Ho visitato i miei amici.",
+    "ar": "لقد زرت أصدقائي."
+  },
+  {
+    "id": "it-ar-178",
+    "it": "Ci siamo divertiti molto.",
+    "ar": "لقد استمتعنا كثيراً."
+  },
+  {
+    "id": "it-ar-179",
+    "it": "È stata una sorpresa.",
+    "ar": "كانت هذه مفاجأة."
+  },
+  {
+    "id": "it-ar-180",
+    "it": "Ho comprato una nuova auto.",
+    "ar": "لقد اشتريت سيارة جديدة."
+  },
+  {
+    "id": "it-ar-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "ar": "تهانينا على العمل الجديد!"
+  },
+  {
+    "id": "it-ar-182",
+    "it": "Quando cominci?",
+    "ar": "متى تبدأ؟"
+  },
+  {
+    "id": "it-ar-183",
+    "it": "Comincio lunedì prossimo.",
+    "ar": "سأبدأ يوم الاثنين القادم."
+  },
+  {
+    "id": "it-ar-184",
+    "it": "Sono un po' nervoso.",
+    "ar": "أنا متوتر قليلاً."
+  },
+  {
+    "id": "it-ar-185",
+    "it": "È del tutto normale.",
+    "ar": "هذا أمر طبيعي تماماً."
+  },
+  {
+    "id": "it-ar-186",
+    "it": "Ce la farai.",
+    "ar": "سوف تنجح في ذلك."
+  },
+  {
+    "id": "it-ar-187",
+    "it": "Credo in te.",
+    "ar": "أنا أؤمن بك."
+  },
+  {
+    "id": "it-ar-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "ar": "شكراً جزيلاً على دعمك."
+  },
+  {
+    "id": "it-ar-189",
+    "it": "Sei un buon amico.",
+    "ar": "أنت صديق جيد."
+  },
+  {
+    "id": "it-ar-190",
+    "it": "Ci sono sempre per te.",
+    "ar": "أنا هنا دائماً من أجلك."
+  },
+  {
+    "id": "it-ar-191",
+    "it": "Questo significa molto per me.",
+    "ar": "هذا يعني الكثير لي."
+  },
+  {
+    "id": "it-ar-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "ar": "فلنلتقِ مجدداً قريباً."
+  },
+  {
+    "id": "it-ar-193",
+    "it": "Adesso devo proprio andare.",
+    "ar": "يجب علي الذهاب الآن حقاً."
+  },
+  {
+    "id": "it-ar-194",
+    "it": "Fai buon rientro a casa.",
+    "ar": "رافقتك السلامة إلى المنزل."
+  },
+  {
+    "id": "it-ar-195",
+    "it": "Scrivimi quando arrivi.",
+    "ar": "اكتب لي عندما تصل."
+  },
+  {
+    "id": "it-ar-196",
+    "it": "Sono arrivato bene.",
+    "ar": "لقد وصلت بسلام."
+  },
+  {
+    "id": "it-ar-197",
+    "it": "Dormi bene.",
+    "ar": "نم جيداً."
+  },
+  {
+    "id": "it-ar-198",
+    "it": "Sogni d'oro.",
+    "ar": "أحلاماً سعيدة."
+  },
+  {
+    "id": "it-ar-199",
+    "it": "Alla prossima volta.",
+    "ar": "إلى المرة القادمة."
+  },
+  {"id": "it-ar-200","it": "Ciao ciao!","ar": "وداعاً!"}],
     "italianturkish": [],
     "italianhindi": [],
     "italianpolish": [],
