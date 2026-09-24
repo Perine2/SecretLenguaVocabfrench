@@ -6824,7 +6824,985 @@
     "ar": "إلى المرة القادمة."
   },
   {"id": "it-ar-200","it": "Ciao ciao!","ar": "وداعاً!"}],
-    "italianturkish": [],
+    "italianturkish": [{
+    "id": "it-tr-001",
+    "it": "Ciao, come sta?",
+    "tr": "Merhaba, nasılsınız?"
+  },
+  {
+    "id": "it-tr-002",
+    "it": "Come si chiama?",
+    "tr": "Adınız ne?"
+  },
+  {
+    "id": "it-tr-003",
+    "it": "Mi chiamo John.",
+    "tr": "Adım John."
+  },
+  {
+    "id": "it-tr-004",
+    "it": "Piacere di conoscerla.",
+    "tr": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "id": "it-tr-005",
+    "it": "Da dove viene?",
+    "tr": "Nerelisiniz?"
+  },
+  {
+    "id": "it-tr-006",
+    "it": "Vengo dalla Francia.",
+    "tr": "Fransa'dan geliyorum."
+  },
+  {
+    "id": "it-tr-007",
+    "it": "Dove abita?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "id": "it-tr-008",
+    "it": "Abito a Parigi.",
+    "tr": "Paris'te yaşıyorum."
+  },
+  {
+    "id": "it-tr-009",
+    "it": "Quanti anni ha?",
+    "tr": "Kaç yaşındasınız?"
+  },
+  {
+    "id": "it-tr-010",
+    "it": "Ho trent'anni.",
+    "tr": "Otuz yaşındayım."
+  },
+  {
+    "id": "it-tr-011",
+    "it": "Che lavoro fa?",
+    "tr": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "id": "it-tr-012",
+    "it": "Sono uno studente.",
+    "tr": "Öğrenciyim."
+  },
+  {
+    "id": "it-tr-013",
+    "it": "Parla inglese?",
+    "tr": "İngilizce biliyor musunuz?"
+  },
+  {
+    "id": "it-tr-014",
+    "it": "Parlo un po' di inglese.",
+    "tr": "Biraz İngilizce konuşuyorum."
+  },
+  {
+    "id": "it-tr-015",
+    "it": "Può aiutarmi, per favore?",
+    "tr": "Lütfen bana yardım edebilir misiniz?"
+  },
+  {
+    "id": "it-tr-016",
+    "it": "Grazie mille.",
+    "tr": "Çok teşekkür ederim."
+  },
+  {
+    "id": "it-tr-017",
+    "it": "Prego.",
+    "tr": "Rica ederim."
+  },
+  {
+    "id": "it-tr-018",
+    "it": "Per favore.",
+    "tr": "Lütfen."
+  },
+  {
+    "id": "it-tr-019",
+    "it": "Mi scusi.",
+    "tr": "Affedersiniz."
+  },
+  {
+    "id": "it-tr-020",
+    "it": "Mi dispiace.",
+    "tr": "Üzgünüm."
+  },
+  {
+    "id": "it-tr-021",
+    "it": "Che ore sono?",
+    "tr": "Saat kaç?"
+  },
+  {
+    "id": "it-tr-022",
+    "it": "Sono le dieci.",
+    "tr": "Saat on."
+  },
+  {
+    "id": "it-tr-023",
+    "it": "Dov'è il bagno?",
+    "tr": "Tuvalet nerede?"
+  },
+  {
+    "id": "it-tr-024",
+    "it": "È da quella parte.",
+    "tr": "Şu tarafta."
+  },
+  {
+    "id": "it-tr-025",
+    "it": "Quanto costa?",
+    "tr": "Bu ne kadar?"
+  },
+  {
+    "id": "it-tr-026",
+    "it": "È troppo caro.",
+    "tr": "Bu çok pahalı."
+  },
+  {
+    "id": "it-tr-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "tr": "Tren istasyonu nerede?"
+  },
+  {
+    "id": "it-tr-028",
+    "it": "Cerco un buon ristorante.",
+    "tr": "İyi bir restoran arıyorum."
+  },
+  {
+    "id": "it-tr-029",
+    "it": "Il conto, per favore.",
+    "tr": "Hesap lütfen."
+  },
+  {
+    "id": "it-tr-030",
+    "it": "Com'è il tempo oggi?",
+    "tr": "Bugün hava nasıl?"
+  },
+  {
+    "id": "it-tr-031",
+    "it": "Il tempo è bello.",
+    "tr": "Hava güzel."
+  },
+  {
+    "id": "it-tr-032",
+    "it": "Piove.",
+    "tr": "Yağmur yağıyor."
+  },
+  {
+    "id": "it-tr-033",
+    "it": "Ho fame.",
+    "tr": "Açım."
+  },
+  {
+    "id": "it-tr-034",
+    "it": "Ho sete.",
+    "tr": "Susadım."
+  },
+  {
+    "id": "it-tr-035",
+    "it": "Sono stanco.",
+    "tr": "Yorgunum."
+  },
+  {
+    "id": "it-tr-036",
+    "it": "Non capisco.",
+    "tr": "Anlamıyorum."
+  },
+  {
+    "id": "it-tr-037",
+    "it": "Può ripetere?",
+    "tr": "Tekrar edebilir misiniz?"
+  },
+  {
+    "id": "it-tr-038",
+    "it": "Parli più lentamente, per favore.",
+    "tr": "Lütfen daha yavaş konuşun."
+  },
+  {
+    "id": "it-tr-039",
+    "it": "Come si dice in turco?",
+    "tr": "Bu Türkçe'de nasıl söylenir?"
+  },
+  {
+    "id": "it-tr-040",
+    "it": "Cosa significa questa parola?",
+    "tr": "Bu kelime ne anlama geliyor?"
+  },
+  {
+    "id": "it-tr-041",
+    "it": "Ti amo.",
+    "tr": "Seni seviyorum."
+  },
+  {
+    "id": "it-tr-042",
+    "it": "Mi manchi.",
+    "tr": "Seni özlüyorum."
+  },
+  {
+    "id": "it-tr-043",
+    "it": "Buona fortuna!",
+    "tr": "Bol şanslar!"
+  },
+  {
+    "id": "it-tr-044",
+    "it": "Congratulazioni!",
+    "tr": "Tebrikler!"
+  },
+  {
+    "id": "it-tr-045",
+    "it": "Buon compleanno!",
+    "tr": "Doğum günün kutlu olsun!"
+  },
+  {
+    "id": "it-tr-046",
+    "it": "Buon viaggio!",
+    "tr": "İyi yolculuklar!"
+  },
+  {
+    "id": "it-tr-047",
+    "it": "Buona giornata.",
+    "tr": "İyi günler."
+  },
+  {
+    "id": "it-tr-048",
+    "it": "A presto.",
+    "tr": "Yakında görüşmek üzere."
+  },
+  {
+    "id": "it-tr-049",
+    "it": "A domani.",
+    "tr": "Yarın görüşürüz."
+  },
+  {
+    "id": "it-tr-050",
+    "it": "Arrivederci.",
+    "tr": "Hoşça kalın."
+  },
+  {
+    "id": "it-tr-051",
+    "it": "Dove va?",
+    "tr": "Nereye gidiyorsunuz?"
+  },
+  {
+    "id": "it-tr-052",
+    "it": "Vado al supermercato.",
+    "tr": "Süpermarkete gidiyorum."
+  },
+  {
+    "id": "it-tr-053",
+    "it": "Cos'è questo?",
+    "tr": "Bu nedir?"
+  },
+  {
+    "id": "it-tr-054",
+    "it": "Non lo so.",
+    "tr": "Bilmiyorum."
+  },
+  {
+    "id": "it-tr-055",
+    "it": "È sicuro?",
+    "tr": "Emin misiniz?"
+  },
+  {
+    "id": "it-tr-056",
+    "it": "Sì, sono sicuro.",
+    "tr": "Evet, eminim."
+  },
+  {
+    "id": "it-tr-057",
+    "it": "Penso di sì.",
+    "tr": "Bence de öyle."
+  },
+  {
+    "id": "it-tr-058",
+    "it": "Penso di no.",
+    "tr": "Bence öyle değil."
+  },
+  {
+    "id": "it-tr-059",
+    "it": "Nessun problema.",
+    "tr": "Sorun değil."
+  },
+  {
+    "id": "it-tr-060",
+    "it": "Non importa.",
+    "tr": "Önemli değil."
+  },
+  {
+    "id": "it-tr-061",
+    "it": "Cosa mangi?",
+    "tr": "Ne yiyorsun?"
+  },
+  {
+    "id": "it-tr-062",
+    "it": "È delizioso.",
+    "tr": "Çoğu lezzetli."
+  },
+  {
+    "id": "it-tr-063",
+    "it": "Non mi piace.",
+    "tr": "Bunu sevmiyorum."
+  },
+  {
+    "id": "it-tr-064",
+    "it": "Quali sono i suoi hobby?",
+    "tr": "Hobileriniz nelerdir?"
+  },
+  {
+    "id": "it-tr-065",
+    "it": "Mi piace leggere libri.",
+    "tr": "Kitap okumayı severim."
+  },
+  {
+    "id": "it-tr-066",
+    "it": "Mi piace ascoltare musica.",
+    "tr": "Müzik dinlemeyi severim."
+  },
+  {
+    "id": "it-tr-067",
+    "it": "Fa sport?",
+    "tr": "Spor yapıyor musunuz?"
+  },
+  {
+    "id": "it-tr-068",
+    "it": "Gioco a calcio.",
+    "tr": "Futbol oynarım."
+  },
+  {
+    "id": "it-tr-069",
+    "it": "Guardo un film.",
+    "tr": "Film izliyorum."
+  },
+  {
+    "id": "it-tr-070",
+    "it": "Dove l'hai comprato?",
+    "tr": "Bunu nereden aldın?"
+  },
+  {
+    "id": "it-tr-071",
+    "it": "È un regalo.",
+    "tr": "Bu bir hediye."
+  },
+  {
+    "id": "it-tr-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "tr": "Lütfen pencereyi kapatabilir misiniz?"
+  },
+  {
+    "id": "it-tr-073",
+    "it": "Fa freddo qui.",
+    "tr": "Burası soğuk."
+  },
+  {
+    "id": "it-tr-074",
+    "it": "Fa caldo fuori.",
+    "tr": "Dışarısı sıcak."
+  },
+  {
+    "id": "it-tr-075",
+    "it": "Dove sono le mie chiavi?",
+    "tr": "Anahtarlarım nerede?"
+  },
+  {
+    "id": "it-tr-076",
+    "it": "Sono sul tavolo.",
+    "tr": "Masanın üstündeler."
+  },
+  {
+    "id": "it-tr-077",
+    "it": "Devo andare.",
+    "tr": "Gitmem gerekiyor."
+  },
+  {
+    "id": "it-tr-078",
+    "it": "Stammi bene.",
+    "tr": "Kendine iyi bak."
+  },
+  {
+    "id": "it-tr-079",
+    "it": "A più tardi.",
+    "tr": "Sonra görüşürüz."
+  },
+  {
+    "id": "it-tr-080",
+    "it": "Buonanotte.",
+    "tr": "İyi geceler."
+  },
+  {
+    "id": "it-tr-081",
+    "it": "Ha fratelli o sorelle?",
+    "tr": "Kardeşiniz var mı?"
+  },
+  {
+    "id": "it-tr-082",
+    "it": "Ho un fratello e una sorella.",
+    "tr": "Bir erkek kardeşim ve bir kız kardeşim var."
+  },
+  {
+    "id": "it-tr-083",
+    "it": "È sposato?",
+    "tr": "Evli misiniz?"
+  },
+  {
+    "id": "it-tr-084",
+    "it": "Sono celibe.",
+    "tr": "Bekarım."
+  },
+  {
+    "id": "it-tr-085",
+    "it": "Hai figli?",
+    "tr": "Çocuğun var mı?"
+  },
+  {
+    "id": "it-tr-086",
+    "it": "Ho due figli.",
+    "tr": "İki çocuğum var."
+  },
+  {
+    "id": "it-tr-087",
+    "it": "Dove lavori?",
+    "tr": "Nerede çalışıyorsun?"
+  },
+  {
+    "id": "it-tr-088",
+    "it": "Lavoro in ufficio.",
+    "tr": "Ofiste çalışıyorum."
+  },
+  {
+    "id": "it-tr-089",
+    "it": "Le piace il caffè o il tè?",
+    "tr": "Kahve mi seversiniz yoksa çay mı?"
+  },
+  {
+    "id": "it-tr-090",
+    "it": "Preferisco bere il tè.",
+    "tr": "Çay içmeyi tercih ederim."
+  },
+  {
+    "id": "it-tr-091",
+    "it": "È una buona idea.",
+    "tr": "Bu iyi bir fikir."
+  },
+  {
+    "id": "it-tr-092",
+    "it": "Sono stanco, vado a letto.",
+    "tr": "Yorgunum, yatmaya gidiyorum."
+  },
+  {
+    "id": "it-tr-093",
+    "it": "Qual è il suo film preferito?",
+    "tr": "En sevdiğiniz film hangisi?"
+  },
+  {
+    "id": "it-tr-094",
+    "it": "Può indicarmi la strada?",
+    "tr": "Bana yolu gösterebilir misiniz?"
+  },
+  {
+    "id": "it-tr-095",
+    "it": "Ho perso il mio telefono.",
+    "tr": "Telefonumu kaybettim."
+  },
+  {
+    "id": "it-tr-096",
+    "it": "Chiami un medico, per favore.",
+    "tr": "Lütfen bir doktor çağırın."
+  },
+  {
+    "id": "it-tr-097",
+    "it": "È un'emergenza.",
+    "tr": "Bu bir acil durum."
+  },
+  {
+    "id": "it-tr-098",
+    "it": "Ha la password del Wi-Fi?",
+    "tr": "Wi-Fi şifreniz var mı?"
+  },
+  {
+    "id": "it-tr-099",
+    "it": "Internet è molto lento.",
+    "tr": "İnternet çok yavaş."
+  },
+  {
+    "id": "it-tr-100",
+    "it": "Devo annullare il mio biglietto.",
+    "tr": "Biletimi iptal etmem gerekiyor."
+  },{
+    "id": "it-tr-101",
+    "it": "Quanto dura il viaggio?",
+    "tr": "Yolculuk ne kadar sürüyor?"
+  },
+  {
+    "id": "it-tr-102",
+    "it": "Possiamo fermarci qui?",
+    "tr": "Burada durabilir miyiz?"
+  },
+  {
+    "id": "it-tr-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "tr": "Makbuza ihtiyacım var."
+  },
+  {
+    "id": "it-tr-104",
+    "it": "Dove posso cambiare il denaro?",
+    "tr": "Nerede para bozdurabilirim?"
+  },
+  {
+    "id": "it-tr-105",
+    "it": "C'è una banca qui vicino?",
+    "tr": "Yakınlarda bir banka var mı?"
+  },
+  {
+    "id": "it-tr-106",
+    "it": "Accettate carte di credito?",
+    "tr": "Kredi kartı kabul ediyor musunuz?"
+  },
+  {
+    "id": "it-tr-107",
+    "it": "Pago in contanti.",
+    "tr": "Nakit ödeyeceğim."
+  },
+  {
+    "id": "it-tr-108",
+    "it": "Può farmi uno sconto?",
+    "tr": "Bana indirim yapabilir misiniz?"
+  },
+  {
+    "id": "it-tr-109",
+    "it": "Questa è la mia ultima parola.",
+    "tr": "Bu benim son sözüm."
+  },
+  {
+    "id": "it-tr-110",
+    "it": "Sto solo dando un'occhiata.",
+    "tr": "Sadece bakınıyorum."
+  },
+  {
+    "id": "it-tr-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "tr": "Bunun başka bir bedeni var mı?"
+  },
+  {
+    "id": "it-tr-112",
+    "it": "Dov'è il camerino?",
+    "tr": "Soyunma kabini nerede?"
+  },
+  {
+    "id": "it-tr-113",
+    "it": "Mi sta bene.",
+    "tr": "Üzerime tam oturdu."
+  },
+  {
+    "id": "it-tr-114",
+    "it": "Lo prendo.",
+    "tr": "Bunu alıyorum."
+  },
+  {
+    "id": "it-tr-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "tr": "Çantamı nereye bırakabilirim?"
+  },
+  {
+    "id": "it-tr-116",
+    "it": "Avete cibo vegetariano?",
+    "tr": "Vejetaryen yemeğiniz var mı?"
+  },
+  {
+    "id": "it-tr-117",
+    "it": "Sono allergic?",
+    "tr": "Alerjim var."
+  },
+  {
+    "id": "it-tr-118",
+    "it": "Non piccante, per favore.",
+    "tr": "Lütfen acısız olsun."
+  },
+  {
+    "id": "it-tr-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "tr": "Lütfen bana bir bardak su getirin."
+  },
+  {
+    "id": "it-tr-120",
+    "it": "Buon appetito!",
+    "tr": "Afiyet olsun!"
+  },
+  {
+    "id": "it-tr-121",
+    "it": "Cin cin!",
+    "tr": "Şerefe!"
+  },
+  {
+    "id": "it-tr-122",
+    "it": "Il cibo era meraviglioso.",
+    "tr": "Yemek harikaydı."
+  },
+  {
+    "id": "it-tr-123",
+    "it": "Vorrei prenotare una camera.",
+    "tr": "Bir oda rezerve etmek istiyorum."
+  },
+  {
+    "id": "it-tr-124",
+    "it": "La colazione è inclusa?",
+    "tr": "Kahvaltı dahil mi?"
+  },
+  {
+    "id": "it-tr-125",
+    "it": "A che ora è il check-out?",
+    "tr": "Otelden çıkış saati kaçta?"
+  },
+  {
+    "id": "it-tr-126",
+    "it": "Può chiamare un taxi?",
+    "tr": "Taksi çağırabilir misiniz?"
+  },
+  {
+    "id": "it-tr-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "tr": "Lütfen beni bu adrese götürün."
+  },
+  {
+    "id": "it-tr-128",
+    "it": "Si fermi qui, per favore.",
+    "tr": "Lütfen burada durun."
+  },
+  {
+    "id": "it-tr-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "tr": "Yakınlarda bir otobüs durağı var mı?"
+  },
+  {
+    "id": "it-tr-130",
+    "it": "A che ora parte il prossimo treno?",
+    "tr": "Bir sonraki tren saat kaçta kalkıyor?"
+  },
+  {
+    "id": "it-tr-131",
+    "it": "Il treno è in ritardo.",
+    "tr": "Tren gecikti."
+  },
+  {
+    "id": "it-tr-132",
+    "it": "Ho perso il mio volo.",
+    "tr": "Uçağımı kaçırdım."
+  },
+  {
+    "id": "it-tr-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "tr": "Bagaj alım yeri nerede?"
+  },
+  {
+    "id": "it-tr-134",
+    "it": "Questa non è la mia valigia.",
+    "tr": "Bu benim valizim değil."
+  },
+  {
+    "id": "it-tr-135",
+    "it": "Il mio passaporto è sparito.",
+    "tr": "Pasaportum kayboldu."
+  },
+  {
+    "id": "it-tr-136",
+    "it": "Dov'è l'ambasciata?",
+    "tr": "Elçilik nerede?"
+  },
+  {
+    "id": "it-tr-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "tr": "Polisin yardımına ihtiyacım var."
+  },
+  {
+    "id": "it-tr-138",
+    "it": "Lasciami in pace.",
+    "tr": "Beni yalnız bırakın."
+  },
+  {
+    "id": "it-tr-139",
+    "it": "Vai via!",
+    "tr": "Git buradan!"
+  },
+  {
+    "id": "it-tr-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "tr": "İmdat! Biri beni soydu."
+  },
+  {
+    "id": "it-tr-141",
+    "it": "Mi sono perso.",
+    "tr": "Kayboldum."
+  },
+  {
+    "id": "it-tr-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "tr": "Haritada nerede olduğumu gösterebilir misiniz?"
+  },
+  {
+    "id": "it-tr-143",
+    "it": "Qual è il suo numero di telefono?",
+    "tr": "Telefon numaranız nedir?"
+  },
+  {
+    "id": "it-tr-144",
+    "it": "Lo scriva, per favore.",
+    "tr": "Lütfen bunu yazın."
+  },
+  {
+    "id": "it-tr-145",
+    "it": "Ti chiamerò.",
+    "tr": "Seni arayacağım."
+  },
+  {
+    "id": "it-tr-146",
+    "it": "Mandami un messaggio.",
+    "tr": "Bana bir mesaj gönder."
+  },
+  {
+    "id": "it-tr-147",
+    "it": "È sui social media?",
+    "tr": "Sosyal medyada mısınız?"
+  },
+  {
+    "id": "it-tr-148",
+    "it": "Ti seguo.",
+    "tr": "Seni takip ediyorum."
+  },
+  {
+    "id": "it-tr-149",
+    "it": "Quali sono le novità?",
+    "tr": "Ne haber? / Ne var ne yok?"
+  },
+  {
+    "id": "it-tr-150",
+    "it": "Nulla di speciale.",
+    "tr": "Özel bir şey yok."
+  },
+  {
+    "id": "it-tr-151",
+    "it": "Non vedo l'ora.",
+    "tr": "Dört gözle bekliyorum."
+  },
+  {
+    "id": "it-tr-152",
+    "it": "Non mi importa.",
+    "tr": "Umrumda değil."
+  },
+  {
+    "id": "it-tr-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "tr": "Merak etme, her şey güzel olacak."
+  },
+  {
+    "id": "it-tr-154",
+    "it": "Calmati, per favore.",
+    "tr": "Lütfen sakin ol."
+  },
+  {
+    "id": "it-tr-155",
+    "it": "Non stressarti.",
+    "tr": "Stres yapma."
+  },
+  {
+    "id": "it-tr-156",
+    "it": "È incredibile!",
+    "tr": "Bu inanılmaz!"
+  },
+  {
+    "id": "it-tr-157",
+    "it": "Sono orgoglioso di te.",
+    "tr": "Seninle gurur duyuyorum."
+  },
+  {
+    "id": "it-tr-158",
+    "it": "Hai fatto un buon lavoro.",
+    "tr": "İyi iş çıkardın."
+  },
+  {
+    "id": "it-tr-159",
+    "it": "Su col morale!",
+    "tr": "Başını dik tut! / Neşelen!"
+  },
+  {
+    "id": "it-tr-160",
+    "it": "Non ti arrendere!",
+    "tr": "Asla pes etme!"
+  },
+  {
+    "id": "it-tr-161",
+    "it": "L'esercizio rende perfetti.",
+    "tr": "Pratik yapmak mükemmelleştirir."
+  },
+  {
+    "id": "it-tr-162",
+    "it": "Cominciamo domani.",
+    "tr": "Yarın başlayalım."
+  },
+  {
+    "id": "it-tr-163",
+    "it": "Non ho tempo oggi.",
+    "tr": "Bugün zamanım yok."
+  },
+  {
+    "id": "it-tr-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "tr": "Hafta sonu buluşabiliriz."
+  },
+  {
+    "id": "it-tr-165",
+    "it": "Quando hai tempo?",
+    "tr": "Ne zaman zamanın var?"
+  },
+  {
+    "id": "it-tr-166",
+    "it": "Sono flessibile.",
+    "tr": "Zamanım esnek."
+  },
+  {
+    "id": "it-tr-167",
+    "it": "Dipende dal tempo.",
+    "tr": "Havaya bağlı."
+  },
+  {
+    "id": "it-tr-168",
+    "it": "È nuvoloso oggi.",
+    "tr": "Bugün hava bulutlu."
+  },
+  {
+    "id": "it-tr-169",
+    "it": "Nevica fuori.",
+    "tr": "Dışarıda kar yağıyor."
+  },
+  {
+    "id": "it-tr-170",
+    "it": "Il vento è molto forte.",
+    "tr": "Rüzgar çok güçlü."
+  },
+  {
+    "id": "it-tr-171",
+    "it": "Domani sarà soleggiato.",
+    "tr": "Yarın hava güneşli olacak."
+  },
+  {
+    "id": "it-tr-172",
+    "it": "Amo l'estate.",
+    "tr": "Yazı çok seviyorum."
+  },
+  {
+    "id": "it-tr-173",
+    "it": "L'inverno è troppo lungo.",
+    "tr": "Kış çok uzun sürüyor."
+  },
+  {
+    "id": "it-tr-174",
+    "it": "È la mia stagione preferita.",
+    "tr": "Bu benim en sevdiğim mevsim."
+  },
+  {
+    "id": "it-tr-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "tr": "Hafta sonu ne yaptın?"
+  },
+  {
+    "id": "it-tr-176",
+    "it": "Sono rimasto a casa.",
+    "tr": "Evde kaldım."
+  },
+  {
+    "id": "it-tr-177",
+    "it": "Ho visitato i miei amici.",
+    "tr": "Arkadaşlarımı ziyaret ettim."
+  },
+  {
+    "id": "it-tr-178",
+    "it": "Ci siamo divertiti molto.",
+    "tr": "Çok eğlendik."
+  },
+  {
+    "id": "it-tr-179",
+    "it": "È stata una sorpresa.",
+    "tr": "Bu bir sürpriz oldu."
+  },
+  {
+    "id": "it-tr-180",
+    "it": "Ho comprato una nuova auto.",
+    "tr": "Yeni bir araba aldım."
+  },
+  {
+    "id": "it-tr-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "tr": "Yeni işin hayırlı olsun!"
+  },
+  {
+    "id": "it-tr-182",
+    "it": "Quando cominci?",
+    "tr": "Ne zaman başlıyorsun?"
+  },
+  {
+    "id": "it-tr-183",
+    "it": "Comincio lunedì prossimo.",
+    "tr": "Gelecek Pazartesi başlıyorum."
+  },
+  {
+    "id": "it-tr-184",
+    "it": "Sono un po' nervoso.",
+    "tr": "Biraz heyecanlıyım / gerginiyim."
+  },
+  {
+    "id": "it-tr-185",
+    "it": "È del tutto normale.",
+    "tr": "Bu tamamen normal."
+  },
+  {
+    "id": "it-tr-186",
+    "it": "Ce la farai.",
+    "tr": "Bunu başaracaksın."
+  },
+  {
+    "id": "it-tr-187",
+    "it": "Credo in te.",
+    "tr": "Sana inanıyorum."
+  },
+  {
+    "id": "it-tr-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "tr": "Desteğin için çok teşekkür ederim."
+  },
+  {
+    "id": "it-tr-189",
+    "it": "Sei un buon amico.",
+    "tr": "İyi bir arkadaşsın."
+  },
+  {
+    "id": "it-tr-190",
+    "it": "Ci sono sempre per te.",
+    "tr": "Her zaman yanındayım."
+  },
+  {
+    "id": "it-tr-191",
+    "it": "Questo significa molto per me.",
+    "tr": "Bu benim için çok şey ifade ediyor."
+  },
+  {
+    "id": "it-tr-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "tr": "Yakında tekrar buluşalım."
+  },
+  {
+    "id": "it-tr-193",
+    "it": "Adesso devo proprio andare.",
+    "tr": "Şimdi gerçekten gitmem lazım."
+  },
+  {
+    "id": "it-tr-194",
+    "it": "Fai buon rientro a casa.",
+    "tr": "Eve sağ salim git."
+  },
+  {
+    "id": "it-tr-195",
+    "it": "Scrivimi quando arrivi.",
+    "tr": "Varınca bana yaz."
+  },
+  {
+    "id": "it-tr-196",
+    "it": "Sono arrivato bene.",
+    "tr": "Sağ salim vardım."
+  },{"id": "it-tr-197","it": "Dormi bene.","tr": "İyi uykular."},{"id": "it-tr-198","it": "Sogni d'oro.","tr": "Tatlı rüyalar."},{"id": "it-tr-199","it": "Alla prossima volta.","tr": "Gelecek sefere kadar."},{"id": "it-tr-200","it": "Ciao ciao!","tr": "Görüşürüz! / Baybay!"}],
     "italianhindi": [],
     "italianpolish": [],
     "italianchinese": []
