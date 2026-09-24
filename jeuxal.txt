@@ -2699,7 +2699,454 @@
   {
     "id": "pt-109",
     "de": "Nein, es ist ganz in der Nähe.","pt": "Não, é muito perto."},{"id": "pt-110","de": "Gehen Sie geradeaus.","pt": "Siga em frente."},{"id": "pt-111","de": "Biegen Sie nach rechts ab.","pt": "Vire à direita."},{"id": "pt-112","de": "Biegen Sie nach links ab.","pt": "Vire à esquerda."},{"id": "pt-113","de": "Ich habe mich verlaufen.","pt": "Estou perdido."},{"id": "pt-114","de": "Können Sie mir das auf der Karte zeigen?","pt": "Pode mostrar-me no mapa?"},{"id": "pt-115","de": "Wo ist das Hotel?","pt": "Onde fica o hotel?"},{"id": "pt-116","de": "Ich habe eine Reservierung.","pt": "Tenho uma reserva."},{"id": "pt-117","de": "Kann ich den Schlüssel haben?","pt": "Posso levar a chave?"},{"id": "pt-118","de": "Ist das WLAN kostenlos?","pt": "O Wi-Fi é gratuito?"},{"id": "pt-119","de": "Wie lautet das Passwort?","pt": "Qual é a palavra-passe?"},{"id": "pt-120","de": "Wo ist der Aufzug?","pt": "Onde fica o elevador?"},{"id": "pt-121","de": "Ich möchte einen Tisch reservieren.","pt": "Gostaria de reservar uma mesa."},{"id": "pt-122","de": "Für wie viele Personen?","pt": "Para quantas pessoas?"},{"id": "pt-123","de": "Für zwei Personen.","pt": "Para duas pessoas."},{"id": "pt-124","de": "Um wie viel Uhr?","pt": "A que horas?"},{"id": "pt-125","de": "Heute Abend um zwanzig Uhr.","pt": "Esta noite às vinte horas."},{"id": "pt-126","de": "Sind Sie bereit zu bestellen?","pt": "Está pronto para pedir?"},{"id": "pt-127","de": "Ich nehme das Hähnchen.","pt": "Vou querer o frango."},{"id": "pt-128","de": "Und zu trinken?","pt": "E para beber?"},{"id": "pt-129","de": "Mineralwasser, bitte.","pt": "Água mineral, por favor."},{"id": "pt-130","de": "Guten Appetit!","pt": "Bom apetite!"},{"id": "pt-131","de": "Es war ausgezeichnet.","pt": "Estava excelente."},{"id": "pt-132","de": "Akzeptieren Sie Kreditkarten?","pt": "Aceitam cartões de crédito?"},{"id": "pt-133","de": "Ich bezahle bar.","pt": "Vou pagar em dinheiro."},{"id": "pt-134","de": "Stimmt so.","pt": "Fique com o troco."},{"id": "pt-135","de": "Wo sind die Geschäfte?","pt": "Onde ficam as lojas?"},{"id": "pt-136","de": "Ich schaue mich nur um.","pt": "Estou só a ver."},{"id": "pt-137","de": "Kann ich das anprobieren?","pt": "Posso experimentar isto?"},{"id": "pt-138","de": "Wo sind die Umkleidekabinen?","pt": "Onde ficam os provadores?"},{"id": "pt-139","de": "Welche Größe haben Sie?","pt": "Qual é o seu tamanho?"},{"id": "pt-140","de": "Das ist zu groß.","pt": "É grande demais."},{"id": "pt-141","de": "Das ist zu klein.","pt": "É pequeno demais."},{"id": "pt-142","de": "Haben Sie es eine Nummer größer?","pt": "Tem um tamanho acima?"},{"id": "pt-143","de": "Ich nehme es.","pt": "Fico com isto."},{"id": "pt-144","de": "Wo ist die Kasse?","pt": "Onde fica a caixa?"},{"id": "pt-145","de": "Kann ich eine Tüte haben?","pt": "Pode dar-me um saco?"},{"id": "pt-146","de": "Ich möchte eine Rückerstattung.","pt": "Gostaria de um reembolso."},{"id": "pt-147","de": "Es ist kaputt.","pt": "Está partido."},{"id": "pt-148","de": "Wo ist die Apotheke?","pt": "Onde fica a farmácia?"},{"id": "pt-149","de": "Ich bin krank.","pt": "Estou doente."},{"id": "pt-150","de": "Ich habe Kopfschmerzen.","pt": "Estou com dor de cabeça."},{"id": "pt-151","de": "Ich habe Fieber.","pt": "Estou com febre."},{"id": "pt-152","de": "Ich brauche ein Medikament.","pt": "Preciso de um medicamento."},{"id": "pt-153","de": "Wo ist das nächste Krankenhaus?","pt": "Onde fica o hospital mais próximo?"},{"id": "pt-154","de": "Rufen Sie einen Krankenwagen!","pt": "Chame uma ambulância!"},{"id": "pt-155","de": "Das ist ein Notfall.","pt": "É uma emergência."},{"id": "pt-156","de": "Ist alles in Ordnung?","pt": "Está tudo bem?"},{"id": "pt-157","de": "Ja, alles ist gut.","pt": "Sim, está tudo bem."},{"id": "pt-158","de": "Beruhigen Sie sich bitte.","pt": "Acalme-se, por favor."},{"id": "pt-159","de": "Machen Sie sich keine Sorgen.","pt": "Não se preocupe."},{"id": "pt-160","de": "Was ist passiert?","pt": "O que aconteceu?"},{"id": "pt-161","de": "Es war ein Unfall.","pt": "Foi um acidente."},{"id": "pt-162","de": "Ich habe meinen Reisepass verloren.","pt": "Perdi o meu passaporte."},{"id": "pt-163","de": "Wo ist die Polizeistation?","pt": "Onde fica a esquadra de polícia?"},{"id": "pt-164","de": "Meine Tasche wurde gestohlen.","pt": "Roubaram-me a mala."},{"id": "pt-165","de": "Haltet den Dieb!","pt": "Ladrão!"},{"id": "pt-166","de": "Helfen Sie mir!","pt": "Ajude-me!"},{"id": "pt-167","de": "Welches Datum haben wir heute?","pt": "Qual é a data de hoje?"},{"id": "pt-168","de": "Es ist der erste Mai.","pt": "É o primeiro de maio."},{"id": "pt-169","de": "Welcher Wochentag ist heute?","pt": "Que dia é hoje?"},{"id": "pt-170","de": "Heute ist Montag.","pt": "Hoje é segunda-feira."},{"id": "pt-171","de": "Was hast du dieses Wochenende gemacht?","pt": "O que fizeste este fim de semana?"},{"id": "pt-172","de": "Ich habe mich ausgeruht.","pt": "Descansei."},{"id": "pt-173","de": "Was machen wir morgen?","pt": "O que vamos fazer amanhã?"},{"id": "pt-174","de": "Sehen wir uns heute Abend?","pt": "Vemo-nos logo à noite?"},{"id": "pt-175","de": "Um wie viel Uhr treffen wir uns?","pt": "A que horas nos encontramos?"},{"id": "pt-176","de": "Wir treffen uns um neunzehn Uhr.","pt": "Encontramo-nos às dezanove horas."},{"id": "pt-177","de": "Wo ist der Treffpunkt?","pt": "Onde é o ponto de encontro?"},{"id": "pt-178","de": "Vor dem Kino.","pt": "Em frente ao cinema."},{"id": "pt-179","de": "Ich bin auf dem Weg.","pt": "Estou a caminho."},{"id": "pt-180","de": "Ich werde mich verspäten.","pt": "Vou chegar atrasado."},{"id": "pt-181","de": "Entschuldigung für die Verspätung.","pt": "Desculpe o atraso."},{"id": "pt-182","de": "Das ist nichts.","pt": "Não foi nada."},{"id": "pt-183","de": "Danke fürs Kommen.","pt": "Obrigado por vires."},{"id": "pt-184","de": "Es war mir ein Vergnügen.","pt": "Foi um prazer."},{"id": "pt-185","de": "Bis zum nächsten Mal.","pt": "Até à próxima."},{"id": "pt-186","de": "Hattest du einen schönen Urlaub?","pt": "Passaste boas férias?"},{"id": "pt-187","de": "Es war fantastisch.","pt": "Foi fantástico."},{"id": "pt-188","de": "Wohin bist du gefahren?","pt": "Aonde foste?"},{"id": "pt-189","de": "Ich bin an den Strand gegangen.","pt": "Fui à praia."},{"id": "pt-190","de": "Wie war die Reise?","pt": "Como correu a viagem?"},{"id": "pt-191","de": "Es war ein bisschen lang.","pt": "Foi um pouco longa."},{"id": "pt-192","de": "Hast du Fotos gemacht?","pt": "Tiraste fotografias?"},{"id": "pt-193","de": "Ja, viele.","pt": "Sim, muitas."},{"id": "pt-194","de": "Zeig mir bitte.","pt": "Mostra-me, por favor."},{"id": "pt-195","de": "Es ist wunderschön.","pt": "É lindo."},{"id": "pt-196","de": "Was für ein Glück!","pt": "Que sorte!"},{"id": "pt-197","de": "Ich will auch dorthin.","pt": "Também quero ir para lá."},{"id": "pt-198","de": "Vielleicht nächstes Jahr.","pt": "Talvez no próximo ano."},{"id": "pt-199","de": "Wir werden sehen.","pt": "Veremos."},{"id": "pt-200","de": "Das ist das Ende der Datei.","pt": "É o fim do ficheiro."}],
-    "germanrussian": [],
+    "germanrussian": [ {
+    "id": "ru-001",
+    "de": "Hallo, wie geht es Ihnen?",
+    "ru": "Здравствуйте, как дела? (Zdravstvuyte, kak dela?)"
+  },
+  {
+    "id": "ru-002",
+    "de": "Wie heißen Sie?",
+    "ru": "Как вас зовут? (Kak vas zovut?)"
+  },
+  {
+    "id": "ru-003",
+    "de": "Ich heiße John.",
+    "ru": "Меня зовут Джон. (Menya zovut Dzhon.)"
+  },
+  {
+    "id": "ru-004",
+    "de": "Schön, Sie kennenzulernen.",
+    "ru": "Рад с вами познакомиться. (Rad s vami poznakomit'sya.)"
+  },
+  {
+    "id": "ru-005",
+    "de": "Woher kommen Sie?",
+    "ru": "Откуда вы? (Otkuda vy?)"
+  },
+  {
+    "id": "ru-006",
+    "de": "Ich komme aus Frankreich.",
+    "ru": "Я из Франции. (Ya iz Frantsii.)"
+  },
+  {
+    "id": "ru-007",
+    "de": "Wo wohnen Sie?",
+    "ru": "Где вы живете? (Gde vy zhivete?)"
+  },
+  {
+    "id": "ru-008",
+    "de": "Ich wohne in Paris.",
+    "ru": "Я живу в Париже. (Ya zhivu v Parizhe.)"
+  },
+  {
+    "id": "ru-009",
+    "de": "Wie alt sind Sie?",
+    "ru": "Сколько вам лет? (Skol'ko vam let?)"
+  },
+  {
+    "id": "ru-010",
+    "de": "Ich bin dreißig Jahre alt.",
+    "ru": "Мне тридцать лет. (Mne tridtsat' let.)"
+  },
+  {
+    "id": "ru-011",
+    "de": "Was machen Sie beruflich?",
+    "ru": "Чем вы занимаетесь в жизни? (Chem vy zanimayetes' v zhizni?)"
+  },
+  {
+    "id": "ru-012",
+    "de": "Ich bin Student.",
+    "ru": "Я студент. (Ya student.)"
+  },
+  {
+    "id": "ru-013",
+    "de": "Sprechen Sie Russisch?",
+    "ru": "Вы говорите по-русски? (Vy govorite po-russki?)"
+  },
+  {
+    "id": "ru-014",
+    "de": "Ich spreche ein bisschen Russisch.",
+    "ru": "Я немного говорю по-русски. (Ya nemnogo govoryu po-russki.)"
+  },
+  {
+    "id": "ru-015",
+    "de": "Können Sie mir bitte helfen?",
+    "ru": "Помогите мне, пожалуйста. (Pomogite mne, pozhaluysta.)"
+  },
+  {
+    "id": "ru-016",
+    "de": "Vielen Dank.",
+    "ru": "Большое спасибо. (Bol'shoye spasibo.)"
+  },
+  {
+    "id": "ru-017",
+    "de": "Bitte schön.",
+    "ru": "Не за что. (Ne za chto.)"
+  },
+  {
+    "id": "ru-018",
+    "de": "Bitte.",
+    "ru": "Пожалуйста. (Pozhaluysta.)"
+  },
+  {
+    "id": "ru-019",
+    "de": "Entschuldigung.",
+    "ru": "Извините. (Izvinite.)"
+  },
+  {
+    "id": "ru-020",
+    "de": "Es tut mir leid.",
+    "ru": "Мне жаль. (Mne zhal'.)"
+  },
+  {
+    "id": "ru-021",
+    "de": "Wie spät ist es?",
+    "ru": "Который час? (Kotoryy chas?)"
+  },
+  {
+    "id": "ru-022",
+    "de": "Es ist zehn Uhr.",
+    "ru": "Сейчас десять часов. (Seychas desyat' chasov.)"
+  },
+  {
+    "id": "ru-023",
+    "de": "Wo ist die Toilette?",
+    "ru": "Где туалет? (Gde tualet?)"
+  },
+  {
+    "id": "ru-024",
+    "de": "Es ist da entlang.",
+    "ru": "Это туда. (Eto tuda.)"
+  },
+  {
+    "id": "ru-025",
+    "de": "Wie viel kostet das?",
+    "ru": "Сколько это стоит? (Skol'ko eto stoit?)"
+  },
+  {
+    "id": "ru-026",
+    "de": "Das ist zu teuer.",
+    "ru": "Esto slishkom dorogo. (Это слишком дорого.)"
+  },
+  {
+    "id": "ru-027",
+    "de": "Wo ist der Bahnhof?",
+    "ru": "Где находится вокзал? (Gde nahoditsya vokzal?)"
+  },
+  {
+    "id": "ru-028",
+    "de": "Ich suche ein gutes Restaurant.",
+    "ru": "Я ищу хороший ресторан. (Ya ishchu horoshiy restoran.)"
+  },
+  {
+    "id": "ru-029",
+    "de": "Die Rechnung, bitte.",
+    "ru": "Счет, пожалуйста. (Schet, pozhaluysta.)"
+  },
+  {
+    "id": "ru-030",
+    "de": "Wie ist das Wetter heute?",
+    "ru": "Какая сегодня погода? (Kakaya segodnya pogoda?)"
+  },
+  {
+    "id": "ru-031",
+    "de": "Das Wetter ist schön.",
+    "ru": "Погода хорошая. (Pogoda horoshaya.)"
+  },
+  {
+    "id": "ru-032",
+    "de": "Es regnet.",
+    "ru": "Идет дождь. (Idet dozhd'.)"
+  },
+  {
+    "id": "ru-033",
+    "de": "Ich habe Hunger.",
+    "ru": "Я хочу есть. (Ya hochu yest'.)"
+  },
+  {
+    "id": "ru-034",
+    "de": "Ich habe Durst.",
+    "ru": "Я хочу пить. (Ya hochu pit'.)"
+  },
+  {
+    "id": "ru-035",
+    "de": "Ich bin müde.",
+    "ru": "Я устал. (Ya ustal.)"
+  },
+  {
+    "id": "ru-036",
+    "de": "Ich verstehe nicht.",
+    "ru": "Я не понимаю. (Ya ne ponimayu.)"
+  },
+  {
+    "id": "ru-037",
+    "de": "Können Sie das wiederholen?",
+    "ru": "Повторите, пожалуйста. (Povtorite, pozhaluysta.)"
+  },
+  {
+    "id": "ru-038",
+    "de": "Sprechen Sie bitte langsamer.",
+    "ru": "Говорите медленнее, пожалуйста. (Govorite medlennee, pozhaluysta.)"
+  },
+  {
+    "id": "ru-039",
+    "de": "Wie sagt man das auf Russisch?",
+    "ru": "Как это сказать по-русски? (Kak eto skazat' po-russki?)"
+  },
+  {
+    "id": "ru-040",
+    "de": "Was bedeutet dieses Wort?",
+    "ru": "Что значит это слово? (Chto znachit eto slovo?)"
+  },
+  {
+    "id": "ru-041",
+    "de": "Ich liebe dich.",
+    "ru": "Я тебя люблю. (Ya tebya lyublyu.)"
+  },
+  {
+    "id": "ru-042",
+    "de": "Ich vermisse dich.",
+    "ru": "Я скучаю по тебе. (Ya skuchayu po tebe.)"
+  },
+  {
+    "id": "ru-043",
+    "de": "Viel Glück!",
+    "ru": "Удачи! (Udachi!)"
+  },
+  {
+    "id": "ru-044",
+    "de": "Herzlichen Glückwunsch!",
+    "ru": "Поздравляю! (Pozdravlyayu!)"
+  },
+  {
+    "id": "ru-045",
+    "de": "Alles Gute zum Geburtstag!",
+    "ru": "С днем рождения! (S dnem rozhdeniya!)"
+  },
+  {
+    "id": "ru-046",
+    "de": "Gute Reise!",
+    "ru": "Счастливого пути! (Schastlivogo puti!)"
+  },
+  {
+    "id": "ru-047",
+    "de": "Einen schönen Tag noch.",
+    "ru": "Хорошего дня. (Horoshego dnya.)"
+  },
+  {
+    "id": "ru-048",
+    "de": "Bis bald.",
+    "ru": "До скорого. (Do skorogo.)"
+  },
+  {
+    "id": "ru-049",
+    "de": "Bis morgen.",
+    "ru": "До завтра. (Do zavtra.)"
+  },
+  {
+    "id": "ru-050",
+    "de": "Auf Wiedersehen.",
+    "ru": "До свидания. (Do svidaniya.)"
+  },
+  {
+    "id": "ru-051",
+    "de": "Wohin gehen Sie?",
+    "ru": "Куда вы идете? (Kuda vy idete?)"
+  },
+  {
+    "id": "ru-052",
+    "de": "Ich gehe zum Supermarkt.",
+    "ru": "Я иду в супермаркет. (Ya idu v supermarket.)"
+  },
+  {
+    "id": "ru-053",
+    "de": "Was ist das?",
+    "ru": "Что это? (Chto eto?)"
+  },
+  {
+    "id": "ru-054",
+    "de": "Ich weiß es nicht.",
+    "ru": "Я не знаю. (Ya ne znayu.)"
+  },
+  {
+    "id": "ru-055",
+    "de": "Sind Sie sicher?",
+    "ru": "Вы уверены? (Vy uvereny?)"
+  },
+  {
+    "id": "ru-056",
+    "de": "Ja, ich bin sicher.",
+    "ru": "Да, я уверен. (Da, ya uveren.)"
+  },
+  {
+    "id": "ru-057",
+    "de": "Ich glaube ja.",
+    "ru": "Думаю, да. (Dumayu, da.)"
+  },
+  {
+    "id": "ru-058",
+    "de": "Ich glaube nicht.",
+    "ru": "Думаю, нет. (Dumayu, net.)"
+  },
+  {
+    "id": "ru-059",
+    "de": "Kein Problem.",
+    "ru": "Без проблем. (Bez problem.)"
+  },
+  {
+    "id": "ru-060",
+    "de": "Das macht nichts.",
+    "ru": "Ничего страшного. (Nichego strashnogo.)"
+  },
+  {
+    "id": "ru-061",
+    "de": "Was isst du?",
+    "ru": "Что ты ешь? (Chto ty yesh?)"
+  },
+  {
+    "id": "ru-062",
+    "de": "Es ist lecker.",
+    "ru": "Это вкусно. (Eto vkusno.)"
+  },
+  {
+    "id": "ru-063",
+    "de": "Ich mag das nicht.",
+    "ru": "Мне это не нравится. (Mne eto ne nravitsya.)"
+  },
+  {
+    "id": "ru-064",
+    "de": "Was sind Ihre Hobbys?",
+    "ru": "Какие у вас хобби? (Kakiye u vas hobbi?)"
+  },
+  {
+    "id": "ru-065",
+    "de": "Ich lese gerne Bücher.",
+    "ru": "Я люблю читать книги. (Ya lyublyu chitat' knigi.)"
+  },
+  {
+    "id": "ru-066",
+    "de": "Ich höre gerne Musik.",
+    "ru": "Я люблю слушать музыку. (Ya lyublyu slushat' muzyku.)"
+  },
+  {
+    "id": "ru-067",
+    "de": "Treiben Sie Sport?",
+    "ru": "Вы занимаетесь спортом? (Vy zanimayetes' sportom?)"
+  },
+  {
+    "id": "ru-068",
+    "de": "Ich spiele Fußball.",
+    "ru": "Я играю в футбол. (Ya igrayu v futbol.)"
+  },
+  {
+    "id": "ru-069",
+    "de": "Ich schaue einen Film.",
+    "ru": "Я смотрю фильм. (Ya smotryu fil'm.)"
+  },
+  {
+    "id": "ru-070",
+    "de": "Wo hast du das gekauft?",
+    "ru": "Где ты это купил? (Gde ty eto kupil?)"
+  },
+  {
+    "id": "ru-071",
+    "de": "Das ist ein Geschenk.",
+    "ru": "Это подарок. (Eto podarok.)"
+  },
+  {
+    "id": "ru-072",
+    "de": "Können Sie bitte das Fenster schließen?",
+    "ru": "Закройте окно, пожалуйста. (Zakroyte okno, pozhaluysta.)"
+  },
+  {
+    "id": "ru-073",
+    "de": "Es ist kalt hier.",
+    "ru": "Здесь холодно. (Zdes' holodno.)"
+  },
+  {
+    "id": "ru-074",
+    "de": "Es ist heiß draußen.",
+    "ru": "На улице жарко. (Na ulitse zharko.)"
+  },
+  {
+    "id": "ru-075",
+    "de": "Wo sind meine Schlüssel?",
+    "ru": "Где мои ключи? (Gde moi klyuchi?)"
+  },
+  {
+    "id": "ru-076",
+    "de": "Sie sind auf dem Tisch.",
+    "ru": "Они на столе. (Oni na stole.)"
+  },
+  {
+    "id": "ru-077",
+    "de": "Ich muss gehen.",
+    "ru": "Мне пора идти. (Mne pora idti.)"
+  },
+  {
+    "id": "ru-078",
+    "de": "Mach's gut.",
+    "ru": "Береги себя. (Beregi sebya.)"
+  },
+  {
+    "id": "ru-079",
+    "de": "Bis später.",
+    "ru": "До встречи. (Do vstrechi.)"
+  },
+  {
+    "id": "ru-080",
+    "de": "Gute Nacht.",
+    "ru": "Спокойной ночи. (Spokoynoy nochi.)"
+  },
+  {
+    "id": "ru-081",
+    "de": "Haben Sie Geschwister?",
+    "ru": "У вас есть братья или сестры? (U vas yest' brat'ya ili sestry?)"
+  },
+  {
+    "id": "ru-082",
+    "de": "Ich habe einen Bruder und eine Schwester.",
+    "ru": "У меня есть брат и сестра. (U menya yest' brat i sestra.)"
+  },
+  {
+    "id": "ru-083",
+    "de": "Sind Sie verheiratet?",
+    "ru": "Вы замужем / женаты? (Vy zamuzhem / zhenaty?)"
+  },
+  {
+    "id": "ru-084",
+    "de": "Ich bin ledig.",
+    "ru": "Я холост / не замужем. (Ya holost / ne zamuzhem.)"
+  },
+  {
+    "id": "ru-085",
+    "de": "Hast du Kinder?",
+    "ru": "У тебя есть дети? (U tebya yest' deti?)"
+  },
+  {
+    "id": "ru-086",
+    "de": "Ich habe zwei Kinder.",
+    "ru": "У меня двое детей. (U menya dvoye detey.)"
+  },
+  {
+    "id": "ru-087",
+    "de": "Wo arbeitest du?",
+    "ru": "Где ты работаешь? (Gde ty rabotayesh?)"
+  },
+  {
+    "id": "ru-088",
+    "de": "Ich arbeite in einem Büro.",
+    "ru": "Я работаю в офисе. (Ya rabotayu v ofise.)"
+  },
+  {
+    "id": "ru-089",
+    "de": "Das ist schwer.",
+    "ru": "Это трудно. (Eto trudno.)"
+  },
+  {
+    "id": "ru-090",
+    "de": "Das ist einfach.","ru": "Esto legko. (Это легко.)"},{"id": "ru-091","de": "Ich bin einverstanden.","ru": "Я согласен. (Ya soglasen.)"},{"id": "ru-092","de": "Ich bin nicht einverstanden.","ru": "Я не согласен. (Ya ne soglasen.)"},{"id": "ru-093","de": "Das ist eine gute Idee.","ru": "Это хорошая идея. (Eto horoshaya ideya.)"},{"id": "ru-094","de": "Ich habe keine Zeit.","ru": "У меня нет времени. (U menya net vremeni.)"},{"id": "ru-095","de": "Warten Sie eine Minute.","ru": "Подождите минуту. (Podozhdite minutu.)"},{"id": "ru-096","de": "Ich bin gleich zurück.","ru": "Я сейчас вернусь. (Ya seychas vernus'.)"},{"id": "ru-097","de": "Natürlich.","ru": "Конечно. (Konechno.)"},{"id": "ru-098","de": "Vielleicht.","ru": "Может быть. (Mozhet byt'.)"},{"id": "ru-099","de": "Niemals.","ru": "Никогда. (Nikogda.)"},{"id": "ru-100","de": "Immer.","ru": "Всегда. (Vsegda.)"},{"id": "ru-101","de": "Was ist dein Lieblingsessen?","ru": "Какое твое любимое блюдо? (Kakoye tvoye lyubimoye blyudo?)"},{"id": "ru-102","de": "Ich liebe Nudeln.","ru": "Я обожаю макароны. (Ya obozhayu makarony.)"},{"id": "ru-103","de": "Möchtest du etwas trinken?","ru": "Хочешь что-нибудь выпить? (Hochesh' chto-nibud' vypit'?)"},{"id": "ru-104","de": "Einen Kaffee, bitte.","ru": "Кофе, пожалуйста. (Kofe, pozhaluysta.)"},{"id": "ru-105","de": "Wo kann ich eine Fahrkarte kaufen?","ru": "Где я могу купить билет? (Gde ya mogu kupit' bilet?)"},{"id": "ru-106","de": "Am Schalter.","ru": "В кассе. (V kasse.)"},{"id": "ru-107","de": "Der Zug hat Verspätung.","ru": "Поезд задерживается. (Poyezd zaderzhivayetsya.)"},{"id": "ru-108","de": "Ist es weit von hier?","ru": "Это далеко отсюда? (Eto daleko otsyuda?)"},{"id": "ru-109","de": "Nein, es ist ganz in der Nähe.","ru": "Нет, это совсем близко. (Net, eto sovsem blizko.)"},{"id": "ru-110","de": "Gehen Sie geradeaus.","ru": "Идите прямо. (Idite pryamo.)"},{"id": "ru-111","de": "Biegen Sie nach rechts ab.","ru": "Поверните направо. (Povernite napravo.)"},{"id": "ru-112","de": "Biegen Sie nach links ab.","ru": "Поверните налево. (Povernite nalevo.)"},{"id": "ru-113","de": "Ich habe mich verlaufen.","ru": "Я заблудился. (Ya zabludilsya.)"},{"id": "ru-114","de": "Können Sie mir das auf der Karte zeigen?","ru": "Вы можете показать мне на карте? (Vy mozhete pokazat' mne na karte?)"},{"id": "ru-115","de": "Wo ist das Hotel?","ru": "Где отель? (Gde otel'?)"},{"id": "ru-116","de": "Ich habe eine Reservation.","ru": "У меня есть бронь. (U menya yest' bron'.)"},{"id": "ru-117","de": "Kann ich den Schlüssel haben?","ru": "Можно мне ключ? (Mozhno mne klyuch?)"},{"id": "ru-118","de": "Ist das WLAN kostenlos?","ru": "Wi-Fi бесплатный? (Wi-Fi besplatnyy?)"},{"id": "ru-119","de": "Wie lautet das Passwort?","ru": "Какой пароль? (Kakoy parol'?)"},{"id": "ru-120","de": "Wo ist der Aufzug?","ru": "Где лифт? (Gde lift?)"},{"id": "ru-121","de": "Ich möchte einen Tisch reservieren.","ru": "Я хотел бы заказать столик. (Ya hotel by zakazat' stolik.)"},{"id": "ru-122","de": "Für wie viele Personen?","ru": "На сколько человек? (Na skol'ko chelovek?)"},{"id": "ru-123","de": "Für zwei Personen.","ru": "На двоих. (Na dvoih.)"},{"id": "ru-124","de": "Um wie viel Uhr?","ru": "На какое время? (Na kakoye vremya?)"},{"id": "ru-125","de": "Heute Abend um zwanzig Uhr.","ru": "Сегодня вечером в двадцать часов. (Segodnya vecherom v dvadtsat' chasov.)"},{"id": "ru-126","de": "Sind Sie bereit zu bestellen?","ru": "Вы готовы заказать? (Vy gotovy zakazat?)"},{"id": "ru-127","de": "Ich nehme das Hähnchen.","ru": "Я возьму курицу. (Ya voz'mu kuritsu.)"},{"id": "ru-128","de": "Und zu trinken?","ru": "А пить? (A pit'?)"},{"id": "ru-129","de": "Mineralwasser, bitte.","ru": "Минеральную воду, пожалуйста. (Mineral'nuyu vodu, pozhaluysta.)"},{"id": "ru-130","de": "Guten Appetit!","ru": "Приятного аппетита! (Priyatnogo appetita!)"},{"id": "ru-131","de": "Es war ausgezeichnet.","ru": "Это было превосходно. (Eto bylo prevoshodno.)"},{"id": "ru-132","de": "Akzeptieren Sie Kreditkarten?","ru": "Вы принимаете банковские карты? (Vy prinimayete bankovskiye karty?)"},{"id": "ru-133","de": "Ich bezahle bar.","ru": "Я заплачу наличными. (Ya zaplachu nalichnymi.)"},{"id": "ru-134","de": "Stimmt so.","ru": "Сдачи не надо. (Sdachi ne nado.)"},{"id": "ru-135","de": "Wo sind die Geschäfte?","ru": "Где магазины? (Gde magaziny?)"},{"id": "ru-136","de": "Ich schaue mich nur um.","ru": "Я просто смотрю. (Ya prosto smotryu.)"},{"id": "ru-137","de": "Kann ich das anprobieren?","ru": "Можно мне это примерить? (Mozhno mne eto primerit'?)"},{"id": "ru-138","de": "Wo sind die Umkleidekabinen?","ru": "Где примерочные? (Gde primerochnyye?)"},{"id": "ru-139","de": "Welche Größe haben Sie?","ru": "Какой у вас размер? (Kakoy u vas razmer?)"},{"id": "ru-140","de": "Das ist zu groß.","ru": "Это слишком велико. (Eto slishkom veliko.)"},{"id": "ru-141","de": "Das ist zu klein.","ru": "Esto slishkom malo. (Это слишком мало.)"},{"id": "ru-142","de": "Haben Sie es eine Nummer größer?","ru": "У вас есть размер побольше? (U vas yest' razmer pobol'she?)"},{"id": "ru-143","de": "Ich nehme es.","ru": "Я это беру. (Ya eto beru.)"},{"id": "ru-144","de": "Wo ist die Kasse?","ru": "Где касса? (Gde kassa?)"},{"id": "ru-145","de": "Kann ich eine Tüte haben?","ru": "Можно мне пакет? (Mozhno mne paket?)"},{"id": "ru-146","de": "Ich möchte eine Rückerstattung.","ru": "Я хотел бы вернуть деньги. (Ya hotel by vernut' den'gi.)"},{"id": "ru-147","de": "Es ist kaputt.","ru": "Это сломано. (Eto slomano.)"},{"id": "ru-148","de": "Wo ist die Apotheke?","ru": "Где аптека? (Gde apteka?)"},{"id": "ru-149","de": "Ich bin krank.","ru": "Я болен. (Ya bolen.)"},{"id": "ru-150","de": "Ich habe Kopfschmerzen.","ru": "У меня болит голова. (U menya bolit golova.)"},{"id": "ru-151","de": "Ich habe Fieber.","ru": "У меня температура. (U menya temperatura.)"},{"id": "ru-152","de": "Ich brauche ein Medikament.","ru": "Мне нужно лекарство. (Mne nuzhno lekarstvo.)"},{"id": "ru-153","de": "Wo ist das nächste Krankenhaus?","ru": "Где ближайшая больница? (Gde blizhayshaya bol'nitsa?)"},{"id": "ru-154","de": "Rufen Sie einen Krankenwagen!","ru": "Вызовите скорую! (Vyzovite skoruyu!)"},{"id": "ru-155","de": "Das ist ein Notfall.","ru": "Это экстренный случай. (Eto ekstrennyy sluchay.)"},{"id": "ru-156","de": "Ist alles in Ordnung?","ru": "Все в порядке? (Vse v poryadke?)"},{"id": "ru-157","de": "Ja, alles ist gut.","ru": "Да, все в порядке. (Da, vse v poryadke.)"},{"id": "ru-158","de": "Beruhigen Sie sich bitte.","ru": "Успокойтесь, пожалуйста. (Uspokoytes', pozhaluysta.)"},{"id": "ru-159","de": "Machen Sie sich keine Sorgen.","ru": "Не волнуйтесь. (Ne volnuytes'.)"},{"id": "ru-160","de": "Was ist passiert?","ru": "Что случилось? (Chto sluchilos'?)"},{"id": "ru-161","de": "Es war ein Unfall.","ru": "Это был несчастный случай. (Eto byl neschastnyy sluchay.)"},{"id": "ru-162","de": "Ich habe meinen Reisepass verloren.","ru": "Я потерял свой паспорт. (Ya poteryal svoy pasport.)"},{"id": "ru-163","de": "Wo ist die Polizeistation?","ru": "Где отделение полиции? (Gde otdeleniye politsii?)"},{"id": "ru-164","de": "Meine Tasche wurde gestohlen.","ru": "У меня украли сумку. (U menya ukrali sumku.)"},{"id": "ru-165","de": "Haltet den Dieb!","ru": "Держи вора! (Derzhi vora!)"},{"id": "ru-166","de": "Helfen Sie mir!","ru": "Помогите мне! (Pomogite mne!)"},{"id": "ru-167","de": "Welches Datum haben wir heute?","ru": "Какое сегодня число? (Kakoye segodnya chislo?)"},{"id": "ru-168","de": "Es ist der erste Mai.","ru": "Сегодня первое мая. (Segodnya pervoye maya.)"},{"id": "ru-169","de": "Welcher Wochentag ist heute?","ru": "Какой сегодня день недели? (Kakoy segodnya den' nedeli?)"},{"id": "ru-170","de": "Heute ist Montag.","ru": "Сегодня понедельник. (Segodnya ponedel'nik.)"},{"id": "ru-171","de": "Was hast du dieses Wochenende gemacht?","ru": "Что ты делал в эти выходные? (Chto ty delal v eti vyhodnyye?)"},{"id": "ru-172","de": "Ich habe mich ausgeruht.","ru": "Я отдохнул. (Ya otdohnul.)"},{"id": "ru-173","de": "Was machen wir morgen?","ru": "Что мы делаем завтра? (Chto my delayem zavtra?)"},{"id": "ru-174","de": "Sehen wir uns heute Abend?","ru": "Увидимся сегодня вечером? (Uvidimsya segodnya vecherom?)"},{"id": "ru-175","de": "Um wie viel Uhr treffen wir uns?","ru": "Во сколько мы встречаемся? (Vo skol'ko my vstrechayemsya?)"},{"id": "ru-176","de": "Wir treffen uns um neunzehn Uhr.","ru": "Встречаемся в девятнадцать часов. (Vstrechayemsya v devyatnadtsat' chasov.)"},{"id": "ru-177","de": "Wo ist der Treffpunkt?","ru": "Где место встречи? (Gde mesto vstrechi?)"},{"id": "ru-178","de": "Vor dem Kino.","ru": "Перед кинотеатром. (Pered kinoteatrom.)"},{"id": "ru-179","de": "Ich bin auf dem Weg.","ru": "Я в пути. (Ya v puti.)"},{"id": "ru-180","de": "Ich werde mich verspäten.","ru": "Я опоздаю. (Ya opozdayu.)"},{"id": "ru-181","de": "Entschuldigung für die Verspätung.","ru": "Извините за опоздание. (Izvinite za opozdaniye.)"},{"id": "ru-182","de": "Das ist nichts.","ru": "Ничего страшного. (Nichego strashnogo.)"},{"id": "ru-183","de": "Danke fürs Kommen.","ru": "Спасибо, что пришли. (Spasibo, chto prishli.)"},{"id": "ru-184","de": "Es war mir ein Vergnügen.","ru": "Это было приятно. (Eto bylo priyatno.)"},{"id": "ru-185","de": "Bis zum nächsten Mal.","ru": "До следующего раза. (Do sleduyushchego raza.)"},{"id": "ru-186","de": "Hattest du einen schönen Urlaub?","ru": "Ты хорошо провел отпуск? (Ty horosho provel otpusk?)"},{"id": "ru-187","de": "Es war fantastisch.","ru": "Это было фантастически. (Eto bylo fantasticheski.)"},{"id": "ru-188","de": "Wohin bist du gefahren?","ru": "Куда ты ездил? (Kuda ty yezdil?)"},{"id": "ru-189","de": "Ich bin an den Strand gegangen.","ru": "Я ходил на пляж. (Ya hodil na plyazh.)"},{"id": "ru-190","de": "Wie war die Reise?","ru": "Как прошла поездка? (Kak proshla poyezdka?)"},{"id": "ru-191","de": "Es war ein bisschen lang.","ru": "Esto bylo nemnogo dolgo. (Это было немного долго.)"},{"id": "ru-192","de": "Hast du Fotos gemacht?","ru": "Ты делал фотографии? (Ty delal fotografii?)"},{"id": "ru-193","de": "Ja, viele.","ru": "Да, много. (Da, many.)"},{"id": "ru-194","de": "Zeig mir bitte.","ru": "Покажи мне, пожалуйста. (Pokazhi mne, pozhaluysta.)"},{"id": "ru-195","de": "Es ist wunderschön.","ru": "Это прекрасно. (Eto prekrasno.)"},{"id": "ru-196","de": "Was für ein Glück!","ru": "Какая удача! (Kakaya udacha!)"},{"id": "ru-197","de": "Ich will auch dorthin.","ru": "Я тоже хочу туда поехать. (Ya tozhe hochu tuda poyekhat'.)"},{"id": "ru-198","de": "Vielleicht nächstes Jahr.","ru": "Может быть, в следующем году. (Mozhet byt', v sleduyushchem godu.)"},{"id": "ru-199","de": "Wir werden sehen.","ru": "Посмотрим. (Posmotrim.)"},{"id": "ru-200","de": "Das ist das Ende der Datei.","ru": "Конец файла. (Konets fayla.)"}],
     "germanarabic": [],
     "germanturkish": [],
     "germanhindi": [],
