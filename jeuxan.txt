@@ -536,7 +536,7 @@
     "fr": "Le train est en retard."
   },
   {
-    "id": "fr-108","en": "Is it far from here?","fr": "C'est loin d'ici ?"},{"id": "fr-109","en": "No, it is very close.","fr": "Non, c'est tout près."},{"id": "fr-110","en": "Go straight ahead.","fr": "Allez tout droit."},{"id": "fr-111","en": "Turn right.","fr": "Tournez à droite."},{"id": "fr-112","en": "Turn left.","fr": "Tournez à gauche."},{"id": "fr-113","en": "I am lost.","fr": "Je suis perdu."},{"id": "fr-114","en": "Can you show me on the map?","fr": "Pouvez-vous me montrer sur la carte ?"},{"id": "fr-115","en": "Where is the hotel?","fr": "Où est l'hôtel ?"},{"id": "fr-116","en": "I have a reservation.","fr": "J'ai une réservation."},{"id": "fr-117","en": "Can I have the key?","fr": "Puis-je avoir la clé ?"},{"id": "fr-118","en": "Is the Wi-Fi free?","fr": "Le Wi-Fi est gratuit ?"},{"id": "fr-119","en": "What is the password?","fr": "Quel est le mot de passe ?"},{"id": "fr-120","en": "Where is the elevator?","fr": "Où se trouve l'ascenseur ?"},{"id": "fr-121","en": "I would like to book a table.","fr": "Je voudrais réserver une table."},{"id": "fr-122","en": "For how many people?","fr": "Pour combien de personnes ?"},{"id": "fr-123","en": "For two people.","fr": "Pour deux personnes."},{"id": "fr-124","en": "At what time?","fr": "À quelle heure ?"},{"id": "fr-125","en": "Tonight at eight p.m.","fr": "Ce soir à vingt heures."},{"id": "fr-126","en": "Are you ready to order?","fr": "Êtes-vous prêt à commander ?"},{"id": "fr-127","en": "I will have the chicken.","fr": "Je vais prendre le poulet."},{"id": "fr-128","en": "And to drink?","fr": "Et pour boire ?"},{"id": "fr-129","en": "Mineral water, please.","fr": "De l'eau minérale, s'il vous plaît."},{"id": "fr-130","en": "Enjoy your meal!","fr": "Bon appétit !"},{"id": "fr-131","en": "It was excellent.","fr": "C'était excellent."},{"id": "fr-132","en": "Do you accept credit cards?","fr": "Acceptez-vous les cartes bancaires ?"},{"id": "fr-133","en": "I will pay in cash.","fr": "Je vais payer en espèces."},{"id": "fr-134","en": "Keep the change.","fr": "Gardez la monnaie."},{"id": "fr-135","en": "Where are the shops?","fr": "Où sont les magasins ?"},{"id": "fr-136","en": "I am just looking.","fr": "Je regarde juste."},{"id": "fr-137","en": "Can I try this on?","fr": "Puis-je essayer ceci ?"},{"id": "fr-138","en": "Where are the fitting rooms?","fr": "Où sont les cabines d'essayage ?"},{"id": "fr-139","en": "What is your size?","fr": "Quelle est votre taille ?"},{"id": "fr-140","en": "It is too big.","fr": "C'est trop grand."},{"id": "fr-141","en": "It is too small.","fr": "C'est trop petit."},{"id": "fr-142","en": "Do you have a larger size?","fr": "Avez-vous la taille au-dessus ?"},{"id": "fr-143","en": "I'll take it.","fr": "Je le prends."},{"id": "fr-144","en": "Where is the cashier?","fr": "Où est la caisse ?"},{"id": "fr-145","en": "Can I have a bag?","fr": "Puis-je avoir un sac ?"},{"id": "fr-146","en": "I would like a refund.","fr": "Je voudrais un remboursement."},{"id": "fr-147","en": "It is broken.","fr": "C'est cassé."},{"id": "fr-148","en": "Where is the pharmacy?","fr": "Où se trouve la pharmacie ?"},{"id": "fr-149","en": "I am sick.","fr": "Je suis malade."},{"id": "fr-150","en": "I have a headache.","fr": "J'ai mal à la tête."},{"id": "fr-151","en": "I have a fever.","fr": "J'ai de la fièvre."},{"id": "fr-152","en": "I need some medicine.","fr": "Il me faut un médicament."},{"id": "fr-153","en": "Where is the nearest hospital?","fr": "Où est l'hôpital le plus proche ?"},{"id": "fr-154","en": "Call an ambulance!","fr": "Appelez une ambulance !"},{"id": "fr-155","en": "It is an emergency.","fr": "C'est une urgence."},{"id": "fr-156","en": "Is everything okay?","fr": "Tout va bien ?"},{"id": "fr-157","en": "Yes, everything is fine.","fr": "Oui, tout va bien."},{"id": "fr-158","en": "Please calm down.","fr": "Calmez-vous, s'il vous plaît."},{"id": "fr-159","en": "Don't worry.","fr": "Ne vous inquiétez pas."},{"id": "fr-160","en": "What happened?","fr": "Qu'est-ce qui s'est passé ?"},{"id": "fr-161","en": "It was an accident.","fr": "C'était un accident."},{"id": "fr-162","en": "I lost my passport.","fr": "J'ai perdu mon passeport."},{"id": "fr-163","en": "Where is the police station?","fr": "Où est le commissariat ?"},{"id": "fr-164","en": "My bag was stolen.","fr": "On m'a volé mon sac."},{"id": "fr-165","en": "Stop thief!","fr": "Au voleur !"},{"id": "fr-166","en": "Help me!","fr": "Aidez-moi !"},{"id": "fr-167","en": "What is the date today?","fr": "Quelle est la date aujourd'hui ?"},{"id": "fr-168","en": "It is the first of May.","fr": "C'est le premier mai."},{"id": "fr-169","en": "What day is it today?","fr": "Quel jour sommes-nous ?"},{"id": "fr-170","en": "Today is Monday.","fr": "Aujourd'hui, c'est lundi."},{"id": "fr-171","en": "What did you do this weekend?","fr": "Qu'as-tu fait ce week-end ?"},{"id": "fr-172","en": "I rested.","fr": "Je me suis reposé."},{"id": "fr-173","en": "What are we doing tomorrow?","fr": "Qu'est-ce qu'on fait demain ?"},{"id": "fr-174","en": "Shall we meet tonight?","fr": "On se voit ce soir ?"},{"id": "fr-175","en": "What time shall we meet?","fr": "À quelle heure on se retrouve ?"},{"id": "fr-176","en": "Let's meet at seven p.m.","fr": "On se retrouve à dix-neuf heures."},{"id": "fr-177","en": "Where is the meeting point?","fr": "Où est le point de rendez-vous ?"},{"id": "fr-178","en": "In front of the cinema.","fr": "Devant le cinéma."},{"id": "fr-179","en": "I am on my way.","fr": "Je suis en chemin."},{"id": "fr-180","en": "I am going to be late.","fr": "Je vais être en retard."},{"id": "fr-181","en": "Sorry for being late.","fr": "Désolé pour le retard."},{"id": "fr-182","en": "It's nothing.","fr": "Ce n'est rien."},{"id": "fr-183","en": "Thank you for coming.","fr": "Merci d'être venu."},{"id": "fr-184","en": "It was a pleasure.","fr": "C'était un plaisir."},{"id": "fr-185","en": "Until next time.","fr": "À la prochaine fois."},{"id": "fr-186","en": "Did you have a good vacation?","fr": "Tu as passé de bonnes vacances ?"},{"id": "fr-187","en": "It was fantastic.","fr": "C'était fantastique."},{"id": "fr-188","en": "Where did you go?","fr": "Où es-tu allé ?"},{"id": "fr-189","en": "I went to the beach.","fr": "Je suis allé à la plage."},{"id": "fr-190","en": "How was the trip?","fr": "Comment était le voyage ?"},{"id": "fr-191","en": "It was a bit long.","fr": "C'était un peu long."},{"id": "fr-192","en": "Did you take photos?","fr": "Tu am pris des photos ?"},{"id": "fr-193","en": "Yes, a lot.","fr": "Oui, beaucoup."},{"id": "fr-194","en": "Show me, please.","fr": "Montre-moi, s'il te plaît."},{"id": "fr-195","en": "It is beautiful.","fr": "C'est magnifique."},{"id": "fr-196","en": "How lucky!","fr": "Quelle chance !"},{"id": "fr-197","en": "I want to go there too.","fr": "Je veux y aller aussi."},{"id": "fr-198","en": "Maybe next year.","fr": "Peut-être l'année prochaine."},{"id": "fr-199","en": "We will see.","fr": "On verra."},{"id": "fr-200","en": "This is the end of the file.","fr": "C'est la fin du fichier."}],
+    "id": "fr-108","en": "Is it far from here?","fr": "C'est loin d'ici ?"},{"id": "fr-109","en": "No, it is very close.","fr": "Non, c'est tout près."},{"id": "fr-110","en": "Go straight ahead.","fr": "Allez tout droit."},{"id": "fr-111","en": "Turn right.","fr": "Tournez à droite."},{"id": "fr-112","en": "Turn left.","fr": "Tournez à gauche."},{"id": "fr-113","en": "I am lost.","fr": "Je suis perdu."},{"id": "fr-114","en": "Can you show me on the map?","fr": "Pouvez-vous me montrer sur la carte ?"},{"id": "fr-115","en": "Where is the hotel?","fr": "Où est l'hôtel ?"},{"id": "fr-116","en": "I have a reservation.","fr": "J'ai une réservation."},{"id": "fr-117","en": "Can I have the key?","fr": "Puis-je avoir la clé ?"},{"id": "fr-118","en": "Is the Wi-Fi free?","fr": "Le Wi-Fi est gratuit ?"},{"id": "fr-119","en": "What is the password?","fr": "Quel est le mot de passe ?"},{"id": "fr-120","en": "Where is the elevator?","fr": "Où se trouve l'ascenseur ?"},{"id": "fr-121","en": "I would like to book a table.","fr": "Je voudrais réserver une table."},{"id": "fr-122","en": "For how many people?","fr": "Pour combien de personnes ?"},{"id": "fr-123","en": "For two people.","fr": "Pour deux personnes."},{"id": "fr-124","en": "At what time?","fr": "À quelle heure ?"},{"id": "fr-125","en": "Tonight at eight p.m.","fr": "Ce soir à vingt heures."},{"id": "fr-126","en": "Are you ready to order?","fr": "Êtes-vous prêt à commander ?"},{"id": "fr-127","en": "I will have the chicken.","fr": "Je vais prendre le poulet."},{"id": "fr-128","en": "And to drink?","fr": "Et pour boire ?"},{"id": "fr-129","en": "Mineral water, please.","fr": "De l'eau minérale, s'il vous plaît."},{"id": "fr-130","en": "Enjoy your meal!","fr": "Bon appétit !"},{"id": "fr-131","en": "It was excellent.","fr": "C'était excellent."},{"id": "fr-132","en": "Do you accept credit cards?","fr": "Acceptez-vous les cartes bancaires ?"},{"id": "fr-133","en": "I will pay in cash.","fr": "Je vais payer en espèces."},{"id": "fr-134","en": "Keep the change.","fr": "Gardez la monnaie."},{"id": "fr-135","en": "Where are the shops?","fr": "Où sont les magasins ?"},{"id": "fr-136","en": "I am just looking.","fr": "Je regarde juste."},{"id": "fr-137","en": "Can I try this on?","fr": "Puis-je essayer ceci ?"},{"id": "fr-138","en": "Where are the fitting rooms?","fr": "Où sont les cabines d'essayage ?"},{"id": "fr-139","en": "What is your size?","fr": "Quelle est votre taille ?"},{"id": "fr-140","en": "It is too big.","fr": "C'est trop grand."},{"id": "fr-141","en": "It is too small.","fr": "C'est trop petit."},{"id": "fr-142","en": "Do you have a larger size?","fr": "Avez-vous la taille au-dessus ?"},{"id": "fr-143","en": "I'll take it.","fr": "Je le prends."},{"id": "fr-144","en": "Where is the cashier?","fr": "Où est la caisse ?"},{"id": "fr-145","en": "Can I have a bag?","fr": "Puis-je avoir un sac ?"},{"id": "fr-146","en": "I would like a refund.","fr": "Je voudrais un remboursement."},{"id": "fr-147","en": "It is broken.","fr": "C'est cassé."},{"id": "fr-148","en": "Where is the pharmacy?","fr": "Où se trouve la pharmacie ?"},{"id": "fr-149","en": "I am sick.","fr": "Je suis malade."},{"id": "fr-150","en": "I have a headache.","fr": "J'ai mal à la tête."},{"id": "fr-151","en": "I have a fever.","fr": "J'ai de la fièvre."},{"id": "fr-152","en": "I need some medicine.","fr": "Il me faut un médicament."},{"id": "fr-153","en": "Where is the nearest hospital?","fr": "Où est l'hôpital le plus proche ?"},{"id": "fr-154","en": "Call an ambulance!","fr": "Appelez une ambulance !"},{"id": "fr-155","en": "It is an emergency.","fr": "C'est une urgence."},{"id": "fr-156","en": "Is everything okay?","fr": "Tout va bien ?"},{"id": "fr-157","en": "Yes, everything is fine.","fr": "Oui, tout va bien."},{"id": "fr-158","en": "Please calm down.","fr": "Calmez-vous, s'il vous plaît."},{"id": "fr-159","en": "Don't worry.","fr": "Ne vous inquiétez pas."},{"id": "fr-160","en": "What happened?","fr": "Qu'est-ce qui s'est passé ?"},{"id": "fr-161","en": "It was an accident.","fr": "C'était un accident."},{"id": "fr-162","en": "I lost my passport.","fr": "J'ai perdu mon passeport."},{"id": "fr-163","en": "Where is the police station?","fr": "Où est le commissariat ?"},{"id": "fr-164","en": "My bag was stolen.","fr": "On m'a volé mon sac."},{"id": "fr-165","en": "Stop thief!","fr": "Au voleur !"},{"id": "fr-166","en": "Help me!","fr": "Aidez-moi !"},{"id": "fr-167","en": "What is the date today?","fr": "Quelle est la date aujourd'hui ?"},{"id": "fr-168","en": "It is the first of May.","fr": "C'est le premier mai."},{"id": "fr-169","en": "What day is it today?","fr": "Quel jour sommes-nous ?"},{"id": "fr-170","en": "Today is Monday.","fr": "Aujourd'hui, c'est lundi."},{"id": "fr-171","en": "What did you do this weekend?","fr": "Qu'as-tu fait ce week-end ?"},{"id": "fr-172","en": "I rested.","fr": "Je me suis reposé."},{"id": "fr-173","en": "What are we doing tomorrow?","fr": "Qu'est-ce qu'on fait demain ?"},{"id": "fr-174","en": "Shall we meet tonight?","fr": "On se voit ce soir ?"},{"id": "fr-175","en": "What time shall we meet?","fr": "À quelle heure on se retrouve ?"},{"id": "fr-176","en": "Let's meet at seven p.m.","fr": "On se retrouve à dix-neuf heures."},{"id": "fr-177","en": "Where is the meeting point?","fr": "Où est le point de rendez-vous ?"},{"id": "fr-178","en": "In front of the cinema.","fr": "Devant le cinéma."},{"id": "fr-179","en": "I am on my way.","fr": "Je suis en chemin."},{"id": "fr-180","en": "I am going to be late.","fr": "Je vais être en retard."},{"id": "fr-181","en": "Sorry for being late.","fr": "Désolé pour le retard."},{"id": "fr-182","en": "It's nothing.","fr": "Ce n'est rien."},{"id": "fr-183","en": "Thank you for coming.","fr": "Merci d'être venu."},{"id": "fr-184","en": "It was a pleasure.","fr": "C'était un plaisir."},{"id": "fr-185","en": "Until next time.","fr": "À la prochaine fois."},{"id": "fr-186","en": "Did you have a good vacation?","fr": "Tu as passé de bonnes vacances ?"},{"id": "fr-187","en": "It was fantastic.","fr": "C'était fantastique."},{"id": "fr-188","en": "Where did you go?","fr": "Où es-tu allé ?"},{"id": "fr-189","en": "I went to the beach.","fr": "Je suis allé à la plage."},{"id": "fr-190","en": "How was the trip?","fr": "Comment était le voyage ?"},{"id": "fr-191","en": "It was a bit long.","fr": "C'était un peu long."},{"id": "fr-192","en": "Did you take photos?","fr": "Tu as pris des photos ?"},{"id": "fr-193","en": "Yes, a lot.","fr": "Oui, beaucoup."},{"id": "fr-194","en": "Show me, please.","fr": "Montre-moi, s'il te plaît."},{"id": "fr-195","en": "It is beautiful.","fr": "C'est magnifique."},{"id": "fr-196","en": "How lucky!","fr": "Quelle chance !"},{"id": "fr-197","en": "I want to go there too.","fr": "Je veux y aller aussi."},{"id": "fr-198","en": "Maybe next year.","fr": "Peut-être l'année prochaine."},{"id": "fr-199","en": "We will see.","fr": "On verra."},{"id": "fr-200","en": "This is the end of the file.","fr": "C'est la fin du fichier."}],
     "englishgerman": [{
     "id": "de-001",
     "en": "Hello, how are you?",
@@ -2130,8 +2130,1111 @@
   {
     "id": "it-112",
     "en": "Turn left.","it": "Giri a sinistra."},{"id": "it-113","en": "I am lost.","it": "Mi sono perso."},{"id": "it-114","en": "Can you show me on the map?","it": "Può mostrarmelo sulla mappa?"},{"id": "it-115","en": "Where is the hotel?","it": "Dov'è l'hotel?"},{"id": "it-116","en": "I have a reservation.","it": "Ho una prenotazione."},{"id": "it-117","en": "Can I have the key?","it": "Posso avere la chiave?"},{"id": "it-118","en": "Is the Wi-Fi free?","it": "Il Wi-Fi è gratuito?"},{"id": "it-119","en": "What is the password?","it": "Qual è la password?"},{"id": "it-120","en": "Where is the elevator?","it": "Dov'è l'ascensore?"},{"id": "it-121","en": "I would like to book a table.","it": "Vorrei prenotare un tavolo."},{"id": "it-122","en": "For how many people?","it": "Per quante persone?"},{"id": "it-123","en": "For two people.","it": "Per due persone."},{"id": "it-124","en": "At what time?","it": "A che ora?"},{"id": "it-125","en": "Tonight at eight p.m.","it": "Stasera alle venti."},{"id": "it-126","en": "Are you ready to order?","it": "È pronto per ordinare?"},{"id": "it-127","en": "I will have the chicken.","it": "Prendo il pollo."},{"id": "it-128","en": "And to drink?","it": "E da bere?"},{"id": "it-129","en": "Mineral water, please.","it": "Acqua minerale, per favore."},{"id": "it-130","en": "Enjoy your meal!","it": "Buon appetito!"},{"id": "it-131","en": "It was excellent.","it": "Era eccellente."},{"id": "it-132","en": "Do you accept credit cards?","it": "Accettate carte di credito?"},{"id": "it-133","en": "I will pay in cash.","it": "Pago in contanti."},{"id": "it-134","en": "Keep the change.","it": "Tenga il resto."},{"id": "it-135","en": "Where are the shops?","it": "Dove sono i negozi?"},{"id": "it-136","en": "I am just looking.","it": "Sto solo guardando."},{"id": "it-137","en": "Can I try this on?","it": "Posso provare questo?"},{"id": "it-138","en": "Where are the fitting rooms?","it": "Dove sono i camerini?"},{"id": "it-139","en": "What is your size?","it": "Qual è la sua taglia?"},{"id": "it-140","en": "It is too big.","it": "È troppo grande."},{"id": "it-141","en": "It is too small.","it": "È troppo piccolo."},{"id": "it-142","en": "Do you have a larger size?","it": "Ha una taglia in più?"},{"id": "it-143","en": "I'll take it.","it": "Lo prendo."},{"id": "it-144","en": "Where is the cashier?","it": "Dov'è la cassa?"},{"id": "it-145","en": "Can I have a bag?","it": "Posso avere una busta?"},{"id": "it-146","en": "I would like a refund.","it": "Vorrei un rimborso."},{"id": "it-147","en": "It is broken.","it": "È rotto."},{"id": "it-148","en": "Where is the pharmacy?","it": "Dov'è la farmacia?"},{"id": "it-149","en": "I am sick.","it": "Sono malato."},{"id": "it-150","en": "I have a headache.","it": "Ho mal di testa."},{"id": "it-151","en": "I have a fever.","it": "Ho la febbre."},{"id": "it-152","en": "I need some medicine.","it": "Ho bisogno di una medicina."},{"id": "it-153","en": "Where is the nearest hospital?","it": "Dov'è l'ospedale più vicino?"},{"id": "it-154","en": "Call an ambulance!","it": "Chiami un'ambulanza!"},{"id": "it-155","en": "It is an emergency.","it": "È un'emergenza."},{"id": "it-156","en": "Is everything okay?","it": "Tutto bene?"},{"id": "it-157","en": "Yes, everything is fine.","it": "Sì, tutto bene."},{"id": "it-158","en": "Please calm down.","it": "Si calmi, per favore."},{"id": "it-159","en": "Don't worry.","it": "Non si preoccupi."},{"id": "it-160","en": "What happened?","it": "Cos'è successo?"},{"id": "it-161","en": "It was an accident.","it": "È stato un incidente."},{"id": "it-162","en": "I lost my passport.","it": "Ho perso il passaporto."},{"id": "it-163","en": "Where is the police station?","it": "Dov'è il commissariato?"},{"id": "it-164","en": "My bag was stolen.","it": "Mi hanno rubato la borsa."},{"id": "it-165","en": "Stop thief!","it": "Al ladro!"},{"id": "it-166","en": "Help me!","it": "Aiutatemi!"},{"id": "it-167","en": "What is the date today?","it": "Qual è la data di oggi?"},{"id": "it-168","en": "It is the first of May.","it": "È il primo maggio."},{"id": "it-169","en": "What day is it today?","it": "Che giorno è oggi?"},{"id": "it-170","en": "Today is Monday.","it": "Oggi è lunedì."},{"id": "it-171","en": "What did you do this weekend?","it": "Cosa hai fatto questo fine settimana?"},{"id": "it-172","en": "I rested.","it": "Mi sono riposato."},{"id": "it-173","en": "What are we doing tomorrow?","it": "Cosa facciamo domani?"},{"id": "it-174","en": "Shall we meet tonight?","it": "Ci vediamo stasera?"},{"id": "it-175","en": "What time shall we meet?","it": "A che ora ci troviamo?"},{"id": "it-176","en": "Let's meet at seven p.m.","it": "Ci troviamo alle diciannove."},{"id": "it-177","en": "Where is the meeting point?","it": "Dov'è il punto di ritrovo?"},{"id": "it-178","en": "In front of the cinema.","it": "Davanti al cinema."},{"id": "it-179","en": "I am on my way.","it": "Sto arrivando."},{"id": "it-180","en": "I am going to be late.","it": "Farò tardi."},{"id": "it-181","en": "Sorry for being late.","it": "Scusa per il ritardo."},{"id": "it-182","en": "It's nothing.","it": "Non è niente."},{"id": "it-183","en": "Thank you for coming.","it": "Grazie di essere venuto."},{"id": "it-184","en": "It was a pleasure.","it": "È stato un piacere."},{"id": "it-185","en": "Until next time.","it": "Alla prossima volta."},{"id": "it-186","en": "Did you have a good vacation?","it": "Hai fatto una buona vacanza?"},{"id": "it-187","en": "It was fantastic.","it": "È stato fantastico."},{"id": "it-188","en": "Where did you go?","it": "Dove sei andato?"},{"id": "it-189","en": "I went to the beach.","it": "Sono andato in spiaggia."},{"id": "it-190","en": "How was the trip?","it": "Com'era il viaggio?"},{"id": "it-191","en": "It was a bit long.","it": "È stato un po' lungo."},{"id": "it-192","en": "Did you take photos?","it": "Hai fatto delle foto?"},{"id": "it-193","en": "Yes, a lot.","it": "Sì, molte."},{"id": "it-194","en": "Show me, please.","it": "Mostrami, per favore."},{"id": "it-195","en": "It is beautiful.","it": "È bellissimo."},{"id": "it-196","en": "How lucky!","it": "Che fortuna!"},{"id": "it-197","en": "I want to go there too.","it": "Voglio andarci anch'io."},{"id": "it-198","en": "Maybe next year.","it": "Forse l'anno prossimo."},{"id": "it-199","en": "We will see.","it": "Vedremo."},{"id": "it-200","en": "This is the end of the file.","it": "Questa è la fine del file."}],
-    "englishspanish": [],
-    "englishportuguese": [],
+    "englishspanish": [{
+    "id": "es-001",
+    "en": "Hello, how are you?",
+    "es": "Hola, ¿cómo está usted?"
+  },
+  {
+    "id": "es-002",
+    "en": "What is your name?",
+    "es": "¿Cómo se llama usted?"
+  },
+  {
+    "id": "es-003",
+    "en": "My name is John.",
+    "es": "Me llamo John."
+  },
+  {
+    "id": "es-004",
+    "en": "Nice to meet you.",
+    "es": "Encantado de conocerle."
+  },
+  {
+    "id": "es-005",
+    "en": "Where are you from?",
+    "es": "¿De dónde es usted?"
+  },
+  {
+    "id": "es-006",
+    "en": "I am from France.",
+    "es": "Soy de Francia."
+  },
+  {
+    "id": "es-007",
+    "en": "Where do you live?",
+    "es": "¿Dónde vive usted?"
+  },
+  {
+    "id": "es-008",
+    "en": "I live in Paris.",
+    "es": "Vivo en París."
+  },
+  {
+    "id": "es-009",
+    "en": "How old are you?",
+    "es": "¿Cuántos años tiene usted?"
+  },
+  {
+    "id": "es-010",
+    "en": "I am thirty years old.",
+    "es": "Tengo treinta años."
+  },
+  {
+    "id": "es-011",
+    "en": "What do you do for a living?",
+    "es": "¿A qué se dedica?"
+  },
+  {
+    "id": "es-012",
+    "en": "I am a student.",
+    "es": "Soy estudiante."
+  },
+  {
+    "id": "es-013",
+    "en": "Do you speak Spanish?",
+    "es": "¿Habla español?"
+  },
+  {
+    "id": "es-014",
+    "en": "I speak a little Spanish.",
+    "es": "Hablo un poco de español."
+  },
+  {
+    "id": "es-015",
+    "en": "Can you help me, please?",
+    "es": "¿Puede ayudarme, por favor?"
+  },
+  {
+    "id": "es-016",
+    "en": "Thank you very much.",
+    "es": "Muchas gracias."
+  },
+  {
+    "id": "es-017",
+    "en": "You're welcome.",
+    "es": "De nada."
+  },
+  {
+    "id": "es-018",
+    "en": "Please.",
+    "es": "Por favor."
+  },
+  {
+    "id": "es-019",
+    "en": "Excuse me.",
+    "es": "Disculpe."
+  },
+  {
+    "id": "es-020",
+    "en": "I am sorry.",
+    "es": "Lo siento."
+  },
+  {
+    "id": "es-021",
+    "en": "What time is it?",
+    "es": "¿Qué hora es?"
+  },
+  {
+    "id": "es-022",
+    "en": "It is ten o'clock.",
+    "es": "Son las diez."
+  },
+  {
+    "id": "es-023",
+    "en": "Where is the restroom?",
+    "es": "¿Dónde está el baño?"
+  },
+  {
+    "id": "es-024",
+    "en": "It is that way.",
+    "es": "Es por allá."
+  },
+  {
+    "id": "es-025",
+    "en": "How much does it cost?",
+    "es": "¿Cuánto cuesta?"
+  },
+  {
+    "id": "es-026",
+    "en": "It is too expensive.",
+    "es": "Es demasiado caro."
+  },
+  {
+    "id": "es-027",
+    "en": "Where is the train station?",
+    "es": "¿Dónde está la estación de tren?"
+  },
+  {
+    "id": "es-028",
+    "en": "I am looking for a good restaurant.",
+    "es": "Busco un buen restaurante."
+  },
+  {
+    "id": "es-029",
+    "en": "The bill, please.",
+    "es": "La cuenta, por favor."
+  },
+  {
+    "id": "es-030",
+    "en": "What is the weather like today?",
+    "es": "¿Qué tiempo hace hoy?"
+  },
+  {
+    "id": "es-031",
+    "en": "The weather is nice.",
+    "es": "Hace buen tiempo."
+  },
+  {
+    "id": "es-032",
+    "en": "It is raining.",
+    "es": "Está lloviendo."
+  },
+  {
+    "id": "es-033",
+    "en": "I am hungry.",
+    "es": "Tengo hambre."
+  },
+  {
+    "id": "es-034",
+    "en": "I am thirsty.",
+    "es": "Tengo sed."
+  },
+  {
+    "id": "es-035",
+    "en": "I am tired.",
+    "es": "Estoy cansado."
+  },
+  {
+    "id": "es-036",
+    "en": "I don't understand.",
+    "es": "No entiendo."
+  },
+  {
+    "id": "es-037",
+    "en": "Can you repeat?",
+    "es": "¿Puede repetir?"
+  },
+  {
+    "id": "es-038",
+    "en": "Speak more slowly, please.",
+    "es": "Hable más despacio, por favor."
+  },
+  {
+    "id": "es-039",
+    "en": "How do you say that in Spanish?",
+    "es": "¿Cómo se dice esto en español?"
+  },
+  {
+    "id": "es-040",
+    "en": "What does this word mean?",
+    "es": "¿Qué significa esta palabra?"
+  },
+  {
+    "id": "es-041",
+    "en": "I love you.",
+    "es": "Te amo."
+  },
+  {
+    "id": "es-042",
+    "en": "I miss you.",
+    "es": "Te extraño."
+  },
+  {
+    "id": "es-043",
+    "en": "Good luck!",
+    "es": "¡Buena suerte!"
+  },
+  {
+    "id": "es-044",
+    "en": "Congratulations!",
+    "es": "¡Felicidades!"
+  },
+  {
+    "id": "es-045",
+    "en": "Happy birthday!",
+    "es": "¡Feliz cumpleaños!"
+  },
+  {
+    "id": "es-046",
+    "en": "Have a good trip!",
+    "es": "¡Buen viaje!"
+  },
+  {
+    "id": "es-047",
+    "en": "Have a nice day.",
+    "es": "Que tengas un buen día."
+  },
+  {
+    "id": "es-048",
+    "en": "See you soon.",
+    "es": "Hasta pronto."
+  },
+  {
+    "id": "es-049",
+    "en": "See you tomorrow.",
+    "es": "Hasta mañana."
+  },
+  {
+    "id": "es-050",
+    "en": "Goodbye.",
+    "es": "Adiós."
+  },
+  {
+    "id": "es-051",
+    "en": "Where are you going?",
+    "es": "¿A dónde va?"
+  },
+  {
+    "id": "es-052",
+    "en": "I am going to the supermarket.",
+    "es": "Voy al supermercado."
+  },
+  {
+    "id": "es-053",
+    "en": "What is it?",
+    "es": "¿Qué es esto?"
+  },
+  {
+    "id": "es-054",
+    "en": "I don't know.",
+    "es": "No lo sé."
+  },
+  {
+    "id": "es-055",
+    "en": "Are you sure?",
+    "es": "¿Está seguro?"
+  },
+  {
+    "id": "es-056",
+    "en": "Yes, I am sure.",
+    "es": "Sí, estoy seguro."
+  },
+  {
+    "id": "es-057",
+    "en": "I think so.",
+    "es": "Creo que sí."
+  },
+  {
+    "id": "es-058",
+    "en": "I don't think so.",
+    "es": "Creo que no."
+  },
+  {
+    "id": "es-059",
+    "en": "No problem.",
+    "es": "No hay problema."
+  },
+  {
+    "id": "es-060",
+    "en": "It doesn't matter.",
+    "es": "No importa."
+  },
+  {
+    "id": "es-061",
+    "en": "What are you eating?",
+    "es": "¿Qué estás comiendo?"
+  },
+  {
+    "id": "es-062",
+    "en": "It is delicious.",
+    "es": "Está delicioso."
+  },
+  {
+    "id": "es-063",
+    "en": "I don't like it.",
+    "es": "No me gusta."
+  },
+  {
+    "id": "es-064",
+    "en": "What are your hobbies?",
+    "es": "¿Cuáles son sus pasatiempos?"
+  },
+  {
+    "id": "es-065",
+    "en": "I like reading books.",
+    "es": "Me gusta leer libros."
+  },
+  {
+    "id": "es-066",
+    "en": "I like listening to music.",
+    "es": "Me gusta escuchar música."
+  },
+  {
+    "id": "es-067",
+    "en": "Do you do sports?",
+    "es": "¿Hace deporte?"
+  },
+  {
+    "id": "es-068",
+    "en": "I play soccer.",
+    "es": "Juego al fútbol."
+  },
+  {
+    "id": "es-069",
+    "en": "I am watching a movie.",
+    "es": "Estoy viendo una película."
+  },
+  {
+    "id": "es-070",
+    "en": "Where did you buy that?",
+    "es": "¿Dónde compraste eso?"
+  },
+  {
+    "id": "es-071",
+    "en": "It is a gift.",
+    "es": "Es un regalo."
+  },
+  {
+    "id": "es-072",
+    "en": "Can you close the window?",
+    "es": "¿Puede cerrar la ventana, por favor?"
+  },
+  {
+    "id": "es-073",
+    "en": "It is cold in here.",
+    "es": "Hace frío aquí."
+  },
+  {
+    "id": "es-074",
+    "en": "It is hot outside.",
+    "es": "Hace calor afuera."
+  },
+  {
+    "id": "es-075",
+    "en": "Where are my keys?",
+    "es": "¿Dónde están mis llaves?"
+  },
+  {
+    "id": "es-076",
+    "en": "They are on the table.",
+    "es": "Están sobre la mesa."
+  },
+  {
+    "id": "es-077",
+    "en": "I have to go.",
+    "es": "Tengo que irme."
+  },
+  {
+    "id": "es-078",
+    "en": "Take care.",
+    "es": "Cuídate."
+  },
+  {
+    "id": "es-079",
+    "en": "See you later.",
+    "es": "Hasta luego."
+  },
+  {
+    "id": "es-080",
+    "en": "Good night.",
+    "es": "Buenas noches."
+  },
+  {
+    "id": "es-081",
+    "en": "Do you have any siblings?",
+    "es": "¿Tiene hermanos?"
+  },
+  {
+    "id": "es-082",
+    "en": "I have a brother and a sister.",
+    "es": "Tengo un hermano y una hermana."
+  },
+  {
+    "id": "es-083",
+    "en": "Are you married?",
+    "es": "Está casado."
+  },
+  {
+    "id": "es-084",
+    "en": "I am single.",
+    "es": "Soy soltero."
+  },
+  {
+    "id": "es-085",
+    "en": "Do you have children?",
+    "es": "¿Tienes hijos?"
+  },
+  {
+    "id": "es-086",
+    "en": "I have two children.",
+    "es": "Tengo dos hijos."
+  },
+  {
+    "id": "es-087",
+    "en": "Where do you work?",
+    "es": "¿Dónde trabajas?"
+  },
+  {
+    "id": "es-088",
+    "en": "I work in an office.",
+    "es": "Trabajo en una oficina."
+  },
+  {
+    "id": "es-089",
+    "en": "It is difficult.",
+    "es": "Es difícil."
+  },
+  {
+    "id": "es-090",
+    "en": "It is easy.",
+    "es": "Es fácil."
+  },
+  {
+    "id": "es-091",
+    "en": "I agree.",
+    "es": "Estoy de acuerdo."
+  },
+  {
+    "id": "es-092",
+    "en": "I don't agree.",
+    "es": "No estoy de acuerdo."
+  },
+  {
+    "id": "es-093",
+    "en": "That's a good idea.",
+    "es": "Es una buena idea."
+  },
+  {
+    "id": "es-094",
+    "en": "I don't have time.",
+    "es": "No tengo tiempo."
+  },
+  {
+    "id": "es-095",
+    "en": "Wait a minute.",
+    "es": "Espere un minuto."
+  },
+  {
+    "id": "es-096",
+    "en": "I'll be right back.",
+    "es": "Ya vuelvo."
+  },
+  {
+    "id": "es-097",
+    "en": "Of course.",
+    "es": "Por supuesto."
+  },
+  {
+    "id": "es-098",
+    "en": "Maybe.",
+    "es": "Tal vez."
+  },
+  {
+    "id": "es-099",
+    "en": "Never.",
+    "es": "Nunca."
+  },
+  {
+    "id": "es-100",
+    "en": "Always.",
+    "es": "Siempre."
+  },
+  {
+    "id": "es-101",
+    "en": "What is your favorite food?",
+    "es": "¿Cuál es tu comida favorita?"
+  },
+  {
+    "id": "es-102",
+    "en": "I love pasta.",
+    "es": "Me encanta la pasta."
+  },
+  {
+    "id": "es-103",
+    "en": "Do you want something to drink?",
+    "es": "¿Quieres beber algo?"
+  },
+  {
+    "id": "es-104",
+    "en": "A coffee, please.",
+    "es": "Un café, por favor."
+  },
+  {
+    "id": "es-105",
+    "en": "Where can I buy a ticket?",
+    "es": "¿Dónde puedo comprar un boleto?"
+  },
+  {
+    "id": "es-106",
+    "en": "At the ticket counter.",
+    "es": "En la taquilla."
+  },
+  {
+    "id": "es-107",
+    "en": "The train is late.",
+    "es": "El tren viene retrasado."
+  },
+  {
+    "id": "es-108",
+    "en": "Is it far from here?",
+    "es": "¿Está lejos de aquí?"
+  },
+  {
+    "id": "es-109",
+    "en": "No, it is very close.",
+    "es": "No, está muy cerca."
+  },
+  {
+    "id": "es-110",
+    "en": "Go straight ahead.",
+    "es": "Vaya todo recto."
+  },
+  {
+    "id": "es-111","en": "Turn right.","es": "Gire a la derecha."},{"id": "es-112","en": "Turn left.","es": "Gire a la izquierda."},{"id": "es-113","en": "I am lost.","es": "Estoy perdido."},{"id": "es-114","en": "Can you show me on the map?","es": "¿Puede mostrármelo en el mapa?"},{"id": "es-115","en": "Where is the hotel?","es": "¿Dónde está el hotel?"},{"id": "es-116","en": "I have a reservation.","es": "Tengo una reservación."},{"id": "es-117","en": "Can I have the key?","es": "¿Puedo tener la llave?"},{"id": "es-118","en": "Is the Wi-Fi free?","es": "¿El Wi-Fi es gratis?"},{"id": "es-119","en": "What is the password?","es": "Cuál es la contraseña."},{"id": "es-120","en": "Where is the elevator?","es": "¿Dónde está el ascensor?"},{"id": "es-121","en": "I would like to book a table.","es": "Me gustaría reservar una mesa."},{"id": "es-122","en": "For how many people?","es": "¿Para cuántas personas?"},{"id": "es-123","en": "For two people.","es": "Para dos personas."},{"id": "es-124","en": "At what time?","es": "¿A qué hora?"},{"id": "es-125","en": "Tonight at eight p.m.","es": "Esta noche a las veinte horas."},{"id": "es-126","en": "Are you ready to order?","es": "¿Está listo para ordenar?"},{"id": "es-127","en": "I will have the chicken.","es": "Voy a pedir el pollo."},{"id": "es-128","en": "And to drink?","es": "¿Y para beber?"},{"id": "es-129","en": "Mineral water, please.","es": "Agua mineral, por favor."},{"id": "es-130","en": "Enjoy your meal!","es": "¡Buen provecho!"},{"id": "es-131","en": "It was excellent.","es": "Estuvo excelente."},{"id": "es-132","en": "Do you accept credit cards?","es": "¿Aceptan tarjetas de crédito?"},{"id": "es-133","en": "I will pay in cash.","es": "Voy a pagar en efectivo."},{"id": "es-134","en": "Keep the change.","es": "Quédese con el cambio."},{"id": "es-135","en": "Where are the shops?","es": "¿Dónde están las tiendas?"},{"id": "es-136","en": "I am just looking.","es": "Solo estoy mirando."},{"id": "es-137","en": "Can I try this on?","es": "¿Puedo probarme esto?"},{"id": "es-138","en": "Where are the fitting rooms?","es": "¿Dónde están los probadores?"},{"id": "es-139","en": "What is your size?","es": "¿Cuál es su talla?"},{"id": "es-140","en": "It is too big.","es": "Es demasiado grande."},{"id": "es-141","en": "It is too small.","es": "Es demasiado pequeño."},{"id": "es-142","en": "Do you have a larger size?","es": "¿Lo tiene en una talla más grande?"},{"id": "es-143","en": "I'll take it.","es": "Me lo llevo."},{"id": "es-144","en": "Where is the cashier?","es": "¿Dónde está la caja?"},{"id": "es-145","en": "Can I have a bag?","es": "¿Puedo tener una bolsa?"},{"id": "es-146","en": "I would like a refund.","es": "Me gustaría un reembolso."},{"id": "es-147","en": "It is broken.","es": "Está roto."},{"id": "es-148","en": "Where is the pharmacy?","es": "¿Dónde está la farmacia?"},{"id": "es-149","en": "I am sick.","es": "Estoy enfermo."},{"id": "es-150","en": "I have a headache.","es": "Me duele la cabeza."},{"id": "es-151","en": "I have a fever.","es": "Tengo fiebre."},{"id": "es-152","en": "I need some medicine.","es": "Necesito un medicamento."},{"id": "es-153","en": "Where is the nearest hospital?","es": "¿Dónde está el hospital más cercano?"},{"id": "es-154","en": "Call an ambulance!","es": "¡Llame a una ambulancia!"},{"id": "es-155","en": "It is an emergency.","es": "Es una emergencia."},{"id": "es-156","en": "Is everything okay?","es": "¿Todo está bien?"},{"id": "es-157","en": "Yes, everything is fine.","es": "Sí, todo está bien."},{"id": "es-158","en": "Please calm down.","es": "Cálmese, por favor."},{"id": "es-159","en": "Don't worry.","es": "No se preocupe."},{"id": "es-160","en": "What happened?","es": "¿Qué pasó?"},{"id": "es-161","en": "It was an accident.","es": "Fue un accident."},{"id": "es-162","en": "I lost my passport.","es": "Perdí mi pasaporte."},{"id": "es-163","en": "Where is the police station?","es": "¿Dónde está la comisaría?"},{"id": "es-164","en": "My bag was stolen.","es": "Me robaron el bolso."},{"id": "es-165","en": "Stop thief!","es": "¡Al ladrón!"},{"id": "es-166","en": "Help me!","es": "¡Ayúdeme!"},{"id": "es-167","en": "What is the date today?","es": "¿Cuál es la fecha de hoy?"},{"id": "es-168","en": "It is the first of May.","es": "Es el primero de mayo."},{"id": "es-169","en": "What day is it today?","es": "¿Qué día es hoy?"},{"id": "es-170","en": "Today is Monday.","es": "Hoy es lunes."},{"id": "es-171","en": "What did you do this weekend?","es": "¿Qué hiciste este fin de semana?"},{"id": "es-172","en": "I rested.","es": "Me descansé."},{"id": "es-173","en": "What are we doing tomorrow?","es": "¿Qué hacemos mañana?"},{"id": "es-174","en": "Shall we meet tonight?","es": "¿Nos vemos esta noche?"},{"id": "es-175","en": "What time shall we meet?","es": "¿A qué hora nos encontramos?"},{"id": "es-176","en": "Let's meet at seven p.m.","es": "Nos encontramos a las diecinueve horas."},{"id": "es-177","en": "Where is the meeting point?","es": "¿Dónde es el punto de encuentro?"},{"id": "es-178","en": "In front of the cinema.","es": "Frente al cine."},{"id": "es-179","en": "I am on my way.","es": "Estoy en camino."},{"id": "es-180","en": "I am going to be late.","es": "Voy a llegar tarde."},{"id": "es-181","en": "Sorry for being late.","es": "Lo siento por el retraso."},{"id": "es-182","en": "It's nothing.","es": "No es nada."},{"id": "es-183","en": "Thank you for coming.","es": "Gracias por venir."},{"id": "es-184","en": "It was a pleasure.","es": "Fue un placer."},{"id": "es-185","en": "Until next time.","es": "Hasta la próxima."},{"id": "es-186","en": "Did you have a good vacation?","es": "¿Pasaste unas buenas vacaciones?"},{"id": "es-187","en": "It was fantastic.","es": "Estuvo fantástico."},{"id": "es-188","en": "Where did you go?","es": "¿A dónde fuiste?"},{"id": "es-189","en": "I went to the beach.","es": "Fui a la playa."},{"id": "es-190","en": "How was the trip?","es": "¿Cómo estuvo el viaje?"},{"id": "es-191","en": "It was a bit long.","es": "Estuvo un poco largo."},{"id": "es-192","en": "Did you take photos?","es": "¿Tomaste fotos?"},{"id": "es-193","en": "Yes, a lot.","es": "Sí, muchas."},{"id": "es-194","en": "Show me, please.","es": "Muéstrame, por favor."},{"id": "es-195","en": "It is beautiful.","es": "Es hermoso."},{"id": "es-196","en": "How lucky!","es": "¡Qué suerte!"},{"id": "es-197","en": "I want to go there too.","es": "Yo también quiero ir."},{"id": "es-198","en": "Maybe next year.","es": "Tal vez el próximo año."},{"id": "es-199","en": "We will see.","es": "Ya veremos."},{"id": "es-200","en": "This is the end of the file.","es": "Este es el final del archivo."}],
+    "englishportuguese": [{
+    "id": "pt-001",
+    "en": "Hello, how are you?",
+    "pt": "Olá, como está?"
+  },
+  {
+    "id": "pt-002",
+    "en": "What is your name?",
+    "pt": "Como se chama?"
+  },
+  {
+    "id": "pt-003",
+    "en": "My name is John.",
+    "pt": "Chamo-me John."
+  },
+  {
+    "id": "pt-004",
+    "en": "Nice to meet you.",
+    "pt": "Prazer em conhecê-lo."
+  },
+  {
+    "id": "pt-005",
+    "en": "Where are you from?",
+    "pt": "De onde você é?"
+  },
+  {
+    "id": "pt-006",
+    "en": "I am from France.",
+    "pt": "Eu sou da França."
+  },
+  {
+    "id": "pt-007",
+    "en": "Where do you live?",
+    "pt": "Où habitez-vous ?"
+  },
+  {
+    "id": "pt-008",
+    "en": "I live in Paris.",
+    "pt": "Eu moro em Paris."
+  },
+  {
+    "id": "pt-009",
+    "en": "How old are you?",
+    "pt": "Quantos anos você tem?"
+  },
+  {
+    "id": "pt-010",
+    "en": "I am thirty years old.",
+    "pt": "Eu tenho trinta anos."
+  },
+  {
+    "id": "pt-011",
+    "en": "What do you do for a living?",
+    "pt": "O que você faz da vida?"
+  },
+  {
+    "id": "pt-012",
+    "en": "I am a student.",
+    "pt": "Eu sou estudante."
+  },
+  {
+    "id": "pt-013",
+    "en": "Do you speak Portuguese?",
+    "pt": "Você fala português?"
+  },
+  {
+    "id": "pt-014",
+    "en": "I speak a little Portuguese.",
+    "pt": "Falo um pouco de português."
+  },
+  {
+    "id": "pt-015",
+    "en": "Can you help me, please?",
+    "pt": "Pode ajudar-me, por favor?"
+  },
+  {
+    "id": "pt-016",
+    "en": "Thank you very much.",
+    "pt": "Muito obrigado."
+  },
+  {
+    "id": "pt-017",
+    "en": "You're welcome.",
+    "pt": "De nada."
+  },
+  {
+    "id": "pt-018",
+    "en": "Please.",
+    "pt": "Por favor."
+  },
+  {
+    "id": "pt-019",
+    "en": "Excuse me.",
+    "pt": "Com licença."
+  },
+  {
+    "id": "pt-020",
+    "en": "I am sorry.",
+    "pt": "Desculpe."
+  },
+  {
+    "id": "pt-021",
+    "en": "What time is it?",
+    "pt": "Que horas são?"
+  },
+  {
+    "id": "pt-022",
+    "en": "It is ten o'clock.",
+    "pt": "São dez horas."
+  },
+  {
+    "id": "pt-023",
+    "en": "Where is the restroom?",
+    "pt": "Onde fica a casa de banho?"
+  },
+  {
+    "id": "pt-024",
+    "en": "It is that way.",
+    "pt": "É por ali."
+  },
+  {
+    "id": "pt-025",
+    "en": "How much does it cost?",
+    "pt": "Quanto custa?"
+  },
+  {
+    "id": "pt-026",
+    "en": "It is too expensive.",
+    "pt": "É muito caro."
+  },
+  {
+    "id": "pt-027",
+    "en": "Where is the train station?",
+    "pt": "Onde fica a estação de comboios?"
+  },
+  {
+    "id": "pt-028",
+    "en": "I am looking for a good restaurant.",
+    "pt": "Estou à procura de um bom restaurante."
+  },
+  {
+    "id": "pt-029",
+    "en": "The bill, please.",
+    "pt": "A conta, por favor."
+  },
+  {
+    "id": "pt-030",
+    "en": "What is the weather like today?",
+    "pt": "Como está o tempo hoje?"
+  },
+  {
+    "id": "pt-031",
+    "en": "The weather is nice.",
+    "pt": "Está bom tempo."
+  },
+  {
+    "id": "pt-032",
+    "en": "It is raining.",
+    "pt": "Está a chover."
+  },
+  {
+    "id": "pt-033",
+    "en": "I am hungry.",
+    "pt": "Estou com fome."
+  },
+  {
+    "id": "pt-034",
+    "en": "I am thirsty.",
+    "pt": "Estou com sede."
+  },
+  {
+    "id": "pt-035",
+    "en": "I am tired.",
+    "pt": "Estou cansado."
+  },
+  {
+    "id": "pt-036",
+    "en": "I don't understand.",
+    "pt": "Não entendo."
+  },
+  {
+    "id": "pt-037",
+    "en": "Can you repeat?",
+    "pt": "Pode repetir?"
+  },
+  {
+    "id": "pt-038",
+    "en": "Speak more slowly, please.",
+    "pt": "Fale mais devagar, por favor."
+  },
+  {
+    "id": "pt-039",
+    "en": "How do you say that in Portuguese?",
+    "pt": "Como se diz isto em português?"
+  },
+  {
+    "id": "pt-040",
+    "en": "What does this word mean?",
+    "pt": "O que significa esta palavra?"
+  },
+  {
+    "id": "pt-041",
+    "en": "I love you.",
+    "pt": "Amo-te."
+  },
+  {
+    "id": "pt-042",
+    "en": "I miss you.",
+    "pt": "Tenho saudades tuas."
+  },
+  {
+    "id": "pt-043",
+    "en": "Good luck!",
+    "pt": "Boa sorte!"
+  },
+  {
+    "id": "pt-044",
+    "en": "Congratulations!",
+    "pt": "Parabéns!"
+  },
+  {
+    "id": "pt-045",
+    "en": "Happy birthday!",
+    "pt": "Feliz aniversário!"
+  },
+  {
+    "id": "pt-046",
+    "en": "Have a good trip!",
+    "pt": "Boa viagem!"
+  },
+  {
+    "id": "pt-047",
+    "en": "Have a nice day.",
+    "pt": "Tenha um bom dia."
+  },
+  {
+    "id": "pt-048",
+    "en": "See you soon.",
+    "pt": "Até breve."
+  },
+  {
+    "id": "pt-049",
+    "en": "See you tomorrow.",
+    "pt": "Até amanhã."
+  },
+  {
+    "id": "pt-050",
+    "en": "Goodbye.",
+    "pt": "Adeus."
+  },
+  {
+    "id": "pt-051",
+    "en": "Where are you going?",
+    "pt": "Aonde vai?"
+  },
+  {
+    "id": "pt-052",
+    "en": "I am going to the supermarket.",
+    "pt": "Vou ao supermercado."
+  },
+  {
+    "id": "pt-053",
+    "en": "What is it?",
+    "pt": "O que é isto?"
+  },
+  {
+    "id": "pt-054",
+    "en": "I don't know.",
+    "pt": "Não sei."
+  },
+  {
+    "id": "pt-055",
+    "en": "Are you sure?",
+    "pt": "Tem a certeza?"
+  },
+  {
+    "id": "pt-056",
+    "en": "Yes, I am sure.",
+    "pt": "Sim, tenho a certeza."
+  },
+  {
+    "id": "pt-057",
+    "en": "I think so.",
+    "pt": "Acho que sim."
+  },
+  {
+    "id": "pt-058",
+    "en": "I don't think so.",
+    "pt": "Acho que não."
+  },
+  {
+    "id": "pt-059",
+    "en": "No problem.",
+    "pt": "Sem problema."
+  },
+  {
+    "id": "pt-060",
+    "en": "It doesn't matter.",
+    "pt": "Não faz mal."
+  },
+  {
+    "id": "pt-061",
+    "en": "What are you eating?",
+    "pt": "O que estás a comer?"
+  },
+  {
+    "id": "pt-062",
+    "en": "It is delicious.",
+    "pt": "Está delicioso."
+  },
+  {
+    "id": "pt-063",
+    "en": "I don't like it.",
+    "pt": "Não gosto disto."
+  },
+  {
+    "id": "pt-064",
+    "en": "What are your hobbies?",
+    "pt": "Quais são os seus passatempos?"
+  },
+  {
+    "id": "pt-065",
+    "en": "I like reading books.",
+    "pt": "Gosto de ler livros."
+  },
+  {
+    "id": "pt-066",
+    "en": "I like listening to music.",
+    "pt": "Gosto de ouvir música."
+  },
+  {
+    "id": "pt-067",
+    "en": "Do you do sports?",
+    "pt": "Pratica desporto?"
+  },
+  {
+    "id": "pt-068",
+    "en": "I play soccer.",
+    "pt": "Jogo futebol."
+  },
+  {
+    "id": "pt-069",
+    "en": "I am watching a movie.",
+    "pt": "Estou a ver um filme."
+  },
+  {
+    "id": "pt-070",
+    "en": "Where did you buy that?",
+    "pt": "Onde compraste isso?"
+  },
+  {
+    "id": "pt-071",
+    "en": "It is a gift.",
+    "pt": "É um presente."
+  },
+  {
+    "id": "pt-072",
+    "en": "Can you close the window?",
+    "pt": "Pode fechar a janela, por favor?"
+  },
+  {
+    "id": "pt-073",
+    "en": "It is cold in here.",
+    "pt": "Está frio aqui."
+  },
+  {
+    "id": "pt-074",
+    "en": "It is hot outside.",
+    "pt": "Está calor lá fora."
+  },
+  {
+    "id": "pt-075",
+    "en": "Where are my keys?",
+    "pt": "Onde estão as minhas chaves?"
+  },
+  {
+    "id": "pt-076",
+    "en": "They are on the table.",
+    "pt": "Estão em cima da mesa."
+  },
+  {
+    "id": "pt-077",
+    "en": "I have to go.",
+    "pt": "Tenho de ir."
+  },
+  {
+    "id": "pt-078",
+    "en": "Take care.",
+    "pt": "Cuida-te."
+  },
+  {
+    "id": "pt-079",
+    "en": "See you later.",
+    "pt": "Até logo."
+  },
+  {
+    "id": "pt-080",
+    "en": "Good night.",
+    "pt": "Boa noite."
+  },
+  {
+    "id": "pt-081",
+    "en": "Do you have any siblings?",
+    "pt": "Tem irmãos?"
+  },
+  {
+    "id": "pt-082",
+    "en": "I have a brother and a sister.",
+    "pt": "Tenho um irmão e uma irmã."
+  },
+  {
+    "id": "pt-083",
+    "en": "Are you married?",
+    "pt": "É casado?"
+  },
+  {
+    "id": "pt-084",
+    "en": "I am single.",
+    "pt": "Sou solteiro."
+  },
+  {
+    "id": "pt-085",
+    "en": "Do you have children?",
+    "pt": "Tem filhos?"
+  },
+  {
+    "id": "pt-086",
+    "en": "I have two children.",
+    "pt": "Tenho dois filhos."
+  },
+  {
+    "id": "pt-087",
+    "en": "Where do you work?",
+    "pt": "Onde trabalhas?"
+  },
+  {
+    "id": "pt-088",
+    "en": "I work in an office.",
+    "pt": "Trabalho num escritório."
+  },
+  {
+    "id": "pt-089",
+    "en": "It is difficult.",
+    "pt": "É difícil."
+  },
+  {
+    "id": "pt-090",
+    "en": "It is easy.",
+    "pt": "É fácil."
+  },
+  {
+    "id": "pt-091",
+    "en": "I agree.",
+    "pt": "Estou de acordo."
+  },
+  {
+    "id": "pt-092",
+    "en": "I don't agree.",
+    "pt": "Não estou de acordo."
+  },
+  {
+    "id": "pt-093",
+    "en": "That's a good idea.",
+    "pt": "É uma boa ideia."
+  },
+  {
+    "id": "pt-094",
+    "en": "I don't have time.",
+    "pt": "Não tenho tempo."
+  },
+  {
+    "id": "pt-095",
+    "en": "Wait a minute.",
+    "pt": "Espere um minuto."
+  },
+  {
+    "id": "pt-096",
+    "en": "I'll be right back.",
+    "pt": "Volto já."
+  },
+  {
+    "id": "pt-097",
+    "en": "Of course.",
+    "pt": "Com certeza."
+  },
+  {
+    "id": "pt-098",
+    "en": "Maybe.",
+    "pt": "Talvez."
+  },
+  {
+    "id": "pt-099",
+    "en": "Never.",
+    "pt": "Nunca."
+  },
+  {
+    "id": "pt-100",
+    "en": "Always.",
+    "pt": "Sempre."
+  },
+  {
+    "id": "pt-101",
+    "en": "What is your favorite food?",
+    "pt": "Qual é a tua comida favorita?"
+  },
+  {
+    "id": "pt-102",
+    "en": "I love pasta.",
+    "pt": "Adoro massa."
+  },
+  {
+    "id": "pt-103",
+    "en": "Do you want something to drink?",
+    "pt": "Queres beber alguma coisa?"
+  },
+  {
+    "id": "pt-104",
+    "en": "A coffee, please.",
+    "pt": "Um café, por favor."
+  },
+  {
+    "id": "pt-105",
+    "en": "Where can I buy a ticket?",
+    "pt": "Onde posso comprar um bilhete?"
+  },
+  {
+    "id": "pt-106",
+    "en": "At the ticket counter.",
+    "pt": "Bilheteira."
+  },
+  {
+    "id": "pt-107",
+    "en": "The train is late.",
+    "pt": "O comboio está atrasado."
+  },
+  {
+    "id": "pt-108",
+    "en": "Is it far from here?",
+    "pt": "É longe daqui?"
+  },
+  {
+    "id": "pt-109",
+    "en": "No, it is very close.",
+    "pt": "Não, é muito perto."
+  },
+  {
+    "id": "pt-110",
+    "en": "Go straight ahead.",
+    "pt": "Siga em frente."
+  },
+  {
+    "id": "pt-111",
+    "en": "Turn right.","pt": "Vire à direita."},{"id": "pt-112","en": "Turn left.","pt": "Vire à esquerda."},{"id": "pt-113","en": "I am lost.","pt": "Estou perdido."},{"id": "pt-114","en": "Can you show me on the map?","pt": "Pode mostrar-me no mapa?"},{"id": "pt-115","en": "Where is the hotel?","pt": "Onde fica o hotel?"},{"id": "pt-116","en": "I have a reservation.","pt": "Tenho uma reserva."},{"id": "pt-117","en": "Can I have the key?","pt": "Posso levar a chave?"},{"id": "pt-118","en": "Is the Wi-Fi free?","pt": "O Wi-Fi é gratuito?"},{"id": "pt-119","en": "What is the password?","pt": "Qual é a palavra-passe?"},{"id": "pt-120","en": "Where is the elevator?","pt": "Onde fica o elevador?"},{"id": "pt-121","en": "I would like to book a table.","pt": "Gostaria de reservar uma mesa."},{"id": "pt-122","en": "For how many people?","pt": "Para quantas pessoas?"},{"id": "pt-123","en": "For two people.","pt": "Para duas pessoas."},{"id": "pt-124","en": "At what time?","pt": "A que horas?"},{"id": "pt-125","en": "Tonight at eight p.m.","pt": "Esta noite às vinte horas."},{"id": "pt-126","en": "Are you ready to order?","pt": "Está pronto para pedir?"},{"id": "pt-127","en": "I will have the chicken.","pt": "Vou querer o frango."},{"id": "pt-128","en": "And to drink?","pt": "E para beber?"},{"id": "pt-129","en": "Mineral water, please.","pt": "Água mineral, por favor."},{"id": "pt-130","en": "Enjoy your meal!","pt": "Bom apetite!"},{"id": "pt-131","en": "It was excellent.","pt": "Estava excelente."},{"id": "pt-132","en": "Do you accept credit cards?","pt": "Aceitam cartões de crédito?"},{"id": "pt-133","en": "I will pay in cash.","pt": "Vou pagar em dinheiro."},{"id": "pt-134","en": "Keep the change.","pt": "Fique com o troco."},{"id": "pt-135","en": "Where are the shops?","pt": "Onde ficam as lojas?"},{"id": "pt-136","en": "I am just looking.","pt": "Estou só a ver."},{"id": "pt-137","en": "Can I try this on?","pt": "Posso experimentar isto?"},{"id": "pt-138","en": "Where are the fitting rooms?","pt": "Onde ficam os provadores?"},{"id": "pt-139","en": "What is your size?","pt": "Qual é o seu tamanho?"},{"id": "pt-140","en": "It is too big.","pt": "É grande demais."},{"id": "pt-141","en": "It is too small.","pt": "É pequeno demais."},{"id": "pt-142","en": "Do you have a larger size?","pt": "Tem um tamanho acima?"},{"id": "pt-143","en": "I'll take it.","pt": "Fico com isto."},{"id": "pt-144","en": "Where is the cashier?","pt": "Onde fica a caixa?"},{"id": "pt-145","en": "Can I have a bag?","pt": "Pode dar-me um saco?"},{"id": "pt-146","en": "I would like a refund.","pt": "Gostaria de um reembolso."},{"id": "pt-147","en": "It is broken.","pt": "Está partido."},{"id": "pt-148","en": "Where is the pharmacy?","pt": "Onde fica a farmácia?"},{"id": "pt-149","en": "I am sick.","pt": "Estou doente."},{"id": "pt-150","en": "I have a headache.","pt": "Estou com dor de cabeça."},{"id": "pt-151","en": "I have a fever.","pt": "Estou com febre."},{"id": "pt-152","en": "I need some medicine.","pt": "Preciso de um medicamento."},{"id": "pt-153","en": "Where is the nearest hospital?","pt": "Onde fica o hospital mais próximo?"},{"id": "pt-154","en": "Call an ambulance!","pt": "Chame uma ambulância!"},{"id": "pt-155","en": "It is an emergency.","pt": "É uma emergência."},{"id": "pt-156","en": "Is everything okay?","pt": "Está tudo bem?"},{"id": "pt-157","en": "Yes, everything is fine.","pt": "Sim, está tudo bem."},{"id": "pt-158","en": "Please calm down.","pt": "Acalme-se, por favor."},{"id": "pt-159","en": "Don't worry.","pt": "Não se preocupe."},{"id": "pt-160","en": "What happened?","pt": "O que aconteceu?"},{"id": "pt-161","en": "It was an accident.","pt": "Foi um acidente."},{"id": "pt-162","en": "I lost my passport.","pt": "Perdi o meu passaporte."},{"id": "pt-163","en": "Where is the police station?","pt": "Onde fica a esquadra de polícia?"},{"id": "pt-164","en": "My bag was stolen.","pt": "Roubaram-me a mala."},{"id": "pt-165","en": "Stop thief!","pt": "Ladrão!"},{"id": "pt-166","en": "Help me!","pt": "Ajude-me!"},{"id": "pt-167","en": "What is the date today?","pt": "Qual é a data de hoje?"},{"id": "pt-168","en": "It is the first of May.","pt": "É o primeiro de maio."},{"id": "pt-169","en": "What day is it today?","pt": "Que dia é hoje?"},{"id": "pt-170","en": "Today is Monday.","pt": "Hoje é segunda-feira."},{"id": "pt-171","en": "What did you do this weekend?","pt": "O que fizeste este fim de semana?"},{"id": "pt-172","en": "I rested.","pt": "Descansei."},{"id": "pt-173","en": "What are we doing tomorrow?","pt": "O que vamos fazer amanhã?"},{"id": "pt-174","en": "Shall we meet tonight?","pt": "Vemo-nos logo à noite?"},{"id": "pt-175","en": "What time shall we meet?","pt": "A que horas nos encontramos?"},{"id": "pt-176","en": "Let's meet at seven p.m.","pt": "Encontramo-nos às dezanove horas."},{"id": "pt-177","en": "Where is the meeting point?","pt": "Onde é o ponto de encontro?"},{"id": "pt-178","en": "In front of the cinema.","pt": "Em frente ao cinema."},{"id": "pt-179","en": "I am on my way.","pt": "Estou a caminho."},{"id": "pt-180","en": "I am going to be late.","pt": "Vou chegar atrasado."},{"id": "pt-181","en": "Sorry for being late.","pt": "Desculpe o atraso."},{"id": "pt-182","en": "It's nothing.","pt": "Não foi nada."},{"id": "pt-183","en": "Thank you for coming.","pt": "Obrigado por vires."},{"id": "pt-184","en": "It was a pleasure.","pt": "Foi um prazer."},{"id": "pt-185","en": "Until next time.","pt": "Até à próxima."},{"id": "pt-186","en": "Did you have a good vacation?","pt": "Passaste boas férias?"},{"id": "pt-187","en": "It was fantastic.","pt": "Foi fantástico."},{"id": "pt-188","en": "Where did you go?","pt": "Aonde foste?"},{"id": "pt-189","en": "I went to the beach.","pt": "Fui à praia."},{"id": "pt-190","en": "How was the trip?","pt": "Como correu a viagem?"},{"id": "pt-191","en": "It was a bit long.","pt": "Foi um pouco longa."},{"id": "pt-192","en": "Did you take photos?","pt": "Tiraste fotografias?"},{"id": "pt-193","en": "Yes, a lot.","pt": "Sim, muitas."},{"id": "pt-194","en": "Show me, please.","pt": "Mostra-me, por favor."},{"id": "pt-195","en": "It is beautiful.","pt": "É lindo."},{"id": "pt-196","en": "How lucky!","pt": "Que sorte!"},{"id": "pt-197","en": "I want to go there too.","pt": "Também quero ir para lá."},{"id": "pt-198","en": "Maybe next year.","pt": "Talvez no próximo ano."},{"id": "pt-199","en": "We will see.","pt": "Veremos."},{"id": "pt-200","en": "This is the end of the file.","pt": "É o fim do ficheiro."}],
     "englishrussian": [],
     "englisharabic": [],
     "englishturkish": [],
