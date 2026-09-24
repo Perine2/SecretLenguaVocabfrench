@@ -2175,6 +2175,503 @@
 
     "frenchpolish": [],
 
-    "frenchchinese": []
+    "frenchchinese": [{
+    "id": "zh-001",
+    "fr": "Bonjour, comment allez-vous ?",
+    "zh": "你好，你好吗？ (Nǐ hǎo, nǐ hǎo ma?)"
+  },
+  {
+    "id": "zh-002",
+    "fr": "Comment vous appelez-vous ?",
+    "zh": "你叫什么名字？ (Nǐ jiào shénme míngzì?)"
+  },
+  {
+    "id": "zh-003",
+    "fr": "Je m'appelle John.",
+    "zh": "我叫约翰。 (Wǒ jiào Yuēhàn.)"
+  },
+  {
+    "id": "zh-004",
+    "fr": "Enchanté de vous rencontrer.",
+    "zh": "很高兴认识你。 (Hěn gāoxìng rènshí nǐ.)"
+  },
+  {
+    "id": "zh-005",
+    "fr": "D'où venez-vous ?",
+    "zh": "你从哪里来？ (Nǐ cóng nǎlǐ lái?)"
+  },
+  {
+    "id": "zh-006",
+    "fr": "Je viens de France.",
+    "zh": "我来自法国。 (Wǒ láizì Fǎguó.)"
+  },
+  {
+    "id": "zh-007",
+    "fr": "Où habitez-vous ?",
+    "zh": "你住在哪里？ (Nǐ zhù zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-008",
+    "fr": "J'habite à Paris.",
+    "zh": "我住在巴黎。 (Wǒ zhù zài Bālí.)"
+  },
+  {
+    "id": "zh-009",
+    "fr": "Quel âge avez-vous ?",
+    "zh": "你多大了？ (Nǐ duōdà le?)"
+  },
+  {
+    "id": "zh-010",
+    "fr": "J'ai trente ans.",
+    "zh": "我三十岁。 (Wǒ sānshí suì.)"
+  },
+  {
+    "id": "zh-011",
+    "fr": "Que faites-vous dans la vie ?",
+    "zh": "你是做什么工作的？ (Nǐ shì zuò shénme gōngzuò de?)"
+  },
+  {
+    "id": "zh-012",
+    "fr": "Je suis étudiant.",
+    "zh": "我是学生。 (Wǒ shì xuéshēng.)"
+  },
+  {
+    "id": "zh-013",
+    "fr": "Parlez-vous chinois ?",
+    "zh": "你会说中文吗？ (Nǐ huì shuō Zhōngwén ma?)"
+  },
+  {
+    "id": "zh-014",
+    "fr": "Je parle un peu chinois.",
+    "zh": "我会说一点中文。 (Wǒ huì shuō yīdiǎn Zhōngwén.)"
+  },
+  {
+    "id": "zh-015",
+    "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "zh": "请问你能帮我吗？ (Qǐngwèn nǐ néng bāng wǒ ma?)"
+  },
+  {
+    "id": "zh-016",
+    "fr": "Merci beaucoup.",
+    "zh": "非常感谢。 (Fēicháng gǎnxiè.)"
+  },
+  {
+    "id": "zh-017",
+    "fr": "De rien.",
+    "zh": "不客气。 (Bù kèqì.)"
+  },
+  {
+    "id": "zh-018",
+    "fr": "S'il vous plaît.",
+    "zh": "请。 (Qǐng.)"
+  },
+  {
+    "id": "zh-019",
+    "fr": "Excusez-moi.",
+    "zh": "打扰一下。 (Dǎrǎo yīxià.)"
+  },
+  {
+    "id": "zh-020",
+    "fr": "Je suis désolé.",
+    "zh": "对不起。 (Duìbùqǐ.)"
+  },
+  {
+    "id": "zh-021",
+    "fr": "Quelle heure est-il ?",
+    "zh": "现在几点了？ (Xiànzài jǐ diǎn le?)"
+  },
+  {
+    "id": "zh-022",
+    "fr": "Il est dix heures.",
+    "zh": "现在十点了。 (Xiànzài shí diǎn le.)"
+  },
+  {
+    "id": "zh-023",
+    "fr": "Où sont les toilettes ?",
+    "zh": "洗手间在哪里？ (Xǐshǒujiān zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-024",
+    "fr": "C'est par là.",
+    "zh": "往那边走。 (Wǎng nàbiān zǒu.)"
+  },
+  {
+    "id": "zh-025",
+    "fr": "Combien ça coûte ?",
+    "zh": "这个多少钱？ (Zhège duōshǎo qián?)"
+  },
+  {
+    "id": "zh-026",
+    "fr": "C'est trop cher.",
+    "zh": "太贵了。 (Tài guì le.)"
+  },
+  {
+    "id": "zh-027",
+    "fr": "Où se trouve la gare ?",
+    "zh": "火车站在哪里？ (Huǒchēzhàn zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-028",
+    "fr": "Je cherche un bon restaurant.",
+    "zh": "我在找一家好的餐厅。 (Wǒ zài zhǎo yī jiā hǎo de cāntīng.)"
+  },
+  {
+    "id": "zh-029",
+    "fr": "L'addition, s'il vous plaît.",
+    "zh": "请结账。 (Qǐng jiézhàng.)"
+  },
+  {
+    "id": "zh-030",
+    "fr": "Quel temps fait-il aujourd'hui ?",
+    "zh": "今天天气怎么样？ (Jīntiān tiānqì zěnme yàng?)"
+  },
+  {
+    "id": "zh-031",
+    "fr": "Il fait beau.",
+    "zh": "天气很好。 (Tiānqì hěn hǎo.)"
+  },
+  {
+    "id": "zh-032",
+    "fr": "Il pleut.",
+    "zh": "下雨了。 (Xià yǔ le.)"
+  },
+  {
+    "id": "zh-033",
+    "fr": "J'ai faim.",
+    "zh": "我饿了。 (Wǒ è le.)"
+  },
+  {
+    "id": "zh-034",
+    "fr": "J'ai soif.",
+    "zh": "我渴了. (Wǒ kě le.)"
+  },
+  {
+    "id": "zh-035",
+    "fr": "Je suis fatigué.",
+    "zh": "我累了。 (Wǒ lèi le.)"
+  },
+  {
+    "id": "zh-036",
+    "fr": "Je ne comprends pas.",
+    "zh": "我不明白。 (Wǒ bù míngbái.)"
+  },
+  {
+    "id": "zh-037",
+    "fr": "Pouvez-vous répéter ?",
+    "zh": "你能重复一遍吗？ (Nǐ néng chóngfù yībiàn ma?)"
+  },
+  {
+    "id": "zh-038",
+    "fr": "Parlez plus lentement, s'il vous plaît.",
+    "zh": "请说慢一点。 (Qǐng shuō màn yīdiǎn.)"
+  },
+  {
+    "id": "zh-039",
+    "fr": "Comment dit-on cela en chinois ?",
+    "zh": "这个用中文怎么说？ (Zhège yòng Zhōngwén zěnme shuō?)"
+  },
+  {
+    "id": "zh-040",
+    "fr": "Que signifie ce mot ?",
+    "zh": "这个词是什么意思？ (Zhège cí shì shénme yìsī?)"
+  },
+  {
+    "id": "zh-041",
+    "fr": "Je t'aime.",
+    "zh": "我爱你。 (Wǒ ài nǐ.)"
+  },
+  {
+    "id": "zh-042",
+    "fr": "Tu me manques.",
+    "zh": "我想你。 (Wǒ xiǎng nǐ.)"
+  },
+  {
+    "id": "zh-043",
+    "fr": "Bonne chance !",
+    "zh": "祝你好运！ (Zhù nǐ hǎo yùn!)"
+  },
+  {
+    "id": "zh-044",
+    "fr": "Félicitations !",
+    "zh": "恭喜！ (Gōngxǐ!)"
+  },
+  {
+    "id": "zh-045",
+    "fr": "Jayeux anniversaire !",
+    "zh": "生日快乐！ (Shēngrì kuàilè!)"
+  },
+  {
+    "id": "zh-046",
+    "fr": "Bon voyage !",
+    "zh": "一路顺风！ (Yīlù shùnfēng!)"
+  },
+  {
+    "id": "zh-047",
+    "fr": "Passe une bonne journée.",
+    "zh": "祝你度过美好的一天。 (Zhù nǐ dùguò měihǎo de yītiān.)"
+  },
+  {
+    "id": "zh-048",
+    "fr": "À bientôt.",
+    "zh": "回头见。 (Huítóu jiàn.)"
+  },
+  {
+    "id": "zh-049",
+    "fr": "À demain.",
+    "zh": "明天见。 (Míngtiān jiàn.)"
+  },
+  {
+    "id": "zh-050",
+    "fr": "Au revoir.",
+    "zh": "再见。 (Zàijiàn.)"
+  },
+  {
+    "id": "zh-051",
+    "fr": "Où allez-vous ?",
+    "zh": "你去哪里？ (Nǐ qù nǎlǐ?)"
+  },
+  {
+    "id": "zh-052",
+    "fr": "Je vais au supermarché.",
+    "zh": "我去超市。 (Wǒ qù chāoshì.)"
+  },
+  {
+    "id": "zh-053",
+    "fr": "Qu'est-ce que c'est ?",
+    "zh": "这是什么？ (Zhè shì shénme?)"
+  },
+  {
+    "id": "zh-054",
+    "fr": "Je ne sais pas.",
+    "zh": "我不知道。 (Wǒ bù zhīdào.)"
+  },
+  {
+    "id": "zh-055",
+    "fr": "Êtes-vous sûr ?",
+    "zh": "你确定吗？ (Nǐ quèdìng ma?)"
+  },
+  {
+    "id": "zh-056",
+    "fr": "Oui, j'en suis sûr.",
+    "zh": "是的偏，我确定。 (Shì de, wǒ quèdìng.)"
+  },
+  {
+    "id": "zh-057",
+    "fr": "Je pense que oui.",
+    "zh": "我想是的。 (Wǒ xiǎng shì de.)"
+  },
+  {
+    "id": "zh-058",
+    "fr": "Je ne pense pas.",
+    "zh": "我想不是。 (Wǒ xiǎng bùshì.)"
+  },
+  {
+    "id": "zh-059",
+    "fr": "Pas de problème.",
+    "zh": "没问题。 (Méi wèntí.)"
+  },
+  {
+    "id": "zh-060",
+    "fr": "Ce n'est pas grave.",
+    "zh": "没关系。 (Méi guānxì.)"
+  },
+  {
+    "id": "zh-061",
+    "fr": "Qu'est-ce que tu manges ?",
+    "zh": "你在吃什么？ (Nǐ zài chī shénme?)"
+  },
+  {
+    "id": "zh-062",
+    "fr": "C'est délicieux.",
+    "zh": "很好吃。 (Hěn hào chī.)"
+  },
+  {
+    "id": "zh-063",
+    "fr": "Je n'aime pas ça.",
+    "zh": "我不喜欢这个。 (Wǒ bù xǐhuān zhège.)"
+  },
+  {
+    "id": "zh-064",
+    "fr": "Quels sont vos loisirs ?",
+    "zh": "你有什么爱好？ (Nǐ yǒu shénme àihào?)"
+  },
+  {
+    "id": "zh-065",
+    "fr": "J'aime lire des livres.",
+    "zh": "我喜欢读书。 (Wǒ xǐhuān dúshū.)"
+  },
+  {
+    "id": "zh-066",
+    "fr": "J'aime écouter de la musique.",
+    "zh": "我喜欢听音乐。 (Wǒ xǐhuān tīng yīnyuè.)"
+  },
+  {
+    "id": "zh-067",
+    "fr": "Faites-vous du sport ?",
+    "zh": "你做运动吗？ (Nǐ zuò yùndòng ma?)"
+  },
+  {
+    "id": "zh-068",
+    "fr": "Je joue au football.",
+    "zh": "我踢足球。 (Wǒ tī zúqiú.)"
+  },
+  {
+    "id": "zh-069",
+    "fr": "Je regarde un film.",
+    "zh": "我在看电影。 (Wǒ zài kàn diànyǐng.)"
+  },
+  {
+    "id": "zh-070",
+    "fr": "Où as-tu acheté ça ?",
+    "zh": "你在哪里买的？ (Nǐ zài nǎlǐ mǎi de?)"
+  },
+  {
+    "id": "zh-071",
+    "fr": "C'est un cadeau.",
+    "zh": "这是一份礼物。 (Zhè shì yī fèn lǐwù.)"
+  },
+  {
+    "id": "zh-072",
+    "fr": "Pouvez-vous fermer la fenêtre ?",
+    "zh": "请问你能关上窗户吗？ (Qǐngwèn nǐ néng guānshàng chuānghù ma?)"
+  },
+  {
+    "id": "zh-073",
+    "fr": "Il fait froid ici.",
+    "zh": "这里很冷。 (Zhèlǐ hěn lěng.)"
+  },
+  {
+    "id": "zh-074",
+    "fr": "Il fait chaud dehors.",
+    "zh": "外面很热。 (Wàimiàn hěn rè.)"
+  },
+  {
+    "id": "zh-075",
+    "fr": "Où sont mes clés ?",
+    "zh": "我的钥匙在哪里？ (Wǒ de yàoshi zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-076",
+    "fr": "Elles sont sur la table.",
+    "zh": "在桌子上。 (Zài zhuōzi shàng.)"
+  },
+  {
+    "id": "zh-077",
+    "fr": "Je dois y aller.",
+    "zh": "我得走了。 (Wǒ děi zǒu le.)"
+  },
+  {
+    "id": "zh-078",
+    "fr": "Prends soin de toi.",
+    "zh": "保重。 (Bǎozhòng.)"
+  },
+  {
+    "id": "zh-079",
+    "fr": "À plus tard.",
+    "zh": "待会儿见。 (Dāi huǐ'er jiàn.)"
+  },
+  {
+    "id": "zh-080",
+    "fr": "Bonne nuit.",
+    "zh": "晚安。 (Wǎn'ān.)"
+  },
+  {
+    "id": "de-081",
+    "fr": "Avez-vous des frères et sœurs ?",
+    "zh": "你有兄弟姐妹吗？ (Nǐ yǒu xiōngdì jiěmèi ma?)"
+  },
+  {
+    "id": "zh-082",
+    "fr": "J'ai un frère et une sœur.",
+    "zh": "/我有一个哥哥和一个姐姐。 (Wǒ yǒu yīgè gēgē hé yīgè jiějiě.)"
+  },
+  {
+    "id": "zh-083",
+    "fr": "Êtes-vous marié ?",
+    "zh": "你结婚了吗？ (Nǐ jiéhūn le ma?)"
+  },
+  {
+    "id": "zh-084",
+    "fr": "Je suis célibataire.",
+    "zh": "我是单身。 (Wǒ shì dānshēn.)"
+  },
+  {
+    "id": "zh-085",
+    "fr": "As-tu des enfants ?",
+    "zh": "你有孩子吗？ (Nǐ yǒu háizi ma?)"
+  },
+  {
+    "id": "zh-086",
+    "fr": "J'ai deux enfants.",
+    "zh": "我有两个孩子。 (Wǒ yǒu liǎng gè háizi.)"
+  },
+  {
+    "id": "zh-087",
+    "fr": "Où travailles-tu ?",
+    "zh": "你在哪里工作？ (Nǐ zài nǎlǐ gōngzuò?)"
+  },
+  {
+    "id": "zh-088",
+    "fr": "Je travaille dans un bureau.",
+    "zh": "我在办公室工作。 (Wǒ zài bàngōngshì gōngzuò.)"
+  },
+  {
+    "id": "zh-089",
+    "fr": "C'est difficile.",
+    "zh": "这很难。 (Zhè hěn nán.)"
+  },
+  {
+    "id": "zh-090",
+    "fr": "C'est facile.",
+    "zh": "这很简单。 (Zhè hěn jiǎndān.)"
+  },
+  {
+    "id": "zh-091",
+    "fr": "Je suis d'accord.",
+    "zh": "我同意。 (Wǒ tóngyì.)"
+  },
+  {
+    "id": "zh-092",
+    "fr": "Je ne suis pas d'accord.",
+    "zh": "我不同意。 (Wǒ bù tóngyì.)"
+  },
+  {
+    "id": "zh-093",
+    "fr": "C'est une bonne idée.",
+    "zh": "这是个好主意。 (Zhè shìgè hǎo zhǔyì.)"
+  },
+  {
+    "id": "zh-094",
+    "fr": "Je n'ai pas le temps.",
+    "zh": "我没有时间。 (Wǒ méiyǒu shíjiān.)"
+  },
+  {
+    "id": "zh-095",
+    "fr": "Attendez une minute.",
+    "zh": "请等一下。 (Qǐng děng yīxià.)"
+  },
+  {
+    "id": "zh-096",
+    "fr": "Je reviens tout de suite.",
+    "zh": "我马上回来。 (Wǒ mǎshàng huílái.)"
+  },
+  {
+    "id": "zh-097",
+    "fr": "Bien sûr.",
+    "zh": "当然。 (Dāngrán.)"
+  },
+  {
+    "id": "zh-098",
+    "fr": "Peut-être.",
+    "zh": "可能。 (Kěnéng.)"
+  },
+  {
+    "id": "zh-099",
+    "fr": "Jamais.",
+    "zh": "绝不。 (Jué bù.)"
+  },
+  {
+    "id": "zh-100",
+    "fr": "Toujours.","zh": "总是。 (Zǒngshì.)"},{"id": "zh-101","fr": "Quel est ton plat préféré ?","zh": "你最喜欢吃什么？ (Nǐ zuì xǐhuān chī shénme?)"},{"id": "zh-102","fr": "J'adore les pâtes.","zh": "我非常喜欢面条。 (Wǒ fēicháng xǐhuān miàntiáo.)"},{"id": "zh-103","fr": "Tu veux boire quelque chose ?","zh": "你想喝点什么吗？ (Nǐ xiǎng hē diǎn shénme ma?)"},{"id": "zh-104","fr": "Un café, s'il vous plaît.","zh": "请给我一杯咖啡。 (Qǐng gěi wǒ yī bēi kāfēi.)"},{"id": "zh-105","fr": "Où puis-je acheter un billet ?","zh": "我在哪里可以买票？ (Wǒ zài nǎlǐ kěyǐ mǎi piào?)"},{"id": "zh-106","fr": "Au guichet.","zh": "在售票处。 (Zài shòupiàochù.)"},{"id": "zh-107","fr": "Le train est en retard.","zh": "火车晚点了。 (Huǒchē wǎndiǎn le.)"},{"id": "zh-108","fr": "C'est loin d'ici ?","zh": "离这里远吗？ (Lí zhèlǐ yuǎn ma?)"},{"id": "zh-109","fr": "Non, c'est tout près.","zh": "不远，很近。 (Bù yuǎn, hěn jìn.)"},{"id": "zh-110","fr": "Allez tout droit.","zh": "一直往前走。 (Yīzhí wǎng qián zǒu.)"},{"id": "zh-111","fr": "Tournez à droite.","zh": "向右转。 (Xiàng yòu zhuǎn.)"},{"id": "zh-112","fr": "Tournez à gauche.","zh": "向左转。 (Xiàng zuǒ zhuǎn.)"},{"id": "zh-113","fr": "Je suis perdu.","zh": "我迷路了。 (Wǒ mílù le.)"},{"id": "zh-114","fr": "Pouvez-vous me montrer sur la carte ?","zh": "你能在地图上指给我看吗？ (Nǐ néng zài dìtú shàng zhǐ gěi wǒ kàn ma?)"},{"id": "zh-115","fr": "Où est l'hôtel ?","zh": "酒店在哪里？ (Jiǔdiàn zài nǎlǐ?)"},{"id": "zh-116","fr": "J'ai une réservation.","zh": "我有一个预订。 (Wǒ yǒu yīgè yùdìng.)"},{"id": "zh-117","fr": "Puis-je avoir la clé ?","zh": "我可以拿钥匙吗？ (Wǒ kěyǐ ná yàoshi ma?)"},{"id": "zh-118","fr": "Le Wi-Fi est gratuit ?","zh": "Wi-Fi是免费的吗？ (Wi-Fi shì miǎnfèi de ma?)"},{"id": "zh-119","fr": "Quel est le mot de passe ?","zh": "密码是什么？ (Mìmǎ shì shénme?)"},{"id": "zh-120","fr": "Où se trouve l'ascenseur ?","zh": "电梯在哪里？ (Diàntī zài nǎlǐ?)"},{"id": "zh-121","fr": "Je voudrais réserver une table.","zh": "我想订个位子。 (Wǒ xiǎng dìng gè wèizi.)"},{"id": "zh-122","fr": "Pour combien de personnes ?","zh": "请问几位？ (Qǐngwèn jǐ wèi?)"},{"id": "zh-123","fr": "Pour deux personnes.","zh": "两位。 (Liǎng wèi.)"},{"id": "zh-124","fr": "À quelle heure ?","zh": "几点钟？ (Jǐ diǎn zhōng?)"},{"id": "zh-125","fr": "Ce soir à vingt heures.","zh": "今晚八点。 (Jīnwǎn bā diǎn.)"},{"id": "zh-126","fr": "Êtes-vous prêt à commander ?","zh": "您可以点单了吗？ (Nǐ kěyǐ diǎndān le ma?)"},{"id": "zh-127","fr": "Je vais prendre le poulet.","zh": "我点鸡肉。 (Wǒ diǎn jīròu.)"},{"id": "zh-128","fr": "Et pour boire ?","zh": "喝点什么？ (Hē diǎn shénme?)"},{"id": "zh-129","fr": "De l'eau minérale, s'il vous plaît.","zh": "请给我矿泉水。 (Qǐng gěi wǒ kuàngquánshuǐ.)"},{"id": "zh-130","fr": "Bon appétit !","zh": "请慢用！ (Qǐng màn yòng!)"},{"id": "zh-131","fr": "C'était excellent.","zh": "太美味了。 (Tài měiwèi le.)"},{"id": "zh-132","fr": "Acceptez-vous les cartes bancaires ?","zh": "你们接受银行卡吗？ (Nǐmen jiēshòu yínhángkǎ ma?)"},{"id": "zh-133","fr": "Je vais payer en espèces.","zh": "我用现金支付。 (Wǒ yòng xiànjīn zhīfù.)"},{"id": "zh-134","fr": "Gardez la monnaie.","zh": "不用找零了。 (Bùyòng zhǎolíng le.)"},{"id": "zh-135","fr": "Où sont les magasins ?","zh": "商店在哪里？ (Shāngdiàn zài nǎlǐ?)"},{"id": "zh-136","fr": "Je regarde juste.","zh": "我只是看看。 (Wǒ zhǐshì kànkàn.)"},{"id": "zh-137","fr": "Puis-je essayer ceci ?","zh": "我可以试穿这个吗？ (Wǒ kěyǐ shìchuān zhège ma?)"},{"id": "zh-138","fr": "Où sont les cabines d'essayage ?","zh": "试衣间在哪里？ (Shìyījiān zài nǎlǐ?)"},{"id": "zh-139","fr": "Quelle est votre taille ?","zh": "你穿多大码？ (Nǐ chuān duōdà mǎ?)"},{"id": "zh-140","fr": "C'est trop grand.","zh": "太大了。 (Tài dà le.)"},{"id": "zh-141","fr": "C'est trop petit.","zh": "太小了。 (Tài xiǎo le.)"},{"id": "zh-142","fr": "Avez-vous la taille au-dessus ?","zh": "有更大一码的吗？ (Yǒu gèng dà yī mǎ de ma?)"},{"id": "zh-143","fr": "Je le prends.","zh": "我要买这个。 (Wǒ yào mǎi zhège.)"},{"id": "zh-144","fr": "Où est la caisse ?","zh": "收银台在哪里？ (Shōuyíntái zài nǎlǐ?)"},{"id": "zh-145","fr": "Puis-je avoir un sac ?","zh": "能给我一个袋子吗？ (Néng gěi wǒ yīgè dàizi ma?)"},{"id": "zh-146","fr": "Je voudrais un remboursement.","zh": "我想退款。 (Wǒ xiǎng tuìkuǎn.)"},{"id": "zh-147","fr": "C'est cassé.","zh": "这个坏了。 (Zhège huài le.)"},{"id": "zh-148","fr": "Où se trouve la pharmacie ?","zh": "药店在哪里？ (Yàodiàn zài nǎlǐ?)"},{"id": "zh-149","fr": "Je suis malade.","zh": "我生病了。 (Wǒ shēngbìng le.)"},{"id": "zh-150","fr": "J'ai mal à la tête.","zh": "我头疼。 (Wǒ tóuténg.)"},{"id": "zh-151","fr": "J'ai de la fièvre.","zh": "我发烧了。 (Wǒ fāshāo le.)"},{"id": "zh-152","fr": "Il me faut un médicament.","zh": "我需要吃药。 (Wǒ xūyào chī yào.)"},{"id": "zh-153","fr": "Où est l'hôpital le plus proche ?","zh": "最近的医院在哪里？ (Zuìjìn de yīyuàn zài nǎlǐ?)"},{"id": "zh-154","fr": "Appelez une ambulance !","zh": "快叫救护车！ (Kuài jiào jiùhùchē!)"},{"id": "zh-155","fr": "C'est une urgence.","zh": "这是紧急情况。 (Zhè shì jǐnjí qíngkuàng.)"},{"id": "zh-156","fr": "Tout va bien ?","zh": "一切都好吗？ (Yīqiè dōu hǎo ma?)"},{"id": "zh-157","fr": "Oui, tout va bien.","zh": "是的，一切都好。 (Shì de, yīqiè dōu hǎo.)"},{"id": "zh-158","fr": "Calmez-vous, s'il vous plaît.","zh": "请冷静一下。 (Qǐng lěngjìng yīxià.)"},{"id": "zh-159","fr": "Ne vous inquiétez pas.","zh": "别担心。 (Bié dānxīn.)"},{"id": "zh-160","fr": "Qu'est-ce qui s'est passé ?","zh": "发生什么事了？ (Fāshēng shénme shì le?)"},{"id": "zh-161","fr": "C'était un accident.","zh": "这只是一场意外。 (Zhè zhǐshì yī chǎng yìwài.)"},{"id": "zh-162","fr": "J'ai perdu mon passeport.","zh": "我的护照丢了。 (Wǒ de hùzhào diū le.)"},{"id": "zh-163","fr": "Où est le commissariat ?","zh": "警察局在哪里？ (Jǐngchájú zài nǎlǐ?)"},{"id": "zh-164","fr": "On m'a volé mon sac.","zh": "我的包被偷了。 (Wǒ de bāo bèi tōu le.)"},{"id": "zh-165","fr": "Au voleur !","zh": "抓小偷！ (Zhuā xiǎotōu!)"},{"id": "zh-166","fr": "Aidez-moi !","zh": "救命！ / 帮帮我！ (Jiùmìng! / Bāng bāng wǒ!)"},{"id": "zh-167","fr": "Quelle est la date aujourd'hui ?","zh": "今天是几号？ (Jīntiān shì jǐ hào?)"},{"id": "zh-168","fr": "C'est le premier mai.","zh": "今天是五月一号。 (Jīntiān shì wǔ yuè yī hào.)"},{"id": "zh-169","fr": "Quel jour sommes-nous ?","zh": "今天星期几？ (Jīntiān xīngqī jǐ?)"},{"id": "zh-170","fr": "Aujourd'hui, c'est lundi.","zh": "今天星期一。 (Jīntiān xīngqī yī.)"},{"id": "zh-171","fr": "Qu'as-tu fait ce week-end ?","zh": "你周末干什么了？ (Nǐ zhōumò gàn shénme le?)"},{"id": "zh-172","fr": "Je me suis reposé.","zh": "我休息了。 (Wǒ xiūxí le.)"},{"id": "zh-173","fr": "Qu'est-ce qu'on fait demain ?","zh": "我们明天做什么？ (Wǒmen míngtiān zuò shénme?)"},{"id": "zh-174","fr": "On se voit ce soir ?","zh": "我们今晚见面吗？ (Wǒmen jīnwǎn jiànmiàn ma?)"},{"id": "zh-175","fr": "À quelle heure on se retrouve ?","zh": "我们几点碰头？ (Wǒmen jǐ diǎn pèngtóu?)"},{"id": "zh-176","fr": "On se retrouve à dix-neuf heures.","zh": "我们晚上七点见。 (Wǒmen wǎnshàng qī diǎn jiàn.)"},{"id": "zh-177","fr": "Où est le point de rendez-vous ?","zh": "见面地点在哪里？ (Jiànmiàn dìdiǎn zài nǎlǐ?)"},{"id": "zh-178","fr": "Devant le cinéma.","zh": "在电影院门前。 (Zài diànyǐngyuàn mén qián.)"},{"id": "zh-179","fr": "Je suis en chemin.","zh": "我在路上了。 (Wǒ zài lùshàng le.)"},{"id": "zh-180","fr": "Je vais être en retard.","zh": "我要迟到了。 (Wǒ yào chídào le.)"},{"id": "zh-181","fr": "Désolé pour le retard.","zh": "不好意思我迟到了。 (Bù hǎoyìsi wǒ chídào le.)"},{"id": "zh-182","fr": "Ce n'est rien.","zh": "没事儿。 (Méishì'er.)"},{"id": "zh-183","fr": "Merci d'être venu.","zh": "谢谢你能来。 (Xièxiè nǐ néng lái.)"},{"id": "zh-184","fr": "C'était un plaisir.","zh": "这是我的荣幸。 (Zhè shì wǒ de róngxìng.)"},{"id": "zh-185","fr": "À la prochaine fois.","zh": "下次见。 (Xià cì jiàn.)"},{"id": "zh-186","fr": "Tu as passé de bonnes vacances ?","zh": "你假期过得好吗？ (Nǐ jiàqī guò dé hǎo ma?)"},{"id": "zh-187","fr": "C'était fantastique.","zh": "太棒了。 (Tài bàng le.)"},{"id": "zh-188","fr": "Où es-tu allé ?","zh": "你去哪儿了？ (Nǐ qù nǎ'er le?)"},{"id": "zh-189","fr": "Je suis allé à la plage.","zh": "我去海滩了。 (Wǒ qù hǎitān le.)"},{"id": "zh-190","fr": "Comment était le voyage ?","zh": "旅途怎么样？ (Lǚtú zěnme yàng?)"},{"id": "zh-191","fr": "C'était un peu long.","zh": "时间有点长。 (Shíjiān yǒudiǎn cháng.)"},{"id": "zh-192","fr": "Tu as pris des photos ?","zh": "你拍照片了吗？ (Nǐ pāi zhàopiàn le ma?)"},{"id": "zh-193","fr": "Oui, beaucoup.","zh": "是的，拍了很多。 (Shì de, pāile hěnduō.)"},{"id": "zh-194","fr": "Montre-moi, s'il te plaît.","zh": "请给我看看。 (Qǐng gěi wǒ kàn kàn.)"},{"id": "zh-195","fr": "C'est magnifique.","zh": "太美了。 (Tài měi le.)"},{"id": "zh-196","fr": "Quelle chance !","zh": "真幸运！ (Zhēn xìngyùn!)"},{"id": "zh-197","fr": "Je veux y aller aussi.","zh": "我也想去。 (Wǒ yě xiǎng qù.)"},{"id": "zh-198","fr": "Peut-être l'année prochaine.","zh": "也许明年吧。 (Yěxǔ míngnián ba.)"},{"id": "zh-199","fr": "On verra.","zh": "到时候看吧。 (Dàoshíhòu kàn ba.)"},{"id": "zh-200","fr": "C'est la fin du fichier.","zh": "文件结束。 (Wénjiàn jiéshù.)"}]
   }
 }
