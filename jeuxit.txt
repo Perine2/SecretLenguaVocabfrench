@@ -7803,7 +7803,978 @@
     "it": "Sono arrivato bene.",
     "tr": "Sağ salim vardım."
   },{"id": "it-tr-197","it": "Dormi bene.","tr": "İyi uykular."},{"id": "it-tr-198","it": "Sogni d'oro.","tr": "Tatlı rüyalar."},{"id": "it-tr-199","it": "Alla prossima volta.","tr": "Gelecek sefere kadar."},{"id": "it-tr-200","it": "Ciao ciao!","tr": "Görüşürüz! / Baybay!"}],
-    "italianhindi": [],
+    "italianhindi": [{
+    "id": "it-hi-001",
+    "it": "Ciao, come sta?",
+    "hi": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "id": "it-hi-002",
+    "it": "Come si chiama?",
+    "hi": "आपका नाम क्या है?"
+  },
+  {
+    "id": "it-hi-003",
+    "it": "Mi chiamo John.",
+    "hi": "मेरा नाम जॉन है।"
+  },
+  {
+    "id": "it-hi-004",
+    "it": "Piacere di conoscerla.",
+    "hi": "आपसे मिलकर अच्छा लगा।"
+  },
+  {
+    "id": "it-hi-005",
+    "it": "Da dove viene?",
+    "hi": "आप कहाँ से हैं?"
+  },
+  {
+    "id": "it-hi-006",
+    "it": "Vengo dalla Francia.",
+    "hi": "मैं फ्रांस से हूँ।"
+  },
+  {
+    "id": "it-hi-007",
+    "it": "Dove abita?",
+    "hi": "आप कहाँ रहते हैं?"
+  },
+  {
+    "id": "it-hi-008",
+    "it": "Abito a Parigi.",
+    "hi": "मैं पेरिस में रहता हूँ।"
+  },
+  {
+    "id": "it-hi-009",
+    "it": "Quanti anni ha?",
+    "hi": "आपकी उम्र क्या है?"
+  },
+  {
+    "id": "it-hi-010",
+    "it": "Ho trent'anni.",
+    "hi": "मैं तीस साल का हूँ।"
+  },
+  {
+    "id": "it-hi-011",
+    "it": "Che lavoro fa?",
+    "hi": "आप आजीविका के लिए क्या करते हैं?"
+  },
+  {
+    "id": "it-hi-012",
+    "it": "Sono uno studente.",
+    "hi": "मैं एक छात्र हूँ।"
+  },
+  {
+    "id": "it-hi-013",
+    "it": "Parla inglese?",
+    "hi": "क्या आप अंग्रेज़ी बोलते हैं?"
+  },
+  {
+    "id": "it-hi-014",
+    "it": "Parlo un po' di inglese.",
+    "hi": "मैं थोड़ी अंग्रेज़ी बोलता हूँ।"
+  },
+  {
+    "id": "it-hi-015",
+    "it": "Può aiutarmi, per favore?",
+    "hi": "क्या आप कृपया मेरी मदद कर सकते हैं?"
+  },
+  {
+    "id": "it-hi-016",
+    "it": "Grazie mille.",
+    "hi": "बहुत-बहुत धन्यवाद।"
+  },
+  {
+    "id": "it-hi-017",
+    "it": "Prego.",
+    "hi": "आपका स्वागत है।"
+  },
+  {
+    "id": "it-hi-018",
+    "it": "Per favore.",
+    "hi": "कृपया।"
+  },
+  {
+    "id": "it-hi-019",
+    "it": "Mi scusi.",
+    "hi": "माफ़ कीजिए।"
+  },
+  {
+    "id": "it-hi-020",
+    "it": "Mi dispiace.",
+    "hi": "मुझे खेद है।"
+  },
+  {
+    "id": "it-hi-021",
+    "it": "Che ore sono?",
+    "hi": "कितने बजे हैं?"
+  },
+  {
+    "id": "it-hi-022",
+    "it": "Sono le dieci.",
+    "hi": "दस बजे हैं।"
+  },
+  {
+    "id": "it-hi-023",
+    "it": "Dov'è il bagno?",
+    "hi": "शौचालय कहाँ है?"
+  },
+  {
+    "id": "it-hi-024",
+    "it": "È da quella parte.",
+    "hi": "वह उस रास्ते पर है।"
+  },
+  {
+    "id": "it-hi-025",
+    "it": "Quanto costa?",
+    "hi": "इसकी कीमत कितनी है?"
+  },
+  {
+    "id": "it-hi-026",
+    "it": "È troppo caro.",
+    "hi": "यह बहुत महँगा है।"
+  },
+  {
+    "id": "it-hi-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "hi": "रेलवे स्टेशन कहाँ है?"
+  },
+  {
+    "id": "it-hi-028",
+    "it": "Cerco un buon ristorante.",
+    "hi": "मैं एक अच्छे रेस्तरां की तलाश में हूँ।"
+  },
+  {
+    "id": "it-hi-029",
+    "it": "Il conto, per favore.",
+    "hi": "बिल, कृपया।"
+  },
+  {
+    "id": "it-hi-030",
+    "it": "Com'è il tempo oggi?",
+    "hi": "आज मौसम कैसा है?"
+  },
+  {
+    "id": "it-hi-031",
+    "it": "Il tempo è bello.",
+    "hi": "मौसम अच्छा है।"
+  },
+  {
+    "id": "it-hi-032",
+    "it": "Piove.",
+    "hi": "बारिश हो रही है।"
+  },
+  {
+    "id": "it-hi-033",
+    "it": "Ho fame.",
+    "hi": "मुझे भूख लगी है।"
+  },
+  {
+    "id": "it-hi-034",
+    "it": "Ho sete.",
+    "hi": "मुझे प्यास लगी है।"
+  },
+  {
+    "id": "it-hi-035",
+    "it": "Sono stanco.",
+    "hi": "मैं थक गया हूँ।"
+  },
+  {
+    "id": "it-hi-036",
+    "it": "Non capisco.",
+    "hi": "मैं नहीं समझा।"
+  },
+  {
+    "id": "it-hi-037",
+    "it": "Può ripetere?",
+    "hi": "क्या आप इसे दोहरा सकते हैं?"
+  },
+  {
+    "id": "it-hi-038",
+    "it": "Parli più lentamente, per favore.",
+    "hi": "कृपया थोड़ा धीरे बोलें।"
+  },
+  {
+    "id": "it-hi-039",
+    "it": "Come si dice in hindi?",
+    "hi": "इसे हिन्दी में क्या कहते हैं?"
+  },
+  {
+    "id": "it-hi-040",
+    "it": "Cosa significa questa parola?",
+    "hi": "इस शब्द का क्या अर्थ है?"
+  },
+  {
+    "id": "it-hi-041",
+    "it": "Ti amo.",
+    "hi": "मैं तुमसे प्यार करता हूँ।"
+  },
+  {
+    "id": "it-hi-042",
+    "it": "Mi manchi.",
+    "hi": "मुझे तुम्हारी याद आती है।"
+  },
+  {
+    "id": "it-hi-043",
+    "it": "Buona fortuna!",
+    "hi": "सौभाग्य!"
+  },
+  {
+    "id": "it-hi-044",
+    "it": "Congratulazioni!",
+    "hi": "बधाई हो!"
+  },
+  {
+    "id": "it-hi-045",
+    "it": "Buon compleanno!",
+    "hi": "जन्मदिन मुबारक हो!"
+  },
+  {
+    "id": "it-hi-046",
+    "it": "Buon viaggio!",
+    "hi": "आपकी यात्रा सुखद हो!"
+  },
+  {
+    "id": "it-hi-047",
+    "it": "Buona giornata.",
+    "hi": "आपका दिन शुभ हो।"
+  },
+  {
+    "id": "it-hi-048",
+    "it": "A presto.",
+    "hi": "जल्द ही फिर मिलेंगे।"
+  },
+  {
+    "id": "it-hi-049",
+    "it": "A domani.",
+    "hi": "कल मिलते हैं।"
+  },
+  {
+    "id": "it-hi-050",
+    "it": "Arrivederci.",
+    "hi": "अलविदा।"
+  },
+  {
+    "id": "it-hi-051",
+    "it": "Dove va?",
+    "hi": "आप कहाँ जा रहे हैं?"
+  },
+  {
+    "id": "it-hi-052",
+    "it": "Vado al supermercato.",
+    "hi": "मैं सुपरमार्केट जा रहा हूँ।"
+  },
+  {
+    "id": "it-hi-053",
+    "it": "Cos'è questo?",
+    "hi": "यह क्या है?"
+  },
+  {
+    "id": "it-hi-054",
+    "it": "Non lo so.",
+    "hi": "मुझे नहीं पता।"
+  },
+  {
+    "id": "it-hi-055",
+    "it": "È sicuro?",
+    "hi": "क्या आपको यकीन है?"
+  },
+  {
+    "id": "it-hi-056",
+    "it": "Sì, sono sicuro.",
+    "hi": "हाँ, मुझे यकीन है।"
+  },
+  {
+    "id": "it-hi-057",
+    "it": "Penso di sì.",
+    "hi": "मुझे ऐसा लगता है।"
+  },
+  {
+    "id": "it-hi-058",
+    "it": "Penso di no.",
+    "hi": "मुझे ऐसा नहीं लगता।"
+  },
+  {
+    "id": "it-hi-059",
+    "it": "Nessun problema.",
+    "hi": "कोई बात नहीं।"
+  },
+  {
+    "id": "it-hi-060",
+    "it": "Non importa.",
+    "hi": "इससे कोई फ़र्क नहीं पड़ता।"
+  },
+  {
+    "id": "it-hi-061",
+    "it": "Cosa mangi?",
+    "hi": "तुम क्या खा रहे हो?"
+  },
+  {
+    "id": "it-hi-062",
+    "it": "È delizioso.",
+    "hi": "यह स्वादिष्ट है।"
+  },
+  {
+    "id": "it-hi-063",
+    "it": "Non mi piace.",
+    "hi": "मुझे यह पसंद नहीं है।"
+  },
+  {
+    "id": "it-hi-064",
+    "it": "Quali sono i suoi hobby?",
+    "hi": "आपके शौक क्या हैं?"
+  },
+  {
+    "id": "it-hi-065",
+    "it": "Mi piace leggere libri.",
+    "hi": "मुझे किताबें पढ़ना पसंद है।"
+  },
+  {
+    "id": "it-hi-066",
+    "it": "Mi piace ascoltare musica.",
+    "hi": "मुझे संगीत सुनना पसंद है।"
+  },
+  {
+    "id": "it-hi-067",
+    "it": "Fa sport?",
+    "hi": "क्या आप खेल खेलते हैं?"
+  },
+  {
+    "id": "it-hi-068",
+    "it": "Gioco a calcio.",
+    "hi": "मैं फ़ुटबॉल खेलता हूँ।"
+  },
+  {
+    "id": "it-hi-069",
+    "it": "Guardo un film.",
+    "hi": "मैं एक फिल्म देख रहा हूँ।"
+  },
+  {
+    "id": "it-hi-070",
+    "it": "Dove l'hai comprato?",
+    "hi": "तुमने यह कहाँ से खरीदा?"
+  },
+  {
+    "id": "it-hi-071",
+    "it": "È un regalo.",
+    "hi": "यह एक उपहार है।"
+  },
+  {
+    "id": "it-hi-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "hi": "क्या आप कृपया खिड़की बंद कर सकते हैं?"
+  },
+  {
+    "id": "it-hi-073",
+    "it": "Fa freddo qui.",
+    "hi": "यहाँ ठंड है।"
+  },
+  {
+    "id": "it-hi-074",
+    "it": "Fa caldo fuori.",
+    "hi": "बाहर गर्मी है।"
+  },
+  {
+    "id": "it-hi-075",
+    "it": "Dove sono le mie chiavi?",
+    "hi": "मेरी चाबियाँ कहाँ हैं?"
+  },
+  {
+    "id": "it-hi-076",
+    "it": "Sono sul tavolo.",
+    "hi": "वे मेज पर हैं।"
+  },
+  {
+    "id": "it-hi-077",
+    "it": "Devo andare.",
+    "hi": "मुझे जाना होगा।"
+  },
+  {
+    "id": "it-hi-078",
+    "it": "Stammi bene.",
+    "hi": "अपना ख्याल रखना।"
+  },
+  {
+    "id": "it-hi-079",
+    "it": "A più tardi.",
+    "hi": "बाद में मिलते हैं।"
+  },
+  {
+    "id": "it-hi-080",
+    "it": "Buonanotte.",
+    "hi": "शुभ रात्रि।"
+  },
+  {
+    "id": "it-hi-081",
+    "it": "Ha fratelli o sorelle?",
+    "hi": "क्या आपके कोई भाई-बहन हैं?"
+  },
+  {
+    "id": "it-hi-082",
+    "it": "Ho un fratello e una sorella.",
+    "hi": "मेरा एक भाई और एक बहन है।"
+  },
+  {
+    "id": "it-hi-083",
+    "it": "È sposato?",
+    "hi": "क्या आप शादीशुदा हैं?"
+  },
+  {
+    "id": "it-hi-084",
+    "it": "Sono celibe.",
+    "hi": "मैं अविवाहित हूँ।"
+  },
+  {
+    "id": "it-hi-085",
+    "it": "Hai figli?",
+    "hi": "क्या आपके बच्चे हैं?"
+  },
+  {
+    "id": "it-hi-086",
+    "it": "Ho due figli.",
+    "hi": "मेरे दो बच्चे हैं।"
+  },
+  {
+    "id": "it-hi-087",
+    "it": "Dove lavori?",
+    "hi": "तुम कहाँ काम करते हो?"
+  },
+  {
+    "id": "it-hi-088",
+    "it": "Lavoro in ufficio.",
+    "hi": "मैं कार्यालय में काम करता हूँ।"
+  },
+  {
+    "id": "it-hi-089",
+    "it": "Le piace il caffè o il tè?",
+    "hi": "आपको कॉफी पसंद है या चाय?"
+  },
+  {
+    "id": "it-hi-090",
+    "it": "Preferisco bere il tè.",
+    "hi": "मैं चाय पीना पसंद करता हूँ।"
+  },
+  {
+    "id": "it-hi-091",
+    "it": "È una buona idea.",
+    "hi": "यह एक अच्छा विचार है।"
+  },
+  {
+    "id": "it-hi-092",
+    "it": "Sono stanco, vado a letto.",
+    "hi": "मैं थक गया हूँ, मैं सोने जा रहा हूँ।"
+  },
+  {
+    "id": "it-hi-093",
+    "it": "Qual è il suo film preferito?",
+    "hi": "आपका पसंदीदा फिल्म कौन सी है?"
+  },
+  {
+    "id": "it-hi-094",
+    "it": "Può indicarmi la strada?",
+    "hi": "क्या आप मुझे रास्ता दिखा सकते हैं?"
+  },
+  {
+    "id": "it-hi-095",
+    "it": "Ho perso il mio telefono.",
+    "hi": "मैंने अपना फोन खो दिया है।"
+  },
+  {
+    "id": "it-hi-096",
+    "it": "Chiami un medico, per favore.",
+    "hi": "कृपया डॉक्टर को बुलाएं।"
+  },
+  {
+    "id": "it-hi-097",
+    "it": "È un'emergenza.",
+    "hi": "यह एक आपातकालीन स्थिति है।"
+  },
+  {
+    "id": "it-hi-098",
+    "it": "Ha la password del Wi-Fi?",
+    "hi": "क्या आपके पास वाई-फाई पासवर्ड है?"
+  },
+  {
+    "id": "it-hi-099",
+    "it": "Internet è molto lento.",
+    "hi": "इंटरनेट बहुत धीमा है।"
+  },
+  {
+    "id": "it-hi-100",
+    "it": "Devo annullare il mio biglietto.",
+    "hi": "मुझे अपना टिकट रद्द करना होगा।"
+  },{
+    "id": "it-hi-101",
+    "it": "Quanto dura il viaggio?",
+    "hi": "यात्रा में कितना समय लगता है?"
+  },
+  {
+    "id": "it-hi-102",
+    "it": "Possiamo fermarci qui?",
+    "hi": "क्या हम यहाँ रुक सकते हैं?"
+  },
+  {
+    "id": "it-hi-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "hi": "मुझे एक रसीद चाहिए।"
+  },
+  {
+    "id": "it-hi-104",
+    "it": "Dove posso cambiare il denaro?",
+    "hi": "मैं मुद्रा कहाँ बदल सकता हूँ?"
+  },
+  {
+    "id": "it-hi-105",
+    "it": "C'è una banca qui vicino?",
+    "hi": "क्या आस-पास कोई बैंक है?"
+  },
+  {
+    "id": "it-hi-106",
+    "it": "Accettate carte di credito?",
+    "hi": "क्या आप क्रेडिट कार्ड स्वीकार करते हैं?"
+  },
+  {
+    "id": "it-hi-107",
+    "it": "Pago in contanti.",
+    "hi": "मैं नकद भुगतान करूँगा।"
+  },
+  {
+    "id": "it-hi-108",
+    "it": "Può farmi uno sconto?",
+    "hi": "क्या आप मुझे छूट दे सकते हैं?"
+  },
+  {
+    "id": "it-hi-109",
+    "it": "Questa è la mia ultima parola.",
+    "hi": "यह मेरा अंतिम निर्णय है।"
+  },
+  {
+    "id": "it-hi-110",
+    "it": "Sto solo dando un'occhiata.",
+    "hi": "मैं बस देख रहा हूँ।"
+  },
+  {
+    "id": "it-hi-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "hi": "क्या आपके पास यह किसी अन्य आकार में है?"
+  },
+  {
+    "id": "it-hi-112",
+    "it": "Dov'è il camerino?",
+    "hi": "ट्रायल रूम कहाँ है?"
+  },
+  {
+    "id": "it-hi-113",
+    "it": "Mi sta bene.",
+    "hi": "यह मुझ पर अच्छा लग रहा है।"
+  },
+  {
+    "id": "it-hi-114",
+    "it": "Lo prendo.",
+    "hi": "मैं इसे लूँगा।"
+  },
+  {
+    "id": "it-hi-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "hi": "मैं अपना बैग कहाँ रख सकता हूँ?"
+  },
+  {
+    "id": "it-hi-116",
+    "it": "Avete cibo vegetariano?",
+    "hi": "क्या आपके पास शाकाहारी भोजन है?"
+  },
+  {
+    "id": "it-hi-117",
+    "it": "Sono allergico.",
+    "hi": "मुझे एलर्जी है।"
+  },
+  {
+    "id": "it-hi-118",
+    "it": "Non piccante, per favore.",
+    "hi": "कृपया बिना तीखे के।"
+  },
+  {
+    "id": "it-hi-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "hi": "कृपया मेरे लिए एक गिलास पानी लाएँ।"
+  },
+  {
+    "id": "it-hi-120",
+    "it": "Buon appetito!",
+    "hi": "भोजन का आनंद लें!"
+  },
+  {
+    "id": "it-hi-121",
+    "it": "Cin cin!",
+    "hi": "चीयर्स!"
+  },
+  {
+    "id": "it-hi-122",
+    "it": "Il cibo era meraviglioso.",
+    "hi": "खाना बहुत बढ़िया था।"
+  },
+  {
+    "id": "it-hi-123",
+    "it": "Vorrei prenotare una camera.",
+    "hi": "मैं एक कमरा बुक करना चाहता हूँ।"
+  },
+  {
+    "id": "it-hi-124",
+    "it": "La colazione è inclusa?",
+    "hi": "क्या नाश्ता शामिल है?"
+  },
+  {
+    "id": "it-hi-125",
+    "it": "A che ora è il check-out?",
+    "hi": "चेक-アウト कितने बजे है?"
+  },
+  {
+    "id": "it-hi-126",
+    "it": "Può chiamare un taxi?",
+    "hi": "क्या आप एक टैक्सी बुला सकते हैं?"
+  },
+  {
+    "id": "it-hi-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "hi": "कृपया मुझे इस पते पर ले चलें।"
+  },
+  {
+    "id": "it-hi-128",
+    "it": "Si fermi qui, per favore.",
+    "hi": "कृपया यहाँ रुकें।"
+  },
+  {
+    "id": "it-hi-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "hi": "क्या यहाँ कोई बस स्टॉप है?"
+  },
+  {
+    "id": "it-hi-130",
+    "it": "A che ora parte il prossimo treno?",
+    "hi": "अगली ट्रेन कब छूटेगी?"
+  },
+  {
+    "id": "it-hi-131",
+    "it": "Il treno è in ritardo.",
+    "hi": "ट्रेन लेट है।"
+  },
+  {
+    "id": "it-hi-132",
+    "it": "Ho perso il mio volo.",
+    "hi": "मेरी उड़ान छूट गई।"
+  },
+  {
+    "id": "it-hi-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "hi": "सामान मिलने की जगह कहाँ है?"
+  },
+  {
+    "id": "it-hi-134",
+    "it": "Questa non è la mia valigia.",
+    "hi": "यह मेरा सूटकेस नहीं है।"
+  },
+  {
+    "id": "it-hi-135",
+    "it": "Il mio passaporto è sparito.",
+    "hi": "मेरा पासपोर्ट खो गया है।"
+  },
+  {
+    "id": "it-hi-136",
+    "it": "Dov'è l'ambasciata?",
+    "hi": "दूतावास कहाँ है?"
+  },
+  {
+    "id": "it-hi-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "hi": "मुझे पुलिस से मदद चाहिए।"
+  },
+  {
+    "id": "it-hi-138",
+    "it": "Lasciami in pace.",
+    "hi": "मुझे अकेला छोड़ दो।"
+  },
+  {
+    "id": "it-hi-139",
+    "it": "Vai via!",
+    "hi": "चले जाओ!"
+  },
+  {
+    "id": "it-hi-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "hi": "मदद करो! किसी ने मुझे लूट लिया।"
+  },
+  {
+    "id": "it-hi-141",
+    "it": "Mi sono perso.",
+    "hi": "मैं रास्ता भूल गया हूँ।"
+  },
+  {
+    "id": "it-hi-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "hi": "क्या आप मुझे नक्शे पर दिखा सकते हैं कि मैं कहाँ हूँ?"
+  },
+  {
+    "id": "it-hi-143",
+    "it": "Qual è il suo numero di telefono?",
+    "hi": "आपका फ़ोन नंबर क्या है?"
+  },
+  {
+    "id": "it-hi-144",
+    "it": "Lo scriva, per favore.",
+    "hi": "कृपया इसे लिख लें।"
+  },
+  {
+    "id": "it-hi-145",
+    "it": "Ti chiamerò.",
+    "hi": "मैं तुम्हें फोन करूँगा।"
+  },
+  {
+    "id": "it-hi-146",
+    "it": "Mandami un messaggio.",
+    "hi": "मुझे एक संदेश भेजें।"
+  },
+  {
+    "id": "it-hi-147",
+    "it": "È sui social media?",
+    "hi": "क्या आप सोशल मीडिया पर हैं?"
+  },
+  {
+    "id": "it-hi-148",
+    "it": "Ti seguo.",
+    "hi": "मैं आपको फॉलो करूँगा।"
+  },
+  {
+    "id": "it-hi-149",
+    "it": "Quali sono le novità?",
+    "hi": "क्या नया है?"
+  },
+  {
+    "id": "it-hi-150",
+    "it": "Nulla di speciale.",
+    "hi": "कुछ खास नहीं।"
+  },
+  {
+    "id": "it-hi-151",
+    "it": "Non vedo l'ora.",
+    "hi": "मैं इसके लिए उत्सुक हूँ।"
+  },
+  {
+    "id": "it-hi-152",
+    "it": "Non mi importa.",
+    "hi": "मुझे परवाह नहीं है।"
+  },
+  {
+    "id": "it-hi-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "hi": "चिंता मत करो, सब ठीक हो जाएगा।"
+  },
+  {
+    "id": "it-hi-154",
+    "it": "Calmati, per favore.",
+    "hi": "कृपया शांत हो जाओ।"
+  },
+  {
+    "id": "it-hi-155",
+    "it": "Non stressarti.",
+    "hi": "तनाव मत लो।"
+  },
+  {
+    "id": "it-hi-156",
+    "it": "È incredibile!",
+    "hi": "यह अविश्वसनीय है!"
+  },
+  {
+    "id": "it-hi-157",
+    "it": "Sono orgoglioso di te.",
+    "hi": "मुझे तुम पर गर्व है।"
+  },
+  {
+    "id": "it-hi-158",
+    "it": "Hai fatto un buon lavoro.",
+    "hi": "तुमने अच्छा काम किया।"
+  },
+  {
+    "id": "it-hi-159",
+    "it": "Su col morale!",
+    "hi": "हिम्मत मत हारो!"
+  },
+  {
+    "id": "it-hi-160",
+    "it": "Non ti arrendere!",
+    "hi": "हार मत मानो!"
+  },
+  {
+    "id": "it-hi-161",
+    "it": "L'esercizio rende perfetti.",
+    "hi": "अभ्यास से ही इंसान निपुण बनता है।"
+  },
+  {
+    "id": "it-hi-162",
+    "it": "Cominciamo domani.",
+    "hi": "चलो कल शुरू करते हैं।"
+  },
+  {
+    "id": "it-hi-163",
+    "it": "Non ho tempo oggi.",
+    "hi": "आज मेरे पास समय नहीं है।"
+  },
+  {
+    "id": "it-hi-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "hi": "हम वीकेंड पर मिल सकते हैं।"
+  },
+  {
+    "id": "it-hi-165",
+    "it": "Quando hai tempo?",
+    "hi": "तुम्हारे पास कब समय है?"
+  },
+  {
+    "id": "it-hi-166",
+    "it": "Sono flessibile.",
+    "hi": "मैं लचीला हूँ।"
+  },
+  {
+    "id": "it-hi-167",
+    "it": "Dipende dal tempo.",
+    "hi": "यह मौसम पर निर्भर करता है।"
+  },
+  {
+    "id": "it-hi-168",
+    "it": "È nuvoloso oggi.",
+    "hi": "आज बादल छाए हुए हैं।"
+  },
+  {
+    "id": "it-hi-169",
+    "it": "Nevica fuori.",
+    "hi": "बाहर बर्फबारी हो रही है।"
+  },
+  {
+    "id": "it-hi-170",
+    "it": "Il vento è molto forte.",
+    "hi": "हवा बहुत तेज है।"
+  },
+  {
+    "id": "it-hi-171",
+    "it": "Domani sarà soleggiato.",
+    "hi": "कल धूप खिलेगी।"
+  },
+  {
+    "id": "it-hi-172",
+    "it": "Amo l'estate.",
+    "hi": "मुझे गर्मी का मौसम पसंद है।"
+  },
+  {
+    "id": "it-hi-173",
+    "it": "L'inverno è troppo lungo.",
+    "hi": "सर्दी का मौसम बहुत लंबा होता है।"
+  },
+  {
+    "id": "it-hi-174",
+    "it": "È la mia stagione preferita.",
+    "hi": "यह मेरा पसंदीदा मौसम है।"
+  },
+  {
+    "id": "it-hi-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "hi": "तुमने वीकेंड पर क्या किया?"
+  },
+  {
+    "id": "it-hi-176",
+    "it": "Sono rimasto a casa.",
+    "hi": "मैं घर पर ही रहा।"
+  },
+  {
+    "id": "it-hi-177",
+    "it": "Ho visitato i miei amici.",
+    "hi": "मैं अपने दोस्तों से मिलने गया था।"
+  },
+  {
+    "id": "it-hi-178",
+    "it": "Ci siamo divertiti molto.",
+    "hi": "हमने बहुत मजे किए।"
+  },
+  {
+    "id": "it-hi-179",
+    "it": "È stata una sorpresa.",
+    "hi": "यह एक सरप्राइज था।"
+  },
+  {
+    "id": "it-hi-180",
+    "it": "Ho comprato una nuova auto.",
+    "hi": "मैंने एक नई कार खरीदी है।"
+  },
+  {
+    "id": "it-hi-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "hi": "नई नौकरी के लिए बधाई!"
+  },
+  {
+    "id": "it-hi-182",
+    "it": "Quando cominci?",
+    "hi": "तुम कब शुरू कर रहे हो?"
+  },
+  {
+    "id": "it-hi-183",
+    "it": "Comincio lunedì prossimo.",
+    "hi": "मैं अगले सोमवार से शुरू कर रहा हूँ।"
+  },
+  {
+    "id": "it-hi-184",
+    "it": "Sono un po' nervoso.",
+    "hi": "मैं थोड़ा नर्वस हूँ।"
+  },
+  {
+    "id": "it-hi-185",
+    "it": "È del tutto normale.",
+    "hi": "यह पूरी तरह से सामान्य है।"
+  },
+  {
+    "id": "it-hi-186",
+    "it": "Ce la farai.",
+    "hi": "तुम यह कर लोगे।"
+  },
+  {
+    "id": "it-hi-187",
+    "it": "Credo in te.",
+    "hi": "मुझे तुम पर विश्वास है।"
+  },
+  {
+    "id": "it-hi-188",
+    "it": "Vielen Dank für deine Unterstützung.",
+    "hi": "आपके सपोर्ट के लिए बहुत-बहुत धन्यवाद।"
+  },
+  {
+    "id": "it-hi-189",
+    "it": "Sei un buon amico.",
+    "hi": "तुम एक अच्छे दोस्त हो।"
+  },
+  {
+    "id": "it-hi-190",
+    "it": "Ci sono sempre per te.",
+    "hi": "मैं हमेशा तुम्हारे लिए यहाँ हूँ।"
+  },
+  {
+    "id": "it-hi-191",
+    "it": "Questo significa molto per me.",
+    "hi": "यह मेरे लिए बहुत मायने रखता है।"
+  },
+  {
+    "id": "it-hi-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "hi": "चलो जल्द ही फिर मिलते हैं।"
+  },
+  {
+    "id": "it-hi-193",
+    "it": "Adesso devo proprio andare.",
+    "hi": "मुझे now सचमुच जाना होगा।"
+  },
+  {
+    "id": "it-hi-194",
+    "it": "Fai buon rientro a casa.",
+    "hi": "सुरक्षित घर पहुँचना।"
+  },
+  {
+    "id": "it-hi-195",
+    "it": "Schreib mir, wenn du angekommen bist.","hi": "पहुँचने के बाद मुझे मैसेज करना।"},{"id": "it-hi-196","it": "Sono arrivato bene.","hi": "मैं सुरक्षित पहुँच गया हूँ।"},{"id": "it-hi-197","it": "Schlaf gut.","hi": "अच्छी नींद लो।"},{"id": "it-hi-198","it": "Träum süß.","hi": "मीठे सपने देखें।"},{"id": "it-hi-199","it": "Bis zum nächsten Mal.","hi": "अगली बार तक।"},{"id": "it-hi-200","it": "Tschüss!","hi": "बाय-बाय!"}],
     "italianpolish": [],
     "italianchinese": []
   }
