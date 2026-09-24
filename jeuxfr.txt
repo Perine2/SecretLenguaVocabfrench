@@ -3609,11 +3609,1519 @@
   {
     "id": "ar-091","fr": "Je suis d'accord.","ar": "أنا موافق. (Ana muwafiq.)"},{"id": "ar-092","fr": "Je ne suis pas d'accord.","ar": "لا أوافق. (La uwafiq.)"},{"id": "ar-093","fr": "C'est une bonne idée.","ar": "هذه فكرة جيدة. (Hadhihi fikrah jayyidah.)"},{"id": "ar-094","fr": "Je n'ai pas le temps.","ar": "ليس لدي وقت. (Laysa ladayya waqt.)"},{"id": "ar-095","fr": "Attendez une minute.","ar": "انتظر دقيقة. (Intadhir daqiqah.)"},{"id": "ar-096","fr": "Je reviens tout de suite.","ar": "سأعود فوراً. (Sa-a'udu fawran.)"},{"id": "ar-097","fr": "Bien sûr.","ar": "بالتأكيد. (Bil-ta'kid.)"},{"id": "ar-098","fr": "Peut-être.","ar": "ربما. (Rubnama.)"},{"id": "ar-099","fr": "Jamais.","ar": "أبداً. (Abadan.)"},{"id": "ar-100","fr": "Toujours.","ar": "دائماً. (Da'iman.)"},{"id": "ar-101","fr": "Quel est ton plat préféré ?","ar": "ما هو طعامك المفضل؟ (Ma huwa ta'amuka al-mufaddal?)"},{"id": "ar-102","fr": "J'adore les pâtes.","ar": "أعشق المعكرونة. (A'shaqu al-ma'karunah.)"},{"id": "ar-103","fr": "Tu veux boire quelque chose ?","ar": "هل تريد أن تشرب شيئاً؟ (Hal turidu an tashraba shay'an?)"},{"id": "ar-104","fr": "Un café, s'il vous plaît.","ar": "قهوة من فضلك. (Qahwah min fadlik.)"},{"id": "ar-105","fr": "Où puis-je acheter un billet ?","ar": "أين يمكنني شراء تذكرة؟ (Ayna yumkinuni shira'u tadhkirah?)"},{"id": "ar-106","fr": "Au guichet.","ar": "من شباك التذاكر. (Min shubbak al-tadhakir.)"},{"id": "ar-107","fr": "Le train est en retard.","ar": "القطار متأخر. (Al-qitar muta'akhkhir.)"},{"id": "ar-108","fr": "C'est loin d'ici ?","ar": "هل هذا بعيد من هنا؟ (Hal hadha ba'id min huna?)"},{"id": "ar-109","fr": "Non, c'est tout près.","ar": "لا، إنه قريب جداً. (La, innahu qarib jiddan.)"},{"id": "ar-110","fr": "Allez tout droit.","ar": "اذهب مباشرة. (Idhhab mubasharatan.)"},{"id": "ar-111","fr": "Tournez à droite.","ar": "انعطف يميناً. (In'atif yaminan.)"},{"id": "ar-112","fr": "Tournez à gauche.","ar": "انعطف يساراً. (In'atif yasaran.)"},{"id": "ar-113","fr": "Je suis perdu.","ar": "لقد ضللت الطريق. (Laqad dallaltu al-tariq.)"},{"id": "ar-114","fr": "Pouvez-vous me montrer sur la carte ?","ar": "هل يمكنك أن تريني على الخريطة؟ (Hal yumkinuka an turiyani ala al-kharitah?)"},{"id": "ar-115","fr": "Où est l'hôtel ?","ar": "أين الفندق؟ (Ayna al-funduq?)"},{"id": "ar-116","fr": "J'ai une réservation.","ar": "لدي حجز. (Ladayya hajz.)"},{"id": "ar-117","fr": "Puis-je avoir la clé ?","ar": "هل يمكنني أخذ المفتاح؟ (Hal yumkinuni akhd al-miftah?)"},{"id": "ar-118","fr": "Le Wi-Fi est gratuit ?","ar": "هل الواي فاي مجاني؟ (Hal al-wi-fi majjani?)"},{"id": "ar-119","fr": "Quel est le mot de passe ?","ar": "ما هي كلمة المرور؟ (Ma hiya kalimat al-murur?)"},{"id": "ar-120","fr": "Où se trouve l'ascenseur ?","ar": "أين المصعد؟ (Ayna al-mis'ad?)"},{"id": "ar-121","fr": "Je voudrais réserver une table.","ar": "أود حجز طاولة. (Uwaddu hajza tawilah.)"},{"id": "ar-122","fr": "Pour combien de personnes ?","ar": "لكم من شخص؟ (Li-kam min shakhs?)"},{"id": "ar-123","fr": "Pour deux personnes.","ar": "لشخصين. (Li-shakhsayn.)"},{"id": "ar-124","fr": "À quelle heure ?","ar": "في أي ساعة؟ (Fi ayyi sa'ah?)"},{"id": "ar-125","fr": "Ce soir à vingt heures.","ar": "هذا المساء في الساعة الثامنة. (Hadha al-masa' fi al-sa'ah al-thaminah.)"},{"id": "ar-126","fr": "Êtes-vous prêt à commander ?","ar": "هل أنت جاهز للطلب؟ (Hal anta jahiz lil-talab?)"},{"id": "ar-127","fr": "Je vais prendre le poulet.","ar": "سآخذ الدجاج. (Sa-akhudh al-dajaj.)"},{"id": "ar-128","fr": "Et pour boire ?","ar": "وماذا عن الشراب؟ (Wa-madha an al-sharab?)"},{"id": "ar-129","fr": "De l'eau minérale, s'il vous plaît.","ar": "ماء معدني من فضلك. (Ma' ma'dani min fadlik.)"},{"id": "ar-130","fr": "Bon appétit !","ar": "شهية طيبة! (Shahiyyah tayyibah!)"},{"id": "ar-131","fr": "C'était excellent.","ar": "كان ذلك ممتازاً. (Kana dhalika mumtazan.)"},{"id": "ar-132","fr": "Acceptez-vous les cartes bancaires ?","ar": "هل تقبلون البطاقات المصرفية؟ (Hal taqbaluna al-bitaqat al-masrifiyyah?)"},{"id": "ar-133","fr": "Je vais payer en espèces.","ar": "سأدفع نقداً. (Sa-adfa'u naqdan.)"},{"id": "ar-134","fr": "Gardez la monnaie.","ar": "احتفظ بالباقي. (Ihtafidh bil-baqi.)"},{"id": "ar-135","fr": "Où sont les magasins ?","ar": "أين المحلات التجارية؟ (Ayna al-mahallat al-tijariyyah?)"},{"id": "ar-136","fr": "Je regarde juste.","ar": "أنا أنظر فقط. (Ana andhuru faqat.)"},{"id": "ar-137","fr": "Puis-je essayer ceci ?","ar": "هل يمكنني قياس هذا؟ (Hal yumkinuni qiyasu hadha?)"},{"id": "ar-138","fr": "Où sont les cabines d'essayage ?","ar": "أين غرف القياس؟ (Ayna ghuraf al-qiyas?)"},{"id": "ar-139","fr": "Quelle est votre taille ?","ar": "ما هو مقاسك؟ (Ma huwa maqasuk?)"},{"id": "ar-140","fr": "C'est trop grand.","ar": "هذا كبير جداً. (Hadha kabir jiddan.)"},{"id": "ar-141","fr": "C'est trop petit.","ar": "هذا صغير جداً. (Hadha saghir jiddan.)"},{"id": "ar-142","fr": "Avez-vous la taille au-dessus ?","ar": "هل لديك مقاس أكبر؟ (Hal ladayka maqas akbar?)"},{"id": "ar-143","fr": "Je le prends.","ar": "سآخذه. (Sa-akhudhuh.)"},{"id": "ar-144","fr": "Où est la caisse ?","ar": "أين الصندوق؟ (Ayna al-sunduq?)"},{"id": "ar-145","fr": "Puis-je avoir un sac ?","ar": "هل يمكنني الحصول على كيس؟ (Hal yumkinuni al-husul ala kis?)"},{"id": "ar-146","fr": "Je voudrais un remboursement.","ar": "أود استرداد المبلغ. (Uwaddu istirdad al-mablagh.)"},{"id": "ar-147","fr": "C'est cassé.","ar": "هذا مكسور. (Hadha maksur.)"},{"id": "ar-148","fr": "Où se trouve la pharmacie ?","ar": "أين الصيدلية؟ (Ayna al-saydaliyyah?)"},{"id": "ar-149","fr": "Je suis malade.","ar": "أنا مريض. (Ana marid.)"},{"id": "ar-150","fr": "J'ai mal à la tête.","ar": "رأسي يؤلمني. (Ra'si yu'limuni.)"},{"id": "ar-151","fr": "J'ai de la fièvre.","ar": "عندي حمى. (Indi humma.)"},{"id": "ar-152","fr": "Il me faut un médicament.","ar": "أحتاج إلى دواء. (Ah-taju ila dawa'.)"},{"id": "ar-153","fr": "Où est l'hôpital le plus proche ?","ar": "أين أقرب مستشفى؟ (Ayna aqrabu mustashfa?)"},{"id": "ar-154","fr": "Appelez une ambulance !","ar": "اتصلوا بسيارة الإسعاف! (Ittasilu bi-sayyarat al-is'af!)"},{"id": "ar-155","fr": "C'est une urgence.","ar": "هذه حالة طارئة. (Hadhihi halah tari'ah.)"},{"id": "ar-156","fr": "Tout va bien ?","ar": "هل كل شيء على ما يرام؟ (Hal kullu shay'in ala ma yuram?)"},{"id": "ar-157","fr": "Oui, tout va bien.","ar": "نعم، كل شيء بخير. (Na'am, kullu shay'in bi-khayr.)"},{"id": "ar-158","fr": "Calmez-vous, s'il vous plaît.","ar": "اهدأ من فضلك. (Ihda' min fadlik.)"},{"id": "ar-159","fr": "Ne vous inquiétez pas.","ar": "لا تقلق. (La taqlaq.)"},{"id": "ar-160","fr": "Qu'est-ce qui s'est passé ?","ar": "ماذا حدث؟ (Madha hadath?)"},{"id": "ar-161","fr": "C'était un accident.","ar": "كان هذا حادثاً. (Kana hadha hadithan.)"},{"id": "ar-162","fr": "J'ai perdu mon passeport.","ar": "لقد فقدت جواز سفري. (Laqad faqadtu jawaza safari.)"},{"id": "ar-163","fr": "Où est le commissariat ?","ar": "أين مركز الشرطة؟ (Ayna markaz al-shurtah?)"},{"id": "ar-164","fr": "On m'a volé mon sac.","ar": "لقد سُرقت حقيبتي. (Laqad suriqat haqibati.)"},{"id": "ar-165","fr": "Au voleur !","ar": "أمسك الحرامي! (Amsik al-harami!)"},{"id": "ar-166","fr": "Aidez-moi !","ar": "ساعدوني! (Sa'iduni!)"},{"id": "ar-167","fr": "Quelle est la date aujourd'hui ?","ar": "ما هو تاريخ اليوم؟ (Ma huwa tarikh al-yawm?)"},{"id": "ar-168","fr": "C'est le premier mai.","ar": "إنه الأول من مايو. (Innahu al-awwalu min mayu.)"},{"id": "ar-169","fr": "Quel jour sommes-nous ?","ar": "أي يوم نحن اليوم؟ (Ayyu yawmin nahnu al-yawm?)"},{"id": "ar-170","fr": "Aujourd'hui, c'est lundi.","ar": "اليوم هو الإثنين. (Al-yawmu huwa al-ithnayn.)"},{"id": "ar-171","fr": "Qu'as-tu fait ce week-end ?","ar": "ماذا فعلت في نهاية هذا الأسبوع؟ (Madha fa'alta fi nihayati hadha al-usbu'?)"},{"id": "ar-172","fr": "Je me suis reposé.","ar": "لقد ارتحت. (Laqad irtah-tu.)"},{"id": "ar-173","fr": "Qu'est-ce qu'on fait demain ?","ar": "ماذا سنفعل غداً؟ (Madha sanaf'alu ghadan?)"},{"id": "ar-174","fr": "On se voit ce soir ?","ar": "هل نلتقي هذا المساء؟ (Hal naltaqi hadha al-masa'?)"},{"id": "ar-175","fr": "À quelle heure on se retrouve ?","ar": "في أي ساعة نلتقي؟ (Fi ayyi sa'ah naltaqi?)"},{"id": "ar-176","fr": "On se retrouve à dix-neuf heures.","ar": "سنلتقي في الساعة السابعة مساءً. (Sanaltaqi fi al-sa'ah al-sabi'ah masa'an.)"},{"id": "ar-177","fr": "Où est le point de rendez-vous ?","ar": "أين مكان اللقاء؟ (Ayna makan al-liqa'?)"},{"id": "ar-178","fr": "Devant le cinéma.","ar": "أمام السينما. (Amama al-sinima.)"},{"id": "ar-179","fr": "Je suis en chemin.","ar": "أنا في الطريق. (Ana fi al-tariq.)"},{"id": "ar-180","fr": "Je vais être en retard.","ar": "سأكون متأخراً. (Sa-akunu muta'akhkhiran.)"},{"id": "ar-181","fr": "Désolé pour le retard.","ar": "آسف على التأخير. (Asif ala al-ta'khir.)"},{"id": "ar-182","fr": "Ce n'est rien.","ar": "لا شيء. (La shay'.)"},{"id": "ar-183","fr": "Merci d'être venu.","ar": "شكراً لقدومك. (Shukran li-qudumik.)"},{"id": "ar-184","fr": "C'était un plaisir.","ar": "كان من دواعي سروري. (Kana min dawa'i sururi.)"},{"id": "ar-185","fr": "À la prochaine fois.","ai": "إلى المرة القادمة. (Ila al-marrat al-qadimah.)"},{"id": "ar-186","fr": "Tu as passé de bonnes vacances ?","ar": "هل قضيت عطلة سعيدة؟ (Hal qadayta utlatan sa'idah?)"},{"id": "ar-187","fr": "C'était fantastique.","ar": "كان ذلك رائعاً. (Kana dhalika ra'i'an.)"},{"id": "ar-188","fr": "Où es-tu allé ?","ar": "أين ذهبت؟ (Ayna dhahabt?)"},{"id": "ar-189","fr": "Je suis allé à la plage.","ar": "ذهبت إلى الشاطئ. (Dhahabtu ila al-shati'.)"},{"id": "ar-190","fr": "Comment était le voyage ?","ar": "كيف كانت الرحلة؟ (Kayfa kanat al-rihlah?)"},{"id": "ar-191","fr": "C'était un peu long.","ar": "كانت طويلة قليلاً. (Kanat tawilah qalilan.)"},{"id": "ar-192","fr": "Tu as pris des photos ?","ar": "هل التقطت صوراً؟ (Hal iltaqatta suwaran?)"},{"id": "ar-193","fr": "Oui, beaucoup.","ar": "نعم، الكثير. (Na'am, al-kathir.)"},{"id": "ar-194","fr": "Montre-moi, s'il te plaît.","ar": "أرني من فضلك. (Arini min fadlik.)"},{"id": "ar-195","fr": "C'est magnifique.","ar": "هذا رائع. (Hadha ra'i'.)"},{"id": "ar-196","fr": "Quelle chance !","ar": "يا له من حظ! (Ya lahu min hadh!)"},{"id": "ar-197","fr": "Je veux y aller aussi.","ar": "أريد الذهاب هناك أيضاً. (Uridu al-dhahaba hunaka aydan.)"},{"id": "ar-198","fr": "Peut-être l'année prochaine.","ar": "ربما العام المقبل. (Rubnama al-am al-muqbil.)"},{"id": "ar-199","fr": "On verra.","ar": "سوف نرى. (Sawfa nara.)"},{"id": "ar-200","fr": "C'est la fin du fichier.","ar": "هذه نهاية الملف. (Hadhihi nihayat al-milaff.)"}],
 
-    "frenchturkish": [],
+    "frenchturkish": [{
+    "id": "tr-001",
+    "fr": "Bonjour, comment allez-vous ?",
+    "tr": "Merhaba, nasılsınız?"
+  },
+  {
+    "id": "tr-002",
+    "fr": "Comment vous appelez-vous ?",
+    "tr": "Adınız nedir?"
+  },
+  {
+    "id": "tr-003",
+    "fr": "Je m'appelle John.",
+    "tr": "Benim adım John."
+  },
+  {
+    "id": "tr-004",
+    "fr": "Enchanté de vous rencontrer.",
+    "tr": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "id": "tr-005",
+    "fr": "D'où venez-vous ?",
+    "tr": "Nerelisiniz?"
+  },
+  {
+    "id": "tr-006",
+    "fr": "Je viens de France.",
+    "tr": "Fransa'dan geliyorum."
+  },
+  {
+    "id": "tr-007",
+    "fr": "Où habitez-vous ?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "id": "tr-008",
+    "fr": "J'habite à Paris.",
+    "tr": "Paris'te yaşıyorum."
+  },
+  {
+    "id": "tr-009",
+    "fr": "Quel âge avez-vous ?",
+    "tr": "Kaç yaşındasınız?"
+  },
+  {
+    "id": "tr-010",
+    "fr": "J'ai trente ans.",
+    "tr": "Otuz yaşındayım."
+  },
+  {
+    "id": "tr-011",
+    "fr": "Que faites-vous dans la vie ?",
+    "tr": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "id": "tr-012",
+    "fr": "Je suis étudiant.",
+    "tr": "Öğrenciyim."
+  },
+  {
+    "id": "tr-013",
+    "fr": "Parlez-vous turc ?",
+    "tr": "Türkçe konuşuyor musunuz?"
+  },
+  {
+    "id": "tr-014",
+    "fr": "Je parle un peu turc.",
+    "tr": "Biraz Türkçe konuşuyorum."
+  },
+  {
+    "id": "tr-015",
+    "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "tr": "Lütfen bana yardım edebilir misiniz?"
+  },
+  {
+    "id": "tr-016",
+    "fr": "Merci beaucoup.",
+    "tr": "Çok teşekkür ederim."
+  },
+  {
+    "id": "tr-017",
+    "fr": "De rien.",
+    "tr": "Rica ederim."
+  },
+  {
+    "id": "tr-018",
+    "fr": "S'il vous plaît.",
+    "tr": "Lütfen."
+  },
+  {
+    "id": "tr-019",
+    "fr": "Excusez-moi.",
+    "tr": "Afedersiniz."
+  },
+  {
+    "id": "tr-020",
+    "fr": "Je suis désolé.",
+    "tr": "Üzgünüm."
+  },
+  {
+    "id": "tr-021",
+    "fr": "Quelle heure est-il ?",
+    "tr": "Saat kaç?"
+  },
+  {
+    "id": "tr-022",
+    "fr": "Il est dix heures.",
+    "tr": "Saat on."
+  },
+  {
+    "id": "tr-023",
+    "fr": "Où sont les toilettes ?",
+    "tr": "Tuvalet nerede?"
+  },
+  {
+    "id": "tr-024",
+    "fr": "C'est par là.",
+    "tr": "Bu taraftan."
+  },
+  {
+    "id": "tr-025",
+    "fr": "Combien ça coûte ?",
+    "tr": "Bu ne kadar?"
+  },
+  {
+    "id": "tr-026",
+    "fr": "C'est trop cher.",
+    "tr": "Bu çok pahalı."
+  },
+  {
+    "id": "tr-027",
+    "fr": "Où se trouve la gare ?",
+    "tr": "Tren istasyonu nerede?"
+  },
+  {
+    "id": "tr-028",
+    "fr": "Je cherche un bon restaurant.",
+    "tr": "İyi bir restoran arıyorum."
+  },
+  {
+    "id": "tr-029",
+    "fr": "L'addition, s'il vous plaît.",
+    "tr": "Hesap lütfen."
+  },
+  {
+    "id": "tr-030",
+    "fr": "Quel temps fait-il aujourd'hui ?",
+    "tr": "Bugün hava nasıl?"
+  },
+  {
+    "id": "tr-031",
+    "fr": "Il fait beau.",
+    "tr": "Hava güzel."
+  },
+  {
+    "id": "tr-032",
+    "fr": "Il pleut.",
+    "tr": "Yağmur yağıyor."
+  },
+  {
+    "id": "tr-033",
+    "fr": "J'ai faim.",
+    "tr": "Açım."
+  },
+  {
+    "id": "tr-034",
+    "fr": "J'ai soif.",
+    "tr": "Susadım."
+  },
+  {
+    "id": "tr-035",
+    "fr": "Je suis fatigué.",
+    "tr": "Yorgunum."
+  },
+  {
+    "id": "tr-036",
+    "fr": "Je ne comprends pas.",
+    "tr": "Anlamıyorum."
+  },
+  {
+    "id": "tr-037",
+    "fr": "Pouvez-vous répéter ?",
+    "tr": "Tekrar edebilir misiniz?"
+  },
+  {
+    "id": "tr-038",
+    "fr": "Parlez plus lentement, s'il vous plaît.",
+    "tr": "Lütfen daha yavaş konuşun."
+  },
+  {
+    "id": "tr-039",
+    "fr": "Comment dit-on cela en turc ?",
+    "tr": "Bu Türkçe nasıl söylenir?"
+  },
+  {
+    "id": "tr-040",
+    "fr": "Que signifie ce mot ?",
+    "tr": "Bu kelime ne anlama geliyor?"
+  },
+  {
+    "id": "tr-041",
+    "fr": "Je t'aime.",
+    "tr": "Seni seviyorum."
+  },
+  {
+    "id": "tr-042",
+    "fr": "Tu me manques.",
+    "tr": "Seni özledim."
+  },
+  {
+    "id": "tr-043",
+    "fr": "Bonne chance !",
+    "tr": "Bol şanslar!"
+  },
+  {
+    "id": "tr-044",
+    "fr": "Félicitations !",
+    "tr": "Tebrikler!"
+  },
+  {
+    "id": "tr-045",
+    "fr": "Joyeux anniversaire !",
+    "tr": "Doğum günün kutlu olsun!"
+  },
+  {
+    "id": "tr-046",
+    "fr": "Bon voyage !",
+    "tr": "İyi yolculuklar!"
+  },
+  {
+    "id": "tr-047",
+    "fr": "Passe une bonne journée.",
+    "tr": "İyi günler."
+  },
+  {
+    "id": "tr-048",
+    "fr": "À bientôt.",
+    "tr": "Yakında görüşmek üzere."
+  },
+  {
+    "id": "tr-049",
+    "fr": "À demain.",
+    "tr": "Yarın görüşürüz."
+  },
+  {
+    "id": "tr-050",
+    "fr": "Au revoir.",
+    "tr": "Hoşça kalın."
+  },
+  {
+    "id": "tr-051",
+    "fr": "Où allez-vous ?",
+    "tr": "Nereye gidiyorsunuz?"
+  },
+  {
+    "id": "tr-052",
+    "fr": "Je vais au supermarché.",
+    "tr": "Süpermarkete gidiyorum."
+  },
+  {
+    "id": "tr-053",
+    "fr": "Qu'est-ce que c'est ?",
+    "tr": "Bu nedir?"
+  },
+  {
+    "id": "tr-054",
+    "fr": "Je ne sais pas.",
+    "tr": "Bilmiyorum."
+  },
+  {
+    "id": "tr-055",
+    "fr": "Êtes-vous sûr ?",
+    "tr": "Emin misiniz?"
+  },
+  {
+    "id": "tr-056",
+    "fr": "Oui, j'en suis sûr.",
+    "tr": "Evet, eminim."
+  },
+  {
+    "id": "tr-057",
+    "fr": "Je pense que oui.",
+    "tr": "Bence öyle."
+  },
+  {
+    "id": "tr-058",
+    "fr": "Je ne pense pas.",
+    "tr": "Sanmıyorum."
+  },
+  {
+    "id": "tr-059",
+    "fr": "Pas de problème.",
+    "tr": "Sorun değil."
+  },
+  {
+    "id": "tr-060",
+    "fr": "Ce n'est pas grave.",
+    "tr": "Önemli değil."
+  },
+  {
+    "id": "tr-061",
+    "fr": "Qu'est-ce que tu manges ?",
+    "tr": "Ne yiyorsun?"
+  },
+  {
+    "id": "tr-062",
+    "fr": "C'est délicieux.",
+    "tr": "Çok lezzetli."
+  },
+  {
+    "id": "tr-063",
+    "fr": "Je n'aime pas ça.",
+    "tr": "Bunu sevmiyorum."
+  },
+  {
+    "id": "tr-064",
+    "fr": "Quels sont vos loisirs ?",
+    "tr": "Hobileriniz nelerdir?"
+  },
+  {
+    "id": "tr-065",
+    "fr": "J'aime lire des livres.",
+    "tr": "Kitap okumayı severim."
+  },
+  {
+    "id": "tr-066",
+    "fr": "J'aime écouter de la musique.",
+    "tr": "Müzik dinlemeyi severim."
+  },
+  {
+    "id": "tr-067",
+    "fr": "Faites-vous du sport ?",
+    "tr": "Spor yapıyor musunuz?"
+  },
+  {
+    "id": "tr-068",
+    "fr": "Je joue au football.",
+    "tr": "Futbol oynuyorum."
+  },
+  {
+    "id": "tr-069",
+    "fr": "Je regarde un film.",
+    "tr": "Film izliyorum."
+  },
+  {
+    "id": "tr-070",
+    "fr": "Où as-tu acheté ça ?",
+    "tr": "Bunu nereden aldın?"
+  },
+  {
+    "id": "tr-071",
+    "fr": "C'est un cadeau.",
+    "tr": "Bu bir hediye."
+  },
+  {
+    "id": "tr-072",
+    "fr": "Pouvez-vous fermer la fenêtre ?",
+    "tr": "Pencereyi kapatabilir misiniz?"
+  },
+  {
+    "id": "tr-073",
+    "fr": "Il fait froid ici.",
+    "tr": "Burası soğuk."
+  },
+  {
+    "id": "tr-074",
+    "fr": "Il fait chaud dehors.",
+    "tr": "Dışarısı sıcak."
+  },
+  {
+    "id": "tr-075",
+    "fr": "Où sont mes clés ?",
+    "tr": "Anahtarlarım nerede?"
+  },
+  {
+    "id": "tr-076",
+    "fr": "Elles sont sur la table.",
+    "tr": "Masanın üstündeler."
+  },
+  {
+    "id": "tr-077",
+    "fr": "Je dois y aller.",
+    "tr": "Gitmem gerekiyor."
+  },
+  {
+    "id": "tr-078",
+    "fr": "Prends soin de toi.",
+    "tr": "Kendine iyi bak."
+  },
+  {
+    "id": "tr-079",
+    "fr": "À plus tard.",
+    "tr": "Sonra görüşürüz."
+  },
+  {
+    "id": "tr-080",
+    "fr": "Bonne nuit.",
+    "tr": "İyi geceler."
+  },
+  {
+    "id": "tr-081",
+    "fr": "Avez-vous des frères et sœurs ?",
+    "tr": "Kardeşiniz var mı?"
+  },
+  {
+    "id": "tr-082",
+    "fr": "J'ai un frère et une sœur.",
+    "tr": "Bir erkek kardeşim ve bir kız kardeşim var."
+  },
+  {
+    "id": "tr-083",
+    "fr": "Êtes-vous marié ?",
+    "tr": "Evli misiniz?"
+  },
+  {
+    "id": "tr-084",
+    "fr": "Je suis célibataire.",
+    "tr": "Bekarım."
+  },
+  {
+    "id": "tr-085",
+    "fr": "As-tu des enfants ?",
+    "tr": "Çocuğun var mı?"
+  },
+  {
+    "id": "tr-086",
+    "fr": "J'ai deux enfants.",
+    "tr": "İki çocuğum var."
+  },
+  {
+    "id": "tr-087",
+    "fr": "Où travailles-tu ?",
+    "tr": "Nerede çalışıyorsun?"
+  },
+  {
+    "id": "tr-088",
+    "fr": "Je travaille dans un bureau.",
+    "tr": "Bir ofiste çalışıyorum."
+  },
+  {
+    "id": "tr-089",
+    "fr": "C'est difficile.",
+    "tr": "Bu zor."
+  },
+  {
+    "id": "tr-090",
+    "fr": "C'est facile.",
+    "tr": "Bu kolay."
+  },
+  {
+    "id": "tr-091",
+    "fr": "Je suis d'accord.",
+    "tr": "Katılıyorum."
+  },
+  {
+    "id": "tr-092",
+    "fr": "Je ne suis pas d'accord.",
+    "tr": "Katılmıyorum."
+  },
+  {
+    "id": "tr-093",
+    "fr": "C'est une bonne idée.",
+    "tr": "Bu iyi bir fikir."
+  },
+  {
+    "id": "tr-094",
+    "fr": "Je n'ai pas le temps.",
+    "tr": "Zamanım yok."
+  },
+  {
+    "id": "tr-095",
+    "fr": "Attendez une minute.",
+    "tr": "Bir dakika bekleyin."
+  },
+  {
+    "id": "tr-096",
+    "fr": "Je reviens tout de suite.",
+    "tr": "Hemen döneceğim."
+  },
+  {
+    "id": "tr-097",
+    "fr": "Bien sûr.",
+    "tr": "Elbette."
+  },
+  {
+    "id": "tr-098",
+    "fr": "Peut-être.",
+    "tr": "Belki."
+  },
+  {
+    "id": "tr-099",
+    "fr": "Jamais.",
+    "tr": "Asla."
+  },
+  {
+    "id": "tr-100",
+    "fr": "Toujours.",
+    "tr": "Her zaman."
+  },
+  {
+    "id": "tr-101",
+    "fr": "Quel est ton plat préféré ?",
+    "tr": "En sevdiğin yemek nedir?"
+  },
+  {
+    "id": "tr-102",
+    "fr": "J'adore les pâtes.",
+    "tr": "Makarnaya bayılırım."
+  },
+  {
+    "id": "tr-103",
+    "fr": "Tu veux boire quelque chose ?",
+    "tr": "Bir şey içmek ister misin?"
+  },
+  {
+    "id": "tr-104",
+    "fr": "Un café, s'il vous plaît.",
+    "tr": "Bir kahve lütfen."
+  },
+  {
+    "id": "tr-105",
+    "fr": "Où puis-je acheter un billet ?",
+    "tr": "Nereden bilet alabilirim?"
+  },
+  {
+    "id": "tr-106",
+    "fr": "Au guichet.",
+    "tr": "Gişeden."
+  },
+  {
+    "id": "tr-107",
+    "fr": "Le train est en retard.",
+    "tr": "Tren gecikti."
+  },
+  {
+    "id": "tr-108",
+    "fr": "C'est loin d'ici ?",
+    "tr": "Burası uzak mı?"
+  },
+  {
+    "id": "tr-109",
+    "fr": "Non, c'est tout près.",
+    "tr": "Hayır, çok yakın."
+  },
+  {
+    "id": "tr-110","fr": "Allez tout droit.","tr": "Düz gidin."},{"id": "tr-111","fr": "Tournez à droite.","tr": "Sağa dönün."},{"id": "tr-112","fr": "Tournez à gauche.","tr": "Sola dönün."},{"id": "tr-113","fr": "Je suis perdu.","tr": "Kayboldum."},{"id": "tr-114","fr": "Pouvez-vous me montrer sur la carte ?","tr": "Haritada bana gösterebilir misiniz?"},{"id": "tr-115","fr": "Où est l'hôtel ?","tr": "Otel nerede?"},{"id": "tr-116","fr": "J'ai une réservation.","tr": "Rezervasyonum var."},{"id": "tr-117","fr": "Puis-je avoir la clé ?","tr": "Anahtarı alabilir miyim?"},{"id": "tr-118","fr": "Le Wi-Fi est gratuit ?","tr": "Wi-Fi ücretsiz mi?"},{"id": "tr-119","fr": "Quel est le mot de passe ?","tr": "Şifre nedir?"},{"id": "tr-120","fr": "Où se trouve l'ascenseur ?","tr": "Asansör nerede?"},{"id": "tr-121","fr": "Je voudrais réserver une table.","tr": "Bir masa ayırtmak istiyorum."},{"id": "tr-122","fr": "Pour combien de personnes ?","tr": "Kaç kişilik?"},{"id": "tr-123","fr": "Pour deux personnes.","tr": "İki kişilik."},{"id": "tr-124","fr": "À quelle heure ?","tr": "Saat kaçta?"},{"id": "tr-125","fr": "Ce soir à vingt heures.","tr": "Bu akşam saat sekizde."},{"id": "tr-126","fr": "Êtes-vous prêt à commander ?","tr": "Sipariş vermek için hazır mısınız?"},{"id": "tr-127","fr": "Je vais prendre le poulet.","tr": "Tavuk alacağım."},{"id": "tr-128","fr": "Et pour boire ?","tr": "İçecek olarak ne alırsınız?"},{"id": "tr-129","fr": "De l'eau minérale, s'il vous plaît.","tr": "Maden suyu lütfen."},{"id": "tr-130","fr": "Bon appétit !","tr": "Afiyet olsun!"},{"id": "tr-131","fr": "C'était excellent.","tr": "Harikaydı."},{"id": "tr-132","fr": "Acceptez-vous les cartes bancaires ?","tr": "Kredi kartı kabul ediyor musunuz?"},{"id": "tr-133","fr": "Je vais payer en espèces.","tr": "Nakit ödeyeceğim."},{"id": "tr-134","fr": "Gardez la monnaie.","tr": "Üstü kalsın."},{"id": "tr-135","fr": "Où sont les magasins ?","tr": "Mağazalar nerede?"},{"id": "tr-136","fr": "Je regarde juste.","tr": "Sadece bakıyorum."},{"id": "tr-137","fr": "Puis-je essayer ceci ?","tr": "Bunu deneyebilir miyim?"},{"id": "tr-138","fr": "Où sont les cabines d'essayage ?","tr": "Kabindir nerede?"},{"id": "tr-139","fr": "Quelle est votre taille ?","tr": "Bedeniniz nedir?"},{"id": "tr-140","fr": "C'est trop grand.","tr": "Bu çok büyük."},{"id": "tr-141","fr": "C'est trop petit.","tr": "Bu çok küçük."},{"id": "tr-142","fr": "Avez-vous la taille au-dessus ?","tr": "Bir beden büyüğü var mı?"},{"id": "tr-143","fr": "Je le prends.","tr": "Bunu alıyorum."},{"id": "tr-144","fr": "Où est la caisse ?","tr": "Kasa nerede?"},{"id": "tr-145","fr": "Puis-je avoir un sac ?","tr": "Poşet alabilir miyim?"},{"id": "tr-146","fr": "Je voudrais un remboursement.","tr": "Para iadesi istiyorum."},{"id": "tr-147","fr": "C'est cassé.","tr": "Bu kırık."},{"id": "tr-148","fr": "Où se trouve la pharmacie ?","tr": "Eczane nerede?"},{"id": "tr-149","fr": "Je suis malade.","tr": "Hastayım."},{"id": "tr-150","fr": "J'ai mal à la tête.","tr": "Başım ağrıyor."},{"id": "tr-151","fr": "J'ai de la fièvre.","tr": "Ateşim var."},{"id": "tr-152","fr": "Il me faut un médicament.","tr": "İlaca ihtiyacım var."},{"id": "tr-153","fr": "Où est l'hôpital le plus proche ?","tr": "En yakın hastane nerede?"},{"id": "tr-154","fr": "Appelez une ambulance !","tr": "Ambulans çağırın!"},{"id": "tr-155","fr": "C'est une urgence.","tr": "Bu bir acil durum."},{"id": "tr-156","fr": "Tout va bien ?","tr": "Her şey yolunda mı?"},{"id": "tr-157","fr": "Oui, tout va bien.","tr": "Evet, her şey yolunda."},{"id": "tr-158","fr": "Calmez-vous, s'il vous plaît.","tr": "Lütfen sakin olun."},{"id": "tr-159","fr": "Ne vous inquiétez pas.","tr": "Endişelenmeyin."},{"id": "tr-160","fr": "Qu'est-ce qui s'est passé ?","tr": "Ne oldu?"},{"id": "tr-161","fr": "C'était un accident.","tr": "Bir kazaydı."},{"id": "tr-162","fr": "J'ai perdu mon passeport.","tr": "Pasaportumu kaybettim."},{"id": "tr-163","fr": "Où est le commissariat ?","tr": "Karakol nerede?"},{"id": "tr-164","fr": "On m'a volé mon sac.","tr": "Çantam çalındı."},{"id": "tr-165","fr": "Au voleur !","tr": "Hırsız var!"},{"id": "tr-166","fr": "Aidez-moi !","tr": "Yardım edin!"},{"id": "tr-167","fr": "Quelle est la date aujourd'hui ?","tr": "Bugünün tarihi nedir?"},{"id": "tr-168","fr": "C'est le premier mai.","tr": "Bugün bir mayıs."},{"id": "tr-169","fr": "Quel jour sommes-nous ?","tr": "Bugün günlerden ne?"},{"id": "tr-170","fr": "Aujourd'hui, c'est lundi.","tr": "Bugün pazartesi."},{"id": "tr-171","fr": "Qu'as-tu fait ce week-end ?","tr": "Bu hafta sonu ne yaptın?"},{"id": "tr-172","fr": "Je me suis reposé.","tr": "Dinlendim."},{"id": "tr-173","fr": "Qu'est-ce qu'on fait demain ?","tr": "Yarın ne yapıyoruz?"},{"id": "tr-174","fr": "On se voit ce soir ?","tr": "Bu akşam görüşüyor muyuz?"},{"id": "tr-175","fr": "À quelle heure on se retrouve ?","tr": "Saat kaçta buluşuyoruz?"},{"id": "tr-176","fr": "On se retrouve à dix-neuf heures.","tr": "Saat saat yedide buluşuyoruz."},{"id": "tr-177","fr": "Où est le point de rendez-vous ?","tr": "Buluşma noktası nerede?"},{"id": "tr-178","fr": "Devant le cinéma.","tr": "Sinemanın önünde."},{"id": "tr-179","fr": "Je suis en chemin.","tr": "Yoldayım."},{"id": "tr-180","fr": "Je vais être en retard.","tr": "Gecikeceğim."},{"id": "tr-181","fr": "Désolé pour le retard.","tr": "Gecikme için özür dilerim."},{"id": "tr-182","fr": "Ce n'est rien.","tr": "Önemli değil."},{"id": "tr-183","fr": "Merci d'être venu.","tr": "Geldiğin için teşekkürler."},{"id": "tr-184","fr": "C'était un plaisir.","tr": "Benim için bir zevkti."},{"id": "tr-185","fr": "À la prochaine fois.","tr": "Bir dahaki sefere."},{"id": "tr-186","fr": "Tu as passé de bonnes vacances ?","tr": "Tatilin iyi geçti mi?"},{"id": "tr-187","fr": "C'était fantastique.","tr": "Harikaydı."},{"id": "tr-188","fr": "Où es-tu allé ?","tr": "Nereye gittin?"},{"id": "tr-189","fr": "Je suis allé à la plage.","tr": "Plaja gittim."},{"id": "tr-190","fr": "Comment était le voyage ?","tr": "Yolculuk nasıldı?"},{"id": "tr-191","fr": "C'était un peu long.","tr": "Biraz uzundu."},{"id": "tr-192","fr": "Tu as pris des photos ?","tr": "Fotoğraf çektin mi?"},{"id": "tr-193","fr": "Oui, beaucoup.","tr": "Evet, çok."},{"id": "tr-194","fr": "Montre-moi, s'il te plaît.","tr": "Lütfen bana göster."},{"id": "tr-195","fr": "C'est magnifique.","tr": "Harika."},{"id": "tr-196","fr": "Quelle chance !","tr": "Ne büyük şans!"},{"id": "tr-197","fr": "Je veux y aller aussi.","tr": "Ben de gitmek istiyorum."},{"id": "tr-198","fr": "Peut-être l'année prochaine.","tr": "Belki gelecek yıl."},{"id": "tr-199","fr": "On verra.","tr": "Bakarız."},{"id": "tr-200","fr": "C'est la fin du fichier.","tr": "Dosyanın sonu."}],
 
-    "frenchhindi": [],
+    "frenchhindi": [{
+    "id": "hi-001",
+    "fr": "Bonjour, comment allez-vous ?",
+    "hi": "नमस्ते, आप कैसे हैं? (Namaste, aap kaise hain?)"
+  },
+  {
+    "id": "hi-002",
+    "fr": "Comment vous appelez-vous ?",
+    "hi": "आपका नाम क्या है? (Aapka naam kya hai?)"
+  },
+  {
+    "id": "hi-003",
+    "fr": "Je m'appelle John.",
+    "hi": "मेरा नाम जॉन है। (Mera naam John hai.)"
+  },
+  {
+    "id": "hi-004",
+    "fr": "Enchanté de vous rencontrer.",
+    "hi": "आपसे मिलकर खुशी हुई। (Aapse milkar khushi hui.)"
+  },
+  {
+    "id": "hi-005",
+    "fr": "D'où venez-vous ?",
+    "hi": "आप कहाँ से हैं? (Aap kahaan se hain?)"
+  },
+  {
+    "id": "hi-006",
+    "fr": "Je viens de France.",
+    "hi": "मैं फ्रांस से हूँ। (Main France se hoon.)"
+  },
+  {
+    "id": "hi-007",
+    "fr": "Où habitez-vous ?",
+    "hi": "आप कहाँ रहते हैं? (Aap kahaan rahte hain?)"
+  },
+  {
+    "id": "hi-008",
+    "fr": "J'habite à Paris.",
+    "hi": "मैं पेरिस में रहता हूँ। (Main Paris mein rahta hoon.)"
+  },
+  {
+    "id": "hi-009",
+    "fr": "Quel âge avez-vous ?",
+    "hi": "आपकी उम्र क्या है? (Aapki umra kya hai?)"
+  },
+  {
+    "id": "hi-010",
+    "fr": "J'ai trente ans.",
+    "hi": "मैं तीस साल का हूँ। (Main tees saal ka hoon.)"
+  },
+  {
+    "id": "hi-011",
+    "fr": "Que faites-vous dans la vie ?",
+    "hi": "आप क्या काम करते हैं? (Aap kya kaam karte hain?)"
+  },
+  {
+    "id": "hi-012",
+    "fr": "Je suis étudiant.",
+    "hi": "मैं एक छात्र हूँ। (Main ek chhaatr hoon.)"
+  },
+  {
+    "id": "hi-013",
+    "fr": "Parlez-vous hindi ?",
+    "hi": "क्या आप हिंदी बोलते हैं? (Kya aap Hindi bolte hain?)"
+  },
+  {
+    "id": "hi-014",
+    "fr": "Je parle un peu hindi.",
+    "hi": "मैं थोड़ी हिंदी बोलता हूँ। (Main thodi Hindi bolta hoon.)"
+  },
+  {
+    "id": "hi-015",
+    "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "hi": "कृपया क्या आप मेरी मदद कर सकते हैं? (Kripya kya aap meri madad kar sakte hain?)"
+  },
+  {
+    "id": "hi-016",
+    "fr": "Merci beaucoup.",
+    "hi": "बहुत-बहुत धन्यवाद। (Bahut-bahut dhanyavaad.)"
+  },
+  {
+    "id": "hi-017",
+    "fr": "De rien.",
+    "hi": "आपका स्वागत है। (Aapka swagat hai.)"
+  },
+  {
+    "id": "hi-018",
+    "fr": "S'il vous plaît.",
+    "hi": "कृपया। (Kripya.)"
+  },
+  {
+    "id": "hi-019",
+    "fr": "Excusez-moi.",
+    "hi": "माफ़ कीजिए। (Maaf kijiye.)"
+  },
+  {
+    "id": "hi-020",
+    "fr": "Je suis désolé.",
+    "hi": "मुझे खेद है। (Muche khed hai.)"
+  },
+  {
+    "id": "hi-021",
+    "fr": "Quelle heure est-il ?",
+    "hi": "क्या समय हुआ है? (Kya samay hua hai?)"
+  },
+  {
+    "id": "hi-022",
+    "fr": "Il est dix heures.",
+    "hi": "दस बजे हैं。 (Das baje hain.)"
+  },
+  {
+    "id": "hi-023",
+    "fr": "Où sont les toilettes ?",
+    "hi": "शौचालय कहाँ है? (Shauchalay kahaan hai?)"
+  },
+  {
+    "id": "hi-024",
+    "fr": "C'est par là.",
+    "hi": "यह उस तरफ है। (Yeh us taraf hai.)"
+  },
+  {
+    "id": "hi-025",
+    "fr": "Combien ça coûte ?",
+    "hi": "इसकी कीमत क्या है? (Iski keemat kya hai?)"
+  },
+  {
+    "id": "hi-026",
+    "fr": "C'est trop cher.",
+    "hi": "यह बहुत महंगा है। (Yeh bahut mahanga hai.)"
+  },
+  {
+    "id": "hi-027",
+    "fr": "Où se trouve la gare ?",
+    "hi": "रेलवे स्टेशन कहाँ है? (Railway station kahaan hai?)"
+  },
+  {
+    "id": "hi-028",
+    "fr": "Je cherche un bon restaurant.",
+    "hi": "मैं एक अच्छे रेस्तरां की तलाश में हूँ। (Main ek achhe restaurant ki talaash mein hoon.)"
+  },
+  {
+    "id": "hi-029",
+    "fr": "L'addition, s'il vous plaît.",
+    "hi": "बिल प्लीज़। (Bill please.)"
+  },
+  {
+    "id": "hi-030",
+    "fr": "Quel temps fait-il aujourd'hui ?",
+    "hi": "आज मौसम कैसा है? (Aaj mausam kaisa hai?)"
+  },
+  {
+    "id": "hi-031",
+    "fr": "Il fait beau.",
+    "hi": "मौसम अच्छा है। (Mausam achha hai.)"
+  },
+  {
+    "id": "hi-032",
+    "fr": "Il pleut.",
+    "hi": "बारिश हो रही है। (Baarish ho rahi hai.)"
+  },
+  {
+    "id": "hi-033",
+    "fr": "J'ai faim.",
+    "hi": "मुझे भूख लगी है। (Muche bhookh lagi hai.)"
+  },
+  {
+    "id": "hi-034",
+    "fr": "J'ai soif.",
+    "hi": "मुझे प्यास लगी है। (Muche pyaas lagi hai.)"
+  },
+  {
+    "id": "hi-035",
+    "fr": "Je suis fatigué.",
+    "hi": "मैं थक गया हूँ। (Main thak gaya hoon.)"
+  },
+  {
+    "id": "hi-036",
+    "fr": "Je ne comprends pas.",
+    "hi": "मैं समझा नहीं। (Main samjha nahin.)"
+  },
+  {
+    "id": "hi-037",
+    "fr": "Pouvez-vous répéter ?",
+    "hi": "क्या आप दोहरा सकते हैं? (Kya aap dohra sakte hain?)"
+  },
+  {
+    "id": "hi-038",
+    "fr": "Parlez plus lentement, s'il vous plaît.",
+    "hi": "कृपया थोड़ा धीरे बोलें। (Kripya thoda dheere bolen.)"
+  },
+  {
+    "id": "hi-039",
+    "fr": "Comment dit-on cela en hindi ?",
+    "hi": "इसे hindi में क्या कहते हैं? (Ise Hindi mein kya kahte hain?)"
+  },
+  {
+    "id": "hi-040",
+    "fr": "Que signifie ce mot ?",
+    "hi": "इस शब्द का क्या अर्थ है? (Is shabd ka kya arth hai?)"
+  },
+  {
+    "id": "hi-041",
+    "fr": "Je t'aime.",
+    "hi": "मैं तुमसे प्यार करता हूँ। (Main tumse pyaar karta hoon.)"
+  },
+  {
+    "id": "hi-042",
+    "fr": "Tu me manques.",
+    "hi": "मुझे तुम्हारी याद आती है। (Muche tumhari yaad aati hai.)"
+  },
+  {
+    "id": "hi-043",
+    "fr": "Bonne chance !",
+    "hi": "सौभाग्य! (Saubhagya!)"
+  },
+  {
+    "id": "hi-044",
+    "fr": "Félicitations !",
+    "hi": "बधाई हो! (Badhai ho!)"
+  },
+  {
+    "id": "hi-045",
+    "fr": "Joyeux anniversaire !",
+    "hi": "जन्मदिन मुबारक हो! (Janmadin mubarak ho!)"
+  },
+  {
+    "id": "hi-046",
+    "fr": "Bon voyage !",
+    "hi": "शुभ यात्रा! (Shubh yaatra!)"
+  },
+  {
+    "id": "hi-047",
+    "fr": "Passe une bonne journée.",
+    "hi": "आपका दिन शुभ हो। (Aapka din shubh ho.)"
+  },
+  {
+    "id": "hi-048",
+    "fr": "À bientôt.",
+    "hi": "जल्द ही फिर मिलेंगे。 (Jald hi phir milenge.)"
+  },
+  {
+    "id": "hi-049",
+    "fr": "À demain.",
+    "hi": "कल मिलते हैं। (Kal milte hain.)"
+  },
+  {
+    "id": "hi-050",
+    "fr": "Au revoir.",
+    "hi": "अलविदा। (Alvida.)"
+  },
+  {
+    "id": "hi-051",
+    "fr": "Où allez-vous ?",
+    "hi": "आप कहाँ जा रहे हैं? (Aap kahaan ja rahe hain?)"
+  },
+  {
+    "id": "hi-052",
+    "fr": "Je vais au supermarché.",
+    "hi": "मैं सुपरमार्केट जा रहा हूँ। (Main supermarket ja raha hoon.)"
+  },
+  {
+    "id": "hi-053",
+    "fr": "Qu'est-ce que c'est ?",
+    "hi": "यह क्या है? (Yeh kya hai?)"
+  },
+  {
+    "id": "hi-054",
+    "fr": "Je ne sais pas.",
+    "hi": "मुझे नहीं पता। (Muche nahin pata.)"
+  },
+  {
+    "id": "hi-055",
+    "fr": "Êtes-vous sûr ?",
+    "hi": "क्या आपको यकीन है? (Kya aapko yakeen hai?)"
+  },
+  {
+    "id": "hi-056",
+    "fr": "Oui, j'en suis sûr.",
+    "hi": "हाँ, मुझे यकीन है। (Haan, muche yakeen hai.)"
+  },
+  {
+    "id": "hi-057",
+    "fr": "Je pense que oui.",
+    "hi": "मुझे ऐसा ही लगता है। (Muche aisa hi lagta hai.)"
+  },
+  {
+    "id": "hi-058",
+    "fr": "Je ne pense pas.",
+    "hi": "मुझे ऐसा नहीं लगता। (Muche aisa nahin lagta.)"
+  },
+  {
+    "id": "hi-059",
+    "fr": "Pas de problème.",
+    "hi": "कोई बात नहीं। (Koi baat nahin.)"
+  },
+  {
+    "id": "hi-060",
+    "fr": "Ce n'est pas grave.",
+    "hi": "इससे कोई फ़र्क नहीं पड़ता। (Isse koi farq nahin padta.)"
+  },
+  {
+    "id": "hi-061",
+    "fr": "Qu'est-ce que tu manges ?",
+    "hi": "तुम क्या खा रहे हो? (Tum kya kha rahe ho?)"
+  },
+  {
+    "id": "hi-062",
+    "fr": "C'est délicieux.",
+    "hi": "यह बहुत स्वादिष्ट है। (Yeh bahut swadist hai.)"
+  },
+  {
+    "id": "hi-063",
+    "fr": "Je n'aime pas ça.",
+    "hi": "मुझे यह पसंद नहीं है। (Muche yeh pasand nahin hai.)"
+  },
+  {
+    "id": "hi-064",
+    "fr": "Quels sont vos loisirs ?",
+    "hi": "आपके शौक क्या हैं? (Aapke shauk kya hain?)"
+  },
+  {
+    "id": "hi-065",
+    "fr": "J'aime lire des livres.",
+    "hi": "मुझे किताबें पढ़ना पसंद है। (Muche kitabein padhna pasand hai.)"
+  },
+  {
+    "id": "hi-066",
+    "fr": "J'aime écouter de la musique.",
+    "hi": "मुझे संगीत सुनना पसंद है। (Muche sangeet sunna pasand hai.)"
+  },
+  {
+    "id": "hi-067",
+    "fr": "Faites-vous du sport ?",
+    "hi": "क्या आप खेल खेलते हैं? (Kya aap khel khelte hain?)"
+  },
+  {
+    "id": "hi-068",
+    "fr": "Je joue au football.",
+    "hi": "मैं फुटबॉल खेलता हूँ। (Main football khelta hoon.)"
+  },
+  {
+    "id": "hi-069",
+    "fr": "Je regarde un film.",
+    "hi": "मैं फिल्म देख रहा हूँ। (Main movie dekh raha hoon.)"
+  },
+  {
+    "id": "hi-070",
+    "fr": "Où as-tu acheté ça ?",
+    "hi": "तुमने यह कहाँ से खरीदा? (Tumne yeh kahaan se kharida?)"
+  },
+  {
+    "id": "hi-071",
+    "fr": "C'est un cadeau.",
+    "hi": "यह एक उपहार है। (Yeh ek upahaar hai.)"
+  },
+  {
+    "id": "hi-072",
+    "fr": "Pouvez-vous fermer la fenêtre ?",
+    "hi": "कृपया क्या आप खिड़की बंद कर सकते हैं? (Kripya kya aap khidki band kar sakte hain?)"
+  },
+  {
+    "id": "hi-073",
+    "fr": "Il fait froid ici.",
+    "hi": "यहाँ ठंड है। (Yahaan thand hai.)"
+  },
+  {
+    "id": "hi-074",
+    "fr": "Il fait chaud dehors.",
+    "hi": "बाहर गर्मी है। (Baahar garmi hai.)"
+  },
+  {
+    "id": "hi-075",
+    "fr": "Où sont mes clés ?",
+    "hi": "मेरी चाबियाँ कहाँ हैं? (Meri chabiyan kahaan hain?)"
+  },
+  {
+    "id": "hi-076",
+    "fr": "Elles sont sur la table.",
+    "hi": "वे मेज पर हैं। (Ve mej par hain.)"
+  },
+  {
+    "id": "hi-077",
+    "fr": "Je dois y aller.",
+    "hi": "मुझे जाना होगा। (Muche jaana hoga.)"
+  },
+  {
+    "id": "hi-078",
+    "fr": "Prends soin de toi.",
+    "hi": "अपना ख्याल रखना। (Apna khayal rakhna.)"
+  },
+  {
+    "id": "hi-079",
+    "fr": "À plus tard.",
+    "hi": "बाद में मिलते हैं。 (Baad mein milte hain.)"
+  },
+  {
+    "id": "hi-080",
+    "fr": "Bonne nuit.",
+    "hi": "शुभ रात्रि। (Shubh raatri.)"
+  },
+  {
+    "id": "hi-081",
+    "fr": "Avez-vous des frères et sœurs ?",
+    "hi": "क्या आपके भाई-बहन हैं? (Kya aapke bhai-bahan hain?)"
+  },
+  {
+    "id": "hi-082",
+    "fr": "J'ai un frère et une sœur.",
+    "hi": "मेरा एक भाई और एक बहन है। (Mera ek bhai aur ek bahan hai.)"
+  },
+  {
+    "id": "hi-083",
+    "fr": "Êtes-vous marié ?",
+    "hi": "क्या आप शादीशुदा हैं? (Kya aap shaadishuda hain?)"
+  },
+  {
+    "id": "hi-084",
+    "fr": "Je suis célibataire.",
+    "hi": "मैं अविवाहित हूँ। (Main avivahit hoon.)"
+  },
+  {
+    "id": "hi-085","fr": "As-tu des enfants ?","hi": "क्या तुम्हारे बच्चे हैं? (Kya tumhare bachhe hain?)"},{"id": "hi-086","fr": "J'ai deux enfants.","hi": "मेरे दो बच्चे हैं। (Mere do bachhe hain.)"},{"id": "hi-087","fr": "Où travailles-tu ?","hi": "तुम कहाँ काम करते हो? (Tum kahaan kaam karte ho?)"},{"id": "hi-088","fr": "Je travaille dans un bureau.","hi": "मैं एक कार्यालय में काम करता हूँ। (Main ek karyalay mein kaam karta hoon.)"},{"id": "hi-089","fr": "C'est difficile.","hi": "यह कठिन है। (Yeh kathin hai.)"},{"id": "hi-090","fr": "C'est facile.","hi": "यह आसान है। (Yeh aasaan hai.)"},{"id": "hi-091","fr": "Je suis d'accord.","hi": "मैं सहमत हूँ। (Main sahmat hoon.)"},{"id": "hi-092","fr": "Je ne suis pas d'accord.","hi": "मैं सहमत नहीं हूँ। (Main sahmat nahin hoon.)"},{"id": "hi-093","fr": "C'est une bonne idée.","hi": "यह एक अच्छा विचार है। (Yeh ek achha vichaar hai.)"},{"id": "hi-094","fr": "Je n'ai pas le temps.","hi": "मेरे पास समय नहीं है। (Mere paas samay nahin hai.)"},{"id": "hi-095","fr": "Attendez une minute.","hi": "एक मिनट रुकिए। (Ek minute rukiye.)"},{"id": "hi-096","fr": "Je reviens tout de suite.","hi": "मैं अभी वापस आता हूँ। (Main abhi waapas aata hoon.)"},{"id": "hi-097","fr": "Bien sûr.","hi": "बिल्कुल। (Bilkul.)"},{"id": "hi-098","fr": "Peut-être.","hi": "शायद। (Shayad.)"},{"id": "hi-099","fr": "Jamais.","hi": "कभी नहीं। (Kabhi nahin.)"},{"id": "hi-100","fr": "Toujours.","hi": "हमेशा। (Hamesha.)"},{"id": "hi-101","fr": "Quel est ton plat préféré ?","hi": "तुम्हारा पसंदीदा खाना क्या है? (Tumhara pasandida khana kya hai?)"},{"id": "hi-102","fr": "J'adore les pâtes.","hi": "मुझे पास्ता बहुत पसंद है। (Muche pasta bahut pasand hai.)"},{"id": "hi-103","fr": "Tu veux boire quelque chose ?","hi": "क्या तुम कुछ पीना चाहोगे? (Kya tum kuch peena chahoge?)"},{"id": "hi-104","fr": "Un café, s'il vous plaît.","hi": "एक कॉफ़ी, कृपया। (Ek coffee, kripya.)"},{"id": "hi-105","fr": "Où puis-je acheter un billet ?","hi": "मैं टिकट कहाँ से खरीद सकता हूँ? (Main ticket kahaan se khareed sakta hoon?)"},{"id": "hi-106","fr": "Au guichet.","hi": "टिकट काउंटर पर। (Ticket counter par.)"},{"id": "hi-107","fr": "Le train est en retard.","hi": "ट्रेन लेट है। (Train late hai.)"},{"id": "hi-108","fr": "C'est loin d'ici ?","hi": "क्या यह यहाँ से दूर है? (Kya yeh yahaan se door hai?)"},{"id": "hi-109","fr": "Non, c'est tout près.","hi": "नहीं, यह बहुत पास है। (Nahin, yeh bahut paas hai.)"},{"id": "hi-110","fr": "Allez tout droit.","hi": "सीधे जाइए। (Seedhe jaiye.)"},{"id": "hi-111","fr": "Tournez à droite.","hi": "दाएँ मुड़िए। (Daayein mudiye.)"},{"id": "hi-112","fr": "Tournez à gauche.","hi": "बाएँ मुड़िए。 (Baayein mudiye.)"},{"id": "hi-113","fr": "Je suis perdu.","hi": "मैं रास्ता भटक गया हूँ। (Main raasta bhatak gaya hoon.)"},{"id": "hi-114","fr": "Pouvez-vous me montrer sur la carte ?","hi": "क्या आप मुझे नक्शे पर दिखा सकते हैं? (Kya aap muche nakshe par dikha sakte hain?)"},{"id": "hi-115","fr": "Où est l'hôtel ?","hi": "हотल कहाँ है? (Hotel kahaan hai?)"},{"id": "hi-116","fr": "J'ai une réservation.","hi": "मेरी एक बुकिंग है। (Meri ek booking hai.)"},{"id": "hi-117","fr": "Puis-je avoir la clé ?","hi": "क्या मुझे चाबी मिल सकती है? (Kya muche chaabi mil sakti hai?)"},{"id": "hi-118","fr": "Le Wi-Fi est gratuit ?","hi": "क्या वाई-फाई मुफ़्त है? (Kya Wi-Fi muft hai?)"},{"id": "hi-119","fr": "Quel est le mot de passe ?","hi": "पासवर्ड क्या है? (Password kya hai?)"},{"id": "hi-120","fr": "Où se trouve l'ascenseur ?","hi": "लिफ्ट कहाँ है? (Lift kahaan hai?)"},{"id": "hi-121","fr": "Je voudrais réserver une table.","hi": "मैं एक टेबल बुक करना चाहूंगा। (Main ek table book karna chahunga.)"},{"id": "hi-122","fr": "Pour combien de personnes ?","hi": "कितने लोगों के लिए? (Kitne logon ke liye?)"},{"id": "hi-123","fr": "Pour deux personnes.","hi": "दो लोगों के लिए। (Do logon ke liye.)"},{"id": "hi-124","fr": "À quelle heure ?","hi": "किस समय? (Kis samay?)"},{"id": "hi-125","fr": "Ce soir à vingt heures.","hi": "आज रात आठ बजे。 (Aaj raat aath baje.)"},{"id": "hi-126","fr": "Êtes-vous prêt à commander ?","hi": "क्या आप ऑर्डर देने के लिए तैयार हैं? (Kya aap order dene ke liye taiyaar hain?)"},{"id": "hi-127","fr": "Je vais prendre le poulet.","hi": "मैं चिकन लूंगा। (Main chicken loonga.)"},{"id": "hi-128","fr": "Et pour boire ?","hi": "और पीने के लिए? (Aur peene ke liye?)"},{"id": "hi-129","fr": "De l'eau minérale, s'il vous plaît.","hi": "मिनरल वाटर, कृपया। (Mineral water, kripya.)"},{"id": "hi-130","fr": "Bon appétit !","hi": "स्वादिष्ट भोजन का आनंद लें! (Swadist bhojan ka aanand lein!)"},{"id": "hi-131","fr": "C'était excellent.","hi": "यह बहुत बढ़िया था। (Yeh bahut badhiya tha.)"},{"id": "hi-132","fr": "Acceptez-vous les cartes bancaires ?","hi": "क्या आप क्रेडिट कार्ड स्वीकार करते हैं? (Kya aap credit card sweekar karte hain?)"},{"id": "hi-133","fr": "Je vais payer en espèces.","hi": "मैं नकद भुगतान करूँगा। (Main nakad bhugtan karoonga.)"},{"id": "hi-134","fr": "Gardez la monnaie.","hi": "छुट्टे रख लीजिए। (Chhutte rakh lijiye.)"},{"id": "hi-135","fr": "Où sont les magasins ?","hi": "दुकानें कहाँ हैं? (Dukanein kahaan hain?)"},{"id": "hi-136","fr": "Je regarde juste.","hi": "मैं बस देख रहा हूँ। (Main bas dekh raha hoon.)"},{"id": "hi-137","fr": "Puis-je essayer ceci ?","hi": "क्या मैं इसे आज़मा सकता हूँ? (Kya main ise aazma sakta hoon?)"},{"id": "hi-138","fr": "Où sont les cabines d'essayage ?","hi": "ट्रायल रूम कहाँ है? (Trial room kahaan hai?)"},{"id": "hi-139","fr": "Quelle est votre taille ?","hi": "आपका साइज क्या है? (Aapka size kya hai?)"},{"id": "hi-140","fr": "C'est trop grand.","hi": "यह बहुत बड़ा है। (Yeh bahut bada hai.)"},{"id": "hi-141","fr": "C'est trop petit.","hi": "यह बहुत छोटा है। (Yeh bahut chhota hai.)"},{"id": "hi-142","fr": "Avez-vous la taille au-dessus ?","hi": "क्या आपके पास इससे बड़ा साइज है? (Kya aapke paas isse bada size hai?)"},{"id": "hi-143","fr": "Je le prends.","hi": "मैं इसे ले रहा हूँ। (Main ise le raha hoon.)"},{"id": "hi-144","fr": "Où est la caisse ?","hi": "कैश काउंटर कहाँ है? (Cash counter kahaan hai?)"},{"id": "hi-145","fr": "Puis-je avoir un sac ?","hi": "क्या मुझे एक थैली मिल सकती है? (Kya muche ek thaili mil sakti hai?)"},{"id": "hi-146","fr": "Je voudrais un remboursement.","hi": "मुझे रिफंड चाहिए। (Muche refund chahiye.)"},{"id": "hi-147","fr": "C'est cassé.","hi": "यह टूटा हुआ है। (Yeh toota hua hai.)"},{"id": "hi-148","fr": "Où se trouve la pharmacie ?","hi": "मेडिकल स्टोर कहाँ है? (Medical store kahaan hai?)"},{"id": "hi-149","fr": "Je suis malade.","hi": "मैं बीमार हूँ। (Main beemar hoon.)"},{"id": "hi-150","fr": "J'ai mal à la tête.","hi": "मेरे सिर में दर्द है। (Mere sir mein dard hai.)"},{"id": "hi-151","fr": "J'ai de la fièvre.","hi": "मुझे बुखार है। (Muche bukhar hai.)"},{"id": "hi-152","fr": "Il me faut un médicament.","hi": "मुझे दवा चाहिए। (Muche dava chahiye.)"},{"id": "hi-153","fr": "Où est l'hôpital le plus proche ?","hi": "सबसे पास का अस्पताल कहाँ है? (Sabse paas ka hospital kahaan hai?)"},{"id": "hi-154","fr": "Appelez une ambulance !","hi": "एम्बुलेंस बुलाओ! (Ambulance bulao!)"},{"id": "hi-155","fr": "C'est une urgence.","hi": "यह एक आपातकालीन स्थिति है। (Yeh ek aapaatkaleen sthiti hai.)"},{"id": "hi-156","fr": "Tout va bien ?","hi": "क्या सब ठीक है? (Kya sab theek hai?)"},{"id": "hi-157","fr": "Oui, tout va bien.","hi": "हाँ, सब ठीक है। (Haan, sab theek hai.)"},{"id": "hi-158","fr": "Calmez-vous, s'il vous plaît.","hi": "कृपया शांत हो जाइए। (Kripya shaant ho jaiye.)"},{"id": "hi-159","fr": "Ne vous inquiétez pas.","hi": "चिंता मत करो। (Chinta mat karo.)"},{"id": "hi-160","fr": "Qu'est-ce qui s'est passé ?","hi": "क्या हुआ? (Kya hua?)"},{"id": "hi-161","fr": "C'était un accident.","hi": "यह एक दुर्घटना थी। (Yeh ek durghatna thi.)"},{"id": "hi-162","fr": "J'ai perdu mon passeport.","hi": "मेरा पासपोर्ट खो गया है। (Mera passport kho gaya hai.)"},{"id": "hi-163","fr": "Où est le commissariat ?","hi": "पुलिस स्टेशन कहाँ है? (Police station kahaan hai?)"},{"id": "hi-164","fr": "On m'a volé mon sac.","hi": "मेरा बैग चोरी हो गया है। (Mera bag chori ho gaya hai.)"},{"id": "hi-165","fr": "Au voleur !","hi": "चोर-चोर! (Chor-chor!)"},{"id": "hi-166","fr": "Aidez-moi !","hi": "मेरी मदद करो! (Meri madad karo!)"},{"id": "hi-167","fr": "Quelle est la date aujourd'hui ?","hi": "आज क्या तारीख है? (Aaj kya taareekh hai?)"},{"id": "hi-168","fr": "C'est le premier mai.","hi": "आज पहली मई है। (Aaj pahli May hai.)"},{"id": "hi-169","fr": "Quel jour sommes-nous ?","hi": "आज कौन सा दिन है? (Aaj kaun sa din hai?)"},{"id": "hi-170","fr": "Aujourd'hui, c'est lundi.","hi": "आज सोमवार है। (Aaj Somvaar hai.)"},{"id": "hi-171","fr": "Qu'as-tu fait ce week-end ?","hi": "तुमने इस वीकेंड पर क्या किया? (Tumne is weekend par kya kiya?)"},{"id": "hi-172","fr": "Je me suis reposé.","hi": "मैंने आराम किया। (Maine aaram kiya.)"},{"id": "hi-173","fr": "Qu'est-ce qu'on fait demain ?","hi": "हम कल क्या कर रहे हैं? (Hum kal kya kar rahe hain?)"},{"id": "hi-174","fr": "On se voit ce soir ?","hi": "क्या हम आज रात मिल रहे हैं? (Kya hum aaj raat mil rahe hain?)"},{"id": "hi-175","fr": "À quelle heure on se retrouve ?","hi": "हम किस समय मिल रहे हैं? (Hum kis samay mil rahe hain?)"},{"id": "hi-176","fr": "On se retrouve à dix-neuf heures.","hi": "हम शाम सात बजे मिलेंगे। (Hum shaam saat baje milenge.)"},{"id": "hi-177","fr": "Où est le point de rendez-vous ?","hi": "मिलने की जगह कहाँ है? (Milne ki jagah kahaan hai?)"},{"id": "hi-178","fr": "Devant le cinéma.","hi": "सिनेमा हॉल के सामने। (Cinema hall ke saamne.)"},{"id": "hi-179","fr": "Je suis en chemin.","hi": "मैं रास्ते में हूँ। (Main raaste mein hoon.)"},{"id": "hi-180","fr": "Je vais être en retard.","hi": "मुझे देर हो जाएगी। (Muche der ho jayegi.)"},{"id": "hi-181","fr": "Désolé pour le retard.","hi": "देर से आने के लिए माफ़ी चाहता हूँ। (Der se aane ke liye maafi chahta hoon.)"},{"id": "hi-182","fr": "Ce n'est rien.","hi": "कोई बात नहीं। (Koi baat nahin.)"},{"id": "hi-183","fr": "Merci d'être venu.","hi": "आने के लिए धन्यवाद। (Aane ke liye dhanyavaad.)"},{"id": "hi-184","fr": "C'était un plaisir.","hi": "मुझे खुशी हुई। (Muche khushi hui.)"},{"id": "hi-185","fr": "À la prochaine fois.","hi": "अगली बार मिलते हैं। (Agli baar milte hain.)"},{"id": "hi-186","fr": "Tu as passé de bonnes vacances ?","hi": "आपकी छुट्टियां कैसी रहीं? (Aapki chhuttiyan kaisi raheen?)"},{"id": "hi-187","fr": "C'était fantastique.","hi": "यह बहुत शानदार था। (Yeh bahut shaandar tha.)"},{"id": "hi-188","fr": "Où es-tu allé ?","hi": "तुम कहाँ गए थे? (Tum kahaan gaye the?)"},{"id": "hi-189","fr": "Je suis allé à la plage.","hi": "मैं बीच पर गया था। (Main beach par gaya tha.)"},{"id": "hi-190","fr": "Comment était le voyage ?","hi": "यात्रा कैसी रही? (Yaatra kaisi rahi?)"},{"id": "hi-191","fr": "C'était un peu long.","hi": "यह थोड़ा लंबा था। (Yeh thoda lamba tha.)"},{"id": "hi-192","fr": "Tu as pris des photos ?","hi": "क्या तुमने तस्वीरें लीं? (Kya tumne tasveerein leen?)"},{"id": "hi-193","fr": "Oui, beaucoup.","hi": "हाँ, बहुत सारी। (Haan, bahut saari.)"},{"id": "hi-194","fr": "Montre-moi, s'il te plaît.","hi": "कृपया मुझे दिखाओ। (Kripya muche dikhao.)"},{"id": "hi-195","fr": "C'est magnifique.","hi": "यह बहुत सुंदर है। (Yeh bahut sundar hai.)"},{"id": "hi-196","fr": "Quelle chance !","hi": "कितनी अच्छी किस्मत है! (Kitni achhi kismat hai!)"},{"id": "hi-197","fr": "Je veux y aller aussi.","hi": "मैं भी वहाँ जाना चाहता हूँ। (Main bhi wahaan jaana chahta hoon.)"},{"id": "hi-198","fr": "Peut-être l'année prochaine.","hi": "शायद अगले साल। (Shayad agle saal.)"},{"id": "hi-199","fr": "On verra.","hi": "देखते हैं। (Dekhte hain.)"},{"id": "hi-200","fr": "C'est la fin du fichier.","hi": "फ़ाइल समाप्त। (File samāpt.)"}],
 
-    "frenchpolish": [],
+    "frenchpolish": [{
+    "id": "pl-001",
+    "fr": "Bonjour, comment allez-vous ?",
+    "pl": "Dzień dobry, jak się masz?"
+  },
+  {
+    "id": "pl-002",
+    "fr": "Comment vous appelez-vous ?",
+    "pl": "Jak się nazywasz?"
+  },
+  {
+    "id": "pl-003",
+    "fr": "Je m'appelle John.",
+    "pl": "Nazywam się John."
+  },
+  {
+    "id": "pl-004",
+    "fr": "Enchanté de vous rencontrer.",
+    "pl": "Miło cię poznać."
+  },
+  {
+    "id": "pl-005",
+    "fr": "D'où venez-vous ?",
+    "pl": "Skąd pochodzisz?"
+  },
+  {
+    "id": "pl-006",
+    "fr": "Je viens de France.",
+    "pl": "Pochodzę z Francji."
+  },
+  {
+    "id": "pl-007",
+    "fr": "Où habitez-vous ?",
+    "pl": "Gdzie mieszkasz?"
+  },
+  {
+    "id": "pl-008",
+    "fr": "J'habite à Paris.",
+    "pl": "Mieszkam w Paryżu."
+  },
+  {
+    "id": "pl-009",
+    "fr": "Quel âge avez-vous ?",
+    "pl": "Ile masz lat?"
+  },
+  {
+    "id": "pl-010",
+    "fr": "J'ai trente ans.",
+    "pl": "Mam trzydzieści lat."
+  },
+  {
+    "id": "pl-011",
+    "fr": "Que faites-vous dans la vie ?",
+    "pl": "Czym się zajmujesz?"
+  },
+  {
+    "id": "pl-012",
+    "fr": "Je suis étudiant.",
+    "pl": "Jestem studentem."
+  },
+  {
+    "id": "pl-013",
+    "fr": "Parlez-vous polonais ?",
+    "pl": "Czy mówisz po polsku?"
+  },
+  {
+    "id": "pl-014",
+    "fr": "Je parle un peu polonais.",
+    "pl": "Mówię trochę po polsku."
+  },
+  {
+    "id": "pl-015",
+    "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
+    "pl": "Czy możesz mi pomóc?"
+  },
+  {
+    "id": "pl-016",
+    "fr": "Merci beaucoup.",
+    "pl": "Dziękuję bardzo."
+  },
+  {
+    "id": "pl-017",
+    "fr": "De rien.",
+    "pl": "Nie ma za co."
+  },
+  {
+    "id": "pl-018",
+    "fr": "S'il vous plaît.",
+    "pl": "Proszę."
+  },
+  {
+    "id": "pl-019",
+    "fr": "Excusez-moi.",
+    "pl": "Przepraszam."
+  },
+  {
+    "id": "pl-020",
+    "fr": "Je suis désolé.",
+    "pl": "Przykro mi."
+  },
+  {
+    "id": "pl-021",
+    "fr": "Quelle heure est-il ?",
+    "pl": "Która jest godzina?"
+  },
+  {
+    "id": "pl-022",
+    "fr": "Il est dix heures.",
+    "pl": "Jest godzina dziesiąta."
+  },
+  {
+    "id": "pl-023",
+    "fr": "Où sont les toilettes ?",
+    "pl": "Gdzie jest toaleta?"
+  },
+  {
+    "id": "pl-024",
+    "fr": "C'est par là.",
+    "pl": "To tamtędy."
+  },
+  {
+    "id": "pl-025",
+    "fr": "Combien ça coûte ?",
+    "pl": "Ile to kosztuje?"
+  },
+  {
+    "id": "pl-026",
+    "fr": "C'est trop cher.",
+    "pl": "To jest za drogie."
+  },
+  {
+    "id": "pl-027",
+    "fr": "Où se trouve la gare ?",
+    "pl": "Gdzie jest stacja kolejowa?"
+  },
+  {
+    "id": "pl-028",
+    "fr": "Je cherche un bon restaurant.",
+    "pl": "Szukam dobrej restauracji."
+  },
+  {
+    "id": "pl-029",
+    "fr": "L'addition, s'il vous plaît.",
+    "pl": "Rachunek poproszę."
+  },
+  {
+    "id": "pl-030",
+    "fr": "Quel temps fait-il aujourd'hui ?",
+    "pl": "Jaka jest dzisiaj pogoda?"
+  },
+  {
+    "id": "pl-031",
+    "fr": "Il fait beau.",
+    "pl": "Jest ładna pogoda."
+  },
+  {
+    "id": "pl-032",
+    "fr": "Il pleut.",
+    "pl": "Pada deszcz."
+  },
+  {
+    "id": "pl-033",
+    "fr": "J'ai faim.",
+    "pl": "Jestem głodny."
+  },
+  {
+    "id": "pl-034",
+    "fr": "J'ai soif.",
+    "pl": "Chce mi się pić."
+  },
+  {
+    "id": "pl-035",
+    "fr": "Je suis fatigué.",
+    "pl": "Jestem zmęczony."
+  },
+  {
+    "id": "pl-036",
+    "fr": "Je ne comprends pas.",
+    "pl": "Nie rozumiem."
+  },
+  {
+    "id": "pl-037",
+    "fr": "Pouvez-vous répéter ?",
+    "pl": "Czy możesz powtórzyć?"
+  },
+  {
+    "id": "pl-038",
+    "fr": "Parlez plus lentement, s'il vous plaît.",
+    "pl": "Proszę mówić wolniej."
+  },
+  {
+    "id": "pl-039",
+    "fr": "Comment dit-on cela en polonais ?",
+    "pl": "Jak to się mówi po polsku?"
+  },
+  {
+    "id": "pl-040",
+    "fr": "Que signifie ce mot ?",
+    "pl": "Co oznacza to słowo?"
+  },
+  {
+    "id": "pl-041",
+    "fr": "Je t'aime.",
+    "pl": "Kocham cię."
+  },
+  {
+    "id": "pl-042",
+    "fr": "Tu me manques.",
+    "pl": "Tęsknię za tobą."
+  },
+  {
+    "id": "pl-043",
+    "fr": "Bonne chance !",
+    "pl": "Powodzenia!"
+  },
+  {
+    "id": "pl-044",
+    "fr": "Félicitations !",
+    "pl": "Gratulacje!"
+  },
+  {
+    "id": "pl-045",
+    "fr": "Joyeux anniversaire !",
+    "pl": "Wszystkiego najlepszego z okazji urodzin!"
+  },
+  {
+    "id": "pl-046",
+    "fr": "Bon voyage !",
+    "pl": "Szczęśliwej podróży!"
+  },
+  {
+    "id": "pl-047",
+    "fr": "Passe une bonne journée.",
+    "pl": "Miłego dnia."
+  },
+  {
+    "id": "pl-048",
+    "fr": "À bientôt.",
+    "pl": "Do zobaczenia wkrótce."
+  },
+  {
+    "id": "pl-049",
+    "fr": "À demain.",
+    "pl": "Do jutra."
+  },
+  {
+    "id": "pl-050",
+    "fr": "Au revoir.",
+    "pl": "Do widzenia."
+  },
+  {
+    "id": "pl-051",
+    "fr": "Où allez-vous ?",
+    "pl": "Gdzie idziesz?"
+  },
+  {
+    "id": "pl-052",
+    "fr": "Je vais au supermarché.",
+    "pl": "Idę do supermarketu."
+  },
+  {
+    "id": "pl-053",
+    "fr": "Qu'est-ce que c'est ?",
+    "pl": "Co to jest?"
+  },
+  {
+    "id": "pl-054",
+    "fr": "Je ne sais pas.",
+    "pl": "Nie wiem."
+  },
+  {
+    "id": "pl-055",
+    "fr": "Êtes-vous sûr ?",
+    "pl": "Czy jesteś pewien?"
+  },
+  {
+    "id": "pl-056",
+    "fr": "Oui, j'en suis sûr.",
+    "pl": "Tak, jestem pewien."
+  },
+  {
+    "id": "pl-057",
+    "fr": "Je pense que oui.",
+    "pl": "Myślę, że tak."
+  },
+  {
+    "id": "pl-058",
+    "fr": "Je ne pense pas.",
+    "pl": "Nie sądzę."
+  },
+  {
+    "id": "pl-059",
+    "fr": "Pas de problème.",
+    "pl": "Nie ma problemu."
+  },
+  {
+    "id": "pl-060",
+    "fr": "Ce n'est pas grave.",
+    "pl": "Nic nie szkodzi."
+  },
+  {
+    "id": "pl-061",
+    "fr": "Qu'est-ce que tu manges ?",
+    "pl": "Co jesz?"
+  },
+  {
+    "id": "pl-062",
+    "fr": "C'est délicieux.",
+    "pl": "To jest pyszne."
+  },
+  {
+    "id": "pl-063",
+    "fr": "Je n'aime pas ça.",
+    "pl": "Nie lubię tego."
+  },
+  {
+    "id": "pl-064",
+    "fr": "Quels sont vos loisirs ?",
+    "pl": "Jakie masz hobby?"
+  },
+  {
+    "id": "pl-065",
+    "fr": "J'aime lire des livres.",
+    "pl": "Lubię czytać książki."
+  },
+  {
+    "id": "pl-066",
+    "fr": "J'aime écouter de la musique.",
+    "pl": "Lubię słuchać muzyki."
+  },
+  {
+    "id": "pl-067",
+    "fr": "Faites-vous du sport ?",
+    "pl": "Czy uprawiasz sport?"
+  },
+  {
+    "id": "pl-068",
+    "fr": "Je joue au football.",
+    "pl": "Gram w piłkę nożną."
+  },
+  {
+    "id": "pl-069",
+    "fr": "Je regarde un film.",
+    "pl": "Oglądam film."
+  },
+  {
+    "id": "pl-070",
+    "fr": "Où as-tu acheté ça ?",
+    "pl": "Gdzie to kupiłeś?"
+  },
+  {
+    "id": "pl-071",
+    "fr": "C'est un cadeau.",
+    "pl": "To jest prezent."
+  },
+  {
+    "id": "pl-072",
+    "fr": "Pouvez-vous fermer la fenêtre ?",
+    "pl": "Czy możesz zamknąć okno?"
+  },
+  {
+    "id": "pl-073",
+    "fr": "Il fait froid ici.",
+    "pl": "Tutaj jest zimno."
+  },
+  {
+    "id": "pl-074",
+    "fr": "Il fait chaud dehors.",
+    "pl": "Na zewnątrz jest ciepło."
+  },
+  {
+    "id": "pl-075",
+    "fr": "Où sont mes clés ?",
+    "pl": "Gdzie są moje klucze?"
+  },
+  {
+    "id": "pl-076",
+    "fr": "Elles sont sur la table.",
+    "pl": "Są na stole."
+  },
+  {
+    "id": "pl-077",
+    "fr": "Je dois y aller.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "pl-078",
+    "fr": "Prends soin de toi.",
+    "pl": "Dbaj o siebie."
+  },
+  {
+    "id": "pl-079",
+    "fr": "À plus tard.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "pl-080",
+    "fr": "Bonne nuit.",
+    "pl": "Dobranoc."
+  },
+  {
+    "id": "pl-081",
+    "fr": "Avez-vous des frères et sœurs ?",
+    "pl": "Czy masz rodzeństwo?"
+  },
+  {
+    "id": "pl-082",
+    "fr": "J'ai un frère et une sœur.",
+    "pl": "Mam brata i siostrę."
+  },
+  {
+    "id": "pl-083",
+    "fr": "Êtes-vous marié ?",
+    "pl": "Czy jesteś żonaty / zamężna?"
+  },
+  {
+    "id": "pl-084",
+    "fr": "Je suis célibataire.",
+    "pl": "Jestem singlem."
+  },
+  {
+    "id": "pl-085",
+    "fr": "As-tu des enfants ?",
+    "pl": "Czy masz dzieci?"
+  },
+  {
+    "id": "pl-086",
+    "fr": "J'ai deux enfants.",
+    "pl": "Mam dwoje dzieci."
+  },
+  {
+    "id": "pl-087",
+    "fr": "Où travailles-tu ?",
+    "pl": "Gdzie pracujesz?"
+  },
+  {
+    "id": "pl-088",
+    "fr": "Je travaille dans un bureau.",
+    "pl": "Pracuję w biurze."
+  },
+  {
+    "id": "pl-089",
+    "fr": "C'est difficile.",
+    "pl": "To jest trudne."
+  },
+  {
+    "id": "pl-090",
+    "fr": "C'est facile.",
+    "pl": "To jest łatwe."
+  },
+  {
+    "id": "pl-091",
+    "fr": "Je suis d'accord.",
+    "pl": "Zgadzam się."
+  },
+  {
+    "id": "pl-092",
+    "fr": "Je ne suis pas d'accord.",
+    "pl": "Nie zgadzam się."
+  },
+  {
+    "id": "pl-093",
+    "fr": "C'est une bonne idée.",
+    "pl": "To dobry pomysł."
+  },
+  {
+    "id": "pl-094",
+    "fr": "Je n'ai pas le temps.",
+    "pl": "Nie mam czasu."
+  },
+  {
+    "id": "pl-095",
+    "fr": "Attendez une minute.",
+    "pl": "Poczekaj minutę."
+  },
+  {
+    "id": "pl-096",
+    "fr": "Je reviens tout de suite.",
+    "pl": "Zaraz wracam."
+  },
+  {
+    "id": "pl-097",
+    "fr": "Bien sûr.",
+    "pl": "Oczywiście."
+  },
+  {
+    "id": "pl-098",
+    "fr": "Peut-être.",
+    "pl": "Może."
+  },
+  {
+    "id": "pl-099",
+    "fr": "Jamais.",
+    "pl": "Nigdy."
+  },
+  {
+    "id": "pl-100",
+    "fr": "Toujours.",
+    "pl": "Zawsze."
+  },
+  {
+    "id": "pl-101",
+    "fr": "Quel est ton plat préféré ?",
+    "pl": "Jakie jest twoje ulubione danie?"
+  },
+  {
+    "id": "pl-102",
+    "fr": "J'adore les pâtes.",
+    "pl": "Uwielbiam makaron."
+  },
+  {
+    "id": "pl-103",
+    "fr": "Tu veux boire quelque chose ?",
+    "pl": "Chcesz coś wypić?"
+  },
+  {
+    "id": "pl-104",
+    "fr": "Un café, s'il vous plaît.",
+    "pl": "Kawę poproszę."
+  },
+  {
+    "id": "pl-105",
+    "fr": "Où puis-je acheter un billet ?",
+    "pl": "Gdzie mogę kupić bilet?"
+  },
+  {
+    "id": "pl-106",
+    "fr": "Au guichet.",
+    "pl": "W kasie biletowej."
+  },
+  {
+    "id": "pl-107",
+    "fr": "Le train est en retard.",
+    "pl": "Pociąg jest opóźniony."
+  },
+  {
+    "id": "pl-108",
+    "fr": "C'est loin d'ici ?",
+    "pl": "Czy to daleko stąd?"
+  },
+  {
+    "id": "pl-109","fr": "Non, c'est tout près.","pl": "Nie, to bardzo blisko."},{"id": "pl-110","fr": "Allez tout droit.","pl": "Idź prosto."},{"id": "pl-111","fr": "Tournez à droite.","pl": "Skręć w prawo."},{"id": "pl-112","fr": "Tournez à gauche.","pl": "Skręć w lewo."},{"id": "pl-113","fr": "Je suis perdu.","pl": "Zgubiłem się."},{"id": "pl-114","fr": "Pouvez-vous me montrer sur la carte ?","pl": "Czy możesz pokazać mi na mapie?"},{"id": "pl-115","fr": "Où est l'hôtel ?","pl": "Gdzie jest hotel?"},{"id": "pl-116","fr": "J'ai une réservation.","pl": "Mam rezerwację."},{"id": "pl-117","fr": "Puis-je avoir la clé ?","pl": "Czy mogę prosić o klucz?"},{"id": "pl-118","fr": "Le Wi-Fi est gratuit ?","pl": "Czy Wi-Fi jest darmowe?"},{"id": "pl-119","fr": "Quel est le mot de passe ?","pl": "Jakie jest hasło?"},{"id": "pl-120","fr": "Où se trouve l'ascenseur ?","pl": "Gdzie jest winda?"},{"id": "pl-121","fr": "Je voudrais réserver une table.","pl": "Chciałbym zarezerwować stolik."},{"id": "pl-122","fr": "Pour combien de personnes ?","pl": "Na ile osób?"},{"id": "pl-123","fr": "Pour deux personnes.","pl": "Na dwie osoby."},{"id": "pl-124","fr": "À quelle heure ?","pl": "O której godzinie?"},{"id": "pl-125","fr": "Ce soir à vingt heures.","pl": "Dziś wieczorem o dwudziestej."},{"id": "pl-126","fr": "Êtes-vous prêt à commander ?","pl": "Czy są państwo gotowi złożyć zamówienie?"},{"id": "pl-127","fr": "Je vais prendre le poulet.","pl": "Poproszę kurczaka."},{"id": "pl-128","fr": "Et pour boire ?","pl": "A do picia?"},{"id": "pl-129","fr": "De l'eau minérale, s'il vous plaît.","pl": "Wodę mineralną poproszę."},{"id": "pl-130","fr": "Bon appétit !","pl": "Smacznego!"},{"id": "pl-131","fr": "C'était excellent.","pl": "To było wyśmienite."},{"id": "pl-132","fr": "Acceptez-vous les cartes bancaires ?","pl": "Czy akceptują państwo karty płatnicze?"},{"id": "pl-133","fr": "Je vais payer en espèces.","pl": "Zapłacę gotówką."},{"id": "pl-134","fr": "Gardez la monnaie.","pl": "Reszty nie trzeba."},{"id": "pl-135","fr": "Où sont les magasins ?","pl": "Gdzie są sklepy?"},{"id": "pl-136","fr": "Je regarde juste.","pl": "Tylko oglądam."},{"id": "pl-137","fr": "Puis-je essayer ceci ?","pl": "Czy mogę to przymierzyć?"},{"id": "pl-138","fr": "Où sont les cabines d'essayage ?","pl": "Gdzie są przymierzalnie?"},{"id": "pl-139","fr": "Quelle est votre taille ?","pl": "Jaki jest twój rozmiar?"},{"id": "pl-140","fr": "C'est trop grand.","pl": "To jest za duże."},{"id": "pl-141","fr": "C'est trop petit.","pl": "To jest za małe."},{"id": "pl-142","fr": "Avez-vous la taille au-dessus ?","pl": "Czy masz większy rozmiar?"},{"id": "pl-143","fr": "Je le prends.","pl": "Biorę to."},{"id": "pl-144","fr": "Où est la caisse ?","pl": "Gdzie jest kasa?"},{"id": "pl-145","fr": "Puis-je avoir un sac ?","pl": "Czy mogę prosić o torbę?"},{"id": "pl-146","fr": "Je voudrais un remboursement.","pl": "Chciałbym otrzymać zwrot pieniędzy."},{"id": "pl-147","fr": "C'est cassé.","pl": "To jest zepsute."},{"id": "pl-148","fr": "Où se trouve la pharmacie ?","pl": "Gdzie jest apteka?"},{"id": "pl-149","fr": "Je suis malade.","pl": "Jestem chory."},{"id": "pl-150","fr": "J'ai mal à la tête.","pl": "Boli mnie głowa."},{"id": "pl-151","fr": "J'ai de la fièvre.","pl": "Mam gorączkę."},{"id": "pl-152","fr": "Il me faut un médicament.","pl": "Potrzebuję lekarstwa."},{"id": "pl-153","fr": "Où est l'hôpital le plus proche ?","pl": "Gdzie jest najbliższy szpital?"},{"id": "pl-154","fr": "Appelez une ambulance !","pl": "Wezwij karetkę!"},{"id": "pl-155","fr": "C'est une urgence.","pl": "To pilny przypadek."},{"id": "pl-156","fr": "Tout va bien ?","pl": "Czy wszystko w porządku?"},{"id": "pl-157","fr": "Oui, tout va bien.","pl": "Tak, wszystko w porządku."},{"id": "pl-158","fr": "Calmez-vous, s'il vous plaît.","pl": "Proszę się uspokoić."},{"id": "pl-159","fr": "Ne vous inquiétez pas.","pl": "Nie martw się."},{"id": "pl-160","fr": "Qu'est-ce qui s'est passé ?","pl": "Co się stało?"},{"id": "pl-161","fr": "C'était un accident.","pl": "To był wypadek."},{"id": "pl-162","fr": "J'ai perdu mon passeport.","pl": "Zgubiłem paszport."},{"id": "pl-163","fr": "Où est le commissariat ?","pl": "Gdzie jest komisariat policji?"},{"id": "pl-164","fr": "On m'a volé mon sac.","pl": "Ukradziono mi torbę."},{"id": "pl-165","fr": "Au voleur !","pl": "Łapać złodzieja!"},{"id": "pl-166","fr": "Aidez-moi !","pl": "Pomocy!"},{"id": "pl-167","fr": "Quelle est la date aujourd'hui ?","pl": "Jaka jest dzisiaj data?"},{"id": "pl-168","fr": "C'est le premier mai.","pl": "Jest pierwszy maja."},{"id": "pl-169","fr": "Quel jour sommes-nous ?","pl": "Jaki jest dzisiaj dzień tygodnia?"},{"id": "pl-170","fr": "Aujourd'hui, c'est lundi.","pl": "Dzisiaj jest poniedziałek."},{"id": "pl-171","fr": "Qu'as-tu fait ce week-end ?","pl": "Co robiłeś w ten weekend?"},{"id": "pl-172","fr": "Je me suis reposé.","pl": "Odpocząłem."},{"id": "pl-173","fr": "Qu'est-ce qu'on fait demain ?","pl": "Co robimy jutro?"},{"id": "pl-174","fr": "On se voit ce soir ?","pl": "Widzimy się dziś wieczorem?"},{"id": "pl-175","fr": "À quelle heure on se retrouve ?","pl": "O której godzinie się spotykamy?"},{"id": "pl-176","fr": "On se retrouve à dix-neuf heures.","pl": "Spotykamy się o dziewiętnastej."},{"id": "pl-177","fr": "Où est le point de rendez-vous ?","pl": "Gdzie jest miejsce spotkania?"},{"id": "pl-178","fr": "Devant le cinéma.","pl": "Przed kinem."},{"id": "pl-179","fr": "Je suis en chemin.","pl": "Jestem w drodze."},{"id": "pl-180","fr": "Je vais être en retard.","pl": "Spóźnię się."},{"id": "pl-181","fr": "Désolé pour le retard.","pl": "Przepraszam za spóźnienie."},{"id": "pl-182","fr": "Ce n'est rien.","pl": "Nic nie szkodzi."},{"id": "pl-183","fr": "Merci d'être venu.","pl": "Dziękuję za przybycie."},{"id": "pl-184","fr": "C'était un plaisir.","pl": "To była przyjemność."},{"id": "pl-185","fr": "À la prochaine fois.","pl": "Do następnego razu."},{"id": "pl-186","fr": "Tu as passé de bonnes vacances ?","pl": "Czy miałeś udane wakacje?"},{"id": "pl-187","fr": "C'était fantastique.","pl": "Było fantastycznie."},{"id": "pl-188","fr": "Où es-tu allé ?","pl": "Gdzie pojechałeś?"},{"id": "pl-189","fr": "Je suis allé à la plage.","pl": "Poszedłem na plażę."},{"id": "pl-190","fr": "Comment était le voyage ?","pl": "Jak minęła podróż?"},{"id": "pl-191","fr": "C'était un peu long.","pl": "To było trochę długo."},{"id": "pl-192","fr": "Tu as pris des photos ?","pl": "Czy robiłeś zdjęcia?"},{"id": "pl-193","fr": "Oui, beaucoup.","pl": "Tak, dużo."},{"id": "pl-194","fr": "Montre-moi, s'il te plaît.","pl": "Pokaż mi, proszę."},{"id": "pl-195","fr": "C'est magnifique.","pl": "To jest piękne."},{"id": "pl-196","fr": "Quelle chance !","pl": "Co za szczęście!"},{"id": "pl-197","fr": "Je veux y aller aussi.","pl": "Też chcę tam pojechać."},{"id": "pl-198","fr": "Peut-être l'année prochaine.","pl": "Może w przyszłym roku."},{"id": "pl-199","fr": "On verra.","pl": "Zobaczymy."},{"id": "pl-200","fr": "C'est la fin du fichier.","pl": "To koniec pliku."}],
 
     "frenchchinese": [{
     "id": "zh-001",
