@@ -4867,7 +4867,983 @@
     "id": "es-pt-196",
     "es": "Llegué bien.",
     "pt": "Cheguei bem."},{"id": "es-pt-197","es": "Que duermas bien.","pt": "Dorme bem."},{"id": "es-pt-198","es": "Dulces sueños.","pt": "Bons sonhos."},{"id": "es-pt-199","es": "Hasta la próxima.","pt": "Até à próxima."},{"id": "es-pt-200","es": "¡Adiós!","pt": "Adeus! / Tchau!"}],
-    "spanishrussian": [],
+    "spanishrussian": [{
+    "id": "es-ru-001",
+    "es": "¿Hola, cómo está?",
+    "ru": "Здравствуйте, как у вас дела?"
+  },
+  {
+    "id": "es-ru-002",
+    "es": "¿Cómo se llama?",
+    "ru": "Как вас зовут?"
+  },
+  {
+    "id": "es-ru-003",
+    "es": "Me llamo John.",
+    "ru": "Меня зовут Джон."
+  },
+  {
+    "id": "es-ru-004",
+    "es": "Mucho gusto en conocerle.",
+    "ru": "Рад с вами познакомиться."
+  },
+  {
+    "id": "es-ru-005",
+    "es": "¿De dónde viene?",
+    "ru": "Откуда вы?"
+  },
+  {
+    "id": "es-ru-006",
+    "es": "Vengo de Francia.",
+    "ru": "Я из Франции."
+  },
+  {
+    "id": "es-ru-007",
+    "es": "¿Dónde vive?",
+    "ru": "Где вы живёте?"
+  },
+  {
+    "id": "es-ru-008",
+    "es": "Vivo en París.",
+    "ru": "Я живу в Париже."
+  },
+  {
+    "id": "es-ru-009",
+    "es": "¿Cuántos años tiene?",
+    "ru": "Сколько вам лет?"
+  },
+  {
+    "id": "es-ru-010",
+    "es": "Tengo treinta años.",
+    "ru": "Мне тридцать лет."
+  },
+  {
+    "id": "es-ru-011",
+    "es": "¿En qué trabaja?",
+    "ru": "Кем вы работаете?"
+  },
+  {
+    "id": "es-ru-012",
+    "es": "Soy estudiante.",
+    "ru": "Я студент."
+  },
+  {
+    "id": "es-ru-013",
+    "es": "¿Habla inglés?",
+    "ru": "Вы говорите по-английски?"
+  },
+  {
+    "id": "es-ru-014",
+    "es": "Hablo un poco de inglés.",
+    "ru": "Я немного говорю по-английски."
+  },
+  {
+    "id": "es-ru-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "ru": "Пожалуйста, вы можете мне помочь?"
+  },
+  {
+    "id": "es-ru-016",
+    "es": "Muchas gracias.",
+    "ru": "Большое спасибо."
+  },
+  {
+    "id": "es-ru-017",
+    "es": "De nada.",
+    "ru": "Пожалуйста / Не за что."
+  },
+  {
+    "id": "es-ru-018",
+    "es": "Por favor.",
+    "ru": "Пожалуйста."
+  },
+  {
+    "id": "es-ru-019",
+    "es": "Disculpe.",
+    "ru": "Извините."
+  },
+  {
+    "id": "es-ru-020",
+    "es": "Lo siento.",
+    "ru": "Мне очень жаль."
+  },
+  {
+    "id": "es-ru-021",
+    "es": "¿Qué hora es?",
+    "ru": "Который час?"
+  },
+  {
+    "id": "es-ru-022",
+    "es": "Son las diez.",
+    "ru": "Сейчас десять часов."
+  },
+  {
+    "id": "es-ru-023",
+    "es": "¿Dónde está el baño?",
+    "ru": "Где находится туалет?"
+  },
+  {
+    "id": "es-ru-024",
+    "es": "Es por allá.",
+    "ru": "Это в той стороне."
+  },
+  {
+    "id": "es-ru-025",
+    "es": "¿Cuánto cuesta?",
+    "ru": "Сколько это стоит?"
+  },
+  {
+    "id": "es-ru-026",
+    "es": "Es demasiado caro.",
+    "ru": "Это слишком дорого."
+  },
+  {
+    "id": "es-ru-027",
+    "es": "¿Dónde está la estación de tren?",
+    "ru": "Где железнодорожный вокзал?"
+  },
+  {
+    "id": "es-ru-028",
+    "es": "Busco un buen restaurante.",
+    "ru": "Я ищу хороший ресторан."
+  },
+  {
+    "id": "es-ru-029",
+    "es": "La cuenta, por favor.",
+    "ru": "Счёт, пожалуйста."
+  },
+  {
+    "id": "es-ru-030",
+    "es": "¿Cómo está el clima hoy?",
+    "ru": "Какая сегодня погода?"
+  },
+  {
+    "id": "es-ru-031",
+    "es": "Hace buen tiempo.",
+    "ru": "Погода хорошая."
+  },
+  {
+    "id": "es-ru-032",
+    "es": "Está lloviendo.",
+    "ru": "Идёт дождь."
+  },
+  {
+    "id": "es-ru-033",
+    "es": "Tengo hambre.",
+    "ru": "Я хочу есть."
+  },
+  {
+    "id": "es-ru-034",
+    "es": "Tengo sed.",
+    "ru": "Я хочу пить."
+  },
+  {
+    "id": "es-ru-035",
+    "es": "Estoy cansado.",
+    "ru": "Я устал."
+  },
+  {
+    "id": "es-ru-036",
+    "es": "No entiendo.",
+    "ru": "Я не понимаю."
+  },
+  {
+    "id": "es-ru-037",
+    "es": "¿Puede repetir?",
+    "ru": "Вы можете повторить?"
+  },
+  {
+    "id": "es-ru-038",
+    "es": "Hable más despacio, por favor.",
+    "ru": "Говорите медленнее, пожалуйста."
+  },
+  {
+    "id": "es-ru-039",
+    "es": "¿Cómo se dice eso en ruso?",
+    "ru": "Как это будет по-русски?"
+  },
+  {
+    "id": "es-ru-040",
+    "es": "¿Qué significa esta palabra?",
+    "ru": "Что значит это слово?"
+  },
+  {
+    "id": "es-ru-041",
+    "es": "Te amo.",
+    "ru": "Я тебя люблю."
+  },
+  {
+    "id": "es-ru-042",
+    "es": "Te extraño.",
+    "ru": "Я по тебе скучаю."
+  },
+  {
+    "id": "es-ru-043",
+    "es": "¡Buena suerte!",
+    "ru": "Удачи!"
+  },
+  {
+    "id": "es-ru-044",
+    "es": "¡Felicitaciones!",
+    "ru": "Поздравляю!"
+  },
+  {
+    "id": "es-ru-045",
+    "es": "¡Feliz cumpleaños!",
+    "ru": "С днём рождения!"
+  },
+  {
+    "id": "es-ru-046",
+    "es": "¡Buen viaje!",
+    "ru": "Счастливого пути!"
+  },
+  {
+    "id": "es-ru-047",
+    "es": "Que tenga un buen día.",
+    "ru": "Хорошего дня."
+  },
+  {
+    "id": "es-ru-048",
+    "es": "Hasta pronto.",
+    "ru": "До скорого."
+  },
+  {
+    "id": "es-ru-049",
+    "es": "Hasta mañana.",
+    "ru": "До завтра."
+  },
+  {
+    "id": "es-ru-050",
+    "es": "Adiós.",
+    "ru": "До свидания."
+  },
+  {
+    "id": "es-ru-051",
+    "es": "¿A dónde va?",
+    "ru": "Куда вы идёте?"
+  },
+  {
+    "id": "es-ru-052",
+    "es": "Voy al supermercado.",
+    "ru": "Я иду в супермаркет."
+  },
+  {
+    "id": "es-ru-053",
+    "es": "¿Qué es esto?",
+    "ru": "Что это такое?"
+  },
+  {
+    "id": "es-ru-054",
+    "es": "No lo sé.",
+    "ru": "Я не знаю."
+  },
+  {
+    "id": "es-ru-055",
+    "es": "¿Está seguro?",
+    "ru": "Вы уверены?"
+  },
+  {
+    "id": "es-ru-056",
+    "es": "Sí, estoy seguro.",
+    "ru": "Да, я уверен."
+  },
+  {
+    "id": "es-ru-057",
+    "es": "Creo que sí.",
+    "ru": "Думаю, да."
+  },
+  {
+    "id": "es-ru-058",
+    "es": "Creo que no.",
+    "ru": "Думаю, нет."
+  },
+  {
+    "id": "es-ru-059",
+    "es": "No hay problema.",
+    "ru": "Без проблем."
+  },
+  {
+    "id": "es-ru-060",
+    "es": "No importa.",
+    "ru": "Это неважно / Ничего страшного."
+  },
+  {
+    "id": "es-ru-061",
+    "es": "¿Qué estás comiendo?",
+    "ru": "Что ты ешь?"
+  },
+  {
+    "id": "es-ru-062",
+    "es": "Está delicioso.",
+    "ru": "Это очень вкусно."
+  },
+  {
+    "id": "es-ru-063",
+    "es": "No me gusta.",
+    "ru": "Мне это не нравится."
+  },
+  {
+    "id": "es-ru-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "ru": "Каковы ваши увлечения?"
+  },
+  {
+    "id": "es-ru-065",
+    "es": "Me gusta leer libros.",
+    "ru": "Мне нравится читать книги."
+  },
+  {
+    "id": "es-ru-066",
+    "es": "Me gusta escuchar música.",
+    "ru": "Мне нравится слушать музыку."
+  },
+  {
+    "id": "es-ru-067",
+    "es": "¿Hace deporte?",
+    "ru": "Вы занимаетесь спортом?"
+  },
+  {
+    "id": "es-ru-068",
+    "es": "Juego al fútbol.",
+    "ru": "Я играю в футбол."
+  },
+  {
+    "id": "es-ru-069",
+    "es": "Estoy viendo una película.",
+    "ru": "Я смотрю фильм."
+  },
+  {
+    "id": "es-ru-070",
+    "es": "¿Dónde lo compraste?",
+    "ru": "Где ты это купил?"
+  },
+  {
+    "id": "es-ru-071",
+    "es": "Es un regalo.",
+    "ru": "Это подарок."
+  },
+  {
+    "id": "es-ru-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "ru": "Закройте окно, пожалуйста."
+  },
+  {
+    "id": "es-ru-073",
+    "es": "Hace frío aquí.",
+    "ru": "Здесь холодно."
+  },
+  {
+    "id": "es-ru-074",
+    "es": "Hace calor afuera.",
+    "ru": "На улице жарко."
+  },
+  {
+    "id": "es-ru-075",
+    "es": "¿Dónde están mis llaves?",
+    "ru": "Где мои ключи?"
+  },
+  {
+    "id": "es-ru-076",
+    "es": "Están sobre la mesa.",
+    "ru": "Они на столе."
+  },
+  {
+    "id": "es-ru-077",
+    "es": "Tengo que irme.",
+    "ru": "Мне пора идти."
+  },
+  {
+    "id": "es-ru-078",
+    "es": "Cuídate.",
+    "ru": "Береги себя."
+  },
+  {
+    "id": "es-ru-079",
+    "es": "Hasta luego.",
+    "ru": "До встречи."
+  },
+  {
+    "id": "es-ru-080",
+    "es": "Buenas noches.",
+    "ru": "Спокойной ночи."
+  },
+  {
+    "id": "es-ru-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "ru": "У вас есть братья или сёстры?"
+  },
+  {
+    "id": "es-ru-082",
+    "es": "Tengo un hermano y una hermana.",
+    "ru": "У меня есть брат и сестра."
+  },
+  {
+    "id": "es-ru-083",
+    "es": "¿Está casado?",
+    "ru": "Вы замужем / женаты?"
+  },
+  {
+    "id": "es-ru-084",
+    "es": "Soy soltero.",
+    "ru": "Я холост / не замужем."
+  },
+  {
+    "id": "es-ru-085",
+    "es": "¿Tienes hijos?",
+    "ru": "У тебя есть дети?"
+  },
+  {
+    "id": "es-ru-086",
+    "es": "Tengo dos hijos.",
+    "ru": "У меня двое детей."
+  },
+  {
+    "id": "es-ru-087",
+    "es": "¿Dónde trabajas?",
+    "ru": "Где ты работаешь?"
+  },
+  {
+    "id": "es-ru-088",
+    "es": "Trabajo en una oficina.",
+    "ru": "Я работаю в офисе."
+  },
+  {
+    "id": "es-ru-089",
+    "es": "¿Le gusta el café o el té?",
+    "ru": "Вы любите кофе или чай?"
+  },
+  {
+    "id": "es-ru-090",
+    "es": "Prefiero tomar té.",
+    "ru": "Я предпочитаю чай."
+  },
+  {
+    "id": "es-ru-091",
+    "es": "Es una buena idea.",
+    "ru": "Это хорошая идея."
+  },
+  {
+    "id": "es-ru-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "ru": "Я устал, пойду спать."
+  },
+  {
+    "id": "es-ru-093",
+    "es": "¿Cuál es su película favorita?",
+    "ru": "Какой ваш любимый фильм?"
+  },
+  {
+    "id": "es-ru-094",
+    "es": "¿Puede mostrarme el camino?",
+    "ru": "Вы можете показать мне дорогу?"
+  },
+  {
+    "id": "es-ru-095",
+    "es": "Perdí mi teléfono.",
+    "ru": "Я потерял свой телефон."
+  },
+  {
+    "id": "es-ru-096",
+    "es": "Llame a un médico, por favor.",
+    "ru": "Вызовите врача, пожалуйста."
+  },
+  {
+    "id": "es-ru-097",
+    "es": "Es una emergencia.",
+    "ru": "Это экстренный случай."
+  },
+  {
+    "id": "es-ru-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "ru": "У вас есть пароль от Wi-Fi?"
+  },
+  {
+    "id": "es-ru-099",
+    "es": "Internet está muy lento.",
+    "ru": "Интернет очень медленный."
+  },
+  {
+    "id": "es-ru-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "ru": "Мне нужно отменить свой билет."
+  },{
+    "id": "es-ru-101",
+    "es": "¿Cuánto dura el viaje?",
+    "ru": "Сколько времени займёт поездка?"
+  },
+  {
+    "id": "es-ru-102",
+    "es": "¿Podemos parar aquí?",
+    "ru": "Мы можем здесь остановиться?"
+  },
+  {
+    "id": "es-ru-103",
+    "es": "Necesito un recibo.",
+    "ru": "Мне нужен чек."
+  },
+  {
+    "id": "es-ru-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "ru": "Где я могу обменять деньги?"
+  },
+  {
+    "id": "es-ru-105",
+    "es": "¿Hay un banco cerca?",
+    "ru": "Есть ли поблизости банк?"
+  },
+  {
+    "id": "es-ru-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "ru": "Вы принимаете кредитные карты?"
+  },
+  {
+    "id": "es-ru-107",
+    "es": "Pago en efectivo.",
+    "ru": "Я заплачу наличными."
+  },
+  {
+    "id": "es-ru-108",
+    "es": "¿Puede hacerme un descuento?",
+    "ru": "Вы можете сделать мне скидку?"
+  },
+  {
+    "id": "es-ru-109",
+    "es": "Esta es mi última palabra.",
+    "ru": "Это моё последнее слово."
+  },
+  {
+    "id": "es-ru-110",
+    "es": "Solo estoy mirando.",
+    "ru": "Я просто осмотрюсь."
+  },
+  {
+    "id": "es-ru-111",
+    "es": "¿Lo tiene en otra talla?",
+    "ru": "У вас есть это другого размера?"
+  },
+  {
+    "id": "es-ru-112",
+    "es": "¿Dónde está el probador?",
+    "ru": "Где примерочная?"
+  },
+  {
+    "id": "es-ru-113",
+    "es": "Me queda bien.",
+    "ru": "Мне это подходит."
+  },
+  {
+    "id": "es-ru-114",
+    "es": "Me lo llevo.",
+    "ru": "Я это беру."
+  },
+  {
+    "id": "es-ru-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "ru": "Где я могу оставить свою сумку?"
+  },
+  {
+    "id": "es-ru-116",
+    "es": "¿Tienen comida vegetariana?",
+    "ru": "У вас есть вегетарианская еда?"
+  },
+  {
+    "id": "es-ru-117",
+    "es": "Soy alérgico.",
+    "ru": "У меня аллергия."
+  },
+  {
+    "id": "es-ru-118",
+    "es": "Sin picante, por favor.",
+    "ru": "Не острое, пожалуйста."
+  },
+  {
+    "id": "es-ru-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "ru": "Принесите мне стакан воды, пожалуйста."
+  },
+  {
+    "id": "es-ru-120",
+    "es": "¡Buen provecho!",
+    "ru": "Приятного аппетита!"
+  },
+  {
+    "id": "es-ru-121",
+    "es": "¡Salud!",
+    "ru": "За здоровье / Будем здоровы!"
+  },
+  {
+    "id": "es-ru-122",
+    "es": "La comida estaba maravillosa.",
+    "ru": "Еда была чудесной."
+  },
+  {
+    "id": "es-ru-123",
+    "es": "Me gustaría reservar una habitación.",
+    "ru": "Я хотел бы забронировать номер."
+  },
+  {
+    "id": "es-ru-124",
+    "es": "¿El desayuno está incluido?",
+    "ru": "Завтрак включён?"
+  },
+  {
+    "id": "es-ru-125",
+    "es": "¿A qué hora es la salida?",
+    "ru": "В какое время выезд?"
+  },
+  {
+    "id": "es-ru-126",
+    "es": "¿Puede llamar a un taxi?",
+    "ru": "Вы можете вызвать такси?"
+  },
+  {
+    "id": "es-ru-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "ru": "Отвезите меня по этому адресу, пожалуйста."
+  },
+  {
+    "id": "es-ru-128",
+    "es": "Deténgase aquí, por favor.",
+    "ru": "Остановитесь здесь, пожалуйста."
+  },
+  {
+    "id": "es-ru-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "ru": "Есть ли здесь поблизости автобусная остановка?"
+  },
+  {
+    "id": "es-ru-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "ru": "Во сколько отправляется следующий поезд?"
+  },
+  {
+    "id": "es-ru-131",
+    "es": "El tren está retrasado.",
+    "ru": "Поезд задерживается."
+  },
+  {
+    "id": "es-ru-132",
+    "es": "Perdí mi vuelo.",
+    "ru": "Я опоздал на свой рейс."
+  },
+  {
+    "id": "es-ru-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "ru": "Где выдача багажа?"
+  },
+  {
+    "id": "es-ru-134",
+    "es": "Esta no es mi maleta.",
+    "ru": "Это не мой чемодан."
+  },
+  {
+    "id": "es-ru-135",
+    "es": "Mi pasaporte desapareció.",
+    "ru": "Мой паспорт пропал."
+  },
+  {
+    "id": "es-ru-136",
+    "es": "¿Dónde está la embajada?",
+    "ru": "Где находится посольство?"
+  },
+  {
+    "id": "es-ru-137",
+    "es": "Necesito ayuda de la policía.",
+    "ru": "Мне нужна помощь полиции."
+  },
+  {
+    "id": "es-ru-138",
+    "es": "Déjame en paz.",
+    "ru": "Оставь меня в покое."
+  },
+  {
+    "id": "es-ru-139",
+    "es": "¡Vete!",
+    "ru": "Уходи!"
+  },
+  {
+    "id": "es-ru-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "ru": "Помогите! Меня обокрали."
+  },
+  {
+    "id": "es-ru-141",
+    "es": "Me perdí.",
+    "ru": "Я заблудился."
+  },
+  {
+    "id": "es-ru-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "ru": "Вы можете показать на карте, где я нахожусь?"
+  },
+  {
+    "id": "es-ru-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "ru": "Какой у вас номер телефона?"
+  },
+  {
+    "id": "es-ru-144",
+    "es": "Escríbalo, por favor.",
+    "ru": "Запишите это, пожалуйста."
+  },
+  {
+    "id": "es-ru-145",
+    "es": "Te llamaré.",
+    "ru": "Я тебе позвоню."
+  },
+  {
+    "id": "es-ru-146",
+    "es": "Mándame un mensaje.",
+    "ru": "Отправь мне сообщение."
+  },
+  {
+    "id": "es-ru-147",
+    "es": "¿Está en las redes sociales?",
+    "ru": "Вы есть в социальных сетях?"
+  },
+  {
+    "id": "es-ru-148",
+    "es": "Te sigo.",
+    "ru": "Я на тебя подпишусь."
+  },
+  {
+    "id": "es-ru-149",
+    "es": "¿Qué hay de nuevo?",
+    "ru": "Что нового?"
+  },
+  {
+    "id": "es-ru-150",
+    "es": "Nada especial.",
+    "ru": "Ничего особенного."
+  },
+  {
+    "id": "es-ru-151",
+    "es": "No veo la hora.",
+    "ru": "Жду с нетерпением."
+  },
+  {
+    "id": "es-ru-152",
+    "es": "No me importa.",
+    "ru": "Мне всё равно."
+  },
+  {
+    "id": "es-ru-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "ru": "Не волнуйся, всё будет хорошо."
+  },
+  {
+    "id": "es-ru-154",
+    "es": "Cálmate, por favor.",
+    "ru": "Успокойся, пожалуйста."
+  },
+  {
+    "id": "es-ru-155",
+    "es": "No te estreses.",
+    "ru": "Не нервничай."
+  },
+  {
+    "id": "es-ru-156",
+    "es": "¡Es increíble!",
+    "ru": "Это невероятно!"
+  },
+  {
+    "id": "es-ru-157",
+    "es": "Estoy orgulloso de ti.",
+    "ru": "Я горжусь тобой."
+  },
+  {
+    "id": "es-ru-158",
+    "es": "Hiciste un buen trabajo.",
+    "ru": "Ты отлично справился."
+  },
+  {
+    "id": "es-ru-159",
+    "es": "¡Ánimo!",
+    "ru": "Выше нос! / Не падай духом!"
+  },
+  {
+    "id": "es-ru-160",
+    "es": "¡No te rindas!",
+    "ru": "Не сдавайся!"
+  },
+  {
+    "id": "es-ru-161",
+    "es": "La práctica hace al maestro.",
+    "ru": "Повторение — мать учения."
+  },
+  {
+    "id": "es-ru-162",
+    "es": "Comencemos mañana.",
+    "ru": "Давай начнём завтра."
+  },
+  {
+    "id": "es-ru-163",
+    "es": "No tengo tiempo hoy.",
+    "ru": "У меня сегодня нет времени."
+  },
+  {
+    "id": "es-ru-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "ru": "Мы можем встретиться на выходных."
+  },
+  {
+    "id": "es-ru-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "ru": "Когда у тебя есть время?"
+  },
+  {
+    "id": "es-ru-166",
+    "es": "Soy flexible.",
+    "ru": "Я подстроюсь."
+  },
+  {
+    "id": "es-ru-167",
+    "es": "Depende del clima.",
+    "ru": "Это зависит от погоды."
+  },
+  {
+    "id": "es-ru-168",
+    "es": "Está nublado hoy.",
+    "ru": "Сегодня облачно."
+  },
+  {
+    "id": "es-ru-169",
+    "es": "Está nevando afuera.",
+    "ru": "На улице идёт снег."
+  },
+  {
+    "id": "es-ru-170",
+    "es": "El viento está muy fuerte.",
+    "ru": "Ветер очень сильный."
+  },
+  {
+    "id": "es-ru-171",
+    "es": "Mañana estará soleado.",
+    "ru": "Завтра будет солнечно."
+  },
+  {
+    "id": "es-ru-172",
+    "es": "Amo el verano.",
+    "ru": "Я люблю лето."
+  },
+  {
+    "id": "es-ru-173",
+    "es": "El invierno es demasiado largo.",
+    "ru": "Зима слишком долгая."
+  },
+  {
+    "id": "es-ru-174",
+    "es": "Es mi estación favorita.",
+    "ru": "Это моё любимое время года."
+  },
+  {
+    "id": "es-ru-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "ru": "Что ты делал на выходных?"
+  },
+  {
+    "id": "es-ru-176",
+    "es": "Me quedé en casa.",
+    "ru": "Я остался дома."
+  },
+  {
+    "id": "es-ru-177",
+    "es": "Visité a mis amigos.",
+    "ru": "Я ходил в гости к друзьям."
+  },
+  {
+    "id": "es-ru-178",
+    "es": "Nos divertimos mucho.",
+    "ru": "Мы отлично провели время."
+  },
+  {
+    "id": "es-ru-179",
+    "es": "Fue una sorpresa.",
+    "ru": "Это был сюрприз."
+  },
+  {
+    "id": "es-ru-180",
+    "es": "Compré un auto nuevo.",
+    "ru": "Я купил новую машину."
+  },
+  {
+    "id": "es-ru-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "ru": "Поздравляю с новой работой!"
+  },
+  {
+    "id": "es-ru-182",
+    "es": "¿Cuándo comienzas?",
+    "ru": "Когда ты начинаешь?"
+  },
+  {
+    "id": "es-ru-183",
+    "es": "Comienzo el próximo lunes.",
+    "ru": "Я начинаю в следующий понедельник."
+  },
+  {
+    "id": "es-ru-184",
+    "es": "Estoy un poco nervioso.",
+    "ru": "Я немного нервничаю."
+  },
+  {
+    "id": "es-ru-185",
+    "es": "Es completamente normal.",
+    "ru": "Это совершенно нормально."
+  },
+  {
+    "id": "es-ru-186",
+    "es": "Lo lograrás.",
+    "ru": "Ты справишься."
+  },
+  {
+    "id": "es-ru-187",
+    "es": "Creo en ti.",
+    "ru": "Я в тебя верю."
+  },
+  {
+    "id": "es-ru-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "ru": "Большое спасибо за поддержку."
+  },
+  {
+    "id": "es-ru-189",
+    "es": "Eres un buen amigo.",
+    "ru": "Ты хороший друг."
+  },
+  {
+    "id": "es-ru-190",
+    "es": "Siempre estoy aquí para ti.",
+    "ru": "Я всегда рядом."
+  },
+  {
+    "id": "es-ru-191",
+    "es": "Esto significa mucho para mí.",
+    "ru": "Это много значит для меня."
+  },
+  {
+    "id": "es-ru-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "ru": "Давай скоро снова встретимся."
+  },
+  {
+    "id": "es-ru-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "ru": "Мне действительно пора идти."
+  },
+  {
+    "id": "es-ru-194",
+    "es": "Que llegues bien a casa.",
+    "ru": "Хорошей дороги домой."
+  },
+  {
+    "id": "es-ru-195",
+    "es": "Escríbeme cuando llegues.",
+    "ru": "Напиши мне, когда приедешь."
+  },
+  {
+    "id": "es-ru-196",
+    "es": "Llegué bien.","ru": "Я благополучно добрался."},{"id": "es-ru-197","es": "Que duermas bien.","ru": "Спи сладко."},{"id": "es-ru-198","es": "Dulces sueños.","ru": "Приятных снов."},{"id": "es-ru-199","es": "Hasta la próxima.","ru": "До следующего раза."},{"id": "es-ru-200","es": "¡Adiós!","ru": "Пока-пока!"}],
     "spanisharabic": [],
     "spanishturkish": [],
     "spanishhindi": [],
