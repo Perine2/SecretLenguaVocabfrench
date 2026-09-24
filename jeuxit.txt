@@ -2903,8 +2903,1957 @@
   {
     "id": "it-de-193",
     "it": "Adesso devo proprio andare.","de": "Ich muss jetzt wirklich gehen."},{"id": "it-de-194","it": "Fai buon rientro a casa.","de": "Komm gut nach Hause."},{"id": "it-de-195","it": "Scrivimi quando arrivi.","de": "Schreib mir, wenn du angekommen bist."},{"id": "it-de-196","it": "Sono arrivato bene.","de": "Ich bin gut angekommen."},{"id": "it-de-197","it": "Dormi bene.","de": "Schlaf gut."},{"id": "it-de-198","it": "Sogni d'oro.","de": "Träum süß."},{"id": "it-de-199","it": "Alla prossima volta.","de": "Bis zum nächsten Mal."},{"id": "it-de-200","it": "Ciao ciao!","de": "Tschüss!"}],
-    "italianspanish": [],
-    "italianportuguese": [],
+    "italianspanish": [ {
+    "id": "it-es-001",
+    "it": "Ciao, come sta?",
+    "es": "¿Hola, cómo está?"
+  },
+  {
+    "id": "it-es-002",
+    "it": "Come si chiama?",
+    "es": "¿Cómo se llama?"
+  },
+  {
+    "id": "it-es-003",
+    "it": "Mi chiamo John.",
+    "es": "Me llamo John."
+  },
+  {
+    "id": "it-es-004",
+    "it": "Piacere di conoscerla.",
+    "es": "Mucho gusto en conocerle."
+  },
+  {
+    "id": "it-es-005",
+    "it": "Da dove viene?",
+    "es": "¿De dónde viene?"
+  },
+  {
+    "id": "it-es-006",
+    "it": "Vengo dalla Francia.",
+    "es": "Vengo de Francia."
+  },
+  {
+    "id": "it-es-007",
+    "it": "Dove abita?",
+    "es": "¿Dónde vive?"
+  },
+  {
+    "id": "it-es-008",
+    "it": "Abito a Parigi.",
+    "es": "Vivo en París."
+  },
+  {
+    "id": "it-es-009",
+    "it": "Quanti anni ha?",
+    "es": "¿Cuántos años tiene?"
+  },
+  {
+    "id": "it-es-010",
+    "it": "Ho trent'anni.",
+    "es": "Tengo treinta años."
+  },
+  {
+    "id": "it-es-011",
+    "it": "Che lavoro fa?",
+    "es": "¿En qué trabaja?"
+  },
+  {
+    "id": "it-es-012",
+    "it": "Sono uno studente.",
+    "es": "Soy estudiante."
+  },
+  {
+    "id": "it-es-013",
+    "it": "Parla inglese?",
+    "es": "¿Habla inglés?"
+  },
+  {
+    "id": "it-es-014",
+    "it": "Parlo un po' di inglese.",
+    "es": "Hablo un poco de inglés."
+  },
+  {
+    "id": "it-es-015",
+    "it": "Può aiutarmi, per favore?",
+    "es": "¿Puede ayudarme, por favor?"
+  },
+  {
+    "id": "it-es-016",
+    "it": "Grazie mille.",
+    "es": "Muchas gracias."
+  },
+  {
+    "id": "it-es-017",
+    "it": "Prego.",
+    "es": "De nada."
+  },
+  {
+    "id": "it-es-018",
+    "it": "Per favore.",
+    "es": "Por favor."
+  },
+  {
+    "id": "it-es-019",
+    "it": "Mi scusi.",
+    "es": "Disculpe."
+  },
+  {
+    "id": "it-es-020",
+    "it": "Mi dispiace.",
+    "es": "Lo siento."
+  },
+  {
+    "id": "it-es-021",
+    "it": "Che ore sono?",
+    "es": "¿Qué hora es?"
+  },
+  {
+    "id": "it-es-022",
+    "it": "Sono le dieci.",
+    "es": "Son las diez."
+  },
+  {
+    "id": "it-es-023",
+    "it": "Dov'è il bagno?",
+    "es": "¿Dónde está el baño?"
+  },
+  {
+    "id": "it-es-024",
+    "it": "È da quella parte.",
+    "es": "Es por allá."
+  },
+  {
+    "id": "it-es-025",
+    "it": "Quanto costa?",
+    "es": "¿Cuánto cuesta?"
+  },
+  {
+    "id": "it-es-026",
+    "it": "È troppo caro.",
+    "es": "Es demasiado caro."
+  },
+  {
+    "id": "it-es-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "es": "¿Dónde está la estación de tren?"
+  },
+  {
+    "id": "it-es-028",
+    "it": "Cerco un buon ristorante.",
+    "es": "Busco un buen restaurante."
+  },
+  {
+    "id": "it-es-029",
+    "it": "Il conto, per favore.",
+    "es": "La cuenta, por favor."
+  },
+  {
+    "id": "it-es-030",
+    "it": "Com'è il tempo oggi?",
+    "es": "¿Cómo está el clima hoy?"
+  },
+  {
+    "id": "it-es-031",
+    "it": "Il tempo è bello.",
+    "es": "Hace buen tiempo."
+  },
+  {
+    "id": "it-es-032",
+    "it": "Piove.",
+    "es": "Está lloviendo."
+  },
+  {
+    "id": "it-es-033",
+    "it": "Ho fame.",
+    "es": "Tengo hambre."
+  },
+  {
+    "id": "it-es-034",
+    "it": "Ho sete.",
+    "es": "Tengo sed."
+  },
+  {
+    "id": "it-es-035",
+    "it": "Sono stanco.",
+    "es": "Estoy cansado."
+  },
+  {
+    "id": "it-es-036",
+    "it": "Non capisco.",
+    "es": "No entiendo."
+  },
+  {
+    "id": "it-es-037",
+    "it": "Può ripetere?",
+    "es": "¿Puede repetir?"
+  },
+  {
+    "id": "it-es-038",
+    "it": "Parli più lentamente, per favore.",
+    "es": "Hable más despacio, por favor."
+  },
+  {
+    "id": "it-es-039",
+    "it": "Come si dice in spagnolo?",
+    "es": "¿Cómo se dice eso en español?"
+  },
+  {
+    "id": "it-es-040",
+    "it": "Cosa significa questa parola?",
+    "es": "¿Qué significa esta palabra?"
+  },
+  {
+    "id": "it-es-041",
+    "it": "Ti amo.",
+    "es": "Te amo."
+  },
+  {
+    "id": "it-es-042",
+    "it": "Mi manchi.",
+    "es": "Te extraño."
+  },
+  {
+    "id": "it-es-043",
+    "it": "Buona fortuna!",
+    "es": "¡Buena suerte!"
+  },
+  {
+    "id": "it-es-044",
+    "it": "Congratulazioni!",
+    "es": "¡Felicitaciones!"
+  },
+  {
+    "id": "it-es-045",
+    "it": "Buon compleanno!",
+    "es": "¡Feliz cumpleaños!"
+  },
+  {
+    "id": "it-es-046",
+    "it": "Buon viaggio!",
+    "es": "¡Buen viaje!"
+  },
+  {
+    "id": "it-es-047",
+    "it": "Buona giornata.",
+    "es": "Que tenga un buen día."
+  },
+  {
+    "id": "it-es-048",
+    "it": "A presto.",
+    "es": "Hasta pronto."
+  },
+  {
+    "id": "it-es-049",
+    "it": "A domani.",
+    "es": "Hasta mañana."
+  },
+  {
+    "id": "it-es-050",
+    "it": "Arrivederci.",
+    "es": "Adiós."
+  },
+  {
+    "id": "it-es-051",
+    "it": "Dove va?",
+    "es": "¿A dónde va?"
+  },
+  {
+    "id": "it-es-052",
+    "it": "Vado al supermercato.",
+    "es": "Voy al supermercado."
+  },
+  {
+    "id": "it-es-053",
+    "it": "Cos'è questo?",
+    "es": "¿Qué es esto?"
+  },
+  {
+    "id": "it-es-054",
+    "it": "Non lo so.",
+    "es": "No lo sé."
+  },
+  {
+    "id": "it-es-055",
+    "it": "È sicuro?",
+    "es": "¿Está seguro?"
+  },
+  {
+    "id": "it-es-056",
+    "it": "Sì, sono sicuro.",
+    "es": "Sí, estoy seguro."
+  },
+  {
+    "id": "it-es-057",
+    "it": "Penso di sì.",
+    "es": "Creo que sí."
+  },
+  {
+    "id": "it-es-058",
+    "it": "Penso di no.",
+    "es": "Creo que no."
+  },
+  {
+    "id": "it-es-059",
+    "it": "Nessun problema.",
+    "es": "No hay problema."
+  },
+  {
+    "id": "it-es-060",
+    "it": "Non importa.",
+    "es": "No importa."
+  },
+  {
+    "id": "it-es-061",
+    "it": "Cosa mangi?",
+    "es": "¿Qué estás comiendo?"
+  },
+  {
+    "id": "it-es-062",
+    "it": "È delizioso.",
+    "es": "Está delicioso."
+  },
+  {
+    "id": "it-es-063",
+    "it": "Non mi piace.",
+    "es": "No me gusta."
+  },
+  {
+    "id": "it-es-064",
+    "it": "Quali sono i suoi hobby?",
+    "es": "¿Cuáles son sus pasatiempos?"
+  },
+  {
+    "id": "it-es-065",
+    "it": "Mi piace leggere libri.",
+    "es": "Me gusta leer libros."
+  },
+  {
+    "id": "it-es-066",
+    "it": "Mi piace ascoltare musica.",
+    "es": "Me gusta escuchar música."
+  },
+  {
+    "id": "it-es-067",
+    "it": "Fa sport?",
+    "es": "¿Hace deporte?"
+  },
+  {
+    "id": "it-es-068",
+    "it": "Gioco a calcio.",
+    "es": "Juego al fútbol."
+  },
+  {
+    "id": "it-es-069",
+    "it": "Guardo un film.",
+    "es": "Estoy viendo una película."
+  },
+  {
+    "id": "it-es-070",
+    "it": "Dove l'hai comprato?",
+    "es": "¿Dónde lo compraste?"
+  },
+  {
+    "id": "it-es-071",
+    "it": "È un regalo.",
+    "es": "Es un regalo."
+  },
+  {
+    "id": "it-es-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "es": "¿Puede cerrar la ventana, por favor?"
+  },
+  {
+    "id": "it-es-073",
+    "it": "Fa freddo qui.",
+    "es": "Hace frío aquí."
+  },
+  {
+    "id": "it-es-074",
+    "it": "Fa caldo fuori.",
+    "es": "Hace calor afuera."
+  },
+  {
+    "id": "it-es-075",
+    "it": "Dove sono le mie chiavi?",
+    "es": "¿Dónde están mis llaves?"
+  },
+  {
+    "id": "it-es-076",
+    "it": "Sono sul tavolo.",
+    "es": "Están sobre la mesa."
+  },
+  {
+    "id": "it-es-077",
+    "it": "Devo andare.",
+    "es": "Tengo que irme."
+  },
+  {
+    "id": "it-es-078",
+    "it": "Stammi bene.",
+    "es": "Cuídate."
+  },
+  {
+    "id": "it-es-079",
+    "it": "A più tardi.",
+    "es": "Hasta luego."
+  },
+  {
+    "id": "it-es-080",
+    "it": "Buonanotte.",
+    "es": "Buenas noches."
+  },
+  {
+    "id": "it-es-081",
+    "it": "Ha fratelli o sorelle?",
+    "es": "¿Tiene hermanos o hermanas?"
+  },
+  {
+    "id": "it-es-082",
+    "it": "Ho un fratello e una sorella.",
+    "es": "Tengo un hermano y una hermana."
+  },
+  {
+    "id": "it-es-083",
+    "it": "È sposato?",
+    "es": "¿Está casado?"
+  },
+  {
+    "id": "it-es-084",
+    "it": "Sono celibe.",
+    "es": "Soy soltero."
+  },
+  {
+    "id": "it-es-085",
+    "it": "Hai figli?",
+    "es": "¿Tienes hijos?"
+  },
+  {
+    "id": "it-es-086",
+    "it": "Ho due figli.",
+    "es": "Tengo dos hijos."
+  },
+  {
+    "id": "it-es-087",
+    "it": "Dove lavori?",
+    "es": "¿Dónde trabajas?"
+  },
+  {
+    "id": "it-es-088",
+    "it": "Lavoro in ufficio.",
+    "es": "Trabajo en una oficina."
+  },
+  {
+    "id": "it-es-089",
+    "it": "Le piace il caffè o il tè?",
+    "es": "¿Le gusta el café o el té?"
+  },
+  {
+    "id": "it-es-090",
+    "it": "Preferisco bere il tè.",
+    "es": "Prefiero tomar té."
+  },
+  {
+    "id": "it-es-091",
+    "it": "È una buona idea.",
+    "es": "Es una buena idea."
+  },
+  {
+    "id": "it-es-092",
+    "it": "Sono stanco, vado a letto.",
+    "es": "Estoy cansado, me voy a la cama."
+  },
+  {
+    "id": "it-es-093",
+    "it": "Qual è il suo film preferito?",
+    "es": "¿Cuál es su película favorita?"
+  },
+  {
+    "id": "it-es-094",
+    "it": "Può indicarmi la strada?",
+    "es": "¿Puede mostrarme el camino?"
+  },
+  {
+    "id": "it-es-095",
+    "it": "Ho perso il mio telefono.",
+    "es": "Perdí mi teléfono."
+  },
+  {
+    "id": "it-es-096",
+    "it": "Chiami un medico, per favore.",
+    "es": "Llame a un médico, por favor."
+  },
+  {
+    "id": "it-es-097",
+    "it": "È un'emergenza.",
+    "es": "Es una emergencia."
+  },
+  {
+    "id": "it-es-098",
+    "it": "Ha la password del Wi-Fi?",
+    "es": "¿Tiene la contraseña del Wi-Fi?"
+  },
+  {
+    "id": "it-es-099",
+    "it": "Internet è molto lento.",
+    "es": "Internet está muy lento."
+  },
+  {
+    "id": "it-es-100",
+    "it": "Devo annullare il mio biglietto.",
+    "es": "Tengo que cancelar mi boleto."
+  },{
+    "id": "it-es-101",
+    "it": "Quanto dura il viaggio?",
+    "es": "¿Cuánto dura el viaje?"
+  },
+  {
+    "id": "it-es-102",
+    "it": "Possiamo fermarci qui?",
+    "es": "¿Podemos parar aquí?"
+  },
+  {
+    "id": "it-es-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "es": "Necesito un recibo."
+  },
+  {
+    "id": "it-es-104",
+    "it": "Dove posso cambiare il denaro?",
+    "es": "¿Dónde puedo cambiar dinero?"
+  },
+  {
+    "id": "it-es-105",
+    "it": "C'è una banca qui vicino?",
+    "es": "¿Hay un banco cerca?"
+  },
+  {
+    "id": "it-es-106",
+    "it": "Accettate carte di credito?",
+    "es": "¿Aceptan tarjetas de crédito?"
+  },
+  {
+    "id": "it-es-107",
+    "it": "Pago in contanti.",
+    "es": "Pago en efectivo."
+  },
+  {
+    "id": "it-es-108",
+    "it": "Può farmi uno sconto?",
+    "es": "¿Puede hacerme un descuento?"
+  },
+  {
+    "id": "it-es-109",
+    "it": "Questa è la mia ultima parola.",
+    "es": "Esta es mi última palabra."
+  },
+  {
+    "id": "it-es-110",
+    "it": "Sto solo dando un'occhiata.",
+    "es": "Solo estoy mirando."
+  },
+  {
+    "id": "it-es-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "es": "¿Lo tiene en otra talla?"
+  },
+  {
+    "id": "it-es-112",
+    "it": "Dov'è il camerino?",
+    "es": "¿Dónde está el probador?"
+  },
+  {
+    "id": "it-es-113",
+    "it": "Mi sta bene.",
+    "es": "Me queda bien."
+  },
+  {
+    "id": "it-es-114",
+    "it": "Lo prendo.",
+    "es": "Me lo llevo."
+  },
+  {
+    "id": "it-es-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "es": "¿Dónde puedo dejar mi bolso?"
+  },
+  {
+    "id": "it-es-116",
+    "it": "Avete cibo vegetariano?",
+    "es": "¿Tienen comida vegetariana?"
+  },
+  {
+    "id": "it-es-117",
+    "it": "Sono allergico.",
+    "es": "Soy alérgico."
+  },
+  {
+    "id": "it-es-118",
+    "it": "Non piccante, per favore.",
+    "es": "Sin picante, por favor."
+  },
+  {
+    "id": "it-es-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "es": "Tráigame un vaso de agua, por favor."
+  },
+  {
+    "id": "it-es-120",
+    "it": "Buon appetito!",
+    "es": "¡Buen provecho!"
+  },
+  {
+    "id": "it-es-121",
+    "it": "Cin cin!",
+    "es": "¡Salud!"
+  },
+  {
+    "id": "it-es-122",
+    "it": "Il cibo era meraviglioso.",
+    "es": "La comida estaba maravillosa."
+  },
+  {
+    "id": "it-es-123",
+    "it": "Vorrei prenotare una camera.",
+    "es": "Me gustaría reservar una habitación."
+  },
+  {
+    "id": "it-es-124",
+    "it": "La colazione è inclusa?",
+    "es": "¿El desayuno está incluido?"
+  },
+  {
+    "id": "it-es-125",
+    "it": "A che ora è il check-out?",
+    "es": "¿A qué hora es la salida?"
+  },
+  {
+    "id": "it-es-126",
+    "it": "Può chiamare un taxi?",
+    "es": "¿Puede llamar a un taxi?"
+  },
+  {
+    "id": "it-es-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "es": "Lléveme a esta dirección, por favor."
+  },
+  {
+    "id": "it-es-128",
+    "it": "Si fermi qui, per favore.",
+    "es": "Deténgase aquí, por favor."
+  },
+  {
+    "id": "it-es-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "es": "¿Hay una parada de autobús cerca?"
+  },
+  {
+    "id": "it-es-130",
+    "it": "A che ora parte il prossimo treno?",
+    "es": "¿A qué hora sale el próximo tren?"
+  },
+  {
+    "id": "it-es-131",
+    "it": "Il treno è in ritardo.",
+    "es": "El tren está retrasado."
+  },
+  {
+    "id": "it-es-132",
+    "it": "Ho perso il mio volo.",
+    "es": "Perdí mi vuelo."
+  },
+  {
+    "id": "it-es-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "es": "¿Dónde está el reclamo de equipaje?"
+  },
+  {
+    "id": "it-es-134",
+    "it": "Questa non è la mia valigia.",
+    "es": "Esta no es mi maleta."
+  },
+  {
+    "id": "it-es-135",
+    "it": "Il mio passaporto è sparito.",
+    "es": "Mi pasaporte desapareció."
+  },
+  {
+    "id": "it-es-136",
+    "it": "Dov'è l'ambasciata?",
+    "es": "¿Dónde está la embajada?"
+  },
+  {
+    "id": "it-es-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "es": "Necesito ayuda de la policía."
+  },
+  {
+    "id": "it-es-138",
+    "it": "Lasciami in pace.",
+    "es": "Déjame en paz."
+  },
+  {
+    "id": "it-es-139",
+    "it": "Vai via!",
+    "es": "¡Vete!"
+  },
+  {
+    "id": "it-es-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "es": "¡Ayuda! Alguien me robó."
+  },
+  {
+    "id": "it-es-141",
+    "it": "Mi sono perso.",
+    "es": "Me perdí."
+  },
+  {
+    "id": "it-es-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?"
+  },
+  {
+    "id": "it-es-143",
+    "it": "Qual è il suo numero di telefono?",
+    "es": "¿Cuál es su número de teléfono?"
+  },
+  {
+    "id": "it-es-144",
+    "it": "Lo scriva, per favore.",
+    "es": "Escríbalo, por favor."
+  },
+  {
+    "id": "it-es-145",
+    "it": "Ti chiamerò.",
+    "es": "Te llamaré."
+  },
+  {
+    "id": "it-es-146",
+    "it": "Mandami un messaggio.",
+    "es": "Mándame un mensaje."
+  },
+  {
+    "id": "it-es-147",
+    "it": "È sui social media?",
+    "es": "¿Está en las redes sociales?"
+  },
+  {
+    "id": "it-es-148",
+    "it": "Ti seguo.",
+    "es": "Te sigo."
+  },
+  {
+    "id": "it-es-149",
+    "it": "Quali sono le novità?",
+    "es": "¿Qué hay de nuevo?"
+  },
+  {
+    "id": "it-es-150",
+    "it": "Nulla di speciale.",
+    "es": "Nada especial."
+  },
+  {
+    "id": "it-es-151",
+    "it": "Non vedo l'ora.",
+    "es": "No veo la hora."
+  },
+  {
+    "id": "it-es-152",
+    "it": "Non mi importa.",
+    "es": "No me importa."
+  },
+  {
+    "id": "it-es-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "es": "No te preocupes, todo saldrá bien."
+  },
+  {
+    "id": "it-es-154",
+    "it": "Calmati, per favore.",
+    "es": "Cálmate, por favor."
+  },
+  {
+    "id": "it-es-155",
+    "it": "Non stressarti.",
+    "es": "No te estreses."
+  },
+  {
+    "id": "it-es-156",
+    "it": "È incredibile!",
+    "es": "¡Es increíble!"
+  },
+  {
+    "id": "it-es-157",
+    "it": "Sono orgoglioso di te.",
+    "es": "Estoy orgulloso de ti."
+  },
+  {
+    "id": "it-es-158",
+    "it": "Hai fatto un buon lavoro.",
+    "es": "Hiciste un buen trabajo."
+  },
+  {
+    "id": "it-es-159",
+    "it": "Su col morale!",
+    "es": "¡Ánimo! / ¡Levanta la cabeza!"
+  },
+  {
+    "id": "it-es-160",
+    "it": "Non ti arrendere!",
+    "es": "¡No te rindas!"
+  },
+  {
+    "id": "it-es-161",
+    "it": "L'esercizio rende perfetti.",
+    "es": "La práctica hace al maestro."
+  },
+  {
+    "id": "it-es-162",
+    "it": "Cominciamo domani.",
+    "es": "Comencemos mañana."
+  },
+  {
+    "id": "it-es-163",
+    "it": "Non ho tempo oggi.",
+    "es": "No tengo tiempo hoy."
+  },
+  {
+    "id": "it-es-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "es": "Podemos encontrarnos el fin de semana."
+  },
+  {
+    "id": "it-es-165",
+    "it": "Quando hai tempo?",
+    "es": "¿Cuándo tienes tiempo?"
+  },
+  {
+    "id": "it-es-166",
+    "it": "Sono flessibile.",
+    "es": "Soy flexible."
+  },
+  {
+    "id": "it-es-167",
+    "it": "Dipende dal tempo.",
+    "es": "Depende del clima."
+  },
+  {
+    "id": "it-es-168",
+    "it": "È nuvoloso oggi.",
+    "es": "Está nublado hoy."
+  },
+  {
+    "id": "it-es-169",
+    "it": "Nevica fuori.",
+    "es": "Está nevando afuera."
+  },
+  {
+    "id": "it-es-170",
+    "it": "Il vento è molto forte.",
+    "es": "El viento está muy fuerte."
+  },
+  {
+    "id": "it-es-171",
+    "it": "Domani sarà soleggiato.",
+    "es": "Mañana estará soleado."
+  },
+  {
+    "id": "it-es-172",
+    "it": "Amo l'estate.",
+    "es": "Amo el verano."
+  },
+  {
+    "id": "it-es-173",
+    "it": "L'inverno è troppo lungo.",
+    "es": "El invierno es demasiado largo."
+  },
+  {
+    "id": "it-es-174",
+    "it": "È la mia stagione preferita.",
+    "es": "Es mi estación favorita."
+  },
+  {
+    "id": "it-es-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "es": "¿Qué hiciste el fin de semana?"
+  },
+  {
+    "id": "it-es-176",
+    "it": "Sono rimasto a casa.",
+    "es": "Me quedé en casa."
+  },
+  {
+    "id": "it-es-177",
+    "it": "Ho visitato i miei amici.",
+    "es": "Visité a mis amigos."
+  },
+  {
+    "id": "it-es-178",
+    "it": "Ci siamo divertiti molto.",
+    "es": "Nos divertimos mucho."
+  },
+  {
+    "id": "it-es-179",
+    "it": "È stata una sorpresa.",
+    "es": "Fue una sorpresa."
+  },
+  {
+    "id": "it-es-180",
+    "it": "Ho comprato una nuova auto.",
+    "es": "Compré un auto nuevo."
+  },
+  {
+    "id": "it-es-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "es": "¡Felicitaciones por el nuevo trabajo!"
+  },
+  {
+    "id": "it-es-182",
+    "it": "Quando cominci?",
+    "es": "¿Cuándo comienzas?"
+  },
+  {
+    "id": "it-es-183",
+    "it": "Comincio lunedì prossimo.",
+    "es": "Comienzo el próximo lunes."
+  },
+  {
+    "id": "it-es-184",
+    "it": "Sono un po' nervoso.",
+    "es": "Estoy un poco nervioso."
+  },
+  {
+    "id": "it-es-185",
+    "it": "È del tutto normale.",
+    "es": "Es completamente normal."
+  },
+  {
+    "id": "it-es-186",
+    "it": "Ce la farai.",
+    "es": "Lo lograrás."
+  },
+  {
+    "id": "it-es-187",
+    "it": "Credo in te.",
+    "es": "Creo en ti."
+  },
+  {
+    "id": "it-es-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "es": "Muchas gracias por tu apoyo."
+  },
+  {
+    "id": "it-es-189",
+    "it": "Sei un buon amico.",
+    "es": "Eres un buen amigo."
+  },
+  {
+    "id": "it-es-190",
+    "it": "Ci sono sempre per te.",
+    "es": "Siempre estoy aquí para ti."
+  },
+  {
+    "id": "it-es-191",
+    "it": "Questo significa molto per me.",
+    "es": "Esto significa mucho para mí."
+  },
+  {
+    "id": "it-es-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "es": "Reunámonos de nuevo pronto."
+  },
+  {
+    "id": "it-es-193",
+    "it": "Adesso devo proprio andare.",
+    "es": "Ahora de verdad tengo que irme."
+  },
+  {
+    "id": "it-es-194",
+    "it": "Fai buon rientro a casa.",
+    "es": "Que llegues bien a casa."
+  },
+  {
+    "id": "it-es-195",
+    "it": "Scrivimi quando arrivi.",
+    "es": "Escríbeme cuando llegues."
+  },
+  {
+    "id": "it-es-196","it": "Sono arrivato bene.","es": "Llegué bien."},{"id": "it-es-197","it": "Dormi bene.","es": "Que duermas bien."},{"id": "it-es-198","it": "Sogni d'oro.","es": "Dulces sueños."},{"id": "it-es-199","it": "Alla prossima volta.","es": "Hasta la próxima."},{"id": "it-es-200","it": "Ciao ciao!","es": "¡Chao chao! / ¡Adiós!"}],
+    "italianportuguese": [{
+    "id": "it-pt-001",
+    "it": "Ciao, come sta?",
+    "pt": "Olá, como está?"
+  },
+  {
+    "id": "it-pt-002",
+    "it": "Come si chiama?",
+    "pt": "Como se chama?"
+  },
+  {
+    "id": "it-pt-003",
+    "it": "Mi chiamo John.",
+    "pt": "Chamo-me John."
+  },
+  {
+    "id": "it-pt-004",
+    "it": "Piacere di conoscerla.",
+    "pt": "Prazer em conhecê-lo."
+  },
+  {
+    "id": "it-pt-005",
+    "it": "Da dove viene?",
+    "pt": "De onde vem?"
+  },
+  {
+    "id": "it-pt-006",
+    "it": "Vengo dalla Francia.",
+    "pt": "Venho da França."
+  },
+  {
+    "id": "it-pt-007",
+    "it": "Dove abita?",
+    "pt": "Onde mora?"
+  },
+  {
+    "id": "it-pt-008",
+    "it": "Abito a Parigi.",
+    "pt": "Moro em Paris."
+  },
+  {
+    "id": "it-pt-009",
+    "it": "Quanti anni ha?",
+    "pt": "Quantos anos tem?"
+  },
+  {
+    "id": "it-pt-010",
+    "it": "Ho trent'anni.",
+    "pt": "Tenho trinta anos."
+  },
+  {
+    "id": "it-pt-011",
+    "it": "Che lavoro fa?",
+    "pt": "Qual é a sua profissão?"
+  },
+  {
+    "id": "it-pt-012",
+    "it": "Sono uno studente.",
+    "pt": "Sou estudante."
+  },
+  {
+    "id": "it-pt-013",
+    "it": "Parla inglese?",
+    "pt": "Fala inglês?"
+  },
+  {
+    "id": "it-pt-014",
+    "it": "Parlo un po' di inglese.",
+    "pt": "Falo um pouco de inglês."
+  },
+  {
+    "id": "it-pt-015",
+    "it": "Può aiutarmi, per favore?",
+    "pt": "Pode ajudar-me, por favor?"
+  },
+  {
+    "id": "it-pt-016",
+    "it": "Grazie mille.",
+    "pt": "Muito obrigado."
+  },
+  {
+    "id": "it-pt-017",
+    "it": "Prego.",
+    "pt": "De nada."
+  },
+  {
+    "id": "it-pt-018",
+    "it": "Per favore.",
+    "pt": "Por favor."
+  },
+  {
+    "id": "it-pt-019",
+    "it": "Mi scusi.",
+    "pt": "Com licença / Desculpe."
+  },
+  {
+    "id": "it-pt-020",
+    "it": "Mi dispiace.",
+    "pt": "Lamento / Sinto muito."
+  },
+  {
+    "id": "it-pt-021",
+    "it": "Che ore sono?",
+    "pt": "Que horas são?"
+  },
+  {
+    "id": "it-pt-022",
+    "it": "Sono le dieci.",
+    "pt": "São dez horas."
+  },
+  {
+    "id": "it-pt-023",
+    "it": "Dov'è il bagno?",
+    "pt": "Onde fica a casa de banho?"
+  },
+  {
+    "id": "it-pt-024",
+    "it": "È da quella parte.",
+    "pt": "É por ali."
+  },
+  {
+    "id": "it-pt-025",
+    "it": "Quanto costa?",
+    "pt": "Quanto custa?"
+  },
+  {
+    "id": "it-pt-026",
+    "it": "È troppo caro.",
+    "pt": "É demasiado caro."
+  },
+  {
+    "id": "it-pt-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "pt": "Onde fica a estação de comboios?"
+  },
+  {
+    "id": "it-pt-028",
+    "it": "Cerco un buon ristorante.",
+    "pt": "Procuro um bom restaurante."
+  },
+  {
+    "id": "it-pt-029",
+    "it": "Il conto, per favore.",
+    "pt": "A conta, por favor."
+  },
+  {
+    "id": "it-pt-030",
+    "it": "Com'è il tempo oggi?",
+    "pt": "Como está o tempo hoje?"
+  },
+  {
+    "id": "it-pt-031",
+    "it": "Il tempo è bello.",
+    "pt": "O tempo está bom."
+  },
+  {
+    "id": "it-pt-032",
+    "it": "Piove.",
+    "pt": "Está a chover."
+  },
+  {
+    "id": "it-pt-033",
+    "it": "Ho fame.",
+    "pt": "Estou com fome."
+  },
+  {
+    "id": "it-pt-034",
+    "it": "Ho sete.",
+    "pt": "Estou com sede."
+  },
+  {
+    "id": "it-pt-035",
+    "it": "Sono stanco.",
+    "pt": "Estou cansado."
+  },
+  {
+    "id": "it-pt-036",
+    "it": "Non capisco.",
+    "pt": "Não entendo."
+  },
+  {
+    "id": "it-pt-037",
+    "it": "Può ripetere?",
+    "pt": "Pode repetir?"
+  },
+  {
+    "id": "it-pt-038",
+    "it": "Parli più lentamente, per favore.",
+    "pt": "Fale mais devagar, por favor."
+  },
+  {
+    "id": "it-pt-039",
+    "it": "Come si dice in portoghese?",
+    "pt": "Como se diz isso em português?"
+  },
+  {
+    "id": "it-pt-040",
+    "it": "Cosa significa questa parola?",
+    "pt": "O que significa esta palavra?"
+  },
+  {
+    "id": "it-pt-041",
+    "it": "Ti amo.",
+    "pt": "Amo-te."
+  },
+  {
+    "id": "it-pt-042",
+    "it": "Mi manchi.",
+    "pt": "Sinto a tua falta."
+  },
+  {
+    "id": "it-pt-043",
+    "it": "Buona fortuna!",
+    "pt": "Boa sorte!"
+  },
+  {
+    "id": "it-pt-044",
+    "it": "Congratulazioni!",
+    "pt": "Parabéns!"
+  },
+  {
+    "id": "it-pt-045",
+    "it": "Buon compleanno!",
+    "pt": "Feliz aniversário!"
+  },
+  {
+    "id": "it-pt-046",
+    "it": "Buon viaggio!",
+    "pt": "Boa viagem!"
+  },
+  {
+    "id": "it-pt-047",
+    "it": "Buona giornata.",
+    "pt": "Tenha um bom dia."
+  },
+  {
+    "id": "it-pt-048",
+    "it": "A presto.",
+    "pt": "Até breve."
+  },
+  {
+    "id": "it-pt-049",
+    "it": "A domani.",
+    "pt": "Até amanhã."
+  },
+  {
+    "id": "it-pt-050",
+    "it": "Arrivederci.",
+    "pt": "Adeus."
+  },
+  {
+    "id": "it-pt-051",
+    "it": "Dove va?",
+    "pt": "Para onde vai?"
+  },
+  {
+    "id": "it-pt-052",
+    "it": "Vado al supermercato.",
+    "pt": "Vou ao supermercado."
+  },
+  {
+    "id": "it-pt-053",
+    "it": "Cos'è questo?",
+    "pt": "O que é isto?"
+  },
+  {
+    "id": "it-pt-054",
+    "it": "Non lo so.",
+    "pt": "Não sei."
+  },
+  {
+    "id": "it-pt-055",
+    "it": "È sicuro?",
+    "pt": "Tem a certeza?"
+  },
+  {
+    "id": "it-pt-056",
+    "it": "Sì, sono sicuro.",
+    "pt": "Sim, tenho a certeza."
+  },
+  {
+    "id": "it-pt-057",
+    "it": "Penso di sì.",
+    "pt": "Acho que sim."
+  },
+  {
+    "id": "it-pt-058",
+    "it": "Penso di no.",
+    "pt": "Acho que não."
+  },
+  {
+    "id": "it-pt-059",
+    "it": "Nessun problema.",
+    "pt": "Não há problema."
+  },
+  {
+    "id": "it-pt-060",
+    "it": "Non importa.",
+    "pt": "Não importa."
+  },
+  {
+    "id": "it-pt-061",
+    "it": "Cosa mangi?",
+    "pt": "O que estás a comer?"
+  },
+  {
+    "id": "it-pt-062",
+    "it": "È delizioso.",
+    "pt": "Está delicioso."
+  },
+  {
+    "id": "it-pt-063",
+    "it": "Non mi piace.",
+    "pt": "Não gosto."
+  },
+  {
+    "id": "it-pt-064",
+    "it": "Quali sono i suoi hobby?",
+    "pt": "Quais são os seus passatempos?"
+  },
+  {
+    "id": "it-pt-065",
+    "it": "Mi piace leggere libri.",
+    "pt": "Gosto de ler livros."
+  },
+  {
+    "id": "it-pt-066",
+    "it": "Mi piace ascoltare musica.",
+    "pt": "Gosto de ouvir música."
+  },
+  {
+    "id": "it-pt-067",
+    "it": "Fa sport?",
+    "pt": "Pratica desporto?"
+  },
+  {
+    "id": "it-pt-068",
+    "it": "Gioco a calcio.",
+    "pt": "Jogo futebol."
+  },
+  {
+    "id": "it-pt-069",
+    "it": "Guardo un film.",
+    "pt": "Estou a ver um filme."
+  },
+  {
+    "id": "it-pt-070",
+    "it": "Dove l'hai comprato?",
+    "pt": "Onde compraste isso?"
+  },
+  {
+    "id": "it-pt-071",
+    "it": "È un regalo.",
+    "pt": "É um presente."
+  },
+  {
+    "id": "it-pt-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "pt": "Pode fechar a janela, por favor?"
+  },
+  {
+    "id": "it-pt-073",
+    "it": "Fa freddo qui.",
+    "pt": "Está frio aqui."
+  },
+  {
+    "id": "it-pt-074",
+    "it": "Fa caldo fuori.",
+    "pt": "Está calor lá fora."
+  },
+  {
+    "id": "it-pt-075",
+    "it": "Dove sono le mie chiavi?",
+    "pt": "Onde estão as minhas chaves?"
+  },
+  {
+    "id": "it-pt-076",
+    "it": "Sono sul tavolo.",
+    "pt": "Estão em cima da mesa."
+  },
+  {
+    "id": "it-pt-077",
+    "it": "Devo andare.",
+    "pt": "Tenho de ir."
+  },
+  {
+    "id": "it-pt-078",
+    "it": "Stammi bene.",
+    "pt": "Cuide-se."
+  },
+  {
+    "id": "it-pt-079",
+    "it": "A più tardi.",
+    "pt": "Até mais tarde."
+  },
+  {
+    "id": "it-pt-080",
+    "it": "Buonanotte.",
+    "pt": "Boa noite."
+  },
+  {
+    "id": "it-pt-081",
+    "it": "Ha fratelli o sorelle?",
+    "pt": "Tem irmãos ou irmãs?"
+  },
+  {
+    "id": "it-pt-082",
+    "it": "Ho un fratello e una sorella.",
+    "pt": "Tenho um irmão e uma irmã."
+  },
+  {
+    "id": "it-pt-083",
+    "it": "È sposato?",
+    "pt": "É casado?"
+  },
+  {
+    "id": "it-pt-084",
+    "it": "Sono celibe.",
+    "pt": "Sou solteiro."
+  },
+  {
+    "id": "it-pt-085",
+    "it": "Hai figli?",
+    "pt": "Tem filhos?"
+  },
+  {
+    "id": "it-pt-086",
+    "it": "Ho due figli.",
+    "pt": "Tenho dois filhos."
+  },
+  {
+    "id": "it-pt-087",
+    "it": "Dove lavori?",
+    "pt": "Onde trabalha?"
+  },
+  {
+    "id": "it-pt-088",
+    "it": "Lavoro in ufficio.",
+    "pt": "Trabalho num escritório."
+  },
+  {
+    "id": "it-pt-089",
+    "it": "Le piace il caffè o il tè?",
+    "pt": "Gosta de café ou de chá?"
+  },
+  {
+    "id": "it-pt-090",
+    "it": "Preferisco bere il tè.",
+    "pt": "Prefiro beber chá."
+  },
+  {
+    "id": "it-pt-091",
+    "it": "È una buona idea.",
+    "pt": "É uma boa ideia."
+  },
+  {
+    "id": "it-pt-092",
+    "it": "Sono stanco, vado a letto.",
+    "pt": "Estou cansado, vou para a cama."
+  },
+  {
+    "id": "it-pt-093",
+    "it": "Qual è il suo film preferito?",
+    "pt": "Qual é o seu filme favorito?"
+  },
+  {
+    "id": "it-pt-094",
+    "it": "Può indicarmi la strada?",
+    "pt": "Pode mostrar-me o caminho?"
+  },
+  {
+    "id": "it-pt-095",
+    "it": "Ho perso il mio telefono.",
+    "pt": "Perdi o meu telefone."
+  },
+  {
+    "id": "it-pt-096",
+    "it": "Chiami un medico, per favore.",
+    "pt": "Chame um médico, por favor."
+  },
+  {
+    "id": "it-pt-097",
+    "it": "È un'emergenza.",
+    "pt": "É uma emergência."
+  },
+  {
+    "id": "it-pt-098",
+    "it": "Ha la password del Wi-Fi?",
+    "pt": "Tem a palavra-passe do Wi-Fi?"
+  },
+  {
+    "id": "it-pt-099",
+    "it": "Internet è molto lento.",
+    "pt": "A internet está muito lenta."
+  },
+  {
+    "id": "it-pt-100",
+    "it": "Devo annullare il mio biglietto.",
+    "pt": "Preciso de cancelar o meu bilhete."
+  },{
+    "id": "it-pt-101",
+    "it": "Quanto dura il viaggio?",
+    "pt": "Quanto tempo dura a viagem?"
+  },
+  {
+    "id": "it-pt-102",
+    "it": "Possiamo fermarci qui?",
+    "pt": "Podemos parar aqui?"
+  },
+  {
+    "id": "it-pt-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "pt": "Preciso de um recibo."
+  },
+  {
+    "id": "it-pt-104",
+    "it": "Dove posso cambiare il denaro?",
+    "pt": "Onde posso trocar dinheiro?"
+  },
+  {
+    "id": "it-pt-105",
+    "it": "C'è una banca qui vicino?",
+    "pt": "Existe um banco aqui perto?"
+  },
+  {
+    "id": "it-pt-106",
+    "it": "Accettate carte di credito?",
+    "pt": "Aceitam cartões de crédito?"
+  },
+  {
+    "id": "it-pt-107",
+    "it": "Pago in contanti.",
+    "pt": "Pago em dinheiro."
+  },
+  {
+    "id": "it-pt-108",
+    "it": "Può farmi uno sconto?",
+    "pt": "Pode fazer-me um desconto?"
+  },
+  {
+    "id": "it-pt-109",
+    "it": "Questa è la mia ultima parola.",
+    "pt": "Esta é a minha última palavra."
+  },
+  {
+    "id": "it-pt-110",
+    "it": "Sto solo dando un'occhiata.",
+    "pt": "Estou apenas a olhar."
+  },
+  {
+    "id": "it-pt-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "pt": "Tem isto noutro tamanho?"
+  },
+  {
+    "id": "it-pt-112",
+    "it": "Dov'è il camerino?",
+    "pt": "Onde fica o provador?"
+  },
+  {
+    "id": "it-pt-113",
+    "it": "Mi sta bene.",
+    "pt": "Fica-me bem."
+  },
+  {
+    "id": "it-pt-114",
+    "it": "Lo prendo.",
+    "pt": "Fico com isto."
+  },
+  {
+    "id": "it-pt-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "pt": "Onde posso deixar a minha mala?"
+  },
+  {
+    "id": "it-pt-116",
+    "it": "Avete cibo vegetariano?",
+    "pt": "Têm comida vegetariana?"
+  },
+  {
+    "id": "it-pt-117",
+    "it": "Sono allergico.",
+    "pt": "Sou alérgico."
+  },
+  {
+    "id": "it-pt-118",
+    "it": "Non piccante, per favore.",
+    "pt": "Não picante, por favor."
+  },
+  {
+    "id": "it-pt-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "pt": "Traga-me um copo de água, por favor."
+  },
+  {
+    "id": "it-pt-120",
+    "it": "Buon appetito!",
+    "pt": "Bom apetite!"
+  },
+  {
+    "id": "it-pt-121",
+    "it": "Cin cin!",
+    "pt": "Saúde!"
+  },
+  {
+    "id": "it-pt-122",
+    "it": "Il cibo era meraviglioso.",
+    "pt": "A comida estava maravilhosa."
+  },
+  {
+    "id": "it-pt-123",
+    "it": "Vorrei prenotare una camera.",
+    "pt": "Gostaria de reservar um quarto."
+  },
+  {
+    "id": "it-pt-124",
+    "it": "La colazione è inclusa?",
+    "pt": "O pequeno-almoço está incluído?"
+  },
+  {
+    "id": "it-pt-125",
+    "it": "A che ora è il check-out?",
+    "pt": "A que horas é o check-out?"
+  },
+  {
+    "id": "it-pt-126",
+    "it": "Può chiamare un taxi?",
+    "pt": "Pode chamar um táxi?"
+  },
+  {
+    "id": "it-pt-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "pt": "Leve-me para este endereço, por favor."
+  },
+  {
+    "id": "it-pt-128",
+    "it": "Si fermi qui, per favore.",
+    "pt": "Pare aqui, por favor."
+  },
+  {
+    "id": "it-pt-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "pt": "Há uma paragem de autocarro aqui perto?"
+  },
+  {
+    "id": "it-pt-130",
+    "it": "A che ora parte il prossimo treno?",
+    "pt": "A que horas parte o próximo comboio?"
+  },
+  {
+    "id": "it-pt-131",
+    "it": "Il treno è in ritardo.",
+    "pt": "O comboio está atrasado."
+  },
+  {
+    "id": "it-pt-132",
+    "it": "Ho perso il mio volo.",
+    "pt": "Perdi o meu voo."
+  },
+  {
+    "id": "it-pt-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "pt": "Onde fica a recolha de bagagem?"
+  },
+  {
+    "id": "it-pt-134",
+    "it": "Questa non è la mia valigia.",
+    "pt": "Esta não é a minha mala."
+  },
+  {
+    "id": "it-pt-135",
+    "it": "Il mio passaporto è sparito.",
+    "pt": "O meu passaporte desapareceu."
+  },
+  {
+    "id": "it-pt-136",
+    "it": "Dov'è l'ambasciata?",
+    "pt": "Onde fica a embaixada?"
+  },
+  {
+    "id": "it-pt-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "pt": "Preciso da ajuda da polícia."
+  },
+  {
+    "id": "it-pt-138",
+    "it": "Lasciami in pace.",
+    "pt": "Deixe-me em paz."
+  },
+  {
+    "id": "it-pt-139",
+    "it": "Vai via!",
+    "pt": "Vá embora!"
+  },
+  {
+    "id": "it-pt-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "pt": "Socorro! Alguém me roubou."
+  },
+  {
+    "id": "it-pt-141",
+    "it": "Mi sono perso.",
+    "pt": "Estou perdido."
+  },
+  {
+    "id": "it-pt-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "pt": "Pode mostrar-me no mapa onde estou?"
+  },
+  {
+    "id": "it-pt-143",
+    "it": "Qual è il suo numero di telefono?",
+    "pt": "Qual é o seu número de telefone?"
+  },
+  {
+    "id": "it-pt-144",
+    "it": "Lo scriva, per favore.",
+    "pt": "Escreva aqui, por favor."
+  },
+  {
+    "id": "it-pt-145",
+    "it": "Ti chiamerò.",
+    "pt": "Ligo-te."
+  },
+  {
+    "id": "it-pt-146",
+    "it": "Mandami un messaggio.",
+    "pt": "Envia-me uma mensagem."
+  },
+  {
+    "id": "it-pt-147",
+    "it": "È sui social media?",
+    "pt": "Está nas redes sociais?"
+  },
+  {
+    "id": "it-pt-148",
+    "it": "Ti seguo.",
+    "pt": "Sigo-te."
+  },
+  {
+    "id": "it-pt-149",
+    "it": "Quali sono le novità?",
+    "pt": "Quais são as novidades?"
+  },
+  {
+    "id": "it-pt-150",
+    "it": "Nulla di speciale.",
+    "pt": "Nada de especial."
+  },
+  {
+    "id": "it-pt-151",
+    "it": "Non vedo l'ora.",
+    "pt": "Mal posso esperar."
+  },
+  {
+    "id": "it-pt-152",
+    "it": "Non mi importa.",
+    "pt": "Não me importa."
+  },
+  {
+    "id": "it-pt-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "pt": "Não te preocupes, vai correr tudo bem."
+  },
+  {
+    "id": "it-pt-154",
+    "it": "Calmati, per favore.",
+    "pt": "Acalma-te, por favor."
+  },
+  {
+    "id": "it-pt-155",
+    "it": "Non stressarti.",
+    "pt": "Não te stresses."
+  },
+  {
+    "id": "it-pt-156",
+    "it": "È incredibile!",
+    "pt": "É inacreditável!"
+  },
+  {
+    "id": "it-pt-157",
+    "it": "Sono orgoglioso di te.",
+    "pt": "Estou orgulhoso de ti."
+  },
+  {
+    "id": "it-pt-158",
+    "it": "Hai fatto un buon lavoro.",
+    "pt": "Fizeste um bom trabalho."
+  },
+  {
+    "id": "it-pt-159",
+    "it": "Su col morale!",
+    "pt": "Anima-te! / Cabeça erguida!"
+  },
+  {
+    "id": "it-pt-160",
+    "it": "Non ti arrendere!",
+    "pt": "Não desistas!"
+  },
+  {
+    "id": "it-pt-161",
+    "it": "L'esercizio rende perfetti.",
+    "pt": "A prática leva à perfeição."
+  },
+  {
+    "id": "it-pt-162",
+    "it": "Cominciamo domani.",
+    "pt": "Começamos amanhã."
+  },
+  {
+    "id": "it-pt-163",
+    "it": "Non ho tempo oggi.",
+    "pt": "Não tenho tempo hoje."
+  },
+  {
+    "id": "it-pt-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "pt": "Podemos encontrar-nos no fim de semana."
+  },
+  {
+    "id": "it-pt-165",
+    "it": "Quando hai tempo?",
+    "pt": "Quando tens tempo?"
+  },
+  {
+    "id": "it-pt-166",
+    "it": "Sono flessibile.",
+    "pt": "Sou flexível."
+  },
+  {
+    "id": "it-pt-167",
+    "it": "Dipende dal tempo.",
+    "pt": "Depende do tempo."
+  },
+  {
+    "id": "it-pt-168",
+    "it": "È nuvoloso oggi.",
+    "pt": "Está nublado hoje."
+  },
+  {
+    "id": "it-pt-169",
+    "it": "Nevica fuori.",
+    "pt": "Está a nevar lá fora."
+  },
+  {
+    "id": "it-pt-170",
+    "it": "Il vento è molto forte.",
+    "pt": "O vento está muito forte."
+  },
+  {
+    "id": "it-pt-171",
+    "it": "Domani sarà soleggiato.",
+    "pt": "Amanhã estará sol."
+  },
+  {
+    "id": "it-pt-172",
+    "it": "Amo l'estate.",
+    "pt": "Adoro o verão."
+  },
+  {
+    "id": "it-pt-173",
+    "it": "L'inverno è troppo lungo.",
+    "pt": "O inverno é demasiado longo."
+  },
+  {
+    "id": "it-pt-174",
+    "it": "È la mia stagione preferita.",
+    "pt": "É a minha estação favorita."
+  },
+  {
+    "id": "it-pt-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "pt": "O que fizeste no fim de semana?"
+  },
+  {
+    "id": "it-pt-176",
+    "it": "Sono rimasto a casa.",
+    "pt": "Fiquei em casa."
+  },
+  {
+    "id": "it-pt-177",
+    "it": "Ho visitato i miei amici.",
+    "pt": "Visitei os meus amigos."
+  },
+  {
+    "id": "it-pt-178",
+    "it": "Ci siamo divertiti molto.",
+    "pt": "Divertimo-nos muito."
+  },
+  {
+    "id": "it-pt-179",
+    "it": "È stata una sorpresa.",
+    "pt": "Foi uma surpresa."
+  },
+  {
+    "id": "it-pt-180",
+    "it": "Ho comprato una nuova auto.",
+    "pt": "Comprei um carro novo."
+  },
+  {
+    "id": "it-pt-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "pt": "Parabéns pelo novo emprego!"
+  },
+  {
+    "id": "it-pt-182",
+    "it": "Quando cominci?",
+    "pt": "Quando começas?"
+  },
+  {
+    "id": "it-pt-183",
+    "it": "Comincio lunedì prossimo.",
+    "pt": "Começo na próxima segunda-feira."
+  },
+  {
+    "id": "it-pt-184",
+    "it": "Sono un po' nervoso.",
+    "pt": "Estou um pouco nervoso."
+  },
+  {
+    "id": "it-pt-185",
+    "it": "È del tutto normale.",
+    "pt": "É completamente normal."
+  },
+  {
+    "id": "it-pt-186",
+    "it": "Ce la farai.",
+    "pt": "Vais conseguir."
+  },
+  {
+    "id": "it-pt-187",
+    "it": "Credo in te.",
+    "pt": "Acredito em ti."
+  },
+  {
+    "id": "it-pt-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "pt": "Muito obrigado pelo teu apoio."
+  },
+  {
+    "id": "it-pt-189",
+    "it": "Sei un buon amico.",
+    "pt": "És un bom amigo."
+  },
+  {
+    "id": "it-pt-190",
+    "it": "Ci sono sempre per te.",
+    "pt": "Estou sempre aqui para ti."
+  },
+  {
+    "id": "it-pt-191",
+    "it": "Questo significa molto per me.",
+    "pt": "Isto significa muito para mim."
+  },
+  {
+    "id": "it-pt-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "pt": "Vamos encontrar-nos de novo em breve."
+  },
+  {
+    "id": "it-pt-193",
+    "it": "Adesso devo proprio andare.",
+    "pt": "Agora tenho mesmo de ir."
+  },
+  {
+    "id": "it-pt-194",
+    "it": "Fai buon rientro a casa.",
+    "pt": "Chega bem a casa."
+  },
+  {
+    "id": "it-pt-195",
+    "it": "Scrivimi quando arrivi.",
+    "pt": "Escreve-me quando chegares."
+  },
+  {"id": "it-pt-196","it": "Sono arrivato bene.","pt": "Cheguei bem."},{"id": "it-pt-197","it": "Dormi bene.","pt": "Dorme bem."},{"id": "it-pt-198","it": "Sogni d'oro.","pt": "Bons sonhos."},{"id": "it-pt-199","it": "Alla prossima volta.","pt": "Até à próxima."},{"id": "it-pt-200","it": "Ciao ciao!","pt": "Adeus! / Tchau!"}],
     "italianrussian": [],
     "italianarabic": [],
     "italianturkish": [],
