@@ -1,88 +1,41 @@
 {
   "french": {
-    "frenchenglish": [{
-            fr:"Bonjour, comment allez-vous?",
-            en:"Hello, how are you?"
-        },
+    "frenchenglish": [
+      {
+        "id": "en-001",
+        "fr": "Bonjour, comment allez-vous?",
+        "en": "Hello, how are you?"
+      },
+      {
+        "id": "en-002",
+        "fr": "Comment vous appelez-vous ?",
+        "en": "What is your name?"
+      },
+      {
+        "id": "en-003",
+        "fr": "Je m'appelle John.",
+        "en": "My name is John."
+      }
+    ],
 
-        {
-            fr:"Comment vous appelez-vous ?",
-            en:"What is your name?"
-        },
-
-        {
-            fr:"Je m'appelle John.",
-            en:"My name is John."
-        },
-
-        {
-            fr:"Où habitez-vous ?",
-            en:"Where do you live?"
-        },
-
-        {
-            fr:"J'habite au Cameroun.",
-            en:"I live in Cameroon."
-        },
-
-        {
-            fr:"Je suis très heureux aujourd'hui.",
-            en:"I am very happy today."
-        },
-
-        {
-            fr:"Quelle heure est-il ?",
-            en:"What time is it?"
-        },
-
-        {
-            fr:"Je voudrais de l'eau.",
-            en:"I would like some water."
-        },
-
-        {
-            fr:"Où est l'école ?",
-            en:"Where is the school?"
-        },
-
-        {
-            fr:"J'aime apprendre les langues.",
-            en:"I like learning languages."
-        },
-
-        {
-            fr:"À demain.",
-            en:"See you tomorrow."
-        },
-
-        {
-            fr:"Passez une bonne journée.",
-            en:"Have a nice day."
-        },
-
-        {
-            fr:"Merci beaucoup.",
-            en:"Thank you very much."
-        },
-
-        {
-            fr:"Je vous en prie.",
-            en:"You are welcome."
-        },
-
-        {
-            fr:"Je ne comprends pas.",
-            en:"I do not understand."
-        }],
     "frenchgerman": [],
+
     "frenchitalian": [],
+
     "frenchspanish": [],
+
     "frenchportuguese": [],
+
     "frenchrussian": [],
+
     "frencharabic": [],
+
     "frenchturkish": [],
+
     "frenchhindi": [],
+
     "frenchpolish": [],
+
     "frenchchinese": []
   }
 }
