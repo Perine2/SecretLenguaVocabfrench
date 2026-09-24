@@ -5132,7 +5132,1064 @@
   },
   {
     "id": "hi-086","en": "I have two children.","hi": "मेरे दो बच्चे हैं। (Mere do bachhe hain.)"},{"id": "hi-087","en": "Where do you work?","hi": "तुम कहाँ काम करते हो? (Tum kahaan kaam karte ho?)"},{"id": "hi-088","en": "I work in an office.","hi": "मैं एक कार्यालय में काम करता हूँ। (Main ek karyalay mein kaam karta hoon.)"},{"id": "hi-089","en": "It is difficult.","hi": "यह कठिन है। (Yeh kathin hai.)"},{"id": "hi-090","en": "It is easy.","hi": "यह आसान है। (Yeh aasaan hai.)"},{"id": "hi-091","en": "I agree.","hi": "मैं सहमत हूँ। (Main sahmat hoon.)"},{"id": "hi-092","en": "I don't agree.","hi": "मैं सहमत नहीं हूँ। (Main sahmat nahin hoon.)"},{"id": "hi-093","en": "That's a good idea.","hi": "यह एक अच्छा विचार है। (Yeh ek achha vichaar hai.)"},{"id": "hi-094","en": "I don't have time.","hi": "मेरे पास समय नहीं है। (Mere paas samay nahin hai.)"},{"id": "hi-095","en": "Wait a minute.","hi": "एक minute रुकिए। (Ek minute rukiye.)"},{"id": "hi-096","en": "I'll be right back.","hi": "मैं अभी वापस आता हूँ। (Main abhi waapas aata hoon.)"},{"id": "hi-097","en": "Of course.","hi": "बिल्कुल। (Bilkul.)"},{"id": "hi-098","en": "Maybe.","hi": "शायद। (Shayad.)"},{"id": "hi-099","en": "Never.","hi": "कभी नहीं। (Kabhi nahin.)"},{"id": "hi-100","en": "Always.","hi": "हमेशा। (Hamesha.)"},{"id": "hi-101","en": "What is your favorite food?","hi": "तुम्हारा पसंदीदा खाना क्या है? (Tumhara pasandida khana kya hai?)"},{"id": "hi-102","en": "I love pasta.","hi": "मुझे पास्ता बहुत पसंद है। (Muche pasta bahut pasand hai.)"},{"id": "hi-103","en": "Do you want something to drink?","hi": "क्या तुम कुछ पीना चाहोगे? (Kya tum kuch peena chahoge?)"},{"id": "hi-104","en": "A coffee, please.","hi": "एक कॉफ़ी, कृपया। (Ek coffee, kripya.)"},{"id": "hi-105","en": "Where can I buy a ticket?","hi": "मैं टिकट कहाँ से खरीद सकता हूँ? (Main ticket kahaan se khareed sakta hoon?)"},{"id": "hi-106","en": "At the ticket counter.","hi": "टिकट काउंटर पर। (Ticket counter par.)"},{"id": "hi-107","en": "The train is late.","hi": "ट्रेन लेट है। (Train late hai.)"},{"id": "hi-108","en": "Is it far from here?","hi": "क्या यह यहाँ से दूर है? (Kya yeh yahaan se door hai?)"},{"id": "hi-109","en": "No, it is very close.","hi": "नहीं, यह बहुत पास है। (Nahin, yeh bahut paas hai.)"},{"id": "hi-110","en": "Go straight ahead.","hi": "सीधे जाइए। (Seedhe jaiye.)"},{"id": "hi-111","en": "Turn right.","hi": "दाएँ मुड़िए। (Daayein mudiye.)"},{"id": "hi-112","en": "Turn left.","hi": "बाएँ मुड़िए। (Baayein mudiye.)"},{"id": "hi-113","en": "I am lost.","hi": "मैं रास्ता भटक गया हूँ। (Main raasta bhatak gaya hoon.)"},{"id": "hi-114","en": "Can you show me on the map?","hi": "क्या आप मुझे नक्शे पर दिखा सकते हैं? (Kya aap muche nakshe par dikha sakte hain?)"},{"id": "hi-115","en": "Where is the hotel?","hi": "होटल कहाँ है? (Hotel kahaan hai?)"},{"id": "hi-116","en": "I have a reservation.","hi": "मेरी एक बुकिंग है। (Meri ek booking hai.)"},{"id": "hi-117","en": "Can I have the key?","hi": "क्या मुझे चाबी मिल सकती है? (Kya muche chaabi mil sakti hai?)"},{"id": "hi-118","en": "Is the Wi-Fi free?","hi": "क्या वाई-फाई मुफ़्त है? (Kya Wi-Fi muft hai?)"},{"id": "hi-119","en": "What is the password?","hi": "पासवर्ड क्या है? (Password kya hai?)"},{"id": "hi-120","en": "Where is the elevator?","hi": "लिफ्ट कहाँ है? (Lift kahaan hai?)"},{"id": "hi-121","en": "I would like to book a table.","hi": "मैं एक टेबल बुक करना चाहूंगा। (Main ek table book karna chahunga.)"},{"id": "hi-122","en": "For how many people?","hi": "कितने लोगों के लिए? (Kitne logon ke liye?)"},{"id": "hi-123","en": "For two people.","hi": "दो लोगों के लिए। (Do logon ke liye.)"},{"id": "hi-124","en": "At what time?","hi": "किस समय? (Kis samay?)"},{"id": "hi-125","en": "Tonight at eight p.m.","hi": "आज रात आठ बजे। (Aaj raat aath baje.)"},{"id": "hi-126","en": "Are you ready to order?","hi": "क्या आप ऑर्डर देने के लिए तैयार हैं? (Kya aap order dene ke liye taiyaar hain?)"},{"id": "hi-127","en": "I will have the chicken.","hi": "मैं चिकन लूंगा। (Main chicken loonga.)"},{"id": "hi-128","en": "And to drink?","hi": "और पीने के लिए? (Aur peene ke liye?)"},{"id": "hi-129","en": "Mineral water, please.","hi": "मिनरल वाटर, कृपया। (Mineral water, kripya.)"},{"id": "hi-130","en": "Enjoy your meal!","hi": "स्वादिष्ट भोजन का आनंद लें! (Swadist bhojan ka aanand lein!)"},{"id": "hi-131","en": "It was excellent.","hi": "यह बहुत बढ़िया था। (Yeh bahut badhiya tha.)"},{"id": "hi-132","en": "Do you accept credit cards?","hi": "क्या आप क्रेडिट कार्ड स्वीकार करते हैं? (Kya aap credit card sweekar karte hain?)"},{"id": "hi-133","en": "I will pay in cash.","hi": "मैं नकद भुगतान करूँगा। (Main nakad bhugtan karoonga.)"},{"id": "hi-134","en": "Keep the change.","hi": "छुट्टे रख लीजिए। (Chhutte rakh lijiye.)"},{"id": "hi-135","en": "Where are the shops?","hi": "दुकानें कहाँ हैं? (Dukanein kahaan hain?)"},{"id": "hi-136","en": "I am just looking.","hi": "मैं बस देख रहा हूँ। (Main bas dekh raha hoon.)"},{"id": "hi-137","en": "Can I try this on?","hi": "क्या मैं इसे आज़मा सकता हूँ? (Kya main ise aazma sakta hoon?)"},{"id": "hi-138","en": "Where are the fitting rooms?","hi": "ट्रायल रूम कहाँ है? (Trial room kahaan hai?)"},{"id": "hi-139","en": "What is your size?","hi": "आपका साइज क्या है? (Aapka size kya hai?)"},{"id": "hi-140","en": "It is too big.","hi": "यह बहुत बड़ा है। (Yeh bahut bada hai.)"},{"id": "hi-141","en": "It is too small.","hi": "यह बहुत छोटा है। (Yeh bahut chhota hai.)"},{"id": "hi-142","en": "Do you have a larger size?","hi": "क्या आपके पास इससे बड़ा साइज है? (Kya aapke paas isse bada size hai?)"},{"id": "hi-143","en": "I'll take it.","hi": "मैं इसे ले रहा हूँ। (Main ise le raha hoon.)"},{"id": "hi-144","en": "Where is the cashier?","hi": "कैश काउंटर कहाँ है? (Cash counter kahaan hai?)"},{"id": "hi-145","en": "Can I have a bag?","hi": "क्या मुझे एक थैली मिल सकती है? (Kya muche ek thaili mil sakti hai?)"},{"id": "hi-146","en": "I would like a refund.","hi": "मुझे रिफंड चाहिए। (Muche refund chahiye.)"},{"id": "hi-147","en": "It is broken.","hi": "यह टूटा हुआ है। (Yeh toota hua hai.)"},{"id": "hi-148","en": "Where is the pharmacy?","hi": "मेडिकल स्टोर कहाँ है? (Medical store kahaan hai?)"},{"id": "hi-149","en": "I am sick.","hi": "मैं बीमार हूँ। (Main beemar hoon.)"},{"id": "hi-150","en": "I have a headache.","hi": "मेरे सिर में दर्द है। (Mere sir mein dard hai.)"},{"id": "hi-151","en": "I have a fever.","hi": "मुझे बुखार है। (Muche bukhar hai.)"},{"id": "hi-152","en": "I need some medicine.","hi": "मुझे दवा चाहिए। (Muche dava chahiye.)"},{"id": "hi-153","en": "Where is the nearest hospital?","hi": "सबसे पास का अस्पताल कहाँ है? (Sabse paas ka hospital kahaan hai?)"},{"id": "hi-154","en": "Call an ambulance!","hi": "एम्बुलेंस बुलाओ! (Ambulance bulao!)"},{"id": "hi-155","en": "It is an emergency.","hi": "यह एक आपातकालीन स्थिति है। (Yeh ek aapaatkaleen sthiti hai.)"},{"id": "hi-156","en": "Is everything okay?","hi": "क्या सब ठीक है? (Kya sab theek hai?)"},{"id": "hi-157","en": "Yes, everything is fine.","hi": "हाँ, सब ठीक है। (Haan, sab theek hai.)"},{"id": "hi-158","en": "Please calm down.","hi": "कृपया शांत हो जाइए। (Kripya shaant ho jaiye.)"},{"id": "hi-159","en": "Don't worry.","hi": "चिंता मत करो। (Chinta mat karo.)"},{"id": "hi-160","en": "What happened?","hi": "क्या हुआ? (Kya hua?)"},{"id": "hi-161","en": "It was an accident.","hi": "यह एक दुर्घटना थी। (Yeh ek durghatna thi.)"},{"id": "hi-162","en": "I lost my passport.","hi": "मेरा पासपोर्ट खो गया है। (Mera passport kho gaya hai.)"},{"id": "hi-163","en": "Where is the police station?","hi": "पुलिस स्टेशन कहाँ है? (Police station kahaan hai?)"},{"id": "hi-164","en": "My bag was stolen.","hi": "मेरा बैग चोरी हो गया है। (Mera bag chori ho gaya hai.)"},{"id": "hi-165","en": "Stop thief!","hi": "चोर-चोर! (Chor-chor!)"},{"id": "hi-166","en": "Help me!","hi": "मेरी मदद करो! (Meri madad karo!)"},{"id": "hi-167","en": "What is the date today?","hi": "आज क्या तारीख है? (Aaj kya taareekh hai?)"},{"id": "hi-168","en": "It is the first of May.","hi": "आज पहली मई है। (Aaj pahli May hai.)"},{"id": "hi-169","en": "What day is it today?","hi": "आज कौन सा दिन है? (Aaj kaun sa din hai?)"},{"id": "hi-170","en": "Today is Monday.","hi": "आज सोमवार है। (Aaj Somvaar hai.)"},{"id": "hi-171","en": "What did you do this weekend?","hi": "तुमने इस वीकेंड पर what किया? (Tumne is weekend par kya kiya?)"},{"id": "hi-172","en": "I rested.","hi": "मैंने आराम किया। (Maine aaram kiya.)"},{"id": "hi-173","en": "What are we doing tomorrow?","hi": "हम कल क्या कर रहे हैं? (Hum kal kya kar rahe hain?)"},{"id": "hi-174","en": "Shall we meet tonight?","hi": "क्या हम आज रात मिल रहे हैं? (Kya hum aaj raat mil rahe hain?)"},{"id": "hi-175","en": "What time shall we meet?","hi": "हम किस समय मिल रहे हैं? (Hum kis samay mil rahe hain?)"},{"id": "hi-176","en": "Let's meet at seven p.m.","hi": "हम शाम सात बजे मिलेंगे। (Hum shaam saat baje milenge.)"},{"id": "hi-177","en": "Where is the meeting point?","hi": "मिलने की जगह कहाँ है? (Milne ki jagah kahaan hai?)"},{"id": "hi-178","en": "In front of the cinema.","hi": "सिनेमा हॉल के सामने। (Cinema hall ke saamne.)"},{"id": "hi-179","en": "I am on my way.","hi": "मैं रास्ते में हूँ। (Main raaste mein hoon.)"},{"id": "hi-180","en": "I am going to be late.","hi": "मुझे देर हो जाएगी। (Muche der ho jayegi.)"},{"id": "hi-181","en": "Sorry for being late.","hi": "देर से आने के लिए माफ़ी चाहता हूँ। (Der se aane ke liye maafi chahta hoon.)"},{"id": "hi-182","en": "It's nothing.","hi": "कोई बात नहीं। (Koi baat nahin.)"},{"id": "hi-183","en": "Thank you for coming.","hi": "आने के लिए धन्यवाद। (Aane ke liye dhanyavaad.)"},{"id": "hi-184","en": "It was a pleasure.","hi": "मुझे खुशी हुई। (Muche khushi hui.)"},{"id": "hi-185","en": "Until next time.","hi": "अगली बार मिलते हैं। (Agli baar milte hain.)"},{"id": "hi-186","en": "Did you have a good vacation?","hi": "आपकी छुट्टियां कैसी रहीं? (Aapki chhuttiyan kaisi raheen?)"},{"id": "hi-187","en": "It was fantastic.","hi": "यह बहुत शानदार था। (Yeh bahut shaandar tha.)"},{"id": "hi-188","en": "Where did you go?","hi": "तुम कहाँ गए थे? (Tum kahaan gaye the?)"},{"id": "hi-189","en": "I went to the beach.","hi": "मैं बीच पर गया था। (Main beach par gaya tha.)"},{"id": "hi-190","en": "How was the trip?","hi": "यात्रा कैसी रही? (Yaatra kaisi rahi?)"},{"id": "hi-191","en": "It was a bit long.","hi": "यह थोड़ा लंबा था। (Yeh thoda lamba tha.)"},{"id": "hi-192","en": "Did you take photos?","hi": "क्या तुमने तस्वीरें लीं? (Kya tumne tasveerein leen?)"},{"id": "hi-193","en": "Yes, a lot.","hi": "हाँ, बहुत सारी। (Haan, bahut saari.)"},{"id": "hi-194","en": "Show me, please.","hi": "कृपया मुझे दिखाओ। (Kripya muche dikhao.)"},{"id": "hi-195","en": "It is beautiful.","hi": "यह बहुत सुंदर है। (Yeh bahut sundar hai.)"},{"id": "hi-196","en": "How lucky!","hi": "कितनी अच्छी किस्मत है! (Kitni achhi kismat hai!)"},{"id": "hi-197","en": "I want to go there too.","hi": "मैं भी वहाँ जाना चाहता हूँ। (Main bhi wahaan jaana chahta hoon.)"},{"id": "hi-198","en": "Maybe next year.","hi": "शायद अगले साल। (Shayad agle saal.)"},{"id": "hi-199","en": "We will see.","hi": "देखते हैं। (Dekhte hain.)"},{"id": "hi-200","en": "This is the end of the file.","hi": "फ़ाइल समाप्त। (File samāpt.)"}],
-    "englishpolish": [],
-    "englishchinese": []
+    "englishpolish": [{
+    "id": "pl-001",
+    "en": "Hello, how are you?",
+    "pl": "Dzień dobry, jak się masz?"
+  },
+  {
+    "id": "pl-002",
+    "en": "What is your name?",
+    "pl": "Jak się nazywasz?"
+  },
+  {
+    "id": "pl-003",
+    "en": "My name is John.",
+    "pl": "Nazywam się John."
+  },
+  {
+    "id": "pl-004",
+    "en": "Nice to meet you.",
+    "pl": "Miło cię poznać."
+  },
+  {
+    "id": "pl-005",
+    "en": "Where are you from?",
+    "pl": "Skąd pochodzisz?"
+  },
+  {
+    "id": "pl-006",
+    "en": "I am from France.",
+    "pl": "Pochodzę z Francji."
+  },
+  {
+    "id": "pl-007",
+    "en": "Where do you live?",
+    "pl": "Gdzie mieszkasz?"
+  },
+  {
+    "id": "pl-008",
+    "en": "I live in Paris.",
+    "pl": "Mieszkam w Paryżu."
+  },
+  {
+    "id": "pl-009",
+    "en": "How old are you?",
+    "pl": "Ile masz lat?"
+  },
+  {
+    "id": "pl-010",
+    "en": "I am thirty years old.",
+    "pl": "Mam trzydzieści lat."
+  },
+  {
+    "id": "pl-011",
+    "en": "What do you do for a living?",
+    "pl": "Czym się zajmujesz?"
+  },
+  {
+    "id": "pl-012",
+    "en": "I am a student.",
+    "pl": "Jestem studentem."
+  },
+  {
+    "id": "pl-013",
+    "en": "Do you speak Polish?",
+    "pl": "Czy mówisz po polsku?"
+  },
+  {
+    "id": "pl-014",
+    "en": "I speak a little Polish.",
+    "pl": "Mówię trochę po polsku."
+  },
+  {
+    "id": "pl-015",
+    "en": "Can you help me, please?",
+    "pl": "Czy możesz mi pomóc?"
+  },
+  {
+    "id": "pl-016",
+    "en": "Thank you very much.",
+    "pl": "Dziękuję bardzo."
+  },
+  {
+    "id": "pl-017",
+    "en": "You're welcome.",
+    "pl": "Nie ma za co."
+  },
+  {
+    "id": "pl-018",
+    "en": "Please.",
+    "pl": "Proszę."
+  },
+  {
+    "id": "pl-019",
+    "en": "Excuse me.",
+    "pl": "Przepraszam."
+  },
+  {
+    "id": "pl-020",
+    "en": "I am sorry.",
+    "pl": "Przykro mi."
+  },
+  {
+    "id": "pl-021",
+    "en": "What time is it?",
+    "pl": "Która jest godzina?"
+  },
+  {
+    "id": "pl-022",
+    "en": "It is ten o'clock.",
+    "pl": "Jest godzina dziesiąta."
+  },
+  {
+    "id": "pl-023",
+    "en": "Where is the restroom?",
+    "pl": "Gdzie jest toaleta?"
+  },
+  {
+    "id": "pl-024",
+    "en": "It is that way.",
+    "pl": "To tamtędy."
+  },
+  {
+    "id": "pl-025",
+    "en": "How much does it cost?",
+    "pl": "Ile to kosztuje?"
+  },
+  {
+    "id": "pl-026",
+    "en": "It is too expensive.",
+    "pl": "To jest za drogie."
+  },
+  {
+    "id": "pl-027",
+    "en": "Where is the train station?",
+    "pl": "Gdzie jest stacja kolejowa?"
+  },
+  {
+    "id": "pl-028",
+    "en": "I am looking for a good restaurant.",
+    "pl": "Szukam dobrej restauracji."
+  },
+  {
+    "id": "pl-029",
+    "en": "The bill, please.",
+    "pl": "Rachunek poproszę."
+  },
+  {
+    "id": "pl-030",
+    "en": "What is the weather like today?",
+    "pl": "Jaka jest dzisiaj pogoda?"
+  },
+  {
+    "id": "pl-031",
+    "en": "The weather is nice.",
+    "pl": "Jest ładna pogoda."
+  },
+  {
+    "id": "pl-032",
+    "en": "It is raining.",
+    "pl": "Pada deszcz."
+  },
+  {
+    "id": "pl-033",
+    "en": "I am hungry.",
+    "pl": "Jestem głodny."
+  },
+  {
+    "id": "pl-034",
+    "en": "I am thirsty.",
+    "pl": "Chce mi się pić."
+  },
+  {
+    "id": "pl-035",
+    "en": "I am tired.",
+    "pl": "Jestem zmeczony."
+  },
+  {
+    "id": "pl-036",
+    "en": "I don't understand.",
+    "pl": "Nie rozumiem."
+  },
+  {
+    "id": "pl-037",
+    "en": "Can you repeat?",
+    "pl": "Czy możesz powtórzyć?"
+  },
+  {
+    "id": "pl-038",
+    "en": "Speak more slowly, please.",
+    "pl": "Proszę mówić wolniej."
+  },
+  {
+    "id": "pl-039",
+    "en": "How do you say that in Polish?",
+    "pl": "Jak to się mówi po polsku?"
+  },
+  {
+    "id": "pl-040",
+    "en": "What does this word mean?",
+    "pl": "Co oznacza to słowo?"
+  },
+  {
+    "id": "pl-041",
+    "en": "I love you.",
+    "pl": "Kocham cię."
+  },
+  {
+    "id": "pl-042",
+    "en": "I miss you.",
+    "pl": "Tęsknię za tobą."
+  },
+  {
+    "id": "pl-043",
+    "en": "Good luck!",
+    "pl": "Powodzenia!"
+  },
+  {
+    "id": "pl-044",
+    "en": "Congratulations!",
+    "pl": "Gratulacje!"
+  },
+  {
+    "id": "pl-045",
+    "en": "Happy birthday!",
+    "pl": "Wszystkiego najlepszego z okazji urodzin!"
+  },
+  {
+    "id": "pl-046",
+    "en": "Have a good trip!",
+    "pl": "Szczęśliwej podróży!"
+  },
+  {
+    "id": "pl-047",
+    "en": "Have a nice day.",
+    "pl": "Miłego dnia."
+  },
+  {
+    "id": "pl-048",
+    "en": "See you soon.",
+    "pl": "Do zobaczenia wkrótce."
+  },
+  {
+    "id": "pl-049",
+    "en": "See you tomorrow.",
+    "pl": "Do jutra."
+  },
+  {
+    "id": "pl-050",
+    "en": "Goodbye.",
+    "pl": "Do widzenia."
+  },
+  {
+    "id": "pl-051",
+    "en": "Where are you going?",
+    "pl": "Gdzie idziesz?"
+  },
+  {
+    "id": "pl-052",
+    "en": "I am going to the supermarket.",
+    "pl": "Idę do supermarketu."
+  },
+  {
+    "id": "pl-053",
+    "en": "What is it?",
+    "pl": "Co to jest?"
+  },
+  {
+    "id": "pl-054",
+    "en": "I don't know.",
+    "pl": "Nie wiem."
+  },
+  {
+    "id": "pl-055",
+    "en": "Are you sure?",
+    "pl": "Czy jesteś pewien?"
+  },
+  {
+    "id": "pl-056",
+    "en": "Yes, I am sure.",
+    "pl": "Tak, jestem pewien."
+  },
+  {
+    "id": "pl-057",
+    "en": "I think so.",
+    "pl": "Myślę, że tak."
+  },
+  {
+    "id": "pl-058",
+    "en": "I don't think so.",
+    "pl": "Nie sądzę."
+  },
+  {
+    "id": "pl-059",
+    "en": "No problem.",
+    "pl": "Nie ma problemu."
+  },
+  {
+    "id": "pl-060",
+    "en": "It doesn't matter.",
+    "pl": "Nic nie szkodzi."
+  },
+  {
+    "id": "pl-061",
+    "en": "What are you eating?",
+    "pl": "Co jesz?"
+  },
+  {
+    "id": "pl-062",
+    "en": "It is delicious.",
+    "pl": "To jest pyszne."
+  },
+  {
+    "id": "pl-063",
+    "en": "I don't like it.",
+    "pl": "Nie lubię tego."
+  },
+  {
+    "id": "pl-064",
+    "en": "What are your hobbies?",
+    "pl": "Jakie masz hobby?"
+  },
+  {
+    "id": "pl-065",
+    "en": "I like reading books.",
+    "pl": "Lubię czytać książki."
+  },
+  {
+    "id": "pl-066",
+    "en": "I like listening to music.",
+    "pl": "Lubię słuchać muzyki."
+  },
+  {
+    "id": "pl-067",
+    "en": "Do you do sports?",
+    "pl": "Czy uprawiasz sport?"
+  },
+  {
+    "id": "pl-068",
+    "en": "I play soccer.",
+    "pl": "Gram w piłkę nożną."
+  },
+  {
+    "id": "pl-069",
+    "en": "I am watching a movie.",
+    "pl": "Oglądam film."
+  },
+  {
+    "id": "pl-070",
+    "en": "Where did you buy that?",
+    "pl": "Gdzie to kupiłeś?"
+  },
+  {
+    "id": "pl-071",
+    "en": "It is a gift.",
+    "pl": "To jest prezent."
+  },
+  {
+    "id": "pl-072",
+    "en": "Can you close the window?",
+    "pl": "Czy możesz zamknąć okno?"
+  },
+  {
+    "id": "pl-073",
+    "en": "It is cold in here.",
+    "pl": "Tutaj jest zimno."
+  },
+  {
+    "id": "pl-074",
+    "en": "It is hot outside.",
+    "pl": "Na zewnątrz jest ciepło."
+  },
+  {
+    "id": "pl-075",
+    "en": "Where are my keys?",
+    "pl": "Gdzie są moje klucze?"
+  },
+  {
+    "id": "pl-076",
+    "en": "They are on the table.",
+    "pl": "Są na stole."
+  },
+  {
+    "id": "pl-077",
+    "en": "I have to go.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "pl-078",
+    "en": "Take care.",
+    "pl": "Dbaj o siebie."
+  },
+  {
+    "id": "pl-079",
+    "en": "See you later.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "pl-080",
+    "en": "Good night.",
+    "pl": "Dobranoc."
+  },
+  {
+    "id": "pl-081",
+    "en": "Do you have any siblings?",
+    "pl": "Czy masz rodzeństwo?"
+  },
+  {
+    "id": "pl-082",
+    "en": "I have a brother and a sister.",
+    "pl": "Mam brata i siostrę."
+  },
+  {
+    "id": "pl-083",
+    "en": "Are you married?",
+    "pl": "Czy jesteś żonaty / zamężna?"
+  },
+  {
+    "id": "pl-084",
+    "en": "I am single.",
+    "pl": "Jestem singlem."
+  },
+  {
+    "id": "pl-085",
+    "en": "Do you have children?",
+    "pl": "Czy masz dzieci?"
+  },
+  {
+    "id": "pl-086",
+    "en": "I have two children.",
+    "pl": "Mam dwoje dzieci."
+  },
+  {
+    "id": "pl-087",
+    "en": "Where do you work?",
+    "pl": "Gdzie pracujesz?"
+  },
+  {
+    "id": "pl-088",
+    "en": "I work in an office.",
+    "pl": "Pracuję w biurze."
+  },
+  {
+    "id": "pl-089",
+    "en": "It is difficult.",
+    "pl": "To jest trudne."
+  },
+  {
+    "id": "pl-090",
+    "en": "It is easy.",
+    "pl": "To jest łatwe."
+  },
+  {
+    "id": "pl-091",
+    "en": "I agree.",
+    "pl": "Zgadzam się."
+  },
+  {
+    "id": "pl-092",
+    "en": "I don't agree.",
+    "pl": "Nie zgadzam się."
+  },
+  {
+    "id": "pl-093",
+    "en": "That's a good idea.",
+    "pl": "To dobry pomysł."
+  },
+  {
+    "id": "pl-094",
+    "en": "I don't have time.",
+    "pl": "Nie mam czasu."
+  },
+  {
+    "id": "pl-095",
+    "en": "Wait a minute.",
+    "pl": "Poczekaj minutę."
+  },
+  {
+    "id": "pl-096",
+    "en": "I'll be right back.",
+    "pl": "Zaraz wracam."
+  },
+  {
+    "id": "pl-097",
+    "en": "Of course.",
+    "pl": "Oczywiście."
+  },
+  {
+    "id": "pl-098",
+    "en": "Maybe.",
+    "pl": "Może."
+  },
+  {
+    "id": "pl-099",
+    "en": "Never.",
+    "pl": "Nigdy."
+  },
+  {
+    "id": "pl-100",
+    "en": "Always.",
+    "pl": "Zawsze."
+  },
+  {
+    "id": "pl-101",
+    "en": "What is your favorite food?",
+    "pl": "Jakie jest twoje ulubione danie?"
+  },
+  {
+    "id": "pl-102",
+    "en": "I love pasta.",
+    "pl": "Uwielbiam makaron."
+  },
+  {
+    "id": "pl-103",
+    "en": "Do you want something to drink?",
+    "pl": "Chcesz coś wypić?"
+  },
+  {
+    "id": "pl-104",
+    "en": "A coffee, please.",
+    "pl": "Kawę poproszę."
+  },
+  {
+    "id": "pl-105",
+    "en": "Where can I buy a ticket?",
+    "pl": "Gdzie mogę kupić bilet?"
+  },
+  {
+    "id": "pl-106",
+    "en": "At the ticket counter.",
+    "pl": "W kasie biletowej."
+  },
+  {
+    "id": "pl-107",
+    "en": "The train is late.",
+    "pl": "Pociąg jest opóźniony."
+  },
+  {
+    "id": "pl-108",
+    "en": "Is it far from here?",
+    "pl": "Czy to daleko stąd?"
+  },
+  {
+    "id": "pl-109",
+    "en": "No, it is very close.",
+    "pl": "Nie, to bardzo blisko."
+  },
+  {
+    "id": "pl-110",
+    "en": "Go straight ahead.",
+    "pl": "Idź prosto."
+  },
+  {
+    "id": "pl-111","en": "Turn right.","pl": "Skręć w prawo."},{"id": "pl-112","en": "Turn left.","pl": "Skręć w lewo."},{"id": "pl-113","en": "I am lost.","pl": "Zgubiłem się."},{"id": "pl-114","en": "Can you show me on the map?","pl": "Czy możesz pokazać mi na mapie?"},{"id": "pl-115","en": "Where is the hotel?","pl": "Gdzie jest hotel?"},{"id": "pl-116","en": "I have a reservation.","pl": "Mam rezerwację."},{"id": "pl-117","en": "Can I have the key?","pl": "Czy mogę prosić o klucz?"},{"id": "pl-118","en": "Is the Wi-Fi free?","pl": "Czy Wi-Fi jest darmowe?"},{"id": "pl-119","en": "What is the password?","pl": "Jakie jest hasło?"},{"id": "pl-120","en": "Where is the elevator?","pl": "Gdzie jest winda?"},{"id": "pl-121","en": "I would like to book a table.","pl": "Chciałbym zarezerwować stolik."},{"id": "pl-122","en": "For how many people?","pl": "Na ile osób?"},{"id": "pl-123","en": "For two people.","pl": "Na dwie osoby."},{"id": "pl-124","en": "At what time?","pl": "O której godzinie?"},{"id": "pl-125","en": "Tonight at eight p.m.","pl": "Dziś wieczorem o dwudziestej."},{"id": "pl-126","en": "Are you ready to order?","pl": "Czy są państwo gotowi złożyć zamówienie?"},{"id": "pl-127","en": "I will have the chicken.","pl": "Poproszę kurczaka."},{"id": "pl-128","en": "And to drink?","pl": "A do picia?"},{"id": "pl-129","en": "Mineral water, please.","pl": "Wodę mineralną poproszę."},{"id": "pl-130","en": "Enjoy your meal!","pl": "Smacznego!"},{"id": "pl-131","en": "It was excellent.","pl": "To było wyśmienite."},{"id": "pl-132","en": "Do you accept credit cards?","pl": "Czy akceptują państwo karty płatnicze?"},{"id": "pl-133","en": "I will pay in cash.","pl": "Zapłacę gotówką."},{"id": "pl-134","en": "Keep the change.","pl": "Reszty nie trzeba."},{"id": "pl-135","en": "Where are the shops?","pl": "Gdzie są sklepy?"},{"id": "pl-136","en": "I am just looking.","pl": "Tylko oglądam."},{"id": "pl-137","en": "Can I try this on?","pl": "Czy mogę to przymierzyć?"},{"id": "pl-138","en": "Where are the fitting rooms?","pl": "Gdzie są przymierzalnie?"},{"id": "pl-139","en": "What is your size?","pl": "Jaki jest twój rozmiar?"},{"id": "pl-140","en": "It is too big.","pl": "To jest za duże."},{"id": "pl-141","en": "It is too small.","pl": "To jest za małe."},{"id": "pl-142","en": "Do you have a larger size?","pl": "Czy masz większy rozmiar?"},{"id": "pl-143","en": "I'll take it.","pl": "Biorę to."},{"id": "pl-144","en": "Where is the cashier?","pl": "Gdzie jest kasa?"},{"id": "pl-145","en": "Can I have a bag?","pl": "Czy mogę prosić o torbę?"},{"id": "pl-146","en": "I would like a refund.","pl": "Chciałbym otrzymać zwrot pieniędzy."},{"id": "pl-147","en": "It is broken.","pl": "To jest zepsute."},{"id": "pl-148","en": "Where is the pharmacy?","pl": "Gdzie jest apteka?"},{"id": "pl-149","en": "I am sick.","pl": "Jestem chory."},{"id": "pl-150","en": "I have a headache.","pl": "Boli mnie głowa."},{"id": "pl-151","en": "I have a fever.","pl": "Mam gorączkę."},{"id": "pl-152","en": "I need some medicine.","pl": "Potrzebuję lekarstwa."},{"id": "pl-153","en": "Where is the nearest hospital?","pl": "Gdzie jest najbliższy szpital?"},{"id": "pl-154","en": "Call an ambulance!","pl": "Wezwij karetkę!"},{"id": "pl-155","en": "It is an emergency.","pl": "To pilny przypadek."},{"id": "pl-156","en": "Is everything okay?","pl": "Czy wszystko w porządku?"},{"id": "pl-157","en": "Yes, everything is fine.","pl": "Tak, wszystko w porządku."},{"id": "pl-158","en": "Please calm down.","pl": "Proszę się uspokoić."},{"id": "pl-159","en": "Don't worry.","pl": "Nie martw się."},{"id": "pl-160","en": "What happened?","pl": "Co się stało?"},{"id": "pl-161","en": "It was an accident.","pl": "To był wypadek."},{"id": "pl-162","en": "I lost my passport.","pl": "Zgubiłem paszport."},{"id": "pl-163","en": "Where is the police station?","pl": "Gdzie jest komisariat policji?"},{"id": "pl-164","en": "My bag was stolen.","pl": "Ukradziono mi torbę."},{"id": "pl-165","en": "Stop thief!","pl": "Łapać złodzieja!"},{"id": "pl-166","en": "Help me!","pl": "Pomocy!"},{"id": "pl-167","en": "What is the date today?","pl": "Jaka jest dzisiaj data?"},{"id": "pl-168","en": "It is the first of May.","pl": "Jest pierwszy maja."},{"id": "pl-169","en": "What day is it today?","pl": "Jaki jest dzisiaj dzień tygodnia?"},{"id": "pl-170","en": "Today is Monday.","pl": "Dzisiaj jest poniedziałek."},{"id": "pl-171","en": "What did you do this weekend?","pl": "Co robiłeś w ten weekend?"},{"id": "pl-172","en": "I rested.","pl": "Odpocząłem."},{"id": "pl-173","en": "What are we doing tomorrow?","pl": "Co robimy jutro?"},{"id": "pl-174","en": "Shall we meet tonight?","pl": "Widzimy się dziś wieczorem?"},{"id": "pl-175","en": "What time shall we meet?","pl": "O której godzinie się spotykamy?"},{"id": "pl-176","en": "Let's meet at seven p.m.","pl": "Spotykamy się o dziewiętnastej."},{"id": "pl-177","en": "Where is the meeting point?","pl": "Gdzie jest miejsce spotkania?"},{"id": "pl-178","en": "In front of the cinema.","pl": "Przed kinem."},{"id": "pl-179","en": "I am on my way.","pl": "Jestem w drodze."},{"id": "pl-180","en": "I am going to be late.","pl": "Spóźnię się."},{"id": "pl-181","en": "Sorry for being late.","pl": "Przepraszam za spóźnienie."},{"id": "pl-182","en": "It's nothing.","pl": "Nic nie szkodzi."},{"id": "pl-183","en": "Thank you for coming.","pl": "Dziękuję za przybycie."},{"id": "pl-184","en": "It was a pleasure.","pl": "To była przyjemność."},{"id": "pl-185","en": "Until next time.","pl": "Do następnego razu."},{"id": "pl-186","en": "Did you have a good vacation?","pl": "Czy miałeś udane wakacje?"},{"id": "pl-187","en": "It was fantastic.","pl": "Było fantastycznie."},{"id": "pl-188","en": "Where did you go?","pl": "Gdzie pojechałeś?"},{"id": "pl-189","en": "I went to the beach.","pl": "Poszedłem na plażę."},{"id": "pl-190","en": "How was the trip?","pl": "Jak minęła podróż?"},{"id": "pl-191","en": "It was a bit long.","pl": "To było trochę długo."},{"id": "pl-192","en": "Did you take photos?","pl": "Czy robiłeś zdjęcia?"},{"id": "pl-193","en": "Yes, a lot.","pl": "Tak, dużo."},{"id": "pl-194","en": "Show me, please.","pl": "Pokaż mi, proszę."},{"id": "pl-195","en": "It is beautiful.","pl": "To jest piękne."},{"id": "pl-196","en": "How lucky!","pl": "Co za szczęście!"},{"id": "pl-197","en": "I want to go there too.","pl": "Też chcę tam pojechać."},{"id": "pl-198","en": "Maybe next year.","pl": "Może w przyszłym roku."},{"id": "pl-199","en": "We will see.","pl": "Zobaczymy."},{"id": "pl-200","en": "This is the end of the file.","pl": "To koniec pliku."}],
+    "englishchinese": [{
+    "id": "zh-001",
+    "en": "Hello, how are you?",
+    "zh": "你好，你好吗？ (Nǐ hǎo, nǐ hǎo ma?)"
+  },
+  {
+    "id": "zh-002",
+    "en": "What is your name?",
+    "zh": "你叫什么名字？ (Nǐ jiào shénme míngzì?)"
+  },
+  {
+    "id": "zh-003",
+    "en": "My name is John.",
+    "zh": "我叫约翰。 (Wǒ jiào Yuēhàn.)"
+  },
+  {
+    "id": "zh-004",
+    "en": "Nice to meet you.",
+    "zh": "很高兴认识你。 (Hěn gāoxìng rènshí nǐ.)"
+  },
+  {
+    "id": "zh-005",
+    "en": "Where are you from?",
+    "zh": "你从哪里来？ (Nǐ cóng nǎlǐ lái?)"
+  },
+  {
+    "id": "zh-006",
+    "en": "I am from France.",
+    "zh": "我来自法国。 (Wǒ láizì Fǎguó.)"
+  },
+  {
+    "id": "zh-007",
+    "en": "Where do you live?",
+    "zh": "你住在哪里？ (Nǐ zhù zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-008",
+    "en": "I live in Paris.",
+    "zh": "我住在巴黎。 (Wǒ zhù zài Bālí.)"
+  },
+  {
+    "id": "zh-009",
+    "en": "How old are you?",
+    "zh": "你多大了？ (Nǐ duōdà le?)"
+  },
+  {
+    "id": "zh-010",
+    "en": "I am thirty years old.",
+    "zh": "我三十岁。 (Wǒ sānshí suì.)"
+  },
+  {
+    "id": "zh-011",
+    "en": "What do you do for a living?",
+    "zh": "你是做什么工作的？ (Nǐ shì zuò shénme gōngzuò de?)"
+  },
+  {
+    "id": "zh-012",
+    "en": "I am a student.",
+    "zh": "我是学生。 (Wǒ Ext. xuéshēng.)"
+  },
+  {
+    "id": "zh-013",
+    "en": "Do you speak Chinese?",
+    "zh": "你会说中文吗？ (Nǐ huì shuō Zhōngwén ma?)"
+  },
+  {
+    "id": "zh-014",
+    "en": "I speak a little Chinese.",
+    "zh": "我会说一点中文。 (Wǒ huì shuō yīdiǎn Zhōngwén.)"
+  },
+  {
+    "id": "zh-015",
+    "en": "Can you help me, please?",
+    "zh": "请问你能帮我吗？ (Qǐngwèn nǐ néng bāng wǒ ma?)"
+  },
+  {
+    "id": "zh-016",
+    "en": "Thank you very much.",
+    "zh": "非常感谢。 (Fēicháng gǎnxiè.)"
+  },
+  {
+    "id": "zh-017",
+    "en": "You're welcome.",
+    "zh": "不客气。 (Bù kèqì.)"
+  },
+  {
+    "id": "zh-018",
+    "en": "Please.",
+    "zh": "请。 (Qǐng.)"
+  },
+  {
+    "id": "zh-019",
+    "en": "Excuse me.",
+    "zh": "打扰一下。 (Dǎrǎo yīxià.)"
+  },
+  {
+    "id": "zh-020",
+    "en": "I am sorry.",
+    "zh": "对不起。 (Duìbùqǐ.)"
+  },
+  {
+    "id": "zh-021",
+    "en": "What time is it?",
+    "zh": "现在几点了？ (Xiànzài jǐ diǎn le?)"
+  },
+  {
+    "id": "zh-022",
+    "en": "It is ten o'clock.",
+    "zh": "现在十点了。 (Xiànzài shí diǎn le.)"
+  },
+  {
+    "id": "zh-023",
+    "en": "Where is the restroom?",
+    "zh": "洗手间在哪里？ (Xǐshǒujiān zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-024",
+    "en": "It is that way.",
+    "zh": "往那边走。 (Wǎng nàbiān zǒu.)"
+  },
+  {
+    "id": "zh-025",
+    "en": "How much does it cost?",
+    "zh": "这个多少钱？ (Zhège duōshǎo qián?)"
+  },
+  {
+    "id": "zh-026",
+    "en": "It is too expensive.",
+    "zh": "太贵了。 (Tài guì le.)"
+  },
+  {
+    "id": "zh-027",
+    "en": "Where is the train station?",
+    "zh": "火车站在哪里？ (Huǒchēzhàn zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-028",
+    "en": "I am looking for a good restaurant.",
+    "zh": "我在找一家好的餐厅。 (Wǒ zài zhǎo yī jiā hǎo de cāntīng.)"
+  },
+  {
+    "id": "zh-029",
+    "en": "The bill, please.",
+    "zh": "请结账。 (Qǐng jiézhàng.)"
+  },
+  {
+    "id": "zh-030",
+    "en": "What is the weather like today?",
+    "zh": "今天天气怎么样？ (Jīntiān tiānqì zěnme yàng?)"
+  },
+  {
+    "id": "zh-031",
+    "en": "The weather is nice.",
+    "zh": "天气很好。 (Tiānqì hěn hǎo.)"
+  },
+  {
+    "id": "zh-032",
+    "en": "It is raining.",
+    "zh": "下雨了。 (Xià yǔ le.)"
+  },
+  {
+    "id": "zh-033",
+    "en": "I am hungry.",
+    "zh": "我饿了。 (Wǒ è le.)"
+  },
+  {
+    "id": "zh-034",
+    "en": "I am thirsty.",
+    "zh": "我渴了。 (Wǒ kě le.)"
+  },
+  {
+    "id": "zh-035",
+    "en": "I am tired.",
+    "zh": "我累了。 (Wǒ lèi le.)"
+  },
+  {
+    "id": "zh-036",
+    "en": "I don't understand.",
+    "zh": "我不明白。 (Wǒ bù míngbái.)"
+  },
+  {
+    "id": "zh-037",
+    "en": "Can you repeat?",
+    "zh": "你能重复一遍吗？ (Nǐ néng chóngfù yībiàn ma?)"
+  },
+  {
+    "id": "zh-038",
+    "en": "Speak more slowly, please.",
+    "zh": "请说慢一点。 (Qǐng shuō慢 yīdiǎn.)"
+  },
+  {
+    "id": "zh-039",
+    "en": "How do you say that in Chinese?",
+    "zh": "这个用中文怎么说？ (Zhège yòng Zhōngwén zěnme shuō?)"
+  },
+  {
+    "id": "zh-040",
+    "en": "What does this word mean?",
+    "zh": "这个词是什么意思？ (Zhège cí shì shénme yìsī?)"
+  },
+  {
+    "id": "zh-041",
+    "en": "I love you.",
+    "zh": "我爱你。 (Wǒ ài nǐ.)"
+  },
+  {
+    "id": "zh-042",
+    "en": "I miss you.",
+    "zh": "我想 you。 (Wǒ xiǎng nǐ.)"
+  },
+  {
+    "id": "zh-043",
+    "en": "Good luck!",
+    "zh": "祝你好运！ (Zhù nǐ hǎo yùn!)"
+  },
+  {
+    "id": "zh-044",
+    "en": "Congratulations!",
+    "zh": "恭喜！ (Gōngxǐ!)"
+  },
+  {
+    "id": "zh-045",
+    "en": "Happy birthday!",
+    "zh": "生日快乐！ (Shēngrì kuàilè!)"
+  },
+  {
+    "id": "zh-046",
+    "en": "Have a good trip!",
+    "zh": "一路顺风！ (Yīlù shùnfēng!)"
+  },
+  {
+    "id": "zh-047",
+    "en": "Have a nice day.",
+    "zh": "祝你度过美好的一天。 (Zhù nǐ dùguò měihǎo de yītiān.)"
+  },
+  {
+    "id": "zh-048",
+    "en": "See you soon.",
+    "zh": "回头见。 (Huítóu jiàn.)"
+  },
+  {
+    "id": "zh-049",
+    "en": "See you tomorrow.",
+    "zh": "明天见。 (Míngtiān jiàn.)"
+  },
+  {
+    "id": "zh-050",
+    "en": "Goodbye.",
+    "zh": "再见。 (Zàijiàn.)"
+  },
+  {
+    "id": "zh-051",
+    "en": "Where are you going?",
+    "zh": "你去哪里？ (Nǐ qù nǎlǐ?)"
+  },
+  {
+    "id": "zh-052",
+    "en": "I am going to the supermarket.",
+    "zh": "我去超市。 (Wǒ qù chāoshì.)"
+  },
+  {
+    "id": "zh-053",
+    "en": "What is it?",
+    "zh": "这是什么？ (Zhè shì shénme?)"
+  },
+  {
+    "id": "zh-054",
+    "en": "I don't know.",
+    "zh": "我不知道。 (Wǒ bù zhīdào.)"
+  },
+  {
+    "id": "zh-055",
+    "en": "Are you sure?",
+    "zh": "你确定吗？ (Nǐ quèdìng ma?)"
+  },
+  {
+    "id": "zh-056",
+    "en": "Yes, I am sure.",
+    "zh": "是的，我确定。 (Shì de, wǒ quèdìng.)"
+  },
+  {
+    "id": "zh-057",
+    "en": "I think so.",
+    "zh": "我想是的。 (Wǒ xiǎng shì de.)"
+  },
+  {
+    "id": "zh-058",
+    "en": "I don't think so.",
+    "zh": "我想不是。 (Wǒ xiǎng bùshì.)"
+  },
+  {
+    "id": "zh-059",
+    "en": "No problem.",
+    "zh": "没问题。 (Méi wèntí.)"
+  },
+  {
+    "id": "zh-060",
+    "en": "It doesn't matter.",
+    "zh": "没关系。 (Méi guānxì.)"
+  },
+  {
+    "id": "zh-061",
+    "en": "What are you eating?",
+    "zh": "你在吃什么？ (Nǐ zài chī shénme?)"
+  },
+  {
+    "id": "zh-062",
+    "en": "It is delicious.",
+    "zh": "很好吃。 (Hěn hào chī.)"
+  },
+  {
+    "id": "zh-063",
+    "en": "I don't like it.",
+    "zh": "我不喜欢这个。 (Wǒ bù xǐhuān zhège.)"
+  },
+  {
+    "id": "zh-064",
+    "en": "What are your hobbies?",
+    "zh": "你有什么爱好？ (Nǐ yǒu shénme àihào?)"
+  },
+  {
+    "id": "zh-065",
+    "en": "I like reading books.",
+    "zh": "我喜欢读书。 (Wǒ xǐhuān dúshū.)"
+  },
+  {
+    "id": "zh-066",
+    "en": "I like listening to music.",
+    "zh": "我喜欢听音乐。 (Wǒ xǐhuān tīng yīnyuè.)"
+  },
+  {
+    "id": "zh-067",
+    "en": "Do you do sports?",
+    "zh": "你做运动吗？ (Nǐ zuò yùndòng ma?)"
+  },
+  {
+    "id": "zh-068",
+    "en": "I play soccer.",
+    "zh": "我踢足球。 (Wǒ tī zúqiú.)"
+  },
+  {
+    "id": "zh-069",
+    "en": "I am watching a movie.",
+    "zh": "我在看电影。 (Wǒ zài kàn diànyǐng.)"
+  },
+  {
+    "id": "zh-070",
+    "en": "Where did you buy that?",
+    "zh": "你在哪里买的？ (Nǐ zài nǎlǐ mǎi de?)"
+  },
+  {
+    "id": "zh-071",
+    "en": "It is a gift.",
+    "zh": "这是一份礼物。 (Zhè shì yī fèn lǐwù.)"
+  },
+  {
+    "id": "zh-072",
+    "en": "Can you close the window?",
+    "zh": "请问你能关上窗户吗？ (Qǐngwèn nǐ néng guānshàng chuānghù ma?)"
+  },
+  {
+    "id": "zh-073",
+    "en": "It is cold in here.",
+    "zh": "这里很冷。 (Zhèlǐ hěn lěng.)"
+  },
+  {
+    "id": "zh-074",
+    "en": "It is hot outside.",
+    "zh": "外面很热。 (Wàimiàn hěn rè.)"
+  },
+  {
+    "id": "zh-075",
+    "en": "Where are my keys?",
+    "zh": "我的钥匙在哪里？ (Wǒ de yàoshi zài nǎlǐ?)"
+  },
+  {
+    "id": "zh-076",
+    "en": "They are on the table.",
+    "zh": "在桌子上。 (Zài zhuōzi shàng.)"
+  },
+  {
+    "id": "zh-077",
+    "en": "I have to go.",
+    "zh": "我得走了。 (Wǒ děi zǒu le.)"
+  },
+  {
+    "id": "zh-078",
+    "en": "Take care.",
+    "zh": "保重。 (Bǎozhòng.)"
+  },
+  {
+    "id": "zh-079",
+    "en": "See you later.",
+    "zh": "待会儿见。 (Dāi huǐ'er jiàn.)"
+  },
+  {
+    "id": "zh-080",
+    "en": "Good night.",
+    "zh": "晚安。 (Wǎn'ān.)"
+  },
+  {
+    "id": "zh-081",
+    "en": "Do you have any siblings?",
+    "zh": "你有兄弟姐妹吗？ (Nǐ yǒu xiōngdì jiěmèi ma?)"
+  },
+  {
+    "id": "zh-082",
+    "en": "I have a brother and a sister.",
+    "zh": "我有一个哥哥和一个姐姐。 (Wǒ yǒu yīgè gēgē hé yīgè jiějiě.)"
+  },
+  {
+    "id": "zh-083",
+    "en": "Are you married?",
+    "zh": "你结婚了吗？ (Nǐ jiéhūn le ma?)"
+  },
+  {
+    "id": "zh-084",
+    "en": "I am single.",
+    "zh": "我是单身。 (Wǒ shì dānshēn.)"
+  },
+  {
+    "id": "zh-085",
+    "en": "Do you have children?",
+    "zh": "你有孩子吗？ (Nǐ yǒu háizi ma?)"
+  },
+  {
+    "id": "zh-086",
+    "en": "I have two children.",
+    "zh": "我有两个孩子。 (Wǒ yǒu liǎng gè háizi.)"
+  },
+  {
+    "id": "zh-087",
+    "en": "Where do you work?",
+    "zh": "你在哪里工作？ (Nǐ zài nǎlǐ gōngzuò?)"
+  },
+  {
+    "id": "zh-088",
+    "en": "I work in an office.",
+    "zh": "我在办公室工作。 (Wǒ zài bàngōngshì gōngzuò.)"
+  },
+  {
+    "id": "zh-089",
+    "en": "It is difficult.",
+    "zh": "这很难。 (Zhè hěn nán.)"
+  },
+  {
+    "id": "zh-090",
+    "en": "It is easy.",
+    "zh": "这很简单。 (Zhè hěn jiǎndān.)"
+  },
+  {
+    "id": "zh-091",
+    "en": "I agree.",
+    "zh": "我同意。 (Wǒ tóngyì.)"
+  },
+  {
+    "id": "zh-092",
+    "en": "I don't agree.",
+    "zh": "我不同意。 (Wǒ bù tóngyì.)"
+  },
+  {
+    "id": "zh-093",
+    "en": "That's a good idea.",
+    "zh": "这是个好主意。 (Zhè shìgè hǎo zhǔyì.)"
+  },
+  {
+    "id": "zh-094",
+    "en": "I don't have time.",
+    "zh": "我没有时间。 (Wǒ méiyǒu shíjiān.)"
+  },
+  {
+    "id": "zh-095",
+    "en": "Wait a minute.",
+    "zh": "请等一下。 (Qǐng děng yīxià.)"
+  },
+  {
+    "id": "zh-096",
+    "en": "I'll be right back.",
+    "zh": "我马上回来。 (Wǒ mǎshàng huílái.)"
+  },
+  {
+    "id": "zh-097",
+    "en": "Of course.",
+    "zh": "当然。 (Dāngrán.)"
+  },
+  {
+    "id": "zh-098",
+    "en": "Maybe.",
+    "zh": "可能。 (Kěnéng.)"
+  },
+  {
+    "id": "zh-099",
+    "en": "Never.",
+    "zh": "绝不。 (Jué bù.)"
+  },
+  {
+    "id": "zh-100",
+    "en": "Always.",
+    "zh": "总是。 (Zǒngshì.)"
+  },
+  {
+    "id": "zh-101",
+    "en": "What is your favorite food?",
+    "zh": "你最喜欢吃什么？ (Nǐ zuì xǐhuān chī shénme?)"
+  },
+  {
+"id": "zh-102","en": "I love pasta.","zh": "我非常喜欢面条。 (Wǒ fēicháng xǐhuān miàntiáo.)"},{"id": "zh-103","en": "Do you want something to drink?","zh": "你想喝点什么吗？ (Nǐ xiǎng hē diǎn shénme ma?)"},{"id": "zh-104","en": "A coffee, please.","zh": "请给我一杯咖啡。 (Qǐng gěi wǒ yī bēi kāfēi.)"},{"id": "zh-105","en": "Where can I buy a ticket?","zh": "我在哪里可以买票？ (Wǒ zài nǎlǐ kěyǐ mǎi piào?)"},{"id": "zh-106","en": "At the ticket counter.","zh": "在售票处。 (Zài shòupiàochù.)"},{"id": "zh-107","en": "The train is late.","zh": "火车晚点了。 (Huǒchē wǎndiǎn le.)"},{"id": "zh-108","en": "Is it far from here?","zh": "离这里远吗？ (Lí zhèlǐ yuǎn ma?)"},{"id": "zh-109","en": "No, it is very close.","zh": "不远，很近。 (Bù yuǎn, hěn jìn.)"},{"id": "zh-110","en": "Go straight ahead.","zh": "一直往前走。 (Yīzhí wǎng qián zǒu.)"},{"id": "zh-111","en": "Turn right.","zh": "向右转。 (Xiàng yòu zhuǎn.)"},{"id": "zh-112","en": "Turn left.","zh": "向左转。 (Xiàng zuǒ zhuǎn.)"},{"id": "zh-113","en": "I am lost.","zh": "我迷路了。 (Wǒ mílù le.)"},{"id": "zh-114","en": "Can you show me on the map?","zh": "你能在地图上指给我看吗？ (Nǐ néng zài dìtú shàng zhǐ gěi wǒ kàn ma?)"},{"id": "zh-115","en": "Where is the hotel?","zh": "酒店在哪里？ (Jiǔdiàn zài nǎlǐ?)"},{"id": "zh-116","en": "I have a reservation.","zh": "我有一个预订。 (Wǒ yǒu yīgè yùdìng.)"},{"id": "zh-117","en": "Can I have the key?","zh": "我可以拿钥匙吗？ (Wǒ kěyǐ ná yàoshi ma?)"},{"id": "zh-118","en": "Is the Wi-Fi free?","zh": "Wi-Fi是免费的吗？ (Wi-Fi shirts miǎnfèi de ma?)"},{"id": "zh-119","en": "What is the password?","zh": "密码是什么？ (Mìmǎ shirts shénme?)"},{"id": "zh-120","en": "Where is the elevator?","zh": "电梯在哪里？ (Diàntī zài nǎlǐ?)"},{"id": "zh-121","en": "I would like to book a table.","zh": "我想订个位子。 (Wǒ xiǎng dìng gè wèizi.)"},{"id": "zh-122","en": "For how many people?","zh": "请问几位？ (Qǐngwèn jǐ wèi?)"},{"id": "zh-123","en": "For two people.","zh": "两位。 (Liǎng wèi.)"},{"id": "zh-124","en": "At what time?","zh": "几点钟？ (Jǐ diǎn zhōng?)"},{"id": "zh-125","en": "Tonight at eight p.m.","zh": "今晚八点。 (Jīnwǎn bā diǎn.)"},{"id": "zh-126","en": "Are you ready to order?","zh": "您可以点单了吗？ (Nǐ kěyǐ diǎndān le ma?)"},{"id": "zh-127","en": "I will have the chicken.","zh": "我点鸡肉。 (Wǒ diǎn jīròu.)"},{"id": "zh-128","en": "And to drink?","zh": "喝点什么？ (Hē diǎn shénme?)"},{"id": "zh-129","en": "Mineral water, please.","zh": "请给我矿泉水。 (Qǐng gěi wǒ kuàngquánshuǐ.)"},{"id": "zh-130","en": "Enjoy your meal!","zh": "请慢用！ (Qǐng mān yòng!)"},{"id": "zh-131","en": "It was excellent.","zh": "太美味了。 (Tài měiwèi le.)"},{"id": "zh-132","en": "Do you accept credit cards?","zh": "你们接受银行卡吗？ (Nǐmen jiēshòu yínhángkǎ ma?)"},{"id": "zh-133","en": "I will pay in cash.","zh": "我用现金支付。 (Wǒ yòng xiànjīn zhīfù.)"},{"id": "zh-134","en": "Keep the change.","zh": "不用找零了。 (Bùyòng zhǎolíng le.)"},{"id": "zh-135","en": "Where are the shops?","zh": "商店在哪里？ (Shāngdiàn zài nǎlǐ?)"},{"id": "zh-136","en": "I am just looking.","zh": "我只是看看。 (Wǒ zhǐshì kànkàn.)"},{"id": "zh-137","en": "Can I try this on?","zh": "我可以试穿这个吗？ (Wǒ kěyǐ shirtschuān zhège ma?)"},{"id": "zh-138","en": "Where are the fitting rooms?","zh": "试衣间在哪里？ (Shìyījiān zài nǎlǐ?)"},{"id": "zh-139","en": "What is your size?","zh": "你穿多大码？ (Nǐ chuān duōdà mǎ?)"},{"id": "zh-140","en": "It is too big.","zh": "太大了。 (Tài dà le.)"},{"id": "zh-141","en": "It is too small.","zh": "太小了。 (Tài xiǎo le.)"},{"id": "zh-142","en": "Do you have a larger size?","zh": "有更大一码的吗？ (Yǒu gèng dà yī mǎ de ma?)"},{"id": "zh-143","en": "I'll take it.","zh": "我要买这个。 (Wǒ yào mǎi zhège.)"},{"id": "zh-144","en": "Where is the cashier?","zh": "收银台在哪里？ (Shōuyíntái zài nǎlǐ?)"},{"id": "zh-145","en": "Can I have a bag?","zh": "能给我一个袋子吗？ (Néng gěi wǒ yīgè dàizi ma?)"},{"id": "zh-146","en": "I would like a refund.","zh": "我想退款。 (Wǒ xiǎng tuìkuǎn.)"},{"id": "zh-147","en": "It is broken.","zh": "这个坏了。 (Zhège huài le.)"},{"id": "zh-148","en": "Where is the pharmacy?","zh": "药店在哪里？ (Yàodiàn zài nǎlǐ?)"},{"id": "zh-149","en": "I am sick.","zh": "我生病了。 (Wǒ shēngbìng le.)"},{"id": "zh-150","en": "I have a headache.","zh": "我头疼。 (Wǒ tóuténg.)"},{"id": "zh-151","en": "I have a fever.","zh": "我发烧了。 (Wǒ fāshāo le.)"},{"id": "zh-152","en": "I need some medicine.","zh": "我需要吃药。 (Wǒ xūyào chī yào.)"},{"id": "zh-153","en": "Where is the nearest hospital?","zh": "最近的医院在哪里？ (Zuìjìn de yīyuàn zài nǎlǐ?)"},{"id": "zh-154","en": "Call an ambulance!","zh": "快叫救护车！ (Kuài jiào jiùhùchē!)"},{"id": "zh-155","en": "It is an emergency.","zh": "这是紧急情况。 (Zhè shirts jǐnjí qíngkuàng.)"},{"id": "zh-156","en": "Is everything okay?","zh": "一切都好吗？ (Yīqiè dōu hǎo ma?)"},{"id": "zh-157","en": "Yes, everything is fine.","zh": "是的，一切都好。 (Shì de, yīqiè dōu hǎo.)"},{"id": "zh-158","en": "Please calm down.","zh": "请冷静一下。 (Qǐng lěngjìng yīxià.)"},{"id": "zh-159","en": "Don't worry.","zh": "别担心。 (Bié dānxīn.)"},{"id": "zh-160","en": "What happened?","zh": "发生什么事了？ (Fāshēng shénme shirts le?)"},{"id": "zh-161","en": "It was an accident.","zh": "这只是一场意外。 (Zhè zhǐshì yī chǎng yìwài.)"},{"id": "zh-162","en": "I lost my passport.","zh": "我的护照丢了。 (Wǒ de hùzhào diū le.)"},{"id": "zh-163","en": "Where is the police station?","zh": "警察局在哪里？ (Jǐngchájú zài nǎlǐ?)"},{"id": "zh-164","en": "My bag was stolen.","zh": "我的包被偷了。 (Wǒ de bāo bèi tōu le.)"},{"id": "zh-165","en": "Stop thief!","zh": "抓小偷！ (Zhuā xiǎotōu!)"},{"id": "zh-166","en": "Help me!","zh": "救命！ / 帮帮我！ (Jiùmìng! / Bāng bāng wǒ.)"},{"id": "zh-167","en": "What is the date today?","zh": "今天是几号？ (Jīntiān shirts jǐ hào?)"},{"id": "zh-168","en": "It is the first of May.","zh": "今天是五月一号。 (Jīntiān shirts wǔ yuè yī hào.)"},{"id": "zh-169","en": "What day is it today?","zh": "今天星期几？ (Jīntiān xīngqī jǐ?)"},{"id": "zh-170","en": "Today is Monday.","zh": "今天星期一。 (Jīntiān xīngqī yī.)"},{"id": "zh-171","en": "What did you do this weekend?","zh": "你周末干什么了？ (Nǐ zhōumò gàn shénme le?)"},{"id": "zh-172","en": "I rested.","zh": "我休息了。 (Wǒ xiūxí le.)"},{"id": "zh-173","en": "What are we doing tomorrow?","zh": "我们明天做什么？ (Wǒmen míngtiān zuò shénme?)"},{"id": "zh-174","en": "Shall we meet tonight?","zh": "我们今晚见面吗？ (Wǒmen jīnwǎn jiànmiàn ma?)"},{"id": "zh-175","en": "What time shall we meet?","zh": "我们几点碰头？ (Wǒmen jǐ diǎn pèngtóu?)"},{"id": "zh-176","en": "Let's meet at seven p.m.","zh": "我们晚上七点见。 (Wǒmen wǎnshàng qī diǎn jiàn.)"},{"id": "zh-177","en": "Where is the meeting point?","zh": "见面地点在哪里？ (Jiànmiàn dìdiǎn zài nǎlǐ?)"},{"id": "zh-178","en": "In front of the cinema.","zh": "在电影院门前。 (Zài diànyǐngyuàn mén qián.)"},{"id": "zh-179","en": "I am on my way.","zh": "我在路上了。 (Wǒ zài lùshàng le.)"},{"id": "zh-180","en": "I am going to be late.","zh": "我要迟到了。 (Wǒ yào chídào le.)"},{"id": "zh-181","en": "Sorry for being late.","zh": "不好意思我迟到了。 (Bù hǎoyìsi wǒ chídào le.)"},{"id": "zh-182","en": "It's nothing.","zh": "没事儿。 (Méishì'er.)"},{"id": "zh-183","en": "Thank you for coming.","zh": "谢谢你能来。 (Xièxiè nǐ néng lái.)"},{"id": "zh-184","en": "It was a pleasure.","zh": "这是我的荣幸。 (Zhè shirts wǒ de róngxìng.)"},{"id": "zh-185","en": "Until next time.","zh": "下次见。 (Xià cì jiàn.)"},{"id": "zh-186","en": "Did you have a good vacation?","zh": "你假期过得好吗？ (Nǐ jiàqī guò dé hǎo ma?)"},{"id": "zh-187","en": "It was fantastic.","zh": "太棒了。 (Tài bàng le.)"},{"id": "zh-188","en": "Where did you go?","zh": "你去哪儿了？ (Nǐ qù nǎ'er le?)"},{"id": "zh-189","en": "I went to the beach.","zh": "我去海滩了。 (Wǒ qù hǎitān le.)"},{"id": "zh-190","en": "How was the trip?","zh": "旅途怎么样？ (Lǚtú zěnme yàng?)"},{"id": "zh-191","en": "It was a bit long.","zh": "时间有点长。 (Shíjiān yǒudiǎn cháng.)"},{"id": "zh-192","en": "Did you take photos?","zh": "你拍照片了吗？ (Nǐ pāi zhàopiàn le ma?)"},{"id": "zh-193","en": "Yes, a lot.","zh": "是的，拍了很多。 (Shì de, pāile hěnduō.)"},{"id": "zh-194","en": "Show me, please.","zh": "请给我看看。 (Qǐng gěi wǒ kàn kàn.)"},{"id": "zh-195","en": "It is beautiful.","zh": "太美了。 (Tài měi le.)"},{"id": "zh-196","en": "How lucky!","zh": "真幸运！ (Zhên xìngyùn!)"},{"id": "zh-197","en": "I want to go there too.","zh": "我也想去。 (Wǒ yě xiǎng qù.)"},{"id": "zh-198","en": "Maybe next year.","zh": "也许明年吧。 (Yěxǔ míngnián ba.)"},{"id": "zh-199","en": "We will see.","zh": "到时候看吧。 (Dàoshíhòu kàn ba.)"},{"id": "zh-200","en": "This is the end of the file.","zh": "文件结束。 (Wénjiàn jiéshù.)"}]
   }
 }
