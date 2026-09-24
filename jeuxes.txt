@@ -6843,9 +6843,2936 @@
     "es": "¡Adiós!",
     "ar": "وداعاً!"
   }],
-    "spanishturkish": [],
-    "spanishhindi": [],
-    "spanishpolish": [],
+    "spanishturkish": [{
+    "id": "es-tr-001",
+    "es": "¿Hola, cómo está?",
+    "tr": "Merhaba, nasılsınız?"
+  },
+  {
+    "id": "es-tr-002",
+    "es": "¿Cómo se llama?",
+    "tr": "Adınız ne?"
+  },
+  {
+    "id": "es-tr-003",
+    "es": "Me llamo John.",
+    "tr": "Adım John."
+  },
+  {
+    "id": "es-tr-004",
+    "es": "Mucho gusto en conocerle.",
+    "tr": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "id": "es-tr-005",
+    "es": "¿De dónde viene?",
+    "tr": "Nerelisiniz?"
+  },
+  {
+    "id": "es-tr-006",
+    "es": "Vengo de Francia.",
+    "tr": "Fransa'dan geliyorum."
+  },
+  {
+    "id": "es-tr-007",
+    "es": "¿Dónde vive?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "id": "es-tr-008",
+    "es": "Vivo en París.",
+    "tr": "Paris'te yaşıyorum."
+  },
+  {
+    "id": "es-tr-009",
+    "es": "¿Cuántos años tiene?",
+    "tr": "Kaç yaşındasınız?"
+  },
+  {
+    "id": "es-tr-010",
+    "es": "Tengo treinta años.",
+    "tr": "Otuz yaşındayım."
+  },
+  {
+    "id": "es-tr-011",
+    "es": "¿En qué trabaja?",
+    "tr": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "id": "es-tr-012",
+    "es": "Soy estudiante.",
+    "tr": "Öğrenciyim."
+  },
+  {
+    "id": "es-tr-013",
+    "es": "¿Habla inglés?",
+    "tr": "İngilizce biliyor musunuz?"
+  },
+  {
+    "id": "es-tr-014",
+    "es": "Hablo un poco de inglés.",
+    "tr": "Biraz İngilizce konuşuyorum."
+  },
+  {
+    "id": "es-tr-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "tr": "Lütfen bana yardım edebilir misiniz?"
+  },
+  {
+    "id": "es-tr-016",
+    "es": "Muchas gracias.",
+    "tr": "Çok teşekkür ederim."
+  },
+  {
+    "id": "es-tr-017",
+    "es": "De nada.",
+    "tr": "Rica ederim."
+  },
+  {
+    "id": "es-tr-018",
+    "es": "Por favor.",
+    "tr": "Lütfen."
+  },
+  {
+    "id": "es-tr-019",
+    "es": "Disculpe.",
+    "tr": "Affedersiniz."
+  },
+  {
+    "id": "es-tr-020",
+    "es": "Lo siento.",
+    "tr": "Üzgünüm."
+  },
+  {
+    "id": "es-tr-021",
+    "es": "¿Qué hora es?",
+    "tr": "Saat kaç?"
+  },
+  {
+    "id": "es-tr-022",
+    "es": "Son las diez.",
+    "tr": "Saat on."
+  },
+  {
+    "id": "es-tr-023",
+    "es": "¿Dónde está el baño?",
+    "tr": "Tuvalet nerede?"
+  },
+  {
+    "id": "es-tr-024",
+    "es": "Es por allá.",
+    "tr": "Şu tarafta."
+  },
+  {
+    "id": "es-tr-025",
+    "es": "¿Cuánto cuesta?",
+    "tr": "Bu ne kadar?"
+  },
+  {
+    "id": "es-tr-026",
+    "es": "Es demasiado caro.",
+    "tr": "Bu çok pahalı."
+  },
+  {
+    "id": "es-tr-027",
+    "es": "¿Dónde está la estación de tren?",
+    "tr": "Tren istasyonu nerede?"
+  },
+  {
+    "id": "es-tr-028",
+    "es": "Busco un buen restaurante.",
+    "tr": "İyi bir restoran arıyorum."
+  },
+  {
+    "id": "es-tr-029",
+    "es": "La cuenta, por favor.",
+    "tr": "Hesap lütfen."
+  },
+  {
+    "id": "es-tr-030",
+    "es": "¿Cómo está el clima hoy?",
+    "tr": "Bugün hava nasıl?"
+  },
+  {
+    "id": "es-tr-031",
+    "es": "Hace buen tiempo.",
+    "tr": "Hava güzel."
+  },
+  {
+    "id": "es-tr-032",
+    "es": "Está lloviendo.",
+    "tr": "Yağmur yağıyor."
+  },
+  {
+    "id": "es-tr-033",
+    "es": "Tengo hambre.",
+    "tr": "Açım."
+  },
+  {
+    "id": "es-tr-034",
+    "es": "Tengo sed.",
+    "tr": "Susadım."
+  },
+  {
+    "id": "es-tr-035",
+    "es": "Estoy cansado.",
+    "tr": "Yorgunum."
+  },
+  {
+    "id": "es-tr-036",
+    "es": "No entiendo.",
+    "tr": "Anlamıyorum."
+  },
+  {
+    "id": "es-tr-037",
+    "es": "¿Puede repetir?",
+    "tr": "Tekrar edebilir misiniz?"
+  },
+  {
+    "id": "es-tr-038",
+    "es": "Hable más despacio, por favor.",
+    "tr": "Lütfen daha yavaş konuşun."
+  },
+  {
+    "id": "es-tr-039",
+    "es": "¿Cómo se dice eso en turco?",
+    "tr": "Bu Türkçe'de nasıl söylenir?"
+  },
+  {
+    "id": "es-tr-040",
+    "es": "¿Qué significa esta palabra?",
+    "tr": "Bu kelime ne anlama geliyor?"
+  },
+  {
+    "id": "es-tr-041",
+    "es": "Te amo.",
+    "tr": "Seni seviyorum."
+  },
+  {
+    "id": "es-tr-042",
+    "es": "Te extraño.",
+    "tr": "Seni özlüyorum."
+  },
+  {
+    "id": "es-tr-043",
+    "es": "¡Buena suerte!",
+    "tr": "Bol şanslar!"
+  },
+  {
+    "id": "es-tr-044",
+    "es": "¡Felicitaciones!",
+    "tr": "Tebrikler!"
+  },
+  {
+    "id": "es-tr-045",
+    "es": "¡Feliz cumpleaños!",
+    "tr": "Doğum günün kutlu olsun!"
+  },
+  {
+    "id": "es-tr-046",
+    "es": "¡Buen viaje!",
+    "tr": "İyi yolculuklar!"
+  },
+  {
+    "id": "es-tr-047",
+    "es": "Que tenga un buen día.",
+    "tr": "İyi günler."
+  },
+  {
+    "id": "es-tr-048",
+    "es": "Hasta pronto.",
+    "tr": "Yakında görüşmek üzere."
+  },
+  {
+    "id": "es-tr-049",
+    "es": "Hasta mañana.",
+    "tr": "Yarın görüşürüz."
+  },
+  {
+    "id": "es-tr-050",
+    "es": "Adiós.",
+    "tr": "Hoşça kalın."
+  },
+  {
+    "id": "es-tr-051",
+    "es": "¿A dónde va?",
+    "tr": "Nereye gidiyorsunuz?"
+  },
+  {
+    "id": "es-tr-052",
+    "es": "Voy al supermercado.",
+    "tr": "Süpermarkete gidiyorum."
+  },
+  {
+    "id": "es-tr-053",
+    "es": "¿Qué es esto?",
+    "tr": "Bu nedir?"
+  },
+  {
+    "id": "es-tr-054",
+    "es": "No lo sé.",
+    "tr": "Bilmiyorum."
+  },
+  {
+    "id": "es-tr-055",
+    "es": "¿Está seguro?",
+    "tr": "Emin misiniz?"
+  },
+  {
+    "id": "es-tr-056",
+    "es": "Sí, estoy seguro.",
+    "tr": "Evet, eminim."
+  },
+  {
+    "id": "es-tr-057",
+    "es": "Creo que sí.",
+    "tr": "Bence de öyle."
+  },
+  {
+    "id": "es-tr-058",
+    "es": "Creo que no.",
+    "tr": "Bence öyle değil."
+  },
+  {
+    "id": "es-tr-059",
+    "es": "No hay problema.",
+    "tr": "Sorun değil."
+  },
+  {
+    "id": "es-tr-060",
+    "es": "No importa.",
+    "tr": "Önemli değil."
+  },
+  {
+    "id": "es-tr-061",
+    "es": "¿Qué estás comiendo?",
+    "tr": "Ne yiyorsun?"
+  },
+  {
+    "id": "es-tr-062",
+    "es": "Está delicioso.",
+    "tr": "Çok lezzetli."
+  },
+  {
+    "id": "es-tr-063",
+    "es": "No me gusta.",
+    "tr": "Bunu sevmiyorum."
+  },
+  {
+    "id": "es-tr-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "tr": "Hobileriniz nelerdir?"
+  },
+  {
+    "id": "es-tr-065",
+    "es": "Me gusta leer libros.",
+    "tr": "Kitap okumayı severim."
+  },
+  {
+    "id": "es-tr-066",
+    "es": "Me gusta escuchar música.",
+    "tr": "Müzik dinlemeyi severim."
+  },
+  {
+    "id": "es-tr-067",
+    "es": "¿Hace deporte?",
+    "tr": "Spor yapıyor musunuz?"
+  },
+  {
+    "id": "es-tr-068",
+    "es": "Juego al fútbol.",
+    "tr": "Futbol oynarım."
+  },
+  {
+    "id": "es-tr-069",
+    "es": "Estoy viendo una película.",
+    "tr": "Film izliyorum."
+  },
+  {
+    "id": "es-tr-070",
+    "es": "¿Dónde lo compraste?",
+    "tr": "Bunu nereden aldın?"
+  },
+  {
+    "id": "es-tr-071",
+    "es": "Es un regalo.",
+    "tr": "Bu bir hediye."
+  },
+  {
+    "id": "es-tr-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "tr": "Lütfen pencereyi kapatabilir misiniz?"
+  },
+  {
+    "id": "es-tr-073",
+    "es": "Hace frío aquí.",
+    "tr": "Burası soğuk."
+  },
+  {
+    "id": "es-tr-074",
+    "es": "Hace calor afuera.",
+    "tr": "Dışarısı sıcak."
+  },
+  {
+    "id": "es-tr-075",
+    "es": "¿Dónde están mis llaves?",
+    "tr": "Anahtarlarım nerede?"
+  },
+  {
+    "id": "es-tr-076",
+    "es": "Están sobre la mesa.",
+    "tr": "Masanın üstündeler."
+  },
+  {
+    "id": "es-tr-077",
+    "es": "Tengo que irme.",
+    "tr": "Gitmem gerekiyor."
+  },
+  {
+    "id": "es-tr-078",
+    "es": "Cuídate.",
+    "tr": "Kendine iyi bak."
+  },
+  {
+    "id": "es-tr-079",
+    "es": "Hasta luego.",
+    "tr": "Sonra görüşürüz."
+  },
+  {
+    "id": "es-tr-080",
+    "es": "Buenas noches.",
+    "tr": "İyi geceler."
+  },
+  {
+    "id": "es-tr-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "tr": "Kardeşiniz var mı?"
+  },
+  {
+    "id": "es-tr-082",
+    "es": "Tengo un hermano y una hermana.",
+    "tr": "Bir erkek kardeşim ve bir kız kardeşim var."
+  },
+  {
+    "id": "es-tr-083",
+    "es": "¿Está casado?",
+    "tr": "Evli misiniz?"
+  },
+  {
+    "id": "es-tr-084",
+    "es": "Soy soltero.",
+    "tr": "Bekarım."
+  },
+  {
+    "id": "es-tr-085",
+    "es": "¿Tienes hijos?",
+    "tr": "Çocuğun var mı?"
+  },
+  {
+    "id": "es-tr-086",
+    "es": "Tengo dos hijos.",
+    "tr": "İki çocuğum var."
+  },
+  {
+    "id": "es-tr-087",
+    "es": "¿Dónde trabajas?",
+    "tr": "Nerede çalışıyorsun?"
+  },
+  {
+    "id": "es-tr-088",
+    "es": "Trabajo en una oficina.",
+    "tr": "Ofiste çalışıyorum."
+  },
+  {
+    "id": "es-tr-089",
+    "es": "¿Le gusta el café o el té?",
+    "tr": "Kahve mi seversiniz yoksa çay mı?"
+  },
+  {
+    "id": "es-tr-090",
+    "es": "Prefiero tomar té.",
+    "tr": "Çay içmeyi tercih ederim."
+  },
+  {
+    "id": "es-tr-091",
+    "es": "Es una buena idea.",
+    "tr": "Bu iyi bir fikir."
+  },
+  {
+    "id": "es-tr-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "tr": "Yorgunum, yatmaya gidiyorum."
+  },
+  {
+    "id": "es-tr-093",
+    "es": "¿Cuál es su película favorita?",
+    "tr": "En sevdiğiniz film hangisi?"
+  },
+  {
+    "id": "es-tr-094",
+    "es": "¿Puede mostrarme el camino?",
+    "tr": "Bana yolu gösterebilir misiniz?"
+  },
+  {
+    "id": "es-tr-095",
+    "es": "Perdí mi teléfono.",
+    "tr": "Telefonumu kaybettim."
+  },
+  {
+    "id": "es-tr-096",
+    "es": "Llame a un médico, por favor.",
+    "tr": "Lütfen bir doktor çağırın."
+  },
+  {
+    "id": "es-tr-097",
+    "es": "Es una emergencia.",
+    "tr": "Bu bir acil durum."
+  },
+  {
+    "id": "es-tr-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "tr": "Wi-Fi şifreniz var mı?"
+  },
+  {
+    "id": "es-tr-099",
+    "es": "Internet está muy lento.",
+    "tr": "İnternet çok yavaş."
+  },
+  {
+    "id": "es-tr-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "tr": "Biletimi iptal etmem gerekiyor."
+  },{
+    "id": "es-tr-101",
+    "es": "¿Cuánto dura el viaje?",
+    "tr": "Yolculuk ne kadar sürüyor?"
+  },
+  {
+    "id": "es-tr-102",
+    "es": "¿Podemos parar aquí?",
+    "tr": "Burada durabilir miyiz?"
+  },
+  {
+    "id": "es-tr-103",
+    "es": "Necesito un recibo.",
+    "tr": "Makbuza ihtiyacım var."
+  },
+  {
+    "id": "es-tr-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "tr": "Nerede para bozdurabilirim?"
+  },
+  {
+    "id": "es-tr-105",
+    "es": "¿Hay un banco cerca?",
+    "tr": "Yakınlarda bir banka var mı?"
+  },
+  {
+    "id": "es-tr-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "tr": "Kredi kartı kabul ediyor musunuz?"
+  },
+  {
+    "id": "es-tr-107",
+    "es": "Pago en efectivo.",
+    "tr": "Nakit ödeyeceğim."
+  },
+  {
+    "id": "es-tr-108",
+    "es": "¿Puede hacerme un descuento?",
+    "tr": "Bana indirim yapabilir misiniz?"
+  },
+  {
+    "id": "es-tr-109",
+    "es": "Esta es mi última palabra.",
+    "tr": "Bu benim son sözüm."
+  },
+  {
+    "id": "es-tr-110",
+    "es": "Solo estoy mirando.",
+    "tr": "Sadece bakınıyorum."
+  },
+  {
+    "id": "es-tr-111",
+    "es": "¿Lo tiene en otra talla?",
+    "tr": "Bunun başka bir bedeni var mı?"
+  },
+  {
+    "id": "es-tr-112",
+    "es": "¿Dónde está el probador?",
+    "tr": "Soyunma kabini nerede?"
+  },
+  {
+    "id": "es-tr-113",
+    "es": "Me queda bien.",
+    "tr": "Üzerime tam oturdu."
+  },
+  {
+    "id": "es-tr-114",
+    "es": "Me lo llevo.",
+    "tr": "Bunu alıyorum."
+  },
+  {
+    "id": "es-tr-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "tr": "Çantamı nereye bırakabilirim?"
+  },
+  {
+    "id": "es-tr-116",
+    "es": "¿Tienen comida vegetariana?",
+    "tr": "Vejetaryen yemeğiniz var mı?"
+  },
+  {
+    "id": "es-tr-117",
+    "es": "Soy alérgico.",
+    "tr": "Alerjim var."
+  },
+  {
+    "id": "es-tr-118",
+    "es": "Sin picante, por favor.",
+    "tr": "Lütfen acısız olsun."
+  },
+  {
+    "id": "es-tr-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "tr": "Lütfen bana bir bardak su getirin."
+  },
+  {
+    "id": "es-tr-120",
+    "es": "¡Buen provecho!",
+    "tr": "Afiyet olsun!"
+  },
+  {
+    "id": "es-tr-121",
+    "es": "¡Salud!",
+    "tr": "Şerefe!"
+  },
+  {
+    "id": "es-tr-122",
+    "es": "La comida estaba maravillosa.",
+    "tr": "Yemek harikaydı."
+  },
+  {
+    "id": "es-tr-123",
+    "es": "Me gustaría reservar una habitación.",
+    "tr": "Bir oda rezerve etmek istiyorum."
+  },
+  {
+    "id": "es-tr-124",
+    "es": "¿El desayuno está incluido?",
+    "tr": "Kahvaltı dahil mi?"
+  },
+  {
+    "id": "es-tr-125",
+    "es": "¿A qué hora es la salida?",
+    "tr": "Otelden çıkış saati kaçta?"
+  },
+  {
+    "id": "es-tr-126",
+    "es": "¿Puede llamar a un taxi?",
+    "tr": "Taksi çağırabilir misiniz?"
+  },
+  {
+    "id": "es-tr-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "tr": "Lütfen beni bu adrese götürün."
+  },
+  {
+    "id": "es-tr-128",
+    "es": "Deténgase aquí, por favor.",
+    "tr": "Lütfen burada durun."
+  },
+  {
+    "id": "es-tr-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "tr": "Yakınlarda bir otobüs durağı var mı?"
+  },
+  {
+    "id": "es-tr-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "tr": "Bir sonraki tren saat kaçta kalkıyor?"
+  },
+  {
+    "id": "es-tr-131",
+    "es": "El tren está retrasado.",
+    "tr": "Tren gecikti."
+  },
+  {
+    "id": "es-tr-132",
+    "es": "Perdí mi vuelo.",
+    "tr": "Uçağımı kaçırdım."
+  },
+  {
+    "id": "es-tr-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "tr": "Bagaj alım yeri nerede?"
+  },
+  {
+    "id": "es-tr-134",
+    "es": "Esta no es mi maleta.",
+    "tr": "Bu benim valizim değil."
+  },
+  {
+    "id": "es-tr-135",
+    "es": "Mi pasaporte desapareció.",
+    "tr": "Pasaportum kayboldu."
+  },
+  {
+    "id": "es-tr-136",
+    "es": "¿Dónde está la embassy?",
+    "tr": "Elçilik nerede?"
+  },
+  {
+    "id": "es-tr-137",
+    "es": "Necesito ayuda de la policía.",
+    "tr": "Polisin yardımına ihtiyacım var."
+  },
+  {
+    "id": "es-tr-138",
+    "es": "Déjame en paz.",
+    "tr": "Beni yalnız bırakın."
+  },
+  {
+    "id": "es-tr-139",
+    "es": "¡Vete!",
+    "tr": "Git buradan!"
+  },
+  {
+    "id": "es-tr-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "tr": "İmdat! Biri beni soydu."
+  },
+  {
+    "id": "es-tr-141",
+    "es": "Me perdí.",
+    "tr": "Kayboldum."
+  },
+  {
+    "id": "es-tr-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "tr": "Haritada nerede olduğumu gösterebilir misiniz?"
+  },
+  {
+    "id": "es-tr-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "tr": "Telefon numaranız nedir?"
+  },
+  {
+    "id": "es-tr-144",
+    "es": "Escríbalo, por favor.",
+    "tr": "Lütfen bunu yazın."
+  },
+  {
+    "id": "es-tr-145",
+    "es": "Te llamaré.",
+    "tr": "Seni arayacağım."
+  },
+  {
+    "id": "es-tr-146",
+    "es": "Mándame un mensaje.",
+    "tr": "Bana bir mesaj gönder."
+  },
+  {
+    "id": "es-tr-147",
+    "es": "¿Está en las redes sociales?",
+    "tr": "Sosyal medyada mısınız?"
+  },
+  {
+    "id": "es-tr-148",
+    "es": "Te sigo.",
+    "tr": "Seni takip ediyorum."
+  },
+  {
+    "id": "es-tr-149",
+    "es": "¿Qué hay de nuevo?",
+    "tr": "Ne haber? / Ne var ne yok?"
+  },
+  {
+    "id": "es-tr-150",
+    "es": "Nada especial.",
+    "tr": "Özel bir şey yok."
+  },
+  {
+    "id": "es-tr-151",
+    "es": "No veo la hora.",
+    "tr": "Dört gözle bekliyorum."
+  },
+  {
+    "id": "es-tr-152",
+    "es": "No me importa.",
+    "tr": "Umrumda değil."
+  },
+  {
+    "id": "es-tr-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "tr": "Merak etme, her şey güzel olacak."
+  },
+  {
+    "id": "es-tr-154",
+    "es": "Cálmate, por favor.",
+    "tr": "Lütfen sakin ol."
+  },
+  {
+    "id": "es-tr-155",
+    "es": "No te estreses.",
+    "tr": "Stres yapma."
+  },
+  {
+    "id": "es-tr-156",
+    "es": "¡Es increíble!",
+    "tr": "Bu inanılmaz!"
+  },
+  {
+    "id": "es-tr-157",
+    "es": "Estoy orgulloso de ti.",
+    "tr": "Seninle gurur duyuyorum."
+  },
+  {
+    "id": "es-tr-158",
+    "es": "Hiciste un buen trabajo.",
+    "tr": "İyi iş çıkardın."
+  },
+  {
+    "id": "es-tr-159",
+    "es": "¡Ánimo!",
+    "tr": "Başını dik tut! / Neşelen!"
+  },
+  {
+    "id": "es-tr-160",
+    "es": "¡No te rindas!",
+    "tr": "Asla pes etme!"
+  },
+  {
+    "id": "es-tr-161",
+    "es": "La práctica hace al maestro.",
+    "tr": "Pratik yapmak mükemmelleştirir."
+  },
+  {
+    "id": "es-tr-162",
+    "es": "Comencemos mañana.",
+    "tr": "Yarın başlayalım."
+  },
+  {
+    "id": "es-tr-163",
+    "es": "No tengo tiempo hoy.",
+    "tr": "Bugün zamanım yok."
+  },
+  {
+    "id": "es-tr-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "tr": "Hafta sonu buluşabiliriz."
+  },
+  {
+    "id": "es-tr-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "tr": "Ne zaman zamanın var?"
+  },
+  {
+    "id": "es-tr-166",
+    "es": "Soy flexible.",
+    "tr": "Zamanım esnek."
+  },
+  {
+    "id": "es-tr-167",
+    "es": "Depende del clima.",
+    "tr": "Havaya bağlı."
+  },
+  {
+    "id": "es-tr-168",
+    "es": "Está nublado hoy.",
+    "tr": "Bugün hava bulutlu."
+  },
+  {
+    "id": "es-tr-169",
+    "es": "Está nevando afuera.",
+    "tr": "Dışarıda kar yağıyor."
+  },
+  {
+    "id": "es-tr-170",
+    "es": "El viento está muy fuerte.",
+    "tr": "Rüzgar çok güçlü."
+  },
+  {
+    "id": "es-tr-171",
+    "es": "Mañana estará soleado.",
+    "tr": "Yarın hava güneşli olacak."
+  },
+  {
+    "id": "es-tr-172",
+    "es": "Amo el verano.",
+    "tr": "Yazı çok seviyorum."
+  },
+  {
+    "id": "es-tr-173",
+    "es": "El invierno es demasiado largo.",
+    "tr": "Kış çok uzun sürüyor."
+  },
+  {
+    "id": "es-tr-174",
+    "es": "Es mi estación favorita.",
+    "tr": "Bu benim en sevdiğim mevsim."
+  },
+  {
+    "id": "es-tr-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "tr": "Hafta sonu ne yaptın?"
+  },
+  {
+    "id": "es-tr-176",
+    "es": "Me quedé en casa.",
+    "tr": "Evde kaldım."
+  },
+  {
+    "id": "es-tr-177",
+    "es": "Visité a mis amigos.",
+    "tr": "Arkadaşlarımı ziyaret ettim."
+  },
+  {
+    "id": "es-tr-178",
+    "es": "Nos divertimos mucho.",
+    "tr": "Çok eğlendik."
+  },
+  {
+    "id": "es-tr-179",
+    "es": "Fue una sorpresa.",
+    "tr": "Bu bir sürpriz oldu."
+  },
+  {
+    "id": "es-tr-180",
+    "es": "Compré un auto nuevo.",
+    "tr": "Yeni bir araba aldım."
+  },
+  {
+    "id": "es-tr-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "tr": "Yeni işin hayırlı olsun!"
+  },
+  {
+    "id": "es-tr-182",
+    "es": "¿Cuándo comienzas?",
+    "tr": "Ne zaman başlıyorsun?"
+  },
+  {
+    "id": "es-tr-183",
+    "es": "Comienzo el próximo lunes.",
+    "tr": "Gelecek Pazartesi başlıyorum."
+  },
+  {
+    "id": "es-tr-184",
+    "es": "Estoy un poco nervioso.",
+    "tr": "Biraz heyecanlıyım / gerginim."
+  },
+  {
+    "id": "es-tr-185",
+    "es": "Es completamente normal.",
+    "tr": "Bu tamamen normal."
+  },
+  {
+    "id": "es-tr-186",
+    "es": "Lo lograrás.",
+    "tr": "Bunu başaracaksın."
+  },
+  {
+    "id": "es-tr-187",
+    "es": "Creo en ti.",
+    "tr": "Sana inanıyorum."
+  },
+  {
+    "id": "es-tr-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "tr": "Desteğin için çok teşekkür ederim."
+  },
+  {
+    "id": "es-tr-189",
+    "es": "Eres un buen amigo.",
+    "tr": "İyi bir arkadaşsın."
+  },
+  {
+    "id": "es-tr-190",
+    "es": "Siempre estoy aquí para ti.",
+    "tr": "Her zaman yanındayım."
+  },
+  {
+    "id": "es-tr-191",
+    "es": "Esto significa mucho para mí.",
+    "tr": "Bu benim için çok şey ifade ediyor."
+  },
+  {
+    "id": "es-tr-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "tr": "Yakında tekrar buluşalım."
+  },
+  {
+    "id": "es-tr-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "tr": "Şimdi gerçekten gitmem lazım."
+  },
+  {
+    "id": "es-tr-194",
+    "es": "Que llegues bien a casa.",
+    "tr": "Eve sağ salim git."
+  },
+  {
+    "id": "es-tr-195",
+    "es": "Escríbeme cuando llegues.",
+    "tr": "Varınca bana yaz."
+  },
+  {
+    "id": "es-tr-196",
+    "es": "Llegué bien.",
+    "tr": "Sağ salim vardım."
+  },
+  {
+    "id": "es-tr-197",
+    "es": "Que duermas bien.","tr": "İyi uykular."},{"id": "es-tr-198","es": "Dulces sueños.","tr": "Tatlı rüyalar."},{"id": "es-tr-199","es": "Hasta la próxima.","tr": "Gelecek sefere kadar."},{"id": "es-tr-200","es": "¡Adiós!","tr": "Görüşürüz! / Baybay!"}],
+    "spanishhindi": [{
+    "id": "es-hi-001",
+    "es": "¿Hola, cómo está?",
+    "hi": "नमस्ते, आप कैसे हैं?"
+  },
+  {
+    "id": "es-hi-002",
+    "es": "¿Cómo se llama?",
+    "hi": "आपका नाम क्या है?"
+  },
+  {
+    "id": "es-hi-003",
+    "es": "Me llamo John.",
+    "hi": "मेरा नाम जॉन है।"
+  },
+  {
+    "id": "es-hi-004",
+    "es": "Mucho gusto en conocerle.",
+    "hi": "आपसे मिलकर अच्छा लगा।"
+  },
+  {
+    "id": "es-hi-005",
+    "es": "¿De dónde viene?",
+    "hi": "आप कहाँ से हैं?"
+  },
+  {
+    "id": "es-hi-006",
+    "es": "Vengo de Francia.",
+    "hi": "मैं फ्रांस से हूँ।"
+  },
+  {
+    "id": "es-hi-007",
+    "es": "¿Dónde vive?",
+    "hi": "आप कहाँ रहते हैं?"
+  },
+  {
+    "id": "es-hi-008",
+    "es": "Vivo en París.",
+    "hi": "मैं पेरिस में रहता हूँ।"
+  },
+  {
+    "id": "es-hi-009",
+    "es": "¿Cuántos años tiene?",
+    "hi": "आपकी उम्र क्या है?"
+  },
+  {
+    "id": "es-hi-010",
+    "es": "Tengo treinta años.",
+    "hi": "मैं तीस साल का हूँ।"
+  },
+  {
+    "id": "es-hi-011",
+    "es": "¿En qué trabaja?",
+    "hi": "आप आजीविका के लिए क्या करते हैं?"
+  },
+  {
+    "id": "es-hi-012",
+    "es": "Soy estudiante.",
+    "hi": "मैं एक छात्र हूँ।"
+  },
+  {
+    "id": "es-hi-013",
+    "es": "¿Habla inglés?",
+    "hi": "क्या आप अंग्रेज़ी बोलते हैं?"
+  },
+  {
+    "id": "es-hi-014",
+    "es": "Hablo un poco de inglés.",
+    "hi": "मैं थोड़ी अंग्रेज़ी बोलता हूँ।"
+  },
+  {
+    "id": "es-hi-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "hi": "क्या आप कृपया मेरी मदद कर सकते हैं?"
+  },
+  {
+    "id": "es-hi-016",
+    "es": "Muchas gracias.",
+    "hi": "बहुत-बहुत धन्यवाद।"
+  },
+  {
+    "id": "es-hi-017",
+    "es": "De nada.",
+    "hi": "आपका स्वागत है।"
+  },
+  {
+    "id": "es-hi-018",
+    "es": "Por favor.",
+    "hi": "कृपया।"
+  },
+  {
+    "id": "es-hi-019",
+    "es": "Disculpe.",
+    "hi": "माफ़ कीजिए।"
+  },
+  {
+    "id": "es-hi-020",
+    "es": "Lo siento.",
+    "hi": "मुझे खेद है।"
+  },
+  {
+    "id": "es-hi-021",
+    "es": "¿Qué hora es?",
+    "hi": "कितने बजे हैं?"
+  },
+  {
+    "id": "es-hi-022",
+    "es": "Son las diez.",
+    "hi": "दस बजे हैं।"
+  },
+  {
+    "id": "es-hi-023",
+    "es": "¿Dónde está el baño?",
+    "hi": "शौचालय कहाँ है?"
+  },
+  {
+    "id": "es-hi-024",
+    "es": "Es por allá.",
+    "hi": "वह उस रास्ते पर है।"
+  },
+  {
+    "id": "es-hi-025",
+    "es": "¿Cuánto cuesta?",
+    "hi": "इसकी कीमत कितनी है?"
+  },
+  {
+    "id": "es-hi-026",
+    "es": "Es demasiado caro.",
+    "hi": "यह बहुत महँगा है।"
+  },
+  {
+    "id": "es-hi-027",
+    "es": "¿Dónde está la estación de tren?",
+    "hi": "रेलवे स्टेशन कहाँ है?"
+  },
+  {
+    "id": "es-hi-028",
+    "es": "Busco un buen restaurante.",
+    "hi": "मैं एक अच्छे रेस्तरां की तलाश में हूँ।"
+  },
+  {
+    "id": "es-hi-029",
+    "es": "La cuenta, por favor.",
+    "hi": "बिल, कृपया।"
+  },
+  {
+    "id": "es-hi-030",
+    "es": "¿Cómo está el clima hoy?",
+    "hi": "आज मौसम कैसा है?"
+  },
+  {
+    "id": "es-hi-031",
+    "es": "Hace buen tiempo.",
+    "hi": "मौसम अच्छा है।"
+  },
+  {
+    "id": "es-hi-032",
+    "es": "Está lloviendo.",
+    "hi": "बारिश हो रही है।"
+  },
+  {
+    "id": "es-hi-033",
+    "es": "Tengo hambre.",
+    "hi": "मुझे भूख लगी है।"
+  },
+  {
+    "id": "es-hi-034",
+    "es": "Tengo sed.",
+    "hi": "मुझे प्यास लगी है।"
+  },
+  {
+    "id": "es-hi-035",
+    "es": "Estoy cansado.",
+    "hi": "मैं थक गया हूँ।"
+  },
+  {
+    "id": "es-hi-036",
+    "es": "No entiendo.",
+    "hi": "मैं नहीं समझा।"
+  },
+  {
+    "id": "es-hi-037",
+    "es": "¿Puede repetir?",
+    "hi": "क्या आप इसे दोहरा सकते हैं?"
+  },
+  {
+    "id": "es-hi-038",
+    "es": "Hable más despacio, por favor.",
+    "hi": "कृपया थोड़ा धीरे बोलें।"
+  },
+  {
+    "id": "es-hi-039",
+    "es": "¿Cómo se dice eso en hindi?",
+    "hi": "इसे हिन्दी में क्या कहते हैं?"
+  },
+  {
+    "id": "es-hi-040",
+    "es": "¿Qué significa esta palabra?",
+    "hi": "इस शब्द का क्या अर्थ है?"
+  },
+  {
+    "id": "es-hi-041",
+    "es": "Te amo.",
+    "hi": "मैं तुमसे प्यार करता हूँ।"
+  },
+  {
+    "id": "es-hi-042",
+    "es": "Te extraño.",
+    "hi": "मुझे तुम्हारी याद आती है।"
+  },
+  {
+    "id": "es-hi-043",
+    "es": "¡Buena suerte!",
+    "hi": "सौभाग्य!"
+  },
+  {
+    "id": "es-hi-044",
+    "es": "¡Felicitaciones!",
+    "hi": "बधाई हो!"
+  },
+  {
+    "id": "es-hi-045",
+    "es": "¡Feliz cumpleaños!",
+    "hi": "जन्मदिन मुबारक हो!"
+  },
+  {
+    "id": "es-hi-046",
+    "es": "¡Buen viaje!",
+    "hi": "आपकी यात्रा सुखद हो!"
+  },
+  {
+    "id": "es-hi-047",
+    "es": "Que tenga un buen día.",
+    "hi": "आपका दिन शुभ हो।"
+  },
+  {
+    "id": "es-hi-048",
+    "es": "Hasta pronto.",
+    "hi": "जल्द ही फिर मिलेंगे।"
+  },
+  {
+    "id": "es-hi-049",
+    "es": "Hasta mañana.",
+    "hi": "कल मिलते हैं।"
+  },
+  {
+    "id": "es-hi-050",
+    "es": "Adiós.",
+    "hi": "अलविदा।"
+  },
+  {
+    "id": "es-hi-051",
+    "es": "¿A dónde va?",
+    "hi": "आप कहाँ जा रहे हैं?"
+  },
+  {
+    "id": "es-hi-052",
+    "es": "Voy al supermercado.",
+    "hi": "मैं सुपरमार्केट जा रहा हूँ।"
+  },
+  {
+    "id": "es-hi-053",
+    "es": "¿Qué es esto?",
+    "hi": "यह क्या है?"
+  },
+  {
+    "id": "es-hi-054",
+    "es": "No lo sé.",
+    "hi": "मुझे नहीं पता।"
+  },
+  {
+    "id": "es-hi-055",
+    "es": "¿Está seguro?",
+    "hi": "क्या आपको यकीन है?"
+  },
+  {
+    "id": "es-hi-056",
+    "es": "Sí, estoy seguro.",
+    "hi": "हाँ, मुझे यकीन है।"
+  },
+  {
+    "id": "es-hi-057",
+    "es": "Creo que sí.",
+    "hi": "मुझे ऐसा लगता है।"
+  },
+  {
+    "id": "es-hi-058",
+    "es": "Creo que no.",
+    "hi": "मुझे ऐसा नहीं लगता।"
+  },
+  {
+    "id": "es-hi-059",
+    "es": "No hay problema.",
+    "hi": "कोई बात नहीं।"
+  },
+  {
+    "id": "es-hi-060",
+    "es": "No importa.",
+    "hi": "इससे कोई फ़र्क नहीं पड़ता।"
+  },
+  {
+    "id": "es-hi-061",
+    "es": "¿Qué estás comiendo?",
+    "hi": "तुम क्या खा रहे हो?"
+  },
+  {
+    "id": "es-hi-062",
+    "es": "Está delicioso.",
+    "hi": "यह स्वादिष्ट है।"
+  },
+  {
+    "id": "es-hi-063",
+    "es": "No me gusta.",
+    "hi": "मुझे यह पसंद नहीं है।"
+  },
+  {
+    "id": "es-hi-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "hi": "आपके शौक क्या हैं?"
+  },
+  {
+    "id": "es-hi-065",
+    "es": "Me gusta leer libros.",
+    "hi": "मुझे किताबें पढ़ना पसंद है।"
+  },
+  {
+    "id": "es-hi-066",
+    "es": "Me gusta escuchar música.",
+    "hi": "मुझे संगीत सुनना पसंद है।"
+  },
+  {
+    "id": "es-hi-067",
+    "es": "¿Hace deporte?",
+    "hi": "क्या आप खेल खेलते हैं?"
+  },
+  {
+    "id": "es-hi-068",
+    "es": "Juego al fútbol.",
+    "hi": "मैं फ़ुटबॉल खेलता हूँ।"
+  },
+  {
+    "id": "es-hi-069",
+    "es": "Estoy viendo una película.",
+    "hi": "मैं एक फिल्म देख रहा हूँ।"
+  },
+  {
+    "id": "es-hi-070",
+    "es": "¿Dónde lo compraste?",
+    "hi": "तुमने यह कहाँ से खरीदा?"
+  },
+  {
+    "id": "es-hi-071",
+    "es": "Es un regalo.",
+    "hi": "यह एक उपहार है।"
+  },
+  {
+    "id": "es-hi-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "hi": "क्या आप कृपया खिड़की बंद कर सकते हैं?"
+  },
+  {
+    "id": "es-hi-073",
+    "es": "Hace frío aquí.",
+    "hi": "यहाँ ठंड है।"
+  },
+  {
+    "id": "es-hi-074",
+    "es": "Hace calor afuera.",
+    "hi": "बाहर गर्मी है।"
+  },
+  {
+    "id": "es-hi-075",
+    "es": "¿Dónde están mis llaves?",
+    "hi": "मेरी चाबियाँ कहाँ हैं?"
+  },
+  {
+    "id": "es-hi-076",
+    "es": "Están sobre la mesa.",
+    "hi": "वे मेज पर हैं।"
+  },
+  {
+    "id": "es-hi-077",
+    "es": "Tengo que irme.",
+    "hi": "मुझे जाना होगा।"
+  },
+  {
+    "id": "es-hi-078",
+    "es": "Cuídate.",
+    "hi": "अपना ख्याल रखना।"
+  },
+  {
+    "id": "es-hi-079",
+    "es": "Hasta luego.",
+    "hi": "बाद में मिलते हैं।"
+  },
+  {
+    "id": "es-hi-080",
+    "es": "Buenas noches.",
+    "hi": "शुभ रात्रि।"
+  },
+  {
+    "id": "es-hi-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "hi": "क्या आपके कोई भाई-बहन हैं?"
+  },
+  {
+    "id": "es-hi-082",
+    "es": "Tengo un hermano y una hermana.",
+    "hi": "मेरा एक भाई और एक बहन है।"
+  },
+  {
+    "id": "es-hi-083",
+    "es": "¿Está casado?",
+    "hi": "क्या आप शादीशुदा हैं?"
+  },
+  {
+    "id": "es-hi-084",
+    "es": "Soy soltero.",
+    "hi": "मैं अविवाहित हूँ।"
+  },
+  {
+    "id": "es-hi-085",
+    "es": "¿Tienes hijos?",
+    "hi": "क्या आपके बच्चे हैं?"
+  },
+  {
+    "id": "es-hi-086",
+    "es": "Tengo dos hijos.",
+    "hi": "मेरे दो बच्चे हैं।"
+  },
+  {
+    "id": "es-hi-087",
+    "es": "¿Dónde trabajas?",
+    "hi": "तुम कहाँ काम करते हो?"
+  },
+  {
+    "id": "es-hi-088",
+    "es": "Trabajo en una oficina.",
+    "hi": "मैं कार्यालय में काम करता हूँ।"
+  },
+  {
+    "id": "es-hi-089",
+    "es": "¿Le gusta el café o el té?",
+    "hi": "आपको कॉफी पसंद है या चाय?"
+  },
+  {
+    "id": "es-hi-090",
+    "es": "Prefiero tomar té.",
+    "hi": "मैं चाय पीना पसंद करता हूँ।"
+  },
+  {
+    "id": "es-hi-091",
+    "es": "Es una buena idea.",
+    "hi": "यह एक अच्छा विचार है।"
+  },
+  {
+    "id": "es-hi-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "hi": "मैं थक गया हूँ, मैं सोने जा रहा हूँ।"
+  },
+  {
+    "id": "es-hi-093",
+    "es": "¿Cuál es su película favorita?",
+    "hi": "आपकी पसंदीदा फिल्म कौन सी है?"
+  },
+  {
+    "id": "es-hi-094",
+    "es": "¿Puede mostrarme el camino?",
+    "hi": "क्या आप मुझे रास्ता दिखा सकते हैं?"
+  },
+  {
+    "id": "es-hi-095",
+    "es": "Perdí mi teléfono.",
+    "hi": "मैंने अपना phone खो दिया है।"
+  },
+  {
+    "id": "es-hi-096",
+    "es": "Llame a un médico, por favor.",
+    "hi": "कृपया डॉक्टर को बुलाएं।"
+  },
+  {
+    "id": "es-hi-097",
+    "es": "Es una emergencia.",
+    "hi": "यह एक आपातकालीन स्थिति है।"
+  },
+  {
+    "id": "es-hi-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "hi": "क्या आपके पास वाई-फाई पासवर्ड है?"
+  },
+  {
+    "id": "es-hi-099",
+    "es": "Internet está muy lento.",
+    "hi": "इंटरनेट बहुत धीमा है।"
+  },
+  {
+    "id": "es-hi-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "hi": "मुझे अपना टिकट रद्द करना होगा।"
+  },{
+    "id": "es-hi-101",
+    "es": "¿Cuánto dura el viaje?",
+    "hi": "यात्रा में कितना समय लगता है?"
+  },
+  {
+    "id": "es-hi-102",
+    "es": "¿Podemos parar aquí?",
+    "hi": "क्या हम यहाँ रुक सकते हैं?"
+  },
+  {
+    "id": "es-hi-103",
+    "es": "Necesito un recibo.",
+    "hi": "मुझे एक रसीद चाहिए।"
+  },
+  {
+    "id": "es-hi-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "hi": "मैं मुद्रा कहाँ बदल सकता हूँ?"
+  },
+  {
+    "id": "es-hi-105",
+    "es": "¿Hay un banco cerca?",
+    "hi": "क्या आस-पास कोई बैंक है?"
+  },
+  {
+    "id": "es-hi-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "hi": "क्या आप क्रेडिट कार्ड स्वीकार करते हैं?"
+  },
+  {
+    "id": "es-hi-107",
+    "es": "Pago en efectivo.",
+    "hi": "मैं नकद भुगतान करूँगा।"
+  },
+  {
+    "id": "es-hi-108",
+    "es": "¿Puede hacerme un descuento?",
+    "hi": "क्या आप मुझे छूट दे सकते हैं?"
+  },
+  {
+    "id": "es-hi-109",
+    "es": "Esta es mi última palabra.",
+    "hi": "यह मेरा अंतिम निर्णय है।"
+  },
+  {
+    "id": "es-hi-110",
+    "es": "Solo estoy mirando.",
+    "hi": "मैं बस देख रहा हूँ।"
+  },
+  {
+    "id": "es-hi-111",
+    "es": "¿Lo tiene en otra talla?",
+    "hi": "क्या आपके पास यह किसी अन्य आकार में है?"
+  },
+  {
+    "id": "es-hi-112",
+    "es": "¿Dónde está el probador?",
+    "hi": "ट्रायल रूम कहाँ है?"
+  },
+  {
+    "id": "es-hi-113",
+    "es": "Me queda bien.",
+    "hi": "यह मुझ पर अच्छा लग रहा है।"
+  },
+  {
+    "id": "es-hi-114",
+    "es": "Me lo llevo.",
+    "hi": "मैं इसे लूँगा।"
+  },
+  {
+    "id": "es-hi-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "hi": "मैं अपना बैग कहाँ रख सकता हूँ?"
+  },
+  {
+    "id": "es-hi-116",
+    "es": "¿Tienen comida vegetariana?",
+    "hi": "क्या आपके पास शाкаहारी भोजन है?"
+  },
+  {
+    "id": "es-hi-117",
+    "es": "Soy alérgico.",
+    "hi": "मुझे एलर्जी है।"
+  },
+  {
+    "id": "es-hi-118",
+    "es": "Sin picante, por favor.",
+    "hi": "कृपया बिना तीखे के।"
+  },
+  {
+    "id": "es-hi-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "hi": "कृपया मेरे लिए एक गिलास पानी लाएँ।"
+  },
+  {
+    "id": "es-hi-120",
+    "es": "¡Buen provecho!",
+    "hi": "भोजन का आनंद लें!"
+  },
+  {
+    "id": "es-hi-121",
+    "es": "¡Salud!",
+    "hi": "चीयर्स!"
+  },
+  {
+    "id": "es-hi-122",
+    "es": "La comida estaba maravillosa.",
+    "hi": "खाना बहुत बढ़िया था।"
+  },
+  {
+    "id": "es-hi-123",
+    "es": "Me gustaría reservar una habitación.",
+    "hi": "मैं एक कमरा बुक करना चाहता हूँ।"
+  },
+  {
+    "id": "es-hi-124",
+    "es": "¿El desayuno está incluido?",
+    "hi": "क्या नाश्ता शामिल है?"
+  },
+  {
+    "id": "es-hi-125",
+    "es": "¿A qué hora es la salida?",
+    "hi": "चेक-आउट कितने बजे है?"
+  },
+  {
+    "id": "es-hi-126",
+    "es": "¿Puede llamar a un taxi?",
+    "hi": "क्या आप एक टैक्सी बुला सकते हैं?"
+  },
+  {
+    "id": "es-hi-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "hi": "कृपया मुझे इस पते पर ले चलें।"
+  },
+  {
+    "id": "es-hi-128",
+    "es": "Deténgase aquí, por favor.",
+    "hi": "कृपया यहाँ रुकें।"
+  },
+  {
+    "id": "es-hi-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "hi": "क्या यहाँ कोई बस स्टॉप है?"
+  },
+  {
+    "id": "es-hi-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "hi": "अगली ट्रेन कब छूटेगी?"
+  },
+  {
+    "id": "es-hi-131",
+    "es": "El tren está retrasado.",
+    "hi": "ट्रेन लेट है।"
+  },
+  {
+    "id": "es-hi-132",
+    "es": "Perdí mi vuelo.",
+    "hi": "मेरी उड़ान छूट गई।"
+  },
+  {
+    "id": "es-hi-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "hi": "सामان मिलने की जगह कहाँ है?"
+  },
+  {
+    "id": "es-hi-134",
+    "es": "Esta no es mi maleta.",
+    "hi": "यह मेरा सूटकेस नहीं है।"
+  },
+  {
+    "id": "es-hi-135",
+    "es": "Mi pasaporte desapareció.",
+    "hi": "मेरा पासपोर्ट खो गया है।"
+  },
+  {
+    "id": "es-hi-136",
+    "es": "¿Dónde está la embajada?",
+    "hi": "दूतावास कहाँ है?"
+  },
+  {
+    "id": "es-hi-137",
+    "es": "Necesito ayuda de la policía.",
+    "hi": "मुझे पुलिस से मदद चाहिए।"
+  },
+  {
+    "id": "es-hi-138",
+    "es": "Déjame en paz.",
+    "hi": "मुझे अकेला छोड़ दो।"
+  },
+  {
+    "id": "es-hi-139",
+    "es": "¡Vete!",
+    "hi": "चले जाओ!"
+  },
+  {
+    "id": "es-hi-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "hi": "मदद करो! किसी ने मुझे लूट लिया।"
+  },
+  {
+    "id": "es-hi-141",
+    "es": "Me perdí.",
+    "hi": "मैं रास्ता भूल गया हूँ।"
+  },
+  {
+    "id": "es-hi-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "hi": "क्या आप मुझे नक्शे पर दिखा सकते हैं कि मैं कहाँ हूँ?"
+  },
+  {
+    "id": "es-hi-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "hi": "आपका फ़ोन नंबर क्या है?"
+  },
+  {
+    "id": "es-hi-144",
+    "es": "Escríbalo, por favor.",
+    "hi": "कृपया इसे लिख लें।"
+  },
+  {
+    "id": "es-hi-145",
+    "es": "Te llamaré.",
+    "hi": "मैं तुम्हें फोन करूँगा।"
+  },
+  {
+    "id": "es-hi-146",
+    "es": "Mándame un mensaje.",
+    "hi": "मुझे एक संदेश भेजें।"
+  },
+  {
+    "id": "es-hi-147",
+    "es": "¿Está en las redes sociales?",
+    "hi": "क्या आप सोशल मीडिया पर हैं?"
+  },
+  {
+    "id": "es-hi-148",
+    "es": "Te sigo.",
+    "hi": "मैं आपको फॉलो करूँगा।"
+  },
+  {
+    "id": "es-hi-149",
+    "es": "¿Qué hay de nuevo?",
+    "hi": "क्या नया है?"
+  },
+  {
+    "id": "es-hi-150",
+    "es": "Nada especial.",
+    "hi": "कुछ खास नहीं।"
+  },
+  {
+    "id": "es-hi-151",
+    "es": "No veo la hora.",
+    "hi": "मैं इसके लिए उत्सुक हूँ।"
+  },
+  {
+    "id": "es-hi-152",
+    "es": "No me importa.",
+    "hi": "मुझे परवाह नहीं है।"
+  },
+  {
+    "id": "es-hi-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "hi": "चिंता मत करो, सब ठीक हो जाएगा।"
+  },
+  {
+    "id": "es-hi-154",
+    "es": "Cálmate, por favor.",
+    "hi": "कृपया शांत हो जाओ।"
+  },
+  {
+    "id": "es-hi-155",
+    "es": "No te estreses.",
+    "hi": "तनाव मत लो।"
+  },
+  {
+    "id": "es-hi-156",
+    "es": "¡Es increíble!",
+    "hi": "यह अविश्वसनीय है!"
+  },
+  {
+    "id": "es-hi-157",
+    "es": "Estoy orgulloso de ti.",
+    "hi": "मुझे तुम पर गर्व है।"
+  },
+  {
+    "id": "es-hi-158",
+    "es": "Hiciste un buen trabajo.",
+    "hi": "तुमने अच्छा काम किया।"
+  },
+  {
+    "id": "es-hi-159",
+    "es": "¡Animo!",
+    "hi": "हिम्मत मत हारो!"
+  },
+  {
+    "id": "es-hi-160",
+    "es": "¡No te rindas!",
+    "hi": "हार मत मानो!"
+  },
+  {
+    "id": "es-hi-161",
+    "es": "La práctica hace al maestro.",
+    "hi": "अभ्यास से ही इंसान निपुण बनता है।"
+  },
+  {
+    "id": "es-hi-162",
+    "es": "Comencemos mañana.",
+    "hi": "चलो कल शुरू करते हैं।"
+  },
+  {
+    "id": "es-hi-163",
+    "es": "No tengo tiempo hoy.",
+    "hi": "आज मेरे पास समय नहीं है।"
+  },
+  {
+    "id": "es-hi-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "hi": "हम वीकेंड पर मिल सकते हैं।"
+  },
+  {
+    "id": "es-hi-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "hi": "तुम्हारे पास कब समय है?"
+  },
+  {
+    "id": "es-hi-166",
+    "es": "Soy flexible.",
+    "hi": "मैं लचीला हूँ।"
+  },
+  {
+    "id": "es-hi-167",
+    "es": "Depende del clima.",
+    "hi": "यह मौसम पर निर्भर करता है।"
+  },
+  {
+    "id": "es-hi-168",
+    "es": "Está nublado hoy.",
+    "hi": "आज बादल छाए हुए हैं।"
+  },
+  {
+    "id": "es-hi-169",
+    "es": "Está nevando afuera.",
+    "hi": "बाहर बर्फबारी हो रही है।"
+  },
+  {
+    "id": "es-hi-170",
+    "es": "El viento está muy fuerte.",
+    "hi": "हवा बहुत तेज है।"
+  },
+  {
+    "id": "es-hi-171",
+    "es": "Mañana estará soleado.",
+    "hi": "कल धूप खिलेगी।"
+  },
+  {
+    "id": "es-hi-172",
+    "es": "Amo el verano.",
+    "hi": "मुझे गर्मी का मौसम पसंद है।"
+  },
+  {
+    "id": "es-hi-173",
+    "es": "El invierno es demasiado largo.",
+    "hi": "सर्दी का मौसम बहुत लंबा होता है।"
+  },
+  {
+    "id": "es-hi-174",
+    "es": "Es mi estación favorita.",
+    "hi": "यह मेरा पसंदीदा मौसम है।"
+  },
+  {
+    "id": "es-hi-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "hi": "तुमने वीकेंड पर क्या किया?"
+  },
+  {
+    "id": "es-hi-176",
+    "es": "Me quedé en casa.",
+    "hi": "मैं घर पर ही रहा।"
+  },
+  {
+    "id": "es-hi-177",
+    "es": "Visité a mis amigos.",
+    "hi": "मैं अपने दोस्तों से मिलने गया था।"
+  },
+  {
+    "id": "es-hi-178",
+    "es": "Nos divertimos mucho.",
+    "hi": "हमने बहुत मजे किए।"
+  },
+  {
+    "id": "es-hi-179",
+    "es": "Fue una sorpresa.",
+    "hi": "यह एक सरप्राइज था।"
+  },
+  {
+    "id": "es-hi-180",
+    "es": "Compré un auto nuevo.",
+    "hi": "मैंने एक नई कार खरीदी है।"
+  },
+  {
+    "id": "es-hi-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "hi": "नई नौकरी के लिए बधाई!"
+  },
+  {
+    "id": "es-hi-182",
+    "es": "¿Cuándo comienzas?",
+    "hi": "तुम कब शुरू कर रहे हो?"
+  },
+  {
+    "id": "es-hi-183",
+    "es": "Comienzo el próximo lunes.",
+    "hi": "मैं अगले सोमवार से शुरू कर रहा हूँ।"
+  },
+  {
+    "id": "es-hi-184",
+    "es": "Estoy un poco nervioso.",
+    "hi": "मैं थोड़ा नर्वस हूँ।"
+  },
+  {
+    "id": "es-hi-185",
+    "es": "Es completamente normal.",
+    "hi": "यह पूरी तरह से सामान्य है।"
+  },
+  {
+    "id": "es-hi-186",
+    "es": "Lo lograrás.",
+    "hi": "तुम यह कर लोगे।"
+  },
+  {
+    "id": "es-hi-187",
+    "es": "Creo en ti.",
+    "hi": "मुझे तुम पर विश्वास है।"
+  },
+  {
+    "id": "es-hi-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "hi": "आपके सपोर्ट के लिए बहुत-बहुत धन्यवाद।"
+  },
+  {
+    "id": "es-hi-189",
+    "es": "Eres un buen amigo.",
+    "hi": "तुम एक अच्छे दोस्त हो।"
+  },
+  {
+    "id": "es-hi-190",
+    "es": "Siempre estoy aquí para ti.",
+    "hi": "मैं हमेशा तुम्हारे लिए यहाँ हूँ।"
+  },
+  {
+    "id": "es-hi-191",
+    "es": "Esto significa mucho para mí.",
+    "hi": "यह मेरे लिए बहुत मायने रखता है।"
+  },
+  {
+    "id": "es-hi-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "hi": "चलो जल्द ही फिर मिलते हैं।"
+  },
+  {
+    "id": "es-hi-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "hi": "मुझे अब सचमुच जाना होगा।"
+  },
+  {
+    "id": "es-hi-194",
+    "es": "Que llegues bien a casa.",
+    "hi": "सुरक्षित घर पहुँचना।"
+  },
+  {
+    "id": "es-hi-195",
+    "es": "Escríbeme cuando llegues.",
+    "hi": "पहुँचने के बाद मुझे मैसेज करना।"
+  },
+  {
+    "id": "es-hi-196","es": "Llegué bien.","hi": "मैं सुरक्षित पहुँच गया हूँ।"},{"id": "es-hi-197","es": "Que duermas bien.","hi": "अच्छी नींद लो।"},{"id": "es-hi-198","es": "Dulces sueños.","hi": "मीठे सपने देखें।"},{"id": "es-hi-199","es": "Hasta la próxima.","hi": "अगली बार तक।"},{"id": "es-hi-200","es": "¡Adiós!","hi": "बाय-बाय!"}],
+    "spanishpolish": [{
+    "id": "es-pl-001",
+    "es": "¿Hola, cómo está?",
+    "pl": "Dzień dobry, jak się Pani/Pan ma?"
+  },
+  {
+    "id": "es-pl-002",
+    "es": "¿Cómo se llama?",
+    "pl": "Jak się Pani/Pan nazywa?"
+  },
+  {
+    "id": "es-pl-003",
+    "es": "Me llamo John.",
+    "pl": "Nazywam się John."
+  },
+  {
+    "id": "es-pl-004",
+    "es": "Mucho gusto en conocerle.",
+    "pl": "Miło Panią/Pana poznać."
+  },
+  {
+    "id": "es-pl-005",
+    "es": "¿De dónde viene?",
+    "pl": "Skąd Pani/Pan pochodzi?"
+  },
+  {
+    "id": "es-pl-006",
+    "es": "Vengo de Francia.",
+    "pl": "Pochodzę z Francji."
+  },
+  {
+    "id": "es-pl-007",
+    "es": "¿Dónde vive?",
+    "pl": "Gdzie Pani/Pan mieszka?"
+  },
+  {
+    "id": "es-pl-008",
+    "es": "Vivo en París.",
+    "pl": "Mieszkam w Paryżu."
+  },
+  {
+    "id": "es-pl-009",
+    "es": "¿Cuántos años tiene?",
+    "pl": "Ile ma Pani/Pan lat?"
+  },
+  {
+    "id": "es-pl-010",
+    "es": "Tengo treinta años.",
+    "pl": "Mam trzydzieści lat."
+  },
+  {
+    "id": "es-pl-011",
+    "es": "¿En qué trabaja?",
+    "pl": "Czym zajmuje się Pani/Pan zawodowo?"
+  },
+  {
+    "id": "es-pl-012",
+    "es": "Soy estudiante.",
+    "pl": "Jestem studentem."
+  },
+  {
+    "id": "es-pl-013",
+    "es": "¿Habla inglés?",
+    "pl": "Czy mówi Pani/Pan po angielsku?"
+  },
+  {
+    "id": "es-pl-014",
+    "es": "Hablo un poco de inglés.",
+    "pl": "Mówię trochę po angielsku."
+  },
+  {
+    "id": "es-pl-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "pl": "Czy może mi Pani/Pan pomóc?"
+  },
+  {
+    "id": "es-pl-016",
+    "es": "Muchas gracias.",
+    "pl": "Dziękuję bardzo."
+  },
+  {
+    "id": "es-pl-017",
+    "es": "De nada.",
+    "pl": "Proszę bardzo."
+  },
+  {
+    "id": "es-pl-018",
+    "es": "Por favor.",
+    "pl": "Proszę."
+  },
+  {
+    "id": "es-pl-019",
+    "es": "Disculpe.",
+    "pl": "Przepraszam."
+  },
+  {
+    "id": "es-pl-020",
+    "es": "Lo siento.",
+    "pl": "Przykro mi."
+  },
+  {
+    "id": "es-pl-021",
+    "es": "¿Qué hora es?",
+    "pl": "Która jest godzina?"
+  },
+  {
+    "id": "es-pl-022",
+    "es": "Son las diez.",
+    "pl": "Jest godzina dziesiąta."
+  },
+  {
+    "id": "es-pl-023",
+    "es": "¿Dónde está el baño?",
+    "pl": "Gdzie jest toaleta?"
+  },
+  {
+    "id": "es-pl-024",
+    "es": "Es por allá.",
+    "pl": "To tamtędy."
+  },
+  {
+    "id": "es-pl-025",
+    "es": "¿Cuánto cuesta?",
+    "pl": "Ile to kosztuje?"
+  },
+  {
+    "id": "es-pl-026",
+    "es": "Es demasiado caro.",
+    "pl": "To jest za drogie."
+  },
+  {
+    "id": "es-pl-027",
+    "es": "¿Dónde está la estación de tren?",
+    "pl": "Gdzie jest dworzec kolejowy?"
+  },
+  {
+    "id": "es-pl-028",
+    "es": "Busco un buen restaurante.",
+    "pl": "Szukam dobrej restauracji."
+  },
+  {
+    "id": "es-pl-029",
+    "es": "La cuenta, por favor.",
+    "pl": "Poproszę rachunek."
+  },
+  {
+    "id": "es-pl-030",
+    "es": "¿Cómo está el clima hoy?",
+    "pl": "Jaka jest dzisiaj pogoda?"
+  },
+  {
+    "id": "es-pl-031",
+    "es": "Hace buen temps.",
+    "pl": "Pogoda jest ładna."
+  },
+  {
+    "id": "es-pl-032",
+    "es": "Está lloviendo.",
+    "pl": "Pada deszcz."
+  },
+  {
+    "id": "es-pl-033",
+    "es": "Tengo hambre.",
+    "pl": "Jestem głodny."
+  },
+  {
+    "id": "es-pl-034",
+    "es": "Tengo sed.",
+    "pl": "Chce mi się pić."
+  },
+  {
+    "id": "es-pl-035",
+    "es": "Estoy cansado.",
+    "pl": "Jestem zmęczony."
+  },
+  {
+    "id": "es-pl-036",
+    "es": "No entiendo.",
+    "pl": "Nie rozumiem."
+  },
+  {
+    "id": "es-pl-037",
+    "es": "¿Puede repetir?",
+    "pl": "Czy może Pani/Pan to powtórzyć?"
+  },
+  {
+    "id": "es-pl-038",
+    "es": "Hable más despacio, por favor.",
+    "pl": "Proszę mówić wolniej."
+  },
+  {
+    "id": "es-pl-039",
+    "es": "¿Cómo se dice eso en polacco?",
+    "pl": "Jak to się mówi po polsku?"
+  },
+  {
+    "id": "es-pl-040",
+    "es": "¿Qué significa esta palabra?",
+    "pl": "Co oznacza to słowo?"
+  },
+  {
+    "id": "es-pl-041",
+    "es": "Te amo.",
+    "pl": "Kocham cię."
+  },
+  {
+    "id": "es-pl-042",
+    "es": "Te extraño.",
+    "pl": "Tęsknię za tobą."
+  },
+  {
+    "id": "es-pl-043",
+    "es": "¡Buena suerte!",
+    "pl": "Powodzenia!"
+  },
+  {
+    "id": "es-pl-044",
+    "es": "¡Felicitaciones!",
+    "pl": "Gratulacje!"
+  },
+  {
+    "id": "es-pl-045",
+    "es": "¡Feliz cumpleaños!",
+    "pl": "Wszystkiego najlepszego z okazji urodzin!"
+  },
+  {
+    "id": "es-pl-046",
+    "es": "¡Buen viaje!",
+    "pl": "Szczęśliwej podróży!"
+  },
+  {
+    "id": "es-pl-047",
+    "es": "Que tenga un buen día.",
+    "pl": "Miłego dnia."
+  },
+  {
+    "id": "es-pl-048",
+    "es": "Hasta pronto.",
+    "pl": "Do zobaczenia wkrótce."
+  },
+  {
+    "id": "es-pl-049",
+    "es": "Hasta mañana.",
+    "pl": "Do jutra."
+  },
+  {
+    "id": "es-pl-050",
+    "es": "Adiós.",
+    "pl": "Do widzenia."
+  },
+  {
+    "id": "es-pl-051",
+    "es": "¿A dónde va?",
+    "pl": "Dokąd Pani/Pan idzie?"
+  },
+  {
+    "id": "es-pl-052",
+    "es": "Voy al supermercado.",
+    "pl": "Idę do supermarketu."
+  },
+  {
+    "id": "es-pl-053",
+    "es": "¿Qué es esto?",
+    "pl": "Co to jest?"
+  },
+  {
+    "id": "es-pl-054",
+    "es": "No lo sé.",
+    "pl": "Nie wiem."
+  },
+  {
+    "id": "es-pl-055",
+    "es": "¿Está seguro?",
+    "pl": "Czy jest Pani/Pan pewna/pewien?"
+  },
+  {
+    "id": "es-pl-056",
+    "es": "Sí, estoy seguro.",
+    "pl": "Tak, jestem pewien."
+  },
+  {
+    "id": "es-pl-057",
+    "es": "Creo que sí.",
+    "pl": "Tak mi się wydaje."
+  },
+  {
+    "id": "es-pl-058",
+    "es": "Creo que no.",
+    "pl": "Nie sądzę."
+  },
+  {
+    "id": "es-pl-059",
+    "es": "No hay problema.",
+    "pl": "Nie ma problemu."
+  },
+  {
+    "id": "es-pl-060",
+    "es": "No importa.",
+    "pl": "To nic nie szkodzi."
+  },
+  {
+    "id": "es-pl-061",
+    "es": "¿Qué estás comiendo?",
+    "pl": "Co jesz?"
+  },
+  {
+    "id": "es-pl-062",
+    "es": "Está delicioso.",
+    "pl": "To jest pyszne."
+  },
+  {
+    "id": "es-pl-063",
+    "es": "No me gusta.",
+    "pl": "Nie lubię tego."
+  },
+  {
+    "id": "es-pl-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "pl": "Jakie są Pani/Pana zainteresowania?"
+  },
+  {
+    "id": "es-pl-065",
+    "es": "Me gusta leer libros.",
+    "pl": "Lubię czytać książki."
+  },
+  {
+    "id": "es-pl-066",
+    "es": "Me gusta escuchar música.",
+    "pl": "Lubię słuchać muzyki."
+  },
+  {
+    "id": "es-pl-067",
+    "es": "¿Hace deporte?",
+    "pl": "Czy uprawia Pani/Pan sport?"
+  },
+  {
+    "id": "es-pl-068",
+    "es": "Juego al fútbol.",
+    "pl": "Gram w piłkę nożną."
+  },
+  {
+    "id": "es-pl-069",
+    "es": "Estoy viendo una película.",
+    "pl": "Oglądam film."
+  },
+  {
+    "id": "es-pl-070",
+    "es": "¿Dónde lo compraste?",
+    "pl": "Gdzie to kupiłeś?"
+  },
+  {
+    "id": "es-pl-071",
+    "es": "Es un regalo.",
+    "pl": "To jest prezent."
+  },
+  {
+    "id": "es-pl-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "pl": "Czy może Pani/Pan zamknąć okno?"
+  },
+  {
+    "id": "es-pl-073",
+    "es": "Hace frío aquí.",
+    "pl": "Tutaj jest zimno."
+  },
+  {
+    "id": "es-pl-074",
+    "es": "Hace calor afuera.",
+    "pl": "Na zewnątrz jest gorąco."
+  },
+  {
+    "id": "es-pl-075",
+    "es": "¿Dónde están mis llaves?",
+    "pl": "Gdzie są moje klucze?"
+  },
+  {
+    "id": "es-pl-076",
+    "es": "Están sobre la mesa.",
+    "pl": "Są na stole."
+  },
+  {
+    "id": "es-pl-077",
+    "es": "Tengo que irme.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "es-pl-078",
+    "es": "Cuídate.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "es-pl-079",
+    "es": "Hasta luego.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "es-pl-080",
+    "es": "Buenas noches.",
+    "pl": "Dobranoc."
+  },
+  {
+    "id": "es-pl-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "pl": "Czy ma Pani/Pan rodzeństwo?"
+  },
+  {
+    "id": "es-pl-082",
+    "es": "Tengo un hermano y una hermana.",
+    "pl": "Mam brata i siostrę."
+  },
+  {
+    "id": "es-pl-083",
+    "es": "¿Está casado?",
+    "pl": "Czy jest Pani/Pan żonaty/zamężna?"
+  },
+  {
+    "id": "es-pl-084",
+    "es": "Soy soltero.",
+    "pl": "Jestem kawalerem/panną."
+  },
+  {
+    "id": "es-pl-085",
+    "es": "¿Tienes hijos?",
+    "pl": "Czy masz dzieci?"
+  },
+  {
+    "id": "es-pl-086",
+    "es": "Tengo dos hijos.",
+    "pl": "Mam dwoje dzieci."
+  },
+  {
+    "id": "es-pl-087",
+    "es": "¿Dónde trabajas?",
+    "pl": "Gdzie pracujesz?"
+  },
+  {
+    "id": "es-pl-088",
+    "es": "Trabajo en una oficina.",
+    "pl": "Pracuję w biurze."
+  },
+  {
+    "id": "es-pl-089",
+    "es": "¿Le gusta el café o el té?",
+    "pl": "Woli Pani/Pan kawę czy herbatę?"
+  },
+  {
+    "id": "es-pl-090",
+    "es": "Prefiero tomar té.",
+    "pl": "Wolę pić herbatę."
+  },
+  {
+    "id": "es-pl-091",
+    "es": "Es una buena idea.",
+    "pl": "To dobry pomysł."
+  },
+  {
+    "id": "es-pl-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "pl": "Jestem zmęczony, idę do łóżka."
+  },
+  {
+    "id": "es-pl-093",
+    "es": "¿Cuál es su película favorita?",
+    "pl": "Jaki jest Pani/Pana ulubiony film?"
+  },
+  {
+    "id": "es-pl-094",
+    "es": "¿Puede mostrarme el camino?",
+    "pl": "Czy może mi Pani/Pan wskazać drogę?"
+  },
+  {
+    "id": "es-pl-095",
+    "es": "Perdí mi teléfono.",
+    "pl": "Zgubiłem telefon."
+  },
+  {
+    "id": "es-pl-096",
+    "es": "Llame a un médico, por favor.",
+    "pl": "Proszę wezwać lekarza."
+  },
+  {
+    "id": "es-pl-097",
+    "es": "Es una emergency.",
+    "pl": "To jest nagły wypadek."
+  },
+  {
+    "id": "es-pl-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "pl": "Czy ma Pani/Pan hasło do Wi-Fi?"
+  },
+  {
+    "id": "es-pl-099",
+    "es": "Internet está muy lento.",
+    "pl": "Internet działa bardzo wolno."
+  },
+  {
+    "id": "es-pl-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "pl": "Muszę anulować swój bilet."
+  },{
+    "id": "es-pl-101",
+    "es": "¿Cuánto dura el viaje?",
+    "pl": "Jak długo trwa podróż?"
+  },
+  {
+    "id": "es-pl-102",
+    "es": "¿Podemos parar aquí?",
+    "pl": "Czy możemy się tutaj zatrzymać?"
+  },
+  {
+    "id": "es-pl-103",
+    "es": "Necesito un recibo.",
+    "pl": "Potrzebuję paragonu."
+  },
+  {
+    "id": "es-pl-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "pl": "Gdzie mogę wymienić pieniądze?"
+  },
+  {
+    "id": "es-pl-105",
+    "es": "¿Hay un banco cerca?",
+    "pl": "Czy w pobliżu jest bank?"
+  },
+  {
+    "id": "es-pl-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "pl": "Czy akceptują Państwo karty kredytowe?"
+  },
+  {
+    "id": "es-pl-107",
+    "es": "Pago en efectivo.",
+    "pl": "Płacę gotówką."
+  },
+  {
+    "id": "es-pl-108",
+    "es": "¿Puede hacerme un descuento?",
+    "pl": "Czy może mi Pani/Pan dać zniżkę?"
+  },
+  {
+    "id": "es-pl-109",
+    "es": "Esta es mi última palabra.",
+    "pl": "To moje ostatnie słowo."
+  },
+  {
+    "id": "es-pl-110",
+    "es": "Solo estoy mirando.",
+    "pl": "Tylko się rozglądam."
+  },
+  {
+    "id": "es-pl-111",
+    "es": "¿Lo tiene en otra talla?",
+    "pl": "Czy ma Pani/Pan to w innym rozmiarze?"
+  },
+  {
+    "id": "es-pl-112",
+    "es": "¿Dónde está el probador?",
+    "pl": "Gdzie jest przymierzalnia?"
+  },
+  {
+    "id": "es-pl-113",
+    "es": "Me queda bien.",
+    "pl": "To mi dobrze pasuje."
+  },
+  {
+    "id": "es-pl-114",
+    "es": "Me lo llevo.",
+    "pl": "Biorę to."
+  },
+  {
+    "id": "es-pl-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "pl": "Gdzie mogę zostawić torbę?"
+  },
+  {
+    "id": "es-pl-116",
+    "es": "¿Tienen comida vegetariana?",
+    "pl": "Czy macie wegetariańskie jedzenie?"
+  },
+  {
+    "id": "es-pl-117",
+    "es": "Soy alérgico.",
+    "pl": "Jestem alergikiem."
+  },
+  {
+    "id": "es-pl-118",
+    "es": "Sin picante, por favor.",
+    "pl": "Poproszę nieostre."
+  },
+  {
+    "id": "es-pl-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "pl": "Proszę przynieść mi szklankę wody."
+  },
+  {
+    "id": "es-pl-120",
+    "es": "¡Buen provecho!",
+    "pl": "Smacznego!"
+  },
+  {
+    "id": "es-pl-121",
+    "es": "¡Salud!",
+    "pl": "Na zdrowie!"
+  },
+  {
+    "id": "es-pl-122",
+    "es": "La comida estaba maravillosa.",
+    "pl": "Jedzenie było wspaniałe."
+  },
+  {
+    "id": "es-pl-123",
+    "es": "Me gustaría reservar una habitación.",
+    "pl": "Chciałbym zarezerwować pokój."
+  },
+  {
+    "id": "es-pl-124",
+    "es": "¿El desayuno está incluido?",
+    "pl": "Czy śniadanie jest wliczone w cenę?"
+  },
+  {
+    "id": "es-pl-125",
+    "es": "¿A qué hora es la salida?",
+    "pl": "O której godzinie jest wymeldowanie?"
+  },
+  {
+    "id": "es-pl-126",
+    "es": "¿Puede llamar a un taxi?",
+    "pl": "Czy może mi Pani/Pan wezwać taksówkę?"
+  },
+  {
+    "id": "es-pl-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "pl": "Proszę zawieźć mnie pod ten adres."
+  },
+  {
+    "id": "es-pl-128",
+    "es": "Deténgase aquí, por favor.",
+    "pl": "Proszę się tutaj zatrzymać."
+  },
+  {
+    "id": "es-pl-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "pl": "Czy jest tutaj przystanek autobusowy?"
+  },
+  {
+    "id": "es-pl-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "pl": "O której odjeżdża następny pociąg?"
+  },
+  {
+    "id": "es-pl-131",
+    "es": "El tren está retrasado.",
+    "pl": "Pociąg jest opóźniony."
+  },
+  {
+    "id": "es-pl-132",
+    "es": "Perdí mi vuelo.",
+    "pl": "Spóźniłem się na samolot."
+  },
+  {
+    "id": "es-pl-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "pl": "Gdzie jest odbiór bagażu?"
+  },
+  {
+    "id": "es-pl-134",
+    "es": "Esta no es mi maleta.",
+    "pl": "To nie jest moja walizka."
+  },
+  {
+    "id": "es-pl-135",
+    "es": "Mi pasaporte desapareció.",
+    "pl": "Zgubiłem paszport."
+  },
+  {
+    "id": "es-pl-136",
+    "es": "¿Dónde está la embajada?",
+    "pl": "Gdzie jest ambasada?"
+  },
+  {
+    "id": "es-pl-137",
+    "es": "Necesito ayuda de la policía.",
+    "pl": "Potrzebuję pomocy policji."
+  },
+  {
+    "id": "es-pl-138",
+    "es": "Déjame en paz.",
+    "pl": "Zostaw mnie w spokoju."
+  },
+  {
+    "id": "es-pl-139",
+    "es": "¡Vete!",
+    "pl": "Odejdź!"
+  },
+  {
+    "id": "es-pl-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "pl": "Pomocy! Ktoś mnie okradł."
+  },
+  {
+    "id": "es-pl-141",
+    "es": "Me perdí.",
+    "pl": "Zgubiłem się."
+  },
+  {
+    "id": "es-pl-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "pl": "Czy może mi Pani/Pan pokazać na mapie, gdzie jestem?"
+  },
+  {
+    "id": "es-pl-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "pl": "Jaki jest Pani/Pana numer telefonu?"
+  },
+  {
+    "id": "es-pl-144",
+    "es": "Escríbalo, por favor.",
+    "pl": "Proszę to zapisać."
+  },
+  {
+    "id": "es-pl-145",
+    "es": "Te llamaré.",
+    "pl": "Zadzwonię do ciebie."
+  },
+  {
+    "id": "es-pl-146",
+    "es": "Mándame un mensaje.",
+    "pl": "Wyślij mi wiadomość."
+  },
+  {
+    "id": "es-pl-147",
+    "es": "¿Está en las redes sociales?",
+    "pl": "Czy jest Pani/Pan w mediach społecznościowych?"
+  },
+  {
+    "id": "es-pl-148",
+    "es": "Te sigo.",
+    "pl": "Obserwuję cię."
+  },
+  {
+    "id": "es-pl-149",
+    "es": "¿Qué hay de nuevo?",
+    "pl": "Co nowego?"
+  },
+  {
+    "id": "es-pl-150",
+    "es": "Nada especial.",
+    "pl": "Nic specjalnego."
+  },
+  {
+    "id": "es-pl-151",
+    "es": "No veo la hora.",
+    "pl": "Cieszę się na to."
+  },
+  {
+    "id": "es-pl-152",
+    "es": "No me importa.",
+    "pl": "Wszystko mi jedno."
+  },
+  {
+    "id": "es-pl-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "pl": "Nie martw się, wszystko będzie dobrze."
+  },
+  {
+    "id": "es-pl-154",
+    "es": "Cálmate, por favor.",
+    "pl": "Uspokój się, proszę."
+  },
+  {
+    "id": "es-pl-155",
+    "es": "No te estreses.",
+    "pl": "Nie stresuj się."
+  },
+  {
+    "id": "es-pl-156",
+    "es": "¡Es increíble!",
+    "pl": "To jest niewiarygodne!"
+  },
+  {
+    "id": "es-pl-157",
+    "es": "Estoy orgulloso de ti.",
+    "pl": "Jestem z ciebie dumny."
+  },
+  {
+    "id": "es-pl-158",
+    "es": "Hiciste un buen trabajo.",
+    "pl": "Dobrze to zrobiłeś."
+  },
+  {
+    "id": "es-pl-159",
+    "es": "¡Ánimo!",
+    "pl": "Głowa do góry!"
+  },
+  {
+    "id": "es-pl-160",
+    "es": "¡No te rindas!",
+    "pl": "Proszę się nie poddawać!"
+  },
+  {
+    "id": "es-pl-161",
+    "es": "La práctica hace al maestro.",
+    "pl": "Praktyka czyni mistrza."
+  },
+  {
+    "id": "es-pl-162",
+    "es": "Comencemos mañana.",
+    "pl": "Zacznijmy jutro."
+  },
+  {
+    "id": "es-pl-163",
+    "es": "No tengo tiempo hoy.",
+    "pl": "Nie mam dzisiaj czasu."
+  },
+  {
+    "id": "es-pl-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "pl": "Możemy się spotkać w weekend."
+  },
+  {
+    "id": "es-pl-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "pl": "Kiedy masz czas?"
+  },
+  {
+    "id": "es-pl-166",
+    "es": "Soy flexible.",
+    "pl": "Jestem elastyczny."
+  },
+  {
+    "id": "es-pl-167",
+    "es": "Depende del clima.",
+    "pl": "To zależy od pogody."
+  },
+  {
+    "id": "es-pl-168",
+    "es": "Está nublado hoy.",
+    "pl": "Dzisiaj jest pochmurno."
+  },
+  {
+    "id": "es-pl-169",
+    "es": "Está nevando afuera.",
+    "pl": "Na zewnątrz pada śnieg."
+  },
+  {
+    "id": "es-pl-170",
+    "es": "El viento está muy fuerte.",
+    "pl": "Wiatr jest bardzo silny."
+  },
+  {
+    "id": "es-pl-171",
+    "es": "Mañana estará soleado.",
+    "pl": "Jutro będzie słonecznie."
+  },
+  {
+    "id": "es-pl-172",
+    "es": "Amo el verano.",
+    "pl": "Uwielbiam lato."
+  },
+  {
+    "id": "es-pl-173",
+    "es": "El invierno es demasiado largo.",
+    "pl": "Zima jest za długa."
+  },
+  {
+    "id": "es-pl-174",
+    "es": "Es mi estación favorita.",
+    "pl": "To moja ulubiona pora roku."
+  },
+  {
+    "id": "es-pl-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "pl": "Co robiłeś w weekend?"
+  },
+  {
+    "id": "es-pl-176",
+    "es": "Me quedé en casa.",
+    "pl": "Zostałem w domu."
+  },
+  {
+    "id": "es-pl-177",
+    "es": "Visité a mis amigos.",
+    "pl": "Odwiedziłem moich przyjaciół."
+  },
+  {
+    "id": "es-pl-178",
+    "es": "Nos divertimos mucho.",
+    "pl": "Dobrze się bawiliśmy."
+  },
+  {
+    "id": "es-pl-179",
+    "es": "Fue una sorpresa.",
+    "pl": "To była niespodzianka."
+  },
+  {
+    "id": "es-pl-180",
+    "es": "Compré un auto nuevo.",
+    "pl": "Kupiłem nowy samochód."
+  },
+  {
+    "id": "es-pl-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "pl": "Gratulacje z okazji nowej pracy!"
+  },
+  {
+    "id": "es-pl-182",
+    "es": "¿Cuándo comienzas?",
+    "pl": "Kiedy zaczynasz?"
+  },
+  {
+    "id": "es-pl-183",
+    "es": "Comienzo el próximo lunes.",
+    "pl": "Zaczynam w przyszły poniedziałek."
+  },
+  {
+    "id": "es-pl-184",
+    "es": "Estoy un poco nervioso.",
+    "pl": "Jestem trochę nerwowy."
+  },
+  {
+    "id": "es-pl-185",
+    "es": "Es completamente normal.",
+    "pl": "To zupełnie normalne."
+  },
+  {
+    "id": "es-pl-186",
+    "es": "Lo lograrás.",
+    "pl": "Poradzisz sobie z tym."
+  },
+  {
+    "id": "es-pl-187",
+    "es": "Creo en ti.",
+    "pl": "Wierzę w ciebie."
+  },
+  {
+    "id": "es-pl-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "pl": "Dziękuję bardzo za twoje wsparcie."
+  },
+  {
+    "id": "es-pl-189",
+    "es": "Eres un buen amigo.",
+    "pl": "Jesteś dobrym przyjacielem."
+  },
+  {
+    "id": "es-pl-190",
+    "es": "Siempre estoy aquí para ti.",
+    "pl": "Zawsze jestem tu dla ciebie."
+  },
+  {
+    "id": "es-pl-191",
+    "es": "Esto significa mucho para mí.",
+    "pl": "To wiele dla mnie znaczy."
+  },
+  {
+    "id": "es-pl-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "pl": "Spotkajmy się niedługo ponownie."
+  },
+  {
+    "id": "es-pl-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "es-pl-194",
+    "es": "Que llegues bien a casa.",
+    "pl": "Wracaj bezpiecznie do domu."
+  },
+  {
+    "id": "es-pl-195",
+    "es": "Escríbeme cuando llegues.","pl": "Napisz do mnie, jak dojedziesz."},{"id": "es-pl-196","es": "Llegué bien.","pl": "Dojechałem bezpiecznie."},{"id": "es-pl-197","es": "Que duermas bien.","pl": "Śpij dobrze."},{"id": "es-pl-198","es": "Dulces sueños.","pl": "Słodkich snów."},{"id": "es-pl-199","es": "Hasta la próxima.","pl": "Do następnego razu."},{"id": "es-pl-200","es": "¡Adiós!","pl": "Cześć!"}],
     "spanishchinese": []
   }
 }
