@@ -3235,9 +3235,1476 @@
   {
     "id": "pt-111",
     "en": "Turn right.","pt": "Vire à direita."},{"id": "pt-112","en": "Turn left.","pt": "Vire à esquerda."},{"id": "pt-113","en": "I am lost.","pt": "Estou perdido."},{"id": "pt-114","en": "Can you show me on the map?","pt": "Pode mostrar-me no mapa?"},{"id": "pt-115","en": "Where is the hotel?","pt": "Onde fica o hotel?"},{"id": "pt-116","en": "I have a reservation.","pt": "Tenho uma reserva."},{"id": "pt-117","en": "Can I have the key?","pt": "Posso levar a chave?"},{"id": "pt-118","en": "Is the Wi-Fi free?","pt": "O Wi-Fi é gratuito?"},{"id": "pt-119","en": "What is the password?","pt": "Qual é a palavra-passe?"},{"id": "pt-120","en": "Where is the elevator?","pt": "Onde fica o elevador?"},{"id": "pt-121","en": "I would like to book a table.","pt": "Gostaria de reservar uma mesa."},{"id": "pt-122","en": "For how many people?","pt": "Para quantas pessoas?"},{"id": "pt-123","en": "For two people.","pt": "Para duas pessoas."},{"id": "pt-124","en": "At what time?","pt": "A que horas?"},{"id": "pt-125","en": "Tonight at eight p.m.","pt": "Esta noite às vinte horas."},{"id": "pt-126","en": "Are you ready to order?","pt": "Está pronto para pedir?"},{"id": "pt-127","en": "I will have the chicken.","pt": "Vou querer o frango."},{"id": "pt-128","en": "And to drink?","pt": "E para beber?"},{"id": "pt-129","en": "Mineral water, please.","pt": "Água mineral, por favor."},{"id": "pt-130","en": "Enjoy your meal!","pt": "Bom apetite!"},{"id": "pt-131","en": "It was excellent.","pt": "Estava excelente."},{"id": "pt-132","en": "Do you accept credit cards?","pt": "Aceitam cartões de crédito?"},{"id": "pt-133","en": "I will pay in cash.","pt": "Vou pagar em dinheiro."},{"id": "pt-134","en": "Keep the change.","pt": "Fique com o troco."},{"id": "pt-135","en": "Where are the shops?","pt": "Onde ficam as lojas?"},{"id": "pt-136","en": "I am just looking.","pt": "Estou só a ver."},{"id": "pt-137","en": "Can I try this on?","pt": "Posso experimentar isto?"},{"id": "pt-138","en": "Where are the fitting rooms?","pt": "Onde ficam os provadores?"},{"id": "pt-139","en": "What is your size?","pt": "Qual é o seu tamanho?"},{"id": "pt-140","en": "It is too big.","pt": "É grande demais."},{"id": "pt-141","en": "It is too small.","pt": "É pequeno demais."},{"id": "pt-142","en": "Do you have a larger size?","pt": "Tem um tamanho acima?"},{"id": "pt-143","en": "I'll take it.","pt": "Fico com isto."},{"id": "pt-144","en": "Where is the cashier?","pt": "Onde fica a caixa?"},{"id": "pt-145","en": "Can I have a bag?","pt": "Pode dar-me um saco?"},{"id": "pt-146","en": "I would like a refund.","pt": "Gostaria de um reembolso."},{"id": "pt-147","en": "It is broken.","pt": "Está partido."},{"id": "pt-148","en": "Where is the pharmacy?","pt": "Onde fica a farmácia?"},{"id": "pt-149","en": "I am sick.","pt": "Estou doente."},{"id": "pt-150","en": "I have a headache.","pt": "Estou com dor de cabeça."},{"id": "pt-151","en": "I have a fever.","pt": "Estou com febre."},{"id": "pt-152","en": "I need some medicine.","pt": "Preciso de um medicamento."},{"id": "pt-153","en": "Where is the nearest hospital?","pt": "Onde fica o hospital mais próximo?"},{"id": "pt-154","en": "Call an ambulance!","pt": "Chame uma ambulância!"},{"id": "pt-155","en": "It is an emergency.","pt": "É uma emergência."},{"id": "pt-156","en": "Is everything okay?","pt": "Está tudo bem?"},{"id": "pt-157","en": "Yes, everything is fine.","pt": "Sim, está tudo bem."},{"id": "pt-158","en": "Please calm down.","pt": "Acalme-se, por favor."},{"id": "pt-159","en": "Don't worry.","pt": "Não se preocupe."},{"id": "pt-160","en": "What happened?","pt": "O que aconteceu?"},{"id": "pt-161","en": "It was an accident.","pt": "Foi um acidente."},{"id": "pt-162","en": "I lost my passport.","pt": "Perdi o meu passaporte."},{"id": "pt-163","en": "Where is the police station?","pt": "Onde fica a esquadra de polícia?"},{"id": "pt-164","en": "My bag was stolen.","pt": "Roubaram-me a mala."},{"id": "pt-165","en": "Stop thief!","pt": "Ladrão!"},{"id": "pt-166","en": "Help me!","pt": "Ajude-me!"},{"id": "pt-167","en": "What is the date today?","pt": "Qual é a data de hoje?"},{"id": "pt-168","en": "It is the first of May.","pt": "É o primeiro de maio."},{"id": "pt-169","en": "What day is it today?","pt": "Que dia é hoje?"},{"id": "pt-170","en": "Today is Monday.","pt": "Hoje é segunda-feira."},{"id": "pt-171","en": "What did you do this weekend?","pt": "O que fizeste este fim de semana?"},{"id": "pt-172","en": "I rested.","pt": "Descansei."},{"id": "pt-173","en": "What are we doing tomorrow?","pt": "O que vamos fazer amanhã?"},{"id": "pt-174","en": "Shall we meet tonight?","pt": "Vemo-nos logo à noite?"},{"id": "pt-175","en": "What time shall we meet?","pt": "A que horas nos encontramos?"},{"id": "pt-176","en": "Let's meet at seven p.m.","pt": "Encontramo-nos às dezanove horas."},{"id": "pt-177","en": "Where is the meeting point?","pt": "Onde é o ponto de encontro?"},{"id": "pt-178","en": "In front of the cinema.","pt": "Em frente ao cinema."},{"id": "pt-179","en": "I am on my way.","pt": "Estou a caminho."},{"id": "pt-180","en": "I am going to be late.","pt": "Vou chegar atrasado."},{"id": "pt-181","en": "Sorry for being late.","pt": "Desculpe o atraso."},{"id": "pt-182","en": "It's nothing.","pt": "Não foi nada."},{"id": "pt-183","en": "Thank you for coming.","pt": "Obrigado por vires."},{"id": "pt-184","en": "It was a pleasure.","pt": "Foi um prazer."},{"id": "pt-185","en": "Until next time.","pt": "Até à próxima."},{"id": "pt-186","en": "Did you have a good vacation?","pt": "Passaste boas férias?"},{"id": "pt-187","en": "It was fantastic.","pt": "Foi fantástico."},{"id": "pt-188","en": "Where did you go?","pt": "Aonde foste?"},{"id": "pt-189","en": "I went to the beach.","pt": "Fui à praia."},{"id": "pt-190","en": "How was the trip?","pt": "Como correu a viagem?"},{"id": "pt-191","en": "It was a bit long.","pt": "Foi um pouco longa."},{"id": "pt-192","en": "Did you take photos?","pt": "Tiraste fotografias?"},{"id": "pt-193","en": "Yes, a lot.","pt": "Sim, muitas."},{"id": "pt-194","en": "Show me, please.","pt": "Mostra-me, por favor."},{"id": "pt-195","en": "It is beautiful.","pt": "É lindo."},{"id": "pt-196","en": "How lucky!","pt": "Que sorte!"},{"id": "pt-197","en": "I want to go there too.","pt": "Também quero ir para lá."},{"id": "pt-198","en": "Maybe next year.","pt": "Talvez no próximo ano."},{"id": "pt-199","en": "We will see.","pt": "Veremos."},{"id": "pt-200","en": "This is the end of the file.","pt": "É o fim do ficheiro."}],
-    "englishrussian": [],
-    "englisharabic": [],
-    "englishturkish": [],
+    "englishrussian": [ {
+    "id": "ru-001",
+    "en": "Hello, how are you?",
+    "ru": "Здравствуйте, как дела? (Zdravstvuyte, kak dela?)"
+  },
+  {
+    "id": "ru-002",
+    "en": "What is your name?",
+    "ru": "Как вас зовут? (Kak vas zovut?)"
+  },
+  {
+    "id": "ru-003",
+    "en": "My name is John.",
+    "ru": "Меня зовут Джон. (Menya zovut Dzhon.)"
+  },
+  {
+    "id": "ru-004",
+    "en": "Nice to meet you.",
+    "ru": "Рад с вами познакомиться. (Rad s vami poznakomit'sya.)"
+  },
+  {
+    "id": "ru-005",
+    "en": "Where are you from?",
+    "ru": "Откуда вы? (Otkuda vy?)"
+  },
+  {
+    "id": "ru-006",
+    "en": "I am from France.",
+    "ru": "Я из Франции. (Ya iz Frantsii.)"
+  },
+  {
+    "id": "ru-007",
+    "en": "Where do you live?",
+    "ru": "Где вы живете? (Gde vy zhivete?)"
+  },
+  {
+    "id": "ru-008",
+    "en": "I live in Paris.",
+    "ru": "Я живу в Париже. (Ya zhivu v Parizhe.)"
+  },
+  {
+    "id": "ru-009",
+    "en": "How old are you?",
+    "ru": "Сколько вам лет? (Skol'ko vam let?)"
+  },
+  {
+    "id": "ru-010",
+    "en": "I am thirty years old.",
+    "ru": "Мне тридцать лет. (Mne tridtsat' let.)"
+  },
+  {
+    "id": "ru-011",
+    "en": "What do you do for a living?",
+    "ru": "Чем вы занимаетесь в жизни? (Chem vy zanimayetes' v zhizni?)"
+  },
+  {
+    "id": "ru-012",
+    "en": "I am a student.",
+    "ru": "Я студент. (Ya student.)"
+  },
+  {
+    "id": "ru-013",
+    "en": "Do you speak Russian?",
+    "ru": "Вы говорите по-русски? (Vy govorite po-russki?)"
+  },
+  {
+    "id": "ru-014",
+    "en": "I speak a little Russian.",
+    "ru": "Я немного говорю по-русски. (Ya nemnogo govoryu po-russki.)"
+  },
+  {
+    "id": "ru-015",
+    "en": "Can you help me, please?",
+    "ru": "Помогите мне, пожалуйста. (Pomogite mne, pozhaluysta.)"
+  },
+  {
+    "id": "ru-016",
+    "en": "Thank you very much.",
+    "ru": "Большое спасибо. (Bol'shoye spasibo.)"
+  },
+  {
+    "id": "ru-017",
+    "en": "You're welcome.",
+    "ru": "Не за что. (Ne za chto.)"
+  },
+  {
+    "id": "ru-018",
+    "en": "Please.",
+    "ru": "Пожалуйста. (Pozhaluysta.)"
+  },
+  {
+    "id": "ru-019",
+    "en": "Excuse me.",
+    "ru": "Извините. (Izvinite.)"
+  },
+  {
+    "id": "ru-020",
+    "en": "I am sorry.",
+    "ru": "Мне жаль. (Mne zhal'.)"
+  },
+  {
+    "id": "ru-021",
+    "en": "What time is it?",
+    "ru": "Который час? (Kotoryy chas?)"
+  },
+  {
+    "id": "ru-022",
+    "en": "It is ten o'clock.",
+    "ru": "Сейчас десять часов. (Seychas desyat' chasov.)"
+  },
+  {
+    "id": "ru-023",
+    "en": "Where is the restroom?",
+    "ru": "Где туалет? (Gde tualet?)"
+  },
+  {
+    "id": "ru-024",
+    "en": "It is that way.",
+    "ru": "Это туда. (Eto tuda.)"
+  },
+  {
+    "id": "ru-025",
+    "en": "How much does it cost?",
+    "ru": "Сколько это стоит? (Skol'ko eto stoit?)"
+  },
+  {
+    "id": "ru-026",
+    "en": "It is too expensive.",
+    "ru": "Это слишком дорого. (Eto slishkom dorogo.)"
+  },
+  {
+    "id": "ru-027",
+    "en": "Where is the train station?",
+    "ru": "Где находится вокзал? (Gde nahoditsya vokzal?)"
+  },
+  {
+    "id": "ru-028",
+    "en": "I am looking for a good restaurant.",
+    "ru": "Я ищу хороший ресторан. (Ya ishchu horoshiy restoran.)"
+  },
+  {
+    "id": "ru-029",
+    "en": "The bill, please.",
+    "ru": "Счет, пожалуйста. (Schet, pozhaluysta.)"
+  },
+  {
+    "id": "ru-030",
+    "en": "What is the weather like today?",
+    "ru": "Какая сегодня погода? (Kakaya segodnya pogoda?)"
+  },
+  {
+    "id": "ru-031",
+    "en": "The weather is nice.",
+    "ru": "Погода хорошая. (Pogoda horoshaya.)"
+  },
+  {
+    "id": "ru-032",
+    "en": "It is raining.",
+    "ru": "Идет дождь. (Idet dozhd'.)"
+  },
+  {
+    "id": "ru-033",
+    "en": "I am hungry.",
+    "ru": "Я хочу есть. (Ya hochu yest'.)"
+  },
+  {
+    "id": "ru-034",
+    "en": "I am thirsty.",
+    "ru": "Я хочу пить. (Ya hochu pit'.)"
+  },
+  {
+    "id": "ru-035",
+    "en": "I am tired.",
+    "ru": "Я устал. (Ya ustal.)"
+  },
+  {
+    "id": "ru-036",
+    "en": "I don't understand.",
+    "ru": "Я не понимаю. (Ya ne ponimayu.)"
+  },
+  {
+    "id": "ru-037",
+    "en": "Can you repeat?",
+    "ru": "Повторите, пожалуйста. (Povtorite, pozhaluysta.)"
+  },
+  {
+    "id": "ru-038",
+    "en": "Speak more slowly, please.",
+    "ru": "Говорите медленнее, пожалуйста. (Govorite medlennee, pozhaluysta.)"
+  },
+  {
+    "id": "ru-039",
+    "en": "How do you say that in Russian?",
+    "ru": "Как это сказать по-русски? (Kak eto skazat' po-russki?)"
+  },
+  {
+    "id": "ru-040",
+    "en": "What does this word mean?",
+    "ru": "Что значит это слово? (Chto znachit eto slovo?)"
+  },
+  {
+    "id": "ru-041",
+    "en": "I love you.",
+    "ru": "Я тебя люблю. (Ya tebya lyublyu.)"
+  },
+  {
+    "id": "ru-042",
+    "en": "I miss you.",
+    "ru": "Я скучаю по тебе. (Ya skuchayu po tebe.)"
+  },
+  {
+    "id": "ru-043",
+    "en": "Good luck!",
+    "ru": "Удачи! (Udachi!)"
+  },
+  {
+    "id": "ru-044",
+    "en": "Congratulations!",
+    "ru": "Поздравляю! (Pozdravlyayu!)"
+  },
+  {
+    "id": "ru-045",
+    "en": "Happy birthday!",
+    "ru": "С днем рождения! (S dnem rozhdeniya!)"
+  },
+  {
+    "id": "ru-046",
+    "en": "Have a good trip!",
+    "ru": "Счастливого пути! (Schastlivogo puti!)"
+  },
+  {
+    "id": "ru-047",
+    "en": "Have a nice day.",
+    "ru": "Хорошего дня. (Horoshego dnya.)"
+  },
+  {
+    "id": "ru-048",
+    "en": "See you soon.",
+    "ru": "До скорого. (Do skorogo.)"
+  },
+  {
+    "id": "ru-049",
+    "en": "See you tomorrow.",
+    "ru": "До завтра. (Do zavtra.)"
+  },
+  {
+    "id": "ru-050",
+    "en": "Goodbye.",
+    "ru": "До свидания. (Do svidaniya.)"
+  },
+  {
+    "id": "ru-051",
+    "en": "Where are you going?",
+    "ru": "Куда вы идете? (Kuda vy idete?)"
+  },
+  {
+    "id": "ru-052",
+    "en": "I am going to the supermarket.",
+    "ru": "Я иду в супермаркет. (Ya idu v supermarket.)"
+  },
+  {
+    "id": "ru-053",
+    "en": "What is it?",
+    "ru": "Что это? (Chto eto?)"
+  },
+  {
+    "id": "ru-054",
+    "en": "I don't know.",
+    "ru": "Я не знаю. (Ya ne znayu.)"
+  },
+  {
+    "id": "ru-055",
+    "en": "Are you sure?",
+    "ru": "Вы уверены? (Vy uvereny?)"
+  },
+  {
+    "id": "ru-056",
+    "en": "Yes, I am sure.",
+    "ru": "Да, я уверен. (Da, ya uveren.)"
+  },
+  {
+    "id": "ru-057",
+    "en": "I think so.",
+    "ru": "Думаю, да. (Dumayu, da.)"
+  },
+  {
+    "id": "ru-058",
+    "en": "I don't think so.",
+    "ru": "Думаю, нет. (Dumayu, net.)"
+  },
+  {
+    "id": "ru-059",
+    "en": "No problem.",
+    "ru": "Без проблем. (Bez problem.)"
+  },
+  {
+    "id": "ru-060",
+    "en": "It doesn't matter.",
+    "ru": "Ничего страшного. (Nichego strashnogo.)"
+  },
+  {
+    "id": "ru-061",
+    "en": "What are you eating?",
+    "ru": "Что ты ешь? (Chto ty yesh?)"
+  },
+  {
+    "id": "ru-062",
+    "en": "It is delicious.",
+    "ru": "Это вкусно. (Eto vkusno.)"
+  },
+  {
+    "id": "ru-063",
+    "en": "I don't like it.",
+    "ru": "Мне это не нравится. (Mne eto ne nravitsya.)"
+  },
+  {
+    "id": "ru-064",
+    "en": "What are your hobbies?",
+    "ru": "Какие у вас хобби? (Kakiye u vas hobbi?)"
+  },
+  {
+    "id": "ru-065",
+    "en": "I like reading books.",
+    "ru": "Я люблю читать книги. (Ya lyublyu chitat' knigi.)"
+  },
+  {
+    "id": "ru-066",
+    "en": "I like listening to music.",
+    "ru": "Я люблю слушать музыку. (Ya lyublyu slushat' muzyku.)"
+  },
+  {
+    "id": "ru-067",
+    "en": "Do you do sports?",
+    "ru": "Вы занимаетесь спортом? (Vy zanimayetes' sportom?)"
+  },
+  {
+    "id": "ru-068",
+    "en": "I play soccer.",
+    "ru": "Я играю в футбол. (Ya igrayu v football.)"
+  },
+  {
+    "id": "ru-069",
+    "en": "I am watching a movie.",
+    "ru": "Я смотрю фильм. (Ya smotryu fil'm.)"
+  },
+  {
+    "id": "ru-070",
+    "en": "Where did you buy that?",
+    "ru": "Где ты это купил? (Gde ty eto kupil?)"
+  },
+  {
+    "id": "ru-071",
+    "en": "It is a gift.",
+    "ru": "Это подарок. (Eto podarok.)"
+  },
+  {
+    "id": "ru-072",
+    "en": "Can you close the window?",
+    "ru": "Закройте окно, пожалуйста. (Zakroyte okno, pozhaluysta.)"
+  },
+  {
+    "id": "ru-073",
+    "en": "It is cold in here.",
+    "ru": "Здесь холодно. (Zdes' holodno.)"
+  },
+  {
+    "id": "ru-074",
+    "en": "It is hot outside.",
+    "ru": "На улице жарко. (Na ulitse zharko.)"
+  },
+  {
+    "id": "ru-075",
+    "en": "Where are my keys?",
+    "ru": "Где мои ключи? (Gde moi klyuchi?)"
+  },
+  {
+    "id": "ru-076",
+    "en": "They are on the table.",
+    "ru": "Они на столе. (Oni na stole.)"
+  },
+  {
+    "id": "ru-077",
+    "en": "I have to go.",
+    "ru": "Мне пора идти. (Mne pora idti.)"
+  },
+  {
+    "id": "ru-078",
+    "en": "Take care.",
+    "ru": "Береги себя. (Beregi sebya.)"
+  },
+  {
+    "id": "ru-079",
+    "en": "See you later.",
+    "ru": "До встречи. (Do vstrechi.)"
+  },
+  {
+    "id": "ru-080",
+    "en": "Good night.",
+    "ru": "Спокойной ночи. (Spokoynoy nochi.)"
+  },
+  {
+    "id": "ru-081",
+    "en": "Do you have any siblings?",
+    "ru": "У вас есть братья или сестры? (U vas yest' brat'ya ili sestry?)"
+  },
+  {
+    "id": "ru-082",
+    "en": "I have a brother and a sister.",
+    "ru": "У меня есть брат и сестра. (U menya yest' brat i sestra.)"
+  },
+  {
+    "id": "ru-083",
+    "en": "Are you married?",
+    "ru": "Вы замужем / женаты? (Vy zamuzhem / zhenaty?)"
+  },
+  {
+    "id": "ru-084",
+    "en": "I am single.",
+    "ru": "Я холост / не замужем. (Ya holost / ne zamuzhem.)"
+  },
+  {
+    "id": "ru-085",
+    "en": "Do you have children?",
+    "ru": "У тебя есть дети? (U tebya yest' deti?)"
+  },
+  {
+    "id": "ru-086",
+    "en": "I have two children.",
+    "ru": "У меня двое детей. (U menya dvoye detey.)"
+  },
+  {
+    "id": "ru-087",
+    "en": "Where do you work?",
+    "ru": "Где ты работаешь? (Gde ty rabotayesh?)"
+  },
+  {
+    "id": "ru-088",
+    "en": "I work in an office.",
+    "ru": "Я работаю в офисе. (Ya rabotayu v ofise.)"
+  },
+  {
+    "id": "ru-089",
+    "en": "It is difficult.",
+    "ru": "Это трудно. (Eto trudno.)"
+  },
+  {
+    "id": "ru-090",
+    "en": "It is easy.",
+    "ru": "Это легко. (Eto legko.)"
+  },
+  {
+    "id": "ru-091",
+    "en": "I agree.",
+    "ru": "Я согласен. (Ya soglasen.)"},{"id": "ru-092","en": "I don't agree.","ru": "Я не согласен. (Ya ne soglasen.)"},{"id": "ru-093","en": "That's a good idea.","ru": "Это хорошая идея. (Eto horoshaya ideya.)"},{"id": "ru-094","en": "I don't have time.","ru": "У меня нет времени. (U menya net vremeni.)"},{"id": "ru-095","en": "Wait a minute.","ru": "Подождите минуту. (Podozhdite minutu.)"},{"id": "ru-096","en": "I'll be right back.","ru": "Я сейчас вернусь. (Ya seychas vernus'.)"},{"id": "ru-097","en": "Of course.","ru": "Конечно. (Konechno.)"},{"id": "ru-098","en": "Maybe.","ru": "Может быть. (Mozhet byt'.)"},{"id": "ru-099","en": "Never.","ru": "Никогда. (Nikogda.)"},{"id": "ru-100","en": "Always.","ru": "Всегда. (Vsegda.)"},{"id": "ru-101","en": "What is your favorite food?","ru": "Какое твое любимое блюдо? (Kakoye tvoye lyubimoye blyudo?)"},{"id": "ru-102","en": "I love pasta.","ru": "Я обожаю макароны. (Ya obozhayu makarony.)"},{"id": "ru-103","en": "Do you want something to drink?","ru": "Хочешь что-нибудь выпить? (Hochesh' chto-nibud' vypit'?)"},{"id": "ru-104","en": "A coffee, please.","ru": "Кофе, пожалуйста. (Kofe, pozhaluysta.)"},{"id": "ru-105","en": "Where can I buy a ticket?","ru": "Где я могу купить билет? (Gde ya mogu kupit' bilet?)"},{"id": "ru-106","en": "At the ticket counter.","ru": "В кассе. (V kasse.)"},{"id": "ru-107","en": "The train is late.","ru": "Поезд задерживается. (Poyezd zaderzhivayetsya.)"},{"id": "ru-108","en": "Is it far from here?","ru": "Это далеко отсюда? (Eto daleko otsyuda?)"},{"id": "ru-109","en": "No, it is very close.","ru": "Нет, это совсем близко. (Net, eto sovsem blizko.)"},{"id": "ru-110","en": "Go straight ahead.","ru": "Идите прямо. (Idite pryamo.)"},{"id": "ru-111","en": "Turn right.","ru": "Поверните направо. (Povernite napravo.)"},{"id": "ru-112","en": "Turn left.","ru": "Поверните налево. (Povernite nalevo.)"},{"id": "ru-113","en": "I am lost.","ru": "Я заблудился. (Ya zabludilsya.)"},{"id": "ru-114","en": "Can you show me on the map?","ru": "Вы можете показать мне на карте? (Vy mozhete pokazat' mne na karte?)"},{"id": "ru-115","en": "Where is the hotel?","ru": "Где отель? (Gde otel'?)"},{"id": "ru-116","en": "I have a reservation.","ru": "У меня есть бронь. (U menya yest' bron'.)"},{"id": "ru-117","en": "Can I have the key?","ru": "Можно мне ключ? (Mozhno mne klyuch?)"},{"id": "ru-118","en": "Is the Wi-Fi free?","ru": "Wi-Fi бесплатный? (Wi-Fi besplatnyy?)"},{"id": "ru-119","en": "What is the password?","ru": "Какой пароль? (Kakoy parol'?)"},{"id": "ru-120","en": "Where is the elevator?","ru": "Где лифт? (Gde lift?)"},{"id": "ru-121","en": "I would like to book a table.","ru": "Я хотел бы заказать столик. (Ya hotel by zakazat' stolik.)"},{"id": "ru-122","en": "For how many people?","ru": "На сколько человек? (Na skol'ko chelovek?)"},{"id": "ru-123","en": "For two people.","ru": "На двоих. (Na dvoih.)"},{"id": "ru-124","en": "At what time?","ru": "На какое время? (Na kakoye vremya?)"},{"id": "ru-125","en": "Tonight at eight p.m.","ru": "Сегодня вечером в двадцать часов. (Segodnya vecherom v dvadtsat' chasov.)"},{"id": "ru-126","en": "Are you ready to order?","ru": "Вы готовы заказать? (Vy gotovy zakazat?)"},{"id": "ru-127","en": "I will have the chicken.","ru": "Я возьму курицу. (Ya voz'mu kuritsu.)"},{"id": "ru-128","en": "And to drink?","ru": "А пить? (A pit'?)"},{"id": "ru-129","en": "Mineral water, please.","ru": "Минеральную воду, пожалуйста. (Mineral'nuyu vodu, pozhaluysta.)"},{"id": "ru-130","en": "Enjoy your meal!","ru": "Приятного аппетита! (Priyatnogo appetita!)"},{"id": "ru-131","en": "It was excellent.","ru": "Это было превосходно. (Eto bylo prevoshodno.)"},{"id": "ru-132","en": "Do you accept credit cards?","ru": "Вы принимаете банковские карты? (Vy prinimayete bankovskiye karty?)"},{"id": "ru-133","en": "I will pay in cash.","ru": "Я заплачу наличными. (Ya zaplachu nalichnymi.)"},{"id": "ru-134","en": "Keep the change.","ru": "Сдачи не надо. (Sdachi ne nado.)"},{"id": "ru-135","en": "Where are the shops?","ru": "Где магазины? (Gde magaziny?)"},{"id": "ru-136","en": "I am just looking.","ru": "Я просто смотрю. (Ya prosto smotryu.)"},{"id": "ru-137","en": "Can I try this on?","ru": "Можно мне это примерить? (Mozhno mne eto primerit'?)"},{"id": "ru-138","en": "Where are the fitting rooms?","ru": "Где примерочные? (Gde primerochnyye?)"},{"id": "ru-139","en": "What is your size?","ru": "Какой у вас размер? (Kakoy u vas razmer?)"},{"id": "ru-140","en": "It is too big.","ru": "Это слишком велико. (Eto slishkom veliko.)"},{"id": "ru-141","en": "It is too small.","ru": "Это слишком мало. (Eto slishkom malo.)"},{"id": "ru-142","en": "Do you have a larger size?","ru": "У вас есть размер побольше? (U vas yest' razmer pobol'she?)"},{"id": "ru-143","en": "I'll take it.","ru": "Я это беру. (Ya eto beru.)"},{"id": "ru-144","en": "Where is the cashier?","ru": "Где касса? (Gde kassa?)"},{"id": "ru-145","en": "Can I have a bag?","ru": "Можно мне пакет? (Mozhno mne paket?)"},{"id": "ru-146","en": "I would like a refund.","ru": "Я хотел бы вернуть деньги. (Ya hotel by vernut' den'gi.)"},{"id": "ru-147","en": "It is broken.","ru": "Это сломано. (Eto slomano.)"},{"id": "ru-148","en": "Where is the pharmacy?","ru": "Где аптека? (Gde apteka?)"},{"id": "ru-149","en": "I am sick.","ru": "Я болен. (Ya bolen.)"},{"id": "ru-150","en": "I have a headache.","ru": "У меня болит голова. (U menya bolit golova.)"},{"id": "ru-151","en": "I have a fever.","ru": "У меня температура. (U menya temperatura.)"},{"id": "ru-152","en": "I need some medicine.","ru": "Мне нужно лекарство. (Mne nuzhno lekarstvo.)"},{"id": "ru-153","en": "Where is the nearest hospital?","ru": "Где ближайшая больница? (Gde blizhayshaya bol'nitsa?)"},{"id": "ru-154","en": "Call an ambulance!","ru": "Вызовите скорую! (Vyzovite skoruyu!)"},{"id": "ru-155","en": "It is an emergency.","ru": "Это экстренный случай. (Eto ekstrennyy sluchay.)"},{"id": "ru-156","en": "Is everything okay?","ru": "Все в порядке? (Vse v poryadke?)"},{"id": "ru-157","en": "Yes, everything is fine.","ru": "Да, все в порядке. (Da, vse v poryadke.)"},{"id": "ru-158","en": "Please calm down.","ru": "Успокойтесь, пожалуйста. (Uspokoytes', pozhaluysta.)"},{"id": "ru-159","en": "Don't worry.","ru": "Не волнуйтесь. (Ne volnuytes'.)"},{"id": "ru-160","en": "What happened?","ru": "Что случилось? (Chto sluchilos'?)"},{"id": "ru-161","en": "It was an accident.","ru": "Это был несчастный случай. (Eto byl neschastnyy sluchay.)"},{"id": "ru-162","en": "I lost my passport.","ru": "Я потерял свой паспорт. (Ya poteryal svoy pasport.)"},{"id": "ru-163","en": "Where is the police station?","ru": "Где отделение полиции? (Gde otdeleniye politsii?)"},{"id": "ru-164","en": "My bag was stolen.","ru": "У меня украли сумку. (U menya ukrali sumku.)"},{"id": "ru-165","en": "Stop thief!","ru": "Держи вора! (Derzhi vora!)"},{"id": "ru-166","en": "Help me!","ru": "Помогите мне! (Pomogite mne!)"},{"id": "ru-167","en": "What is the date today?","ru": "Какое сегодня число? (Kakoye segodnya chislo?)"},{"id": "ru-168","en": "It is the first of May.","ru": "Сегодня первое мая. (Segodnya pervoye maya.)"},{"id": "ru-169","en": "What day is it today?","ru": "Какой сегодня день недели? (Kakoy segodnya den' nedeli?)"},{"id": "ru-170","en": "Today is Monday.","ru": "Сегодня понедельник. (Segodnya ponedel'nik.)"},{"id": "ru-171","en": "What did you do this weekend?","ru": "Что ты делал в эти выходные? (Chto ty delal v eti vyhodnyye?)"},{"id": "ru-172","en": "I rested.","ru": "Я отдохнул. (Ya otdohnul.)"},{"id": "ru-173","en": "What are we doing tomorrow?","ru": "Что мы делаем завтра? (Chto my delayem zavtra?)"},{"id": "ru-174","en": "Shall we meet tonight?","ru": "Увидимся сегодня вечером? (Uvidimsya segodnya vecherom?)"},{"id": "ru-175","en": "What time shall we meet?","ru": "Во сколько мы встречаемся? (Vo skol'ko my vstrechayemsya?)"},{"id": "ru-176","en": "Let's meet at seven p.m.","ru": "Встречаемся в девятнадцать часов. (Vstrechayemsya v devyatnadtsat' chasov.)"},{"id": "ru-177","en": "Where is the meeting point?","ru": "Где место встречи? (Gde mesto vstrechi?)"},{"id": "ru-178","en": "In front of the cinema.","ru": "Перед кинотеатром. (Pered kinoteatrom.)"},{"id": "ru-179","en": "I am on my way.","ru": "Я в пути. (Ya v puti.)"},{"id": "ru-180","en": "I am going to be late.","ru": "Я опоздаю. (Ya opozdayu.)"},{"id": "ru-181","en": "Sorry for being late.","ru": "Извините за опоздание. (Izvinite za opozdaniye.)"},{"id": "ru-182","en": "It's nothing.","ru": "Ничего страшного. (Nichego strashnogo.)"},{"id": "ru-183","en": "Thank you for coming.","ru": "Спасибо, что пришли. (Spasibo, chto prishli.)"},{"id": "ru-184","en": "It was a pleasure.","ru": "Это было приятно. (Eto bylo priyatno.)"},{"id": "ru-185","en": "Until next time.","ru": "До следующего раза. (Do sleduyushchego raza.)"},{"id": "ru-186","en": "Did you have a good vacation?","ru": "Ты хорошо провел отпуск? (Ty horosho provel otpusk?)"},{"id": "ru-187","en": "It was fantastic.","ru": "Это было фантастически. (Eto bylo fantasticheski.)"},{"id": "ru-188","en": "Where did you go?","ru": "Куда ты ездил? (Kuda ty yezdil?)"},{"id": "ru-189","en": "I went to the beach.","ru": "Я ходил на пляж. (Ya hodil na plyazh.)"},{"id": "ru-190","en": "How was the trip?","ru": "Как прошла поездка? (Kak proshla poyezdka?)"},{"id": "ru-191","en": "It was a bit long.","ru": "Это было немного долго. (Eto bylo nemnogo dolgo.)"},{"id": "ru-192","en": "Did you take photos?","ru": "Ты делал фотографии? (Ty delal fotografii?)"},{"id": "ru-193","en": "Yes, a lot.","ru": "Да, много. (Da, mnogo.)"},{"id": "ru-194","en": "Show me, please.","ru": "Покажи мне, пожалуйста. (Pokazhi mne, pozhaluysta.)"},{"id": "ru-195","en": "It is beautiful.","ru": "Это прекрасно. (Eto prekrasno.)"},{"id": "ru-196","en": "How lucky!","ru": "Какая удача! (Kakaya udacha!)"},{"id": "ru-197","en": "I want to go there too.","ru": "Я тоже хочу туда поехать. (Ya tozhe hochu tuda poyekhat'.)"},{"id": "ru-198","en": "Maybe next year.","ru": "Может быть, в следующем году. (Mozhet byt', v sleduyushchem godu.)"},{"id": "ru-199","en": "We will see.","ru": "Посмотрим. (Posmotrim.)"},{"id": "ru-200","en": "This is the end of the file.","ru": "Конец файла. (Konets fayla.)"}],
+    "englisharabic": [{
+    "id": "ar-001",
+    "en": "Hello, how are you?",
+    "ar": "مرحباً، كيف حالك؟ (Marhaban, kayfa haluk?)"
+  },
+  {
+    "id": "ar-002",
+    "en": "What is your name?",
+    "ar": "ما اسمك؟ (Mas muk?)"
+  },
+  {
+    "id": "ar-003",
+    "en": "My name is John.",
+    "ar": "اسمي جون. (Ismi John.)"
+  },
+  {
+    "id": "ar-004",
+    "en": "Nice to meet you.",
+    "ar": "تشرفت بمقابلتك. (Tasharraftu bi-muqabalatik.)"
+  },
+  {
+    "id": "ar-005",
+    "en": "Where are you from?",
+    "ar": "من أين أنت؟ (Min ayna ant?)"
+  },
+  {
+    "id": "ar-006",
+    "en": "I am from France.",
+    "ar": "أنا من فرنسا. (Ana min Faransa.)"
+  },
+  {
+    "id": "ar-007",
+    "en": "Where do you live?",
+    "ar": "أين تعيش؟ (Ayna ta'ish?)"
+  },
+  {
+    "id": "ar-008",
+    "en": "I live in Paris.",
+    "ar": "أعيش في باريس. (A'ishu fi Baris.)"
+  },
+  {
+    "id": "ar-009",
+    "en": "How old are you?",
+    "ar": "كم عمرك؟ (Kam umruk?)"
+  },
+  {
+    "id": "ar-010",
+    "en": "I am thirty years old.",
+    "ar": "عمري ثلاثون سنة. (Umri thalathuna sana.)"
+  },
+  {
+    "id": "ar-011",
+    "en": "What do you do for a living?",
+    "ar": "ماذا تعمل في الحياة؟ (Madha ta'malu fil-hayah?)"
+  },
+  {
+    "id": "ar-012",
+    "en": "I am a student.",
+    "ar": "أنا طالب. (Ana talib.)"
+  },
+  {
+    "id": "ar-013",
+    "en": "Do you speak Arabic?",
+    "ar": "هل تتحدث العربية؟ (Hal tatahaddathu al-arabiyyah?)"
+  },
+  {
+    "id": "ar-014",
+    "en": "I speak a little Arabic.",
+    "ar": "أتحدث القليل من العربية. (Atahaddathu al-qalila min al-arabiyyah.)"
+  },
+  {
+    "id": "ar-015",
+    "en": "Can you help me, please?",
+    "ar": "هل يمكنك مساعدتي من فضلك؟ (Hal yumkinuka musa'adati min fadlik?)"
+  },
+  {
+    "id": "ar-016",
+    "en": "Thank you very much.",
+    "ar": "شكراً جزيلاً. (Shukran jazilan.)"
+  },
+  {
+    "id": "ar-017",
+    "en": "You're welcome.",
+    "ar": "على الرحب والسعة. (Ala al-rahbi wal-si'ah.)"
+  },
+  {
+    "id": "ar-018",
+    "en": "Please.",
+    "ar": "من فضلك. (Min fadlik.)"
+  },
+  {
+    "id": "ar-019",
+    "en": "Excuse me.",
+    "ar": "المعذرة. (Al-ma'dhirah.)"
+  },
+  {
+    "id": "ar-020",
+    "en": "I am sorry.",
+    "ar": "أنا آسف. (Ana asif.)"
+  },
+  {
+    "id": "ar-021",
+    "en": "What time is it?",
+    "ar": "كم الساعة الآن؟ (Kam al-sa'ah al-an?)"
+  },
+  {
+    "id": "ar-022",
+    "en": "It is ten o'clock.",
+    "ar": "إنها الساعة العاشرة. (Innaha al-sa'ah al-ashirah.)"
+  },
+  {
+    "id": "ar-023",
+    "en": "Where is the restroom?",
+    "ar": "أين المرحاض؟ (Ayna al-mirhad?)"
+  },
+  {
+    "id": "ar-024",
+    "en": "It is that way.",
+    "ar": "إنه من هناك. (Innahu min hunak.)"
+  },
+  {
+    "id": "ar-025",
+    "en": "How much does it cost?",
+    "ar": "كم ثمن هذا؟ (Kam thamanu hadha?)"
+  },
+  {
+    "id": "ar-026",
+    "en": "It is too expensive.",
+    "ar": "هذا غالٍ جداً. (Hadha ghalin jiddan.)"
+  },
+  {
+    "id": "ar-027",
+    "en": "Where is the train station?",
+    "ar": "أين تقع محطة القطار؟ (Ayna taqa'u mahattatu al-qitar?)"
+  },
+  {
+    "id": "ar-028",
+    "en": "I am looking for a good restaurant.",
+    "ar": "أبحث عن مطعم جيد. (Abhathu an mat'am jayyid.)"
+  },
+  {
+    "id": "ar-029",
+    "en": "The bill, please.",
+    "ar": "الحساب من فضلك. (Al-hisab min fadlik.)"
+  },
+  {
+    "id": "ar-030",
+    "en": "What is the weather like today?",
+    "ar": "كيف حال الطقس اليوم؟ (Kayfa halu al-taqs al-yawm?)"
+  },
+  {
+    "id": "ar-031",
+    "en": "The weather is nice.",
+    "ar": "الطقس جميل. (Al-taqs jamil.)"
+  },
+  {
+    "id": "ar-032",
+    "en": "It is raining.",
+    "ar": "إنها تمطر. (Innaha tumtir.)"
+  },
+  {
+    "id": "ar-033",
+    "en": "I am hungry.",
+    "ar": "أنا جائع. (Ana ja'i'.)"
+  },
+  {
+    "id": "ar-034",
+    "en": "I am thirsty.",
+    "ar": "أنا عطشان. (Ana atshan.)"
+  },
+  {
+    "id": "ar-035",
+    "en": "I am tired.",
+    "ar": "أنا متعب. (Ana mut'ab.)"
+  },
+  {
+    "id": "ar-036",
+    "en": "I don't understand.",
+    "ar": "لا أفهم. (La afham.)"
+  },
+  {
+    "id": "ar-037",
+    "en": "Can you repeat?",
+    "ar": "هل يمكنك التكرار؟ (Hal yumkinuka al-tikrar?)"
+  },
+  {
+    "id": "ar-038",
+    "en": "Speak more slowly, please.",
+    "ar": "تحدث ببطء أكثر من فضلك. (Tahaddath bi-but'in akthar min fadlik.)"
+  },
+  {
+    "id": "ar-039",
+    "en": "How do you say that in Arabic?",
+    "ar": "كيف نقول هذا باللغة العربية؟ (Kayfa naqulu hadha bil-lughah al-arabiyyah?)"
+  },
+  {
+    "id": "ar-040",
+    "en": "What does this word mean?",
+    "ar": "ما معنى هذه الكلمة؟ (Ma ma'na hadhihi al-kalimah?)"
+  },
+  {
+    "id": "ar-041",
+    "en": "I love you.",
+    "ar": "أحبك. (Uhibbuk.)"
+  },
+  {
+    "id": "ar-042",
+    "en": "I miss you.",
+    "ar": "أشتاق إليك. (Ashtaqu ilayk.)"
+  },
+  {
+    "id": "ar-043",
+    "en": "Good luck!",
+    "ar": "بالتوفيق! (Bil-tawfiq!)"
+  },
+  {
+    "id": "ar-044",
+    "en": "Congratulations!",
+    "ar": "تهانينا! (Tahanina!)"
+  },
+  {
+    "id": "ar-045",
+    "en": "Happy birthday!",
+    "ar": "عيد ميلاد سعيد! (Eid milad sa'id!)"
+  },
+  {
+    "id": "ar-046",
+    "en": "Have a good trip!",
+    "ar": "رحلة سعيدة! (Rihlah sa'idah!)"
+  },
+  {
+    "id": "ar-047",
+    "en": "Have a nice day.",
+    "ar": "أتمنى لك يوماً سعيداً. (Atamanna laka yawman sa'idan.)"
+  },
+  {
+    "id": "ar-048",
+    "en": "See you soon.",
+    "ar": "أراك قريباً. (Araka qariban.)"
+  },
+  {
+    "id": "ar-049",
+    "en": "See you tomorrow.",
+    "ar": "أراك غداً. (Araka ghadan.)"
+  },
+  {
+    "id": "ar-050",
+    "en": "Goodbye.",
+    "ar": "مع السلامة. (Ma'a al-salamah.)"
+  },
+  {
+    "id": "ar-051",
+    "en": "Where are you going?",
+    "ar": "إلى أين أنت ذاهب؟ (Ila ayna anta dhahib?)"
+  },
+  {
+    "id": "ar-052",
+    "en": "I am going to the supermarket.",
+    "ar": "أنا ذاهب إلى السوبرماركت. (Ana dhahib ila al-supermarket.)"
+  },
+  {
+    "id": "ar-053",
+    "en": "What is it?",
+    "ar": "ما هذا？ (Ma hadha?)"
+  },
+  {
+    "id": "ar-054",
+    "en": "I don't know.",
+    "ar": "لا أعلم. (La a'lam.)"
+  },
+  {
+    "id": "ar-055",
+    "en": "Are you sure?",
+    "ar": "هل أنت متأكد؟ (Hal anta muta'akkid?)"
+  },
+  {
+    "id": "ar-056",
+    "en": "Yes, I am sure.",
+    "ar": "نعم، أنا متأكد. (Na'am, ana muta'akkid.)"
+  },
+  {
+    "id": "ar-057",
+    "en": "I think so.",
+    "ar": "أعتقد ذلك. (A'taqidu dhalik.)"
+  },
+  {
+    "id": "ar-058",
+    "en": "I don't think so.",
+    "ar": "لا أعتقد ذلك. (La a'taqidu dhalik.)"
+  },
+  {
+    "id": "ar-059",
+    "en": "No problem.",
+    "ar": "لا مشكلة. (La mushkilah.)"
+  },
+  {
+    "id": "ar-060",
+    "en": "It doesn't matter.",
+    "ar": "لا بأس. (La ba's.)"
+  },
+  {
+    "id": "ar-061",
+    "en": "What are you eating?",
+    "ar": "ماذا تأكل؟ (Madha ta'kul?)"
+  },
+  {
+    "id": "ar-062",
+    "en": "It is delicious.",
+    "ar": "هذا لديد. (Hadha ladhid.)"
+  },
+  {
+    "id": "ar-063",
+    "en": "I don't like it.",
+    "ar": "لا أحب هذا. (La uhibbu hadha.)"
+  },
+  {
+    "id": "ar-064",
+    "en": "What are your hobbies?",
+    "ar": "ما هي هواياتك؟ (Ma hiya hiwayatuk?)"
+  },
+  {
+    "id": "ar-065",
+    "en": "I like reading books.",
+    "ar": "أحب قراءة الكتب. (Uhibbu qira'at al-kutub.)"
+  },
+  {
+    "id": "ar-066",
+    "en": "I like listening to music.",
+    "ar": "أحب الاستماع إلى الموسيقى. (Uhibbu al-istima' ila al-musiqa.)"
+  },
+  {
+    "id": "ar-067",
+    "en": "Do you do sports?",
+    "ar": "هل تمارس الرياضة؟ (Hal tumarisu al-riyadah?)"
+  },
+  {
+    "id": "ar-068",
+    "en": "I play soccer.",
+    "ar": "ألعب كرة القدم. (Al'abu kurat al-qadam.)"
+  },
+  {
+    "id": "ar-069",
+    "en": "I am watching a movie.",
+    "ar": "أشاهد فيلماً. (Ushahidu filman.)"
+  },
+  {
+    "id": "ar-070",
+    "en": "Where did you buy that?",
+    "ar": "من أين اشتريت هذا؟ (Min ayna ishtarayta hadha?)"
+  },
+  {
+    "id": "ar-071",
+    "en": "It is a gift.",
+    "ar": "هذه هدية. (Hadhihi hadiyyah.)"
+  },
+  {
+    "id": "ar-072",
+    "en": "Can you close the window?",
+    "ar": "هل يمكنك إغلاق النافذة من فضلك؟ (Hal yumkinuka ighlaq al-nafidhah min fadlik?)"
+  },
+  {
+    "id": "ar-073",
+    "en": "It is cold in here.",
+    "ar": "الجو بارد هنا. (Al-jawwu barid hunā.)"
+  },
+  {
+    "id": "ar-074",
+    "en": "It is hot outside.",
+    "ar": "الجو حار بالخارج. (Al-jawwu harun bil-kharij.)"
+  },
+  {
+    "id": "ar-075",
+    "en": "Where are my keys?",
+    "ar": "أين مفاتيحي؟ (Ayna mafatihi?)"
+  },
+  {
+    "id": "ar-076",
+    "en": "They are on the table.",
+    "ar": "إنها على الطاولة. (Innaha ala al-tawilah.)"
+  },
+  {
+    "id": "ar-077",
+    "en": "I have to go.",
+    "ar": "يجب أن أذهب. (Yajibu an adhab.)"
+  },
+  {
+    "id": "ar-078",
+    "en": "Take care.",
+    "ar": "اعتني بنفسك. (I'tani bi-nafsik.)"
+  },
+  {
+    "id": "ar-079",
+    "en": "See you later.",
+    "ar": "أراك لاحقاً. (Araka lahiqan.)"
+  },
+  {
+    "id": "ar-080",
+    "en": "Good night.",
+    "ar": "تصبح على خير. (Tusbih ala khayr.)"
+  },
+  {
+    "id": "ar-081",
+    "en": "Do you have any siblings?",
+    "ar": "هل لديك إخوة وأخوات؟ (Hal ladayka ikhwatun wa-akhawat?)"
+  },
+  {
+    "id": "ar-082",
+    "en": "I have a brother and a sister.",
+    "ar": "لدي أخ وأخت. (Ladayya akhun wa-ukht.)"
+  },
+  {
+    "id": "ar-083",
+    "en": "Are you married?",
+    "ar": "هل أنت متزوج؟ (Hal anta mutazawwij?)"
+  },
+  {
+    "id": "ar-084",
+    "en": "I am single.",
+    "ar": "أنا أعزب. (Ana a'zab.)"
+  },
+  {
+    "id": "ar-085",
+    "en": "Do you have children?",
+    "ar": "هل لديك أطفال؟ (Hal ladayka atfal?)"
+  },
+  {
+    "id": "ar-086",
+    "en": "I have two children.",
+    "ar": "لدي طفلان. (Ladayya tiflan.)"
+  },
+  {
+    "id": "ar-087",
+    "en": "Where do you work?",
+    "ar": "أين تعمل؟ (Ayna ta'mal?)"
+  },
+  {
+    "id": "ar-088",
+    "en": "I work in an office.",
+    "ar": "أعمل في مكتب. (A'malu fi maktab.)"
+  },
+  {
+    "id": "ar-089",
+    "en": "It is difficult.",
+    "ar": "هذا صعب. (Hadha sa'b.)"
+  },
+  {
+    "id": "ar-090",
+    "en": "It is easy.",
+    "ar": "هذا سهل. (Hadha sahl.)"
+  },
+  {
+    "id": "ar-091",
+    "en": "I agree.",
+    "ar": "أنا موافق. (Ana muwafiq.)"
+  },
+  {
+    "id": "ar-092",
+    "en": "I don't agree.",
+    "ar": "لا أوافق. (La uwafiq.)"},{"id": "ar-093","en": "That's a good idea.","ar": "هذه فكرة جيدة. (Hadhihi fikrah jayyidah.)"},{"id": "ar-094","en": "I don't have time.","ar": "ليس لدي وقت. (Laysa ladayya waqt.)"},{"id": "ar-095","en": "Wait a minute.","ar": "انتظر دقيقة. (Intadhir daqiqah.)"},{"id": "ar-096","en": "I'll be right back.","ar": "سأعود فوراً. (Sa-a'udu fawran.)"},{"id": "ar-097","en": "Of course.","ar": "بالتأكيد. (Bil-ta'kid.)"},{"id": "ar-098","en": "Maybe.","ar": "ربما. (Rubnama.)"},{"id": "ar-099","en": "Never.","ar": "أبداً. (Abadan.)"},{"id": "ar-100","en": "Always.","ar": "دائماً. (Da'iman.)"},{"id": "ar-101","en": "What is your favorite food?","ar": "ما هو طعامك المفضل؟ (Ma huwa ta'amuka al-mufaddal?)"},{"id": "ar-102","en": "I love pasta.","ar": "أعشق المعكرونة. (A'shaqu al-ma'karunah.)"},{"id": "ar-103","en": "Do you want something to drink?","ar": "هل تريد أن تشرب شيئاً؟ (Hal turidu an tashraba shay'an?)"},{"id": "ar-104","en": "A coffee, please.","ar": "قهوة من فضلك. (Qahwah min fadlik.)"},{"id": "ar-105","en": "Where can I buy a ticket?","ar": "أين يمكنني شراء تذكرة؟ (Ayna yumkinuni shira'u tadhkirah?)"},{"id": "ar-106","en": "At the ticket counter.","ar": "من شباك التذاكر. (Min shubbak al-tadhakir.)"},{"id": "ar-107","en": "The train is late.","ar": "القطار متأخر. (Al-qitar muta'akhkhir.)"},{"id": "ar-108","en": "Is it far from here?","ar": "هل هذا بعيد من هنا؟ (Hal hadha ba'id min huna?)"},{"id": "ar-109","en": "No, it is very close.","ar": "لا، إنه قريب جداً. (La, innahu qarib jiddan.)"},{"id": "ar-110","en": "Go straight ahead.","ar": "اذهب مباشرة. (Idhhab mubasharatan.)"},{"id": "ar-111","en": "Turn right.","ar": "انعطف يميناً. (In'atif yaminan.)"},{"id": "ar-112","en": "Turn left.","ar": "انعطف يساراً. (In'atif yasaran.)"},{"id": "ar-113","en": "I am lost.","ar": "لقد ضللت الطريق. (Laqad dallaltu al-tariq.)"},{"id": "ar-114","en": "Can you show me on the map?","ar": "هل يمكنك أن تريني على الخريطة؟ (Hal yumkinuka an turiyani ala al-kharitah?)"},{"id": "ar-115","en": "Where is the hotel?","ar": "أين الفندق؟ (Ayna al-funduq?)"},{"id": "ar-116","en": "I have a reservation.","ar": "لدي حجز. (Ladayya hajz.)"},{"id": "ar-117","en": "Can I have the key?","ar": "هل يمكنني أخذ المفتاح؟ (Hal yumkinuni akhd al-miftah?)"},{"id": "ar-118","en": "Is the Wi-Fi free?","ar": "هل الواي فاي مجاني؟ (Hal al-wi-fi majjani?)"},{"id": "ar-119","en": "What is the password?","ar": "ما هي كلمة المرور؟ (Ma hiya kalimat al-murur?)"},{"id": "ar-120","en": "Where is the elevator?","ar": "أين المصعد؟ (Ayna al-mis'ad?)"},{"id": "ar-121","en": "I would like to book a table.","ar": "أود حجز طاولة. (Uwaddu hajza tawilah.)"},{"id": "ar-122","en": "For how many people?","ar": "لكم من شخص؟ (Li-kam min shakhs?)"},{"id": "ar-123","en": "For two people.","ar": "لشخصين. (Li-shakhsayn.)"},{"id": "ar-124","en": "At what time?","ar": "في أي ساعة؟ (Fi ayyi sa'ah?)"},{"id": "ar-125","en": "Tonight at eight p.m.","ar": "هذا المساء في الساعة الثامنة. (Hadha al-masa' fi al-sa'ah al-thaminah.)"},{"id": "ar-126","en": "Are you ready to order?","ar": "هل أنت جاهز للطلب؟ (Hal anta jahiz lil-talab?)"},{"id": "ar-127","en": "I will have the chicken.","ar": "سآخذ الدجاج. (Sa-akhudh al-dajaj.)"},{"id": "ar-128","en": "And to drink?","ar": "وماذا عن الشراب؟ (Wa-madha an al-sharab?)"},{"id": "ar-129","en": "Mineral water, please.","ar": "ماء معدني من فضلك. (Ma' ma'dani min fadlik.)"},{"id": "ar-130","en": "Enjoy your meal!","ar": "شهية طيبة! (Shahiyyah tayyibah!)"},{"id": "ar-131","en": "It was excellent.","ar": "كان ذلك ممتازاً. (Kana dhalika mumtazan.)"},{"id": "ar-132","en": "Do you accept credit cards?","ar": "هل تقبلون البطاقات المصرفية؟ (Hal taqbaluna al-bitaqat al-masrifiyyah?)"},{"id": "ar-133","en": "I will pay in cash.","ar": "سأدفع نقداً. (Sa-adfa'u naqdan.)"},{"id": "ar-134","en": "Keep the change.","ar": "احتفظ بالباقي. (Ihtafidh bil-baqi.)"},{"id": "ar-135","en": "Where are the shops?","ar": "أين المحلات التجارية؟ (Ayna al-mahallat al-tijariyyah?)"},{"id": "ar-136","en": "I am just looking.","ar": "أنا أنظر فقط. (Ana andhuru faqat.)"},{"id": "ar-137","en": "Can I try this on?","ar": "هل يمكنني قياس هذا؟ (Hal yumkinuni qiyasu hadha?)"},{"id": "ar-138","en": "Where are the fitting rooms?","ar": "أين غرف القياس؟ (Ayna ghuraf al-qiyas?)"},{"id": "ar-139","en": "What is your size?","ar": "ما هو مقاسك؟ (Ma huwa maqasuk?)"},{"id": "ar-140","en": "It is too big.","ar": "هذا كبير جداً. (Hadha kabir jiddan.)"},{"id": "ar-141","en": "It is too small.","ar": "هذا صغير جداً. (Hadha saghir jiddan.)"},{"id": "ar-142","en": "Do you have a larger size?","ar": "هل لديك مقاس أكبر؟ (Hal ladayka maqas akbar?)"},{"id": "ar-143","en": "I'll take it.","ar": "سآخذه. (Sa-akhudhuh.)"},{"id": "ar-144","en": "Where is the cashier?","ar": "أين الصندوق؟ (Ayna al-sunduq?)"},{"id": "ar-145","en": "Can I have a bag?","ar": "هل يمكنني الحصول على كيس؟ (Hal yumkinuni al-husul ala kis?)"},{"id": "ar-146","en": "I would like a refund.","ar": "أود استرداد المبلغ. (Uwaddu istirdad al-mablagh.)"},{"id": "ar-147","en": "It is broken.","ar": "هذا مكسور. (Hadha maksur.)"},{"id": "ar-148","en": "Where is the pharmacy?","ar": "أين الصيدلية؟ (Ayna al-saydaliyyah?)"},{"id": "ar-149","en": "I am sick.","ar": "أنا مريض. (Ana marid.)"},{"id": "ar-150","en": "I have a headache.","ar": "رأسي يؤلمني. (Ra'si yu'limuni.)"},{"id": "ar-151","en": "I have a fever.","ar": "عندي حمى. (Indi humma.)"},{"id": "ar-152","en": "I need some medicine.","ar": "أحتاج إلى دواء. (Ah-taju ila dawa'.)"},{"id": "ar-153","en": "Where is the nearest hospital?","ar": "أين أقرب مستشفى؟ (Ayna aqrabu mustashfa?)"},{"id": "ar-154","en": "Call an ambulance!","ar": "传统اتصلوا بسيارة الإسعاف! (Ittasilu bi-sayyarat al-is'af!)"},{"id": "ar-155","en": "It is an emergency.","ar": "هذه حالة طارئة. (Hadhihi halah tari'ah.)"},{"id": "ar-156","en": "Is everything okay?","ar": "هل كل شيء على ما يرام؟ (Hal kullu shay'in ala ma yuram?)"},{"id": "ar-157","en": "Yes, everything is fine.","ar": "نعم، كل شيء بخير. (Na'am, kullu shay'in bi-khayr.)"},{"id": "ar-158","en": "Please calm down.","ar": "اهدأ من فضلك. (Ihda' min fadlik.)"},{"id": "ar-159","en": "Don't worry.","ar": "لا تقلق. (La taqlaq.)"},{"id": "ar-160","en": "What happened?","ar": "ماذا حدث؟ (Madha hadath?)"},{"id": "ar-161","en": "It was an accident.","ar": "كان هذا حادثاً. (Kana hadha hadithan.)"},{"id": "ar-162","en": "I lost my passport.","ar": "لقد فقدت جواز سفري. (Laqad faqadtu jawaza safari.)"},{"id": "ar-163","en": "Where is the police station?","ar": "أين مركز الشرطة؟ (Ayna markaz al-shurtah?)"},{"id": "ar-164","en": "My bag was stolen.","ar": "لقد سُرقت حقيبتي. (Laqad suriqat haqibati.)"},{"id": "ar-165","en": "Stop thief!","ar": "أمسك الحرامي! (Amsik al-harami!)"},{"id": "ar-166","en": "Help me!","ar": "ساعدوني! (Sa'iduni!)"},{"id": "ar-167","en": "What is the date today?","ar": "ما هو تاريخ اليوم؟ (Ma huwa tarikh al-yawm?)"},{"id": "ar-168","en": "It is the first of May.","ar": "إنه الأول من مايو. (Innahu al-awwalu min mayu.)"},{"id": "ar-169","en": "What day is it today?","ar": "أي يوم نحن اليوم؟ (Ayyu yawmin nahnu al-yawm?)"},{"id": "ar-170","en": "Today is Monday.","ar": "اليوم هو الإثنين. (Al-yawmu huwa al-ithnayn.)"},{"id": "ar-171","en": "What did you do this weekend?","ar": "ماذا فعلت في نهاية هذا الأسبوع؟ (Madha fa'alta fi nihayati hadha al-usbu'?)"},{"id": "ar-172","en": "I rested.","ar": "لقد ارتحت. (Laqad irtah-tu.)"},{"id": "ar-173","en": "What are we doing tomorrow?","ar": "ماذا سنفعل غداً؟ (Madha sanaf'alu ghadan?)"},{"id": "ar-174","en": "Shall we meet tonight?","ar": "هل نلتقي هذا المساء؟ (Hal naltaqi hadha al-masa'?)"},{"id": "ar-175","en": "What time shall we meet?","ar": "في أي ساعة نلتقي؟ (Fi ayyi sa'ah naltaqi?)"},{"id": "ar-176","en": "Let's meet at seven p.m.","ar": "سنلتقي في الساعة السابعة مساءً. (Sanaltaqi fi al-sa'ah al-sabi'ah masa'an.)"},{"id": "ar-177","en": "Where is the meeting point?","ar": "أين مكان اللقاء؟ (Ayna makan al-liqa'?)"},{"id": "ar-178","en": "In front of the cinema.","ar": "أمام السينما. (Amama al-sinima.)"},{"id": "ar-179","en": "I am on my way.","ar": "أنا في الطريق. (Ana fi al-tariq.)"},{"id": "ar-180","en": "I am going to be late.","ar": "سأكون متأخراً. (Sa-akunu muta'akhkhiran.)"},{"id": "ar-181","en": "Sorry for being late.","ar": "آسف على التأخير. (Asif ala al-ta'khir.)"},{"id": "ar-182","en": "It's nothing.","ar": "لا شيء. (La shay'.)"},{"id": "ar-183","en": "Thank you for coming.","ar": "شكراً لقدومك. (Shukran li-qudumik.)"},{"id": "ar-184","en": "It was a pleasure.","ar": "كان من دواعي سروري. (Kana min dawa'i sururi.)"},{"id": "ar-185","en": "Until next time.","ar": "إلى المرة القادمة. (Ila al-marrat al-qadimah.)"},{"id": "ar-186","en": "Did you have a good vacation?","ar": "هل قضيت عطلة سعيدة؟ (Hal qadayta utlatan sa'idah?)"},{"id": "ar-187","en": "It was fantastic.","ar": "كان ذلك رائعاً. (Kana dhalika ra'i'an.)"},{"id": "ar-188","en": "Where did you go?","ar": "أين ذهبت؟ (Ayna dhahabt?)"},{"id": "ar-189","en": "I went to the beach.","ar": "ذهبت إلى الشاطئ. (Dhahabtu ila al-shati'.)"},{"id": "ar-190","en": "How was the trip?","ar": "كيف كانت الرحلة؟ (Kayfa kanat al-rihlah?)"},{"id": "ar-191","en": "It was a bit long.","ar": "كانت طويلة قليلاً. (Kanat tawilah qalilan.)"},{"id": "ar-192","en": "Did you take photos?","ar": "هل التقطت صوراً؟ (Hal iltaqatta suwaran?)"},{"id": "ar-193","en": "Yes, a lot.","ar": "نعم، الكثير. (Na'am, al-kathir.)"},{"id": "ar-194","en": "Show me, please.","ar": "أرني من فضلك. (Arini min fadlik.)"},{"id": "ar-195","en": "It is beautiful.","ar": "هذا رائع. (Hadha ra'i'.)"},{"id": "ar-196","en": "How lucky!","ar": "يا له من حظ! (Ya lahu min hadh!)"},{"id": "ar-197","en": "I want to go there too.","ar": "أريد الذهاب هناك أيضاً. (Uridu al-dhahaba hunaka aydan.)"},{"id": "ar-198","en": "Maybe next year.","ar": "ربما العام المقبل. (Rubnama al-am al-muqbil.)"},{"id": "ar-199","en": "We will see.","ar": "سوف نرى. (Sawfa nara.)"},{"id": "ar-200","en": "This is the end of the file.","ar": "هذه نهاية الملف. (Hadhihi nihayat al-milaff.)"}],
+    "englishturkish": [{
+    "id": "tr-001",
+    "en": "Hello, how are you?",
+    "tr": "Merhaba, nasılsınız?"
+  },
+  {
+    "id": "tr-002",
+    "en": "What is your name?",
+    "tr": "Adınız nedir?"
+  },
+  {
+    "id": "tr-003",
+    "en": "My name is John.",
+    "tr": "Benim adım John."
+  },
+  {
+    "id": "tr-004",
+    "en": "Nice to meet you.",
+    "tr": "Tanıştığımıza memnun oldum."
+  },
+  {
+    "id": "tr-005",
+    "en": "Where are you from?",
+    "tr": "Nerelisiniz?"
+  },
+  {
+    "id": "tr-006",
+    "en": "I am from France.",
+    "tr": "Fransa'dan geliyorum."
+  },
+  {
+    "id": "tr-007",
+    "en": "Where do you live?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "id": "tr-008",
+    "en": "I live in Paris.",
+    "tr": "Paris'te yaşıyorum."
+  },
+  {
+    "id": "tr-009",
+    "en": "How old are you?",
+    "tr": "Kaç yaşındasınız?"
+  },
+  {
+    "id": "tr-010",
+    "en": "I am thirty years old.",
+    "tr": "Otuz yaşındayım."
+  },
+  {
+    "id": "tr-011",
+    "en": "What do you do for a living?",
+    "tr": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "id": "tr-012",
+    "en": "I am a student.",
+    "tr": "Öğrenciyim."
+  },
+  {
+    "id": "tr-013",
+    "en": "Do you speak Turkish?",
+    "tr": "Türkçe konuşuyor musunuz?"
+  },
+  {
+    "id": "tr-014",
+    "en": "I speak a little Turkish.",
+    "tr": "Biraz Türkçe konuşuyorum."
+  },
+  {
+    "id": "tr-015",
+    "en": "Can you help me, please?",
+    "tr": "Lütfen bana yardım edebilir misiniz?"
+  },
+  {
+    "id": "tr-016",
+    "en": "Thank you very much.",
+    "tr": "Çok teşekkür ederim."
+  },
+  {
+    "id": "tr-017",
+    "en": "You're welcome.",
+    "tr": "Rica ederim."
+  },
+  {
+    "id": "tr-018",
+    "en": "Please.",
+    "tr": "Lütfen."
+  },
+  {
+    "id": "tr-019",
+    "en": "Excuse me.",
+    "tr": "Afedersiniz."
+  },
+  {
+    "id": "tr-020",
+    "en": "I am sorry.",
+    "tr": "Üzgünüm."
+  },
+  {
+    "id": "tr-021",
+    "en": "What time is it?",
+    "tr": "Saat kaç?"
+  },
+  {
+    "id": "tr-022",
+    "en": "It is ten o'clock.",
+    "tr": "Saat on."
+  },
+  {
+    "id": "tr-023",
+    "en": "Where is the restroom?",
+    "tr": "Tuvalet nerede?"
+  },
+  {
+    "id": "tr-024",
+    "en": "It is that way.",
+    "tr": "Bu taraftan."
+  },
+  {
+    "id": "tr-025",
+    "en": "How much does it cost?",
+    "tr": "Bu ne kadar?"
+  },
+  {
+    "id": "tr-026",
+    "en": "It is too expensive.",
+    "tr": "Bu çok pahalı."
+  },
+  {
+    "id": "tr-027",
+    "en": "Where is the train station?",
+    "tr": "Tren istasyonu nerede?"
+  },
+  {
+    "id": "tr-028",
+    "en": "I am looking for a good restaurant.",
+    "tr": "İyi bir restoran arıyorum."
+  },
+  {
+    "id": "tr-029",
+    "en": "The bill, please.",
+    "tr": "Hesap lütfen."
+  },
+  {
+    "id": "tr-030",
+    "en": "What is the weather like today?",
+    "tr": "Bugün hava nasıl?"
+  },
+  {
+    "id": "tr-031",
+    "en": "The weather is nice.",
+    "tr": "Hava güzel."
+  },
+  {
+    "id": "tr-032",
+    "en": "It is raining.",
+    "tr": "Yağmur yağıyor."
+  },
+  {
+    "id": "tr-033",
+    "en": "I am hungry.",
+    "tr": "Açım."
+  },
+  {
+    "id": "tr-034",
+    "en": "I am thirsty.",
+    "tr": "Susadım."
+  },
+  {
+    "id": "tr-035",
+    "en": "I am tired.",
+    "tr": "Yorgunum."
+  },
+  {
+    "id": "tr-036",
+    "en": "I don't understand.",
+    "tr": "Anlamıyorum."
+  },
+  {
+    "id": "tr-037",
+    "en": "Can you repeat?",
+    "tr": "Tekrar edebilir misiniz?"
+  },
+  {
+    "id": "tr-038",
+    "en": "Speak more slowly, please.",
+    "tr": "Lütfen daha yavaş konuşun."
+  },
+  {
+    "id": "tr-039",
+    "en": "How do you say that in Turkish?",
+    "tr": "Bu Türkçe nasıl söylenir?"
+  },
+  {
+    "id": "tr-040",
+    "en": "What does this word mean?",
+    "tr": "Bu kelime ne anlama geliyor?"
+  },
+  {
+    "id": "tr-041",
+    "en": "I love you.",
+    "tr": "Seni seviyorum."
+  },
+  {
+    "id": "tr-042",
+    "en": "I miss you.",
+    "tr": "Seni özledim."
+  },
+  {
+    "id": "tr-043",
+    "en": "Good luck!",
+    "tr": "Bol şanslar!"
+  },
+  {
+    "id": "tr-044",
+    "en": "Congratulations!",
+    "tr": "Tebrikler!"
+  },
+  {
+    "id": "tr-045",
+    "en": "Happy birthday!",
+    "tr": "Doğum günün kutlu olsun!"
+  },
+  {
+    "id": "tr-046",
+    "en": "Have a good trip!",
+    "tr": "İyi yolculuklar!"
+  },
+  {
+    "id": "tr-047",
+    "en": "Have a nice day.",
+    "tr": "İyi günler."
+  },
+  {
+    "id": "tr-048",
+    "en": "See you soon.",
+    "tr": "Yakında görüşmek üzere."
+  },
+  {
+    "id": "tr-049",
+    "en": "See you tomorrow.",
+    "tr": "Yarın görüşürüz."
+  },
+  {
+    "id": "tr-050",
+    "en": "Goodbye.",
+    "tr": "Hoşça kalın."
+  },
+  {
+    "id": "tr-051",
+    "en": "Where are you going?",
+    "tr": "Nereye gidiyorsunuz?"
+  },
+  {
+    "id": "tr-052",
+    "en": "I am going to the supermarket.",
+    "tr": "Süpermarkete gidiyorum."
+  },
+  {
+    "id": "tr-053",
+    "en": "What is it?",
+    "tr": "Bu nedir?"
+  },
+  {
+    "id": "tr-054",
+    "en": "I don't know.",
+    "tr": "Bilmiyorum."
+  },
+  {
+    "id": "tr-055",
+    "en": "Are you sure?",
+    "tr": "Emin misiniz?"
+  },
+  {
+    "id": "tr-056",
+    "en": "Yes, I am sure.",
+    "tr": "Evet, eminim."
+  },
+  {
+    "id": "tr-057",
+    "en": "I think so.",
+    "tr": "Bence öyle."
+  },
+  {
+    "id": "tr-058",
+    "en": "I don't think so.",
+    "tr": "Sanmıyorum."
+  },
+  {
+    "id": "tr-059",
+    "en": "No problem.",
+    "tr": "Sorun değil."
+  },
+  {
+    "id": "tr-060",
+    "en": "It doesn't matter.",
+    "tr": "Önemli değil."
+  },
+  {
+    "id": "tr-061",
+    "en": "What are you eating?",
+    "tr": "Ne yiyorsun?"
+  },
+  {
+    "id": "tr-062",
+    "en": "It is delicious.",
+    "tr": "Çok lezzetli."
+  },
+  {
+    "id": "tr-063",
+    "en": "I don't like it.",
+    "tr": "Bunu sevmiyorum."
+  },
+  {
+    "id": "tr-064",
+    "en": "What are your hobbies?",
+    "tr": "Hobileriniz nelerdir?"
+  },
+  {
+    "id": "tr-065",
+    "en": "I like reading books.",
+    "tr": "Kitap okumayı severim."
+  },
+  {
+    "id": "tr-066",
+    "en": "I like listening to music.",
+    "tr": "Müzik dinlemeyi severim."
+  },
+  {
+    "id": "tr-067",
+    "en": "Do you do sports?",
+    "tr": "Spor yapıyor musunuz?"
+  },
+  {
+    "id": "tr-068",
+    "en": "I play soccer.",
+    "tr": "Futbol oynuyorum."
+  },
+  {
+    "id": "tr-069",
+    "en": "I am watching a movie.",
+    "tr": "Film izliyorum."
+  },
+  {
+    "id": "tr-070",
+    "en": "Where did you buy that?",
+    "tr": "Bunu nereden aldın?"
+  },
+  {
+    "id": "tr-071",
+    "en": "It is a gift.",
+    "tr": "Bu bir hediye."
+  },
+  {
+    "id": "tr-072",
+    "en": "Can you close the window?",
+    "tr": "Pencereyi kapatabilir misiniz?"
+  },
+  {
+    "id": "tr-073",
+    "en": "It is cold in here.",
+    "tr": "Burası soğuk."
+  },
+  {
+    "id": "tr-074",
+    "en": "It is hot outside.",
+    "tr": "Dışarısı sıcak."
+  },
+  {
+    "id": "tr-075",
+    "en": "Where are my keys?",
+    "tr": "Anahtarlarım nerede?"
+  },
+  {
+    "id": "tr-076",
+    "en": "They are on the table.",
+    "tr": "Masanın üstündeler."
+  },
+  {
+    "id": "tr-077",
+    "en": "I have to go.",
+    "tr": "Gitmem gerekiyor."
+  },
+  {
+    "id": "tr-078",
+    "en": "Take care.",
+    "tr": "Kendine iyi bak."
+  },
+  {
+    "id": "tr-079",
+    "en": "See you later.",
+    "tr": "Sonra görüşürüz."
+  },
+  {
+    "id": "tr-080",
+    "en": "Good night.",
+    "tr": "İyi geceler."
+  },
+  {
+    "id": "tr-081",
+    "en": "Do you have any siblings?",
+    "tr": "Kardeşiniz var mı?"
+  },
+  {
+    "id": "tr-082",
+    "en": "I have a brother and a sister.",
+    "tr": "Bir erkek kardeşim ve bir kız kardeşim var."
+  },
+  {
+    "id": "tr-083",
+    "en": "Are you married?",
+    "tr": "Evli misiniz?"
+  },
+  {
+    "id": "tr-084",
+    "en": "I am single.",
+    "tr": "Bekarım."
+  },
+  {
+    "id": "tr-085",
+    "en": "Do you have children?",
+    "tr": "Çocuğun var mı?"
+  },
+  {
+    "id": "tr-086",
+    "en": "I have two children.",
+    "tr": "İki çocuğum var."
+  },
+  {
+    "id": "tr-087",
+    "en": "Where do you work?",
+    "tr": "Nerede çalışıyorsun?"
+  },
+  {
+    "id": "tr-088",
+    "en": "I work in an office.",
+    "tr": "Bir ofiste çalışıyorum."
+  },
+  {
+    "id": "tr-089",
+    "en": "It is difficult.",
+    "tr": "Bu zor."
+  },
+  {
+    "id": "tr-090",
+    "en": "It is easy.",
+    "tr": "Bu kolay."
+  },
+  {
+    "id": "tr-091",
+    "en": "I agree.",
+    "tr": "Katılıyorum."
+  },
+  {
+    "id": "tr-092",
+    "en": "I don't agree.",
+    "tr": "Katılmıyorum."
+  },
+  {
+    "id": "tr-093",
+    "en": "That's a good idea.",
+    "tr": "Bu iyi bir fikir."
+  },
+  {
+    "id": "tr-094",
+    "en": "I don't have time.",
+    "tr": "Zamanım yok."
+  },
+  {
+    "id": "tr-095",
+    "en": "Wait a minute.",
+    "tr": "Bir dakika bekleyin."
+  },
+  {
+    "id": "tr-096",
+    "en": "I'll be right back.",
+    "tr": "Hemen döneceğim."
+  },
+  {
+    "id": "tr-097",
+    "en": "Of course.",
+    "tr": "Elbette."
+  },
+  {
+    "id": "tr-098",
+    "en": "Maybe.",
+    "tr": "Belki."
+  },
+  {
+    "id": "tr-099",
+    "en": "Never.",
+    "tr": "Asla."
+  },
+  {
+    "id": "tr-100",
+    "en": "Always.",
+    "tr": "Her zaman."
+  },
+  {
+    "id": "tr-101",
+    "en": "What is your favorite food?",
+    "tr": "En sevdiğin yemek nedir?"
+  },
+  {
+    "id": "tr-102",
+    "en": "I love pasta.",
+    "tr": "Makarnaya bayılırım."
+  },
+  {
+    "id": "tr-103",
+    "en": "Do you want something to drink?",
+    "tr": "Bir şey içmek ister misin?"
+  },
+  {
+    "id": "tr-104",
+    "en": "A coffee, please.",
+    "tr": "Bir kahve lütfen."
+  },
+  {
+    "id": "tr-105",
+    "en": "Where can I buy a ticket?",
+    "tr": "Nereden bilet alabilirim?"
+  },
+  {
+    "id": "tr-106",
+    "en": "At the ticket counter.",
+    "tr": "Gişeden."
+  },
+  {
+    "id": "tr-107",
+    "en": "The train is late.",
+    "tr": "Tren gecikti."
+  },
+  {
+    "id": "tr-108",
+    "en": "Is it far from here?",
+    "tr": "Burası uzak mı?"
+  },
+  {
+    "id": "tr-109",
+    "en": "No, it is very close.",
+    "tr": "Hayır, çok yakın."
+  },
+  {
+    "id": "tr-110",
+    "en": "Go straight ahead.",
+    "tr": "Düz gidin."
+  },
+  {
+    "id": "tr-111",
+    "en": "Turn right.",
+    "tr": "Sağa dönün."
+  },
+  {
+    "id": "tr-112","en": "Turn left.","tr": "Sola dönün."},{"id": "tr-113","en": "I am lost.","tr": "Kayboldum."},{"id": "tr-114","en": "Can you show me on the map?","tr": "Haritada bana gösterebilir misiniz?"},{"id": "tr-115","en": "Where is the hotel?","tr": "Otel nerede?"},{"id": "tr-116","en": "I have a reservation.","tr": "Rezervasyonum var."},{"id": "tr-117","en": "Can I have the key?","tr": "Anahtarı alabilir miyim?"},{"id": "tr-118","en": "Is the Wi-Fi free?","tr": "Wi-Fi ücretsiz mi?"},{"id": "tr-119","en": "What is the password?","tr": "Şifre nedir?"},{"id": "tr-120","en": "Where is the elevator?","tr": "Asansör nerede?"},{"id": "tr-121","en": "I would like to book a table.","tr": "Bir masa ayırtmak istiyorum."},{"id": "tr-122","en": "For how many people?","tr": "Kaç kişilik?"},{"id": "tr-123","en": "For two people.","tr": "İki kişilik."},{"id": "tr-124","en": "At what time?","tr": "Saat kaçta?"},{"id": "tr-125","en": "Tonight at eight p.m.","tr": "Bu akşam saat sekizde."},{"id": "tr-126","en": "Are you ready to order?","tr": "Sipariş vermek için hazır mısınız?"},{"id": "tr-127","en": "I will have the chicken.","tr": "Tavuk alacağım."},{"id": "tr-128","en": "And to drink?","tr": "İçecek olarak ne alırsınız?"},{"id": "tr-129","en": "Mineral water, please.","tr": "Maden suyu lütfen."},{"id": "tr-130","en": "Enjoy your meal!","tr": "Afiyet olsun!"},{"id": "tr-131","en": "It was excellent.","tr": "Harikaydı."},{"id": "tr-132","en": "Do you accept credit cards?","tr": "Kredi kartı kabul ediyor musunuz?"},{"id": "tr-133","en": "I will pay in cash.","tr": "Nakit ödeyeceğim."},{"id": "tr-134","en": "Keep the change.","tr": "Üstü kalsın."},{"id": "tr-135","en": "Where are the shops?","tr": "Mağazalar nerede?"},{"id": "tr-136","en": "I am just looking.","tr": "Sadece bakıyorum."},{"id": "tr-137","en": "Can I try this on?","tr": "Bunu deneyebilir miyim?"},{"id": "tr-138","en": "Where are the fitting rooms?","tr": "Kabinler nerede?"},{"id": "tr-139","en": "What is your size?","tr": "Bedeniniz nedir?"},{"id": "tr-140","en": "It is too big.","tr": "Bu çok büyük."},{"id": "tr-141","en": "It is too small.","tr": "Bu çok küçük."},{"id": "tr-142","en": "Do you have a larger size?","tr": "Bir beden büyüğü var mı?"},{"id": "tr-143","en": "I'll take it.","tr": "Bunu alıyorum."},{"id": "tr-144","en": "Where is the cashier?","tr": "Kasa nerede?"},{"id": "tr-145","en": "Can I have a bag?","tr": "Poşet alabilir miyim?"},{"id": "tr-146","en": "I would like a refund.","tr": "Para iadesi istiyorum."},{"id": "tr-147","en": "It is broken.","tr": "Bu kırık."},{"id": "tr-148","en": "Where is the pharmacy?","tr": "Eczane nerede?"},{"id": "tr-149","en": "I am sick.","tr": "Hastayım."},{"id": "tr-150","en": "I have a headache.","tr": "Başım ağrıyor."},{"id": "tr-151","en": "I have a fever.","tr": "Ateşim var."},{"id": "tr-152","en": "I need some medicine.","tr": "İlaca ihtiyacım var."},{"id": "tr-153","en": "Where is the nearest hospital?","tr": "En yakın hastane nerede?"},{"id": "tr-154","en": "Call an ambulance!","tr": "Ambulans çağırın!"},{"id": "tr-155","en": "It is an emergency.","tr": "Bu bir acil durum."},{"id": "tr-156","en": "Is everything okay?","tr": "Her şey yolunda mı?"},{"id": "tr-157","en": "Yes, everything is fine.","tr": "Evet, her şey yolunda."},{"id": "tr-158","en": "Please calm down.","tr": "Lütfen sakin olun."},{"id": "tr-159","en": "Don't worry.","tr": "Endişelenmeyin."},{"id": "tr-160","en": "What happened?","tr": "Ne oldu?"},{"id": "tr-161","en": "It was an accident.","tr": "Bir kazaydı."},{"id": "tr-162","en": "I lost my passport.","tr": "Pasaportumu kaybettim."},{"id": "tr-163","en": "Where is the police station?","tr": "Karakol nerede?"},{"id": "tr-164","en": "My bag was stolen.","tr": "Çantam çalındı."},{"id": "tr-165","en": "Stop thief!","tr": "Hırsız var!"},{"id": "tr-166","en": "Help me!","tr": "Yardım edin!"},{"id": "tr-167","en": "What is the date today?","tr": "Bugünün tarihi nedir?"},{"id": "tr-168","en": "It is the first of May.","tr": "Bugün bir mayıs."},{"id": "tr-169","en": "What day is it today?","tr": "Bugün günlerden ne?"},{"id": "tr-170","en": "Today is Monday.","tr": "Bugün pazartesi."},{"id": "tr-171","en": "What did you do this weekend?","tr": "Bu hafta sonu ne yaptın?"},{"id": "tr-172","en": "I rested.","tr": "Dinlendim."},{"id": "tr-173","en": "What are we doing tomorrow?","tr": "Yarın ne yapıyoruz?"},{"id": "tr-174","en": "Shall we meet tonight?","tr": "Bu akşam görüşüyor muyuz?"},{"id": "tr-175","en": "What time shall we meet?","tr": "Saat kaçta buluşuyoruz?"},{"id": "tr-176","en": "Let's meet at seven p.m.","tr": "Saat yedi buluşuyoruz."},{"id": "tr-177","en": "Where is the meeting point?","tr": "Buluşma noktası nerede?"},{"id": "tr-178","en": "In front of the cinema.","tr": "Sinemanın önünde."},{"id": "tr-179","en": "I am on my way.","tr": "Yoldayım."},{"id": "tr-180","en": "I am going to be late.","tr": "Gecikeceğim."},{"id": "tr-181","en": "Sorry for being late.","tr": "Gecikme için özür dilerim."},{"id": "tr-182","en": "It's nothing.","tr": "Önemli değil."},{"id": "tr-183","en": "Thank you for coming.","tr": "Geldiğin için teşekkürler."},{"id": "tr-184","en": "It was a pleasure.","tr": "Benim için bir zevkti."},{"id": "tr-185","en": "Until next time.","tr": "Bir dahaki sefere."},{"id": "tr-186","en": "Did you have a good vacation?","tr": "Tatilin iyi geçti mi?"},{"id": "tr-187","en": "It was fantastic.","tr": "Harikaydı."},{"id": "tr-188","en": "Where did you go?","tr": "Nereye gittin?"},{"id": "tr-189","en": "I went to the beach.","tr": "Plaja gittim."},{"id": "tr-190","en": "How was the trip?","tr": "Yolculuk nasıldı?"},{"id": "tr-191","en": "It was a bit long.","tr": "Biraz uzundu."},{"id": "tr-192","en": "Did you take photos?","tr": "Fotoğraf çektin mi?"},{"id": "tr-193","en": "Yes, a lot.","tr": "Evet, çok."},{"id": "tr-194","en": "Show me, please.","tr": "Lütfen bana göster."},{"id": "tr-195","en": "It is beautiful.","tr": "Harika."},{"id": "tr-196","en": "How lucky!","tr": "Ne büyük şans!"},{"id": "tr-197","en": "I want to go there too.","tr": "Ben de gitmek istiyorum."},{"id": "tr-198","en": "Maybe next year.","tr": "Belki gelecek yıl."},{"id": "tr-199","en": "We will see.","tr": "Bakarız."},{"id": "tr-200","en": "This is the end of the file.","tr": "Dosyanın sonu."}],
     "englishhindi": [],
     "englishpolish": [],
     "englishchinese": []
