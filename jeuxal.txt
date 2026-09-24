@@ -6069,6 +6069,1004 @@
     "pl": "Spotkajmy się niedługo ponownie."
   },
   {"id": "de-pl-193","de": "Ich muss jetzt wirklich gehen.","pl": "Naprawdę muszę już iść."},{"id": "de-pl-194","de": "Komm gut nach Hause.","pl": "Wracaj bezpiecznie do domu."},{"id": "de-pl-195","de": "Schreib mir, wenn du angekommen bist.","pl": "Napisz do mnie, jak dojedziesz."},{"id": "de-pl-196","de": "Ich bin gut angekommen.","pl": "Dojechałem bezpiecznie."},{"id": "de-pl-197","de": "Schlaf gut.","pl": "Śpij dobrze."},{"id": "de-pl-198","de": "Träum süß.","pl": "Słodkich snów."},{"id": "de-pl-199","de": "Bis zum nächsten Mal.","pl": "Do następnego razu."},{"id": "de-pl-200","de": "Tschüss!","pl": "Cześć!"}],
-    "germanchinese": []
+    "germanchinese": [ {
+    "id": "de-zh-001",
+    "de": "Hallo, wie geht es Ihnen?",
+    "zh": "您好，您好吗？"
+  },
+  {
+    "id": "de-zh-002",
+    "de": "Wie heißen Sie?",
+    "zh": "您叫什么名字？"
+  },
+  {
+    "id": "de-zh-003",
+    "de": "Ich heiße John.",
+    "zh": "我叫约翰。"
+  },
+  {
+    "id": "de-zh-004",
+    "de": "Schön, Sie kennenzulernen.",
+    "zh": "很高兴认识您。"
+  },
+  {
+    "id": "de-zh-005",
+    "de": "Woher kommen Sie?",
+    "zh": "您来自哪里？"
+  },
+  {
+    "id": "de-zh-006",
+    "de": "Ich komme aus Frankreich.",
+    "zh": "我来自法国。"
+  },
+  {
+    "id": "de-zh-007",
+    "de": "Wo wohnen Sie?",
+    "zh": "您住在哪里？"
+  },
+  {
+    "id": "de-zh-008",
+    "de": "Ich wohne in Paris.",
+    "zh": "我住在巴黎。"
+  },
+  {
+    "id": "de-zh-009",
+    "de": "Wie alt sind Sie?",
+    "zh": "您多大年纪？"
+  },
+  {
+    "id": "de-zh-010",
+    "de": "Ich bin dreißig Jahre alt.",
+    "zh": "我三十岁了。"
+  },
+  {
+    "id": "de-zh-011",
+    "de": "Was machen Sie beruflich?",
+    "zh": "您的职业是什么？"
+  },
+  {
+    "id": "de-zh-012",
+    "de": "Ich bin Student.",
+    "zh": "我是学生。"
+  },
+  {
+    "id": "de-zh-013",
+    "de": "Sprechen Sie Englisch?",
+    "zh": "您说英语吗？"
+  },
+  {
+    "id": "de-zh-014",
+    "de": "Ich spreche ein bisschen Englisch.",
+    "zh": "我会说一点英语。"
+  },
+  {
+    "id": "de-zh-015",
+    "de": "Können Sie mir bitte helfen?",
+    "zh": "请问您能帮我一下吗？"
+  },
+  {
+    "id": "de-zh-016",
+    "de": "Vielen Dank.",
+    "zh": "非常感谢。"
+  },
+  {
+    "id": "de-zh-017",
+    "de": "Bitte schön.",
+    "zh": "不用客气。"
+  },
+  {
+    "id": "de-zh-018",
+    "de": "Bitte.",
+    "zh": "请。"
+  },
+  {
+    "id": "de-zh-019",
+    "de": "Entschuldigung.",
+    "zh": "打扰一下 / 对不起。"
+  },
+  {
+    "id": "de-zh-020",
+    "de": "Es tut mir leid.",
+    "zh": "我很抱歉。"
+  },
+  {
+    "id": "de-zh-021",
+    "de": "Wie spät ist es?",
+    "zh": "现在几点了？"
+  },
+  {
+    "id": "de-zh-022",
+    "de": "Es ist zehn Uhr.",
+    "zh": "现在十点了。"
+  },
+  {
+    "id": "de-zh-023",
+    "de": "Wo ist die Toilette?",
+    "zh": "洗手间在哪里？"
+  },
+  {
+    "id": "de-zh-024",
+    "de": "Es ist da entlang.",
+    "zh": "往那边走。"
+  },
+  {
+    "id": "de-zh-025",
+    "de": "Wie viel kostet das?",
+    "zh": "这个多少钱？"
+  },
+  {
+    "id": "de-zh-026",
+    "de": "Das ist zu teuer.",
+    "zh": "这太贵了。"
+  },
+  {
+    "id": "de-zh-027",
+    "de": "Wo ist der Bahnhof?",
+    "zh": "火车站在哪里？"
+  },
+  {
+    "id": "de-zh-028",
+    "de": "Ich suche ein gutes Restaurant.",
+    "zh": "我在寻找一家好的餐厅。"
+  },
+  {
+    "id": "de-zh-029",
+    "de": "Die Rechnung, bitte.",
+    "zh": "买单，谢谢。"
+  },
+  {
+    "id": "de-zh-030",
+    "de": "Wie ist das Wetter heute?",
+    "zh": "今天天气怎么样？"
+  },
+  {
+    "id": "de-zh-031",
+    "de": "Das Wetter ist schön.",
+    "zh": "天气很好。"
+  },
+  {
+    "id": "de-zh-032",
+    "de": "Es regnet.",
+    "zh": "下雨了。"
+  },
+  {
+    "id": "de-zh-033",
+    "de": "Ich habe Hunger.",
+    "zh": "我饿了。"
+  },
+  {
+    "id": "de-zh-034",
+    "de": "Ich habe Durst.",
+    "zh": "我渴了。"
+  },
+  {
+    "id": "de-zh-035",
+    "de": "Ich bin müde.",
+    "zh": "我累了。"
+  },
+  {
+    "id": "de-zh-036",
+    "de": "Ich verstehe nicht.",
+    "zh": "我不明白。"
+  },
+  {
+    "id": "de-zh-037",
+    "de": "Können Sie das wiederholen?",
+    "zh": "您能重复一遍吗？"
+  },
+  {
+    "id": "de-zh-038",
+    "de": "Sprechen Sie bitte langsamer.",
+    "zh": "请说慢一点。"
+  },
+  {
+    "id": "de-zh-039",
+    "de": "Wie sagt man das auf Englisch?",
+    "zh": "这个用英语怎么说？"
+  },
+  {
+    "id": "de-zh-040",
+    "de": "Was bedeutet dieses Wort?",
+    "zh": "这个词是什么意思？"
+  },
+  {
+    "id": "de-zh-041",
+    "de": "Ich liebe dich.",
+    "zh": "我爱你。"
+  },
+  {
+    "id": "de-zh-042",
+    "de": "Ich vermisse dich.",
+    "zh": "我想你。"
+  },
+  {
+    "id": "de-zh-043",
+    "de": "Viel Glück!",
+    "zh": "祝你好运！"
+  },
+  {
+    "id": "de-zh-044",
+    "de": "Herzlichen Glückwunsch!",
+    "zh": "恭喜你！"
+  },
+  {
+    "id": "de-zh-045",
+    "de": "Alles Gute zum Geburtstag!",
+    "zh": "生日快乐！"
+  },
+  {
+    "id": "de-zh-046",
+    "de": "Gute Reise!",
+    "zh": "旅途愉快！"
+  },
+  {
+    "id": "de-zh-047",
+    "de": "Einen schönen Tag noch.",
+    "zh": "祝您度过美好的一天。"
+  },
+  {
+    "id": "de-zh-048",
+    "de": "Bis bald.",
+    "zh": "回头见 / 一会儿见。"
+  },
+  {
+    "id": "de-zh-049",
+    "de": "Bis morgen.",
+    "zh": "明天见。"
+  },
+  {
+    "id": "de-zh-050",
+    "de": "Auf Wiedersehen.",
+    "zh": "再见。"
+  },
+  {
+    "id": "de-zh-051",
+    "de": "Wohin gehen Sie?",
+    "zh": "您要去哪里？"
+  },
+  {
+    "id": "de-zh-052",
+    "de": "Ich gehe zum Supermarkt.",
+    "zh": "我要去超市。"
+  },
+  {
+    "id": "de-zh-053",
+    "de": "Was ist das?",
+    "zh": "这是什么？"
+  },
+  {
+    "id": "de-zh-054",
+    "de": "Ich weiß es nicht.",
+    "zh": "我不知道。"
+  },
+  {
+    "id": "de-zh-055",
+    "de": "Sind Sie sicher?",
+    "zh": "您确定吗？"
+  },
+  {
+    "id": "de-zh-056",
+    "de": "Ja, ich bin sicher.",
+    "zh": "是的，我确定。"
+  },
+  {
+    "id": "de-zh-057",
+    "de": "Ich glaube ja.",
+    "zh": "我想是的。"
+  },
+  {
+    "id": "de-zh-058",
+    "de": "Ich glaube nicht.",
+    "zh": "我想不是。"
+  },
+  {
+    "id": "de-zh-059",
+    "de": "Kein Problem.",
+    "zh": "没问题。"
+  },
+  {
+    "id": "de-zh-060",
+    "de": "Das macht nichts.",
+    "zh": "没关系。"
+  },
+  {
+    "id": "de-zh-061",
+    "de": "Was isst du?",
+    "zh": "你在吃什么？"
+  },
+  {
+    "id": "de-zh-062",
+    "de": "Es ist lecker.",
+    "zh": "很好吃。"
+  },
+  {
+    "id": "de-zh-063",
+    "de": "Ich mag das nicht.",
+    "zh": "我不喜欢这个。"
+  },
+  {
+    "id": "de-zh-064",
+    "de": "Was sind Ihre Hobbys?",
+    "zh": "您的爱好是什么？"
+  },
+  {
+    "id": "de-zh-065",
+    "de": "Ich lese gerne Bücher.",
+    "zh": "我喜欢读书。"
+  },
+  {
+    "id": "de-zh-066",
+    "de": "Ich höre gerne Musik.",
+    "zh": "我喜欢听音乐。"
+  },
+  {
+    "id": "de-zh-067",
+    "de": "Treiben Sie Sport?",
+    "zh": "您做运动吗？"
+  },
+  {
+    "id": "de-zh-068",
+    "de": "Ich spiele Fußball.",
+    "zh": "我踢足球。"
+  },
+  {
+    "id": "de-zh-069",
+    "de": "Ich schaue einen Film.",
+    "zh": "我在看电影。"
+  },
+  {
+    "id": "de-zh-070",
+    "de": "Wo hast du das gekauft?",
+    "zh": "你是在哪里买的？"
+  },
+  {
+    "id": "de-zh-071",
+    "de": "Das ist ein Geschenk.",
+    "zh": "这是一份礼物。"
+  },
+  {
+    "id": "de-zh-072",
+    "de": "Können Sie bitte das Fenster schließen?",
+    "zh": "请关一下窗户好吗？"
+  },
+  {
+    "id": "de-zh-073",
+    "de": "Es ist kalt hier.",
+    "zh": "这里很冷。"
+  },
+  {
+    "id": "de-zh-074",
+    "de": "Es ist heiß draußen.",
+    "zh": "外面很热。"
+  },
+  {
+    "id": "de-zh-075",
+    "de": "Wo sind meine Schlüssel?",
+    "zh": "我的钥匙在哪里？"
+  },
+  {
+    "id": "de-zh-076",
+    "de": "Sie sind auf dem Tisch.",
+    "zh": "它们在桌子上。"
+  },
+  {
+    "id": "de-zh-077",
+    "de": "Ich muss gehen.",
+    "zh": "我得走了。"
+  },
+  {
+    "id": "de-zh-078",
+    "de": "Mach's gut.",
+    "zh": "保重。"
+  },
+  {
+    "id": "de-zh-079",
+    "de": "Bis später.",
+    "zh": "回头见。"
+  },
+  {
+    "id": "de-zh-080",
+    "de": "Gute Nacht.",
+    "zh": "晚安。"
+  },
+  {
+    "id": "de-zh-081",
+    "de": "Haben Sie Geschwister?",
+    "zh": "你有兄弟姐妹吗？"
+  },
+  {
+    "id": "de-zh-082",
+    "de": "Ich habe einen Bruder und eine Schwester.",
+    "zh": "我有一个哥哥/弟弟和一个姐姐/妹妹。"
+  },
+  {
+    "id": "de-zh-083",
+    "de": "Sind Sie verheiratet?",
+    "zh": "您结婚了吗？"
+  },
+  {
+    "id": "de-zh-084",
+    "de": "Ich bin ledig.",
+    "zh": "我单身。"
+  },
+  {
+    "id": "de-zh-085",
+    "de": "Hast du Kinder?",
+    "zh": "你有孩子吗？"
+  },
+  {
+    "id": "de-zh-086",
+    "de": "Ich habe zwei Kinder.",
+    "zh": "我有两个孩子。"
+  },
+  {
+    "id": "de-zh-087",
+    "de": "Wo arbeitest du?",
+    "zh": "你在哪里工作？"
+  },
+  {
+    "id": "de-zh-088",
+    "de": "Ich arbeite im Büro.",
+    "zh": "我在办公室工作。"
+  },
+  {
+    "id": "de-zh-089",
+    "de": "Mögen Sie Kaffee oder Tee?",
+    "zh": "您喜欢咖啡还是茶？"
+  },
+  {
+    "id": "de-zh-090",
+    "de": "Ich trinke lieber Tee.",
+    "zh": "我更喜欢喝茶。"
+  },
+  {
+    "id": "de-zh-091",
+    "de": "Das ist eine gute Idee.",
+    "zh": "这是个好主意。"
+  },
+  {
+    "id": "de-zh-092",
+    "de": "Ich bin müde, ich gehe ins Bett.",
+    "zh": "我累了，我要去睡觉了。"
+  },
+  {
+    "id": "de-zh-093",
+    "de": "Was ist Ihr Lieblingsfilm?",
+    "zh": "你最喜欢的电影是什么？"
+  },
+  {
+    "id": "de-zh-094",
+    "de": "Können Sie mir den Weg zeigen?",
+    "zh": "您能给我指路吗？"
+  },
+  {
+    "id": "de-zh-095",
+    "de": "Ich habe mein Handy verloren.",
+    "zh": "我的手机丢了。"
+  },
+  {
+    "id": "de-zh-096",
+    "de": "Rufen Sie einen Arzt, bitte.",
+    "zh": "请叫医生。"
+  },
+  {
+    "id": "de-zh-097",
+    "de": "Es ist ein Notfall.",
+    "zh": "这是紧急情况。"
+  },
+  {
+    "id": "de-zh-098",
+    "de": "Haben Sie ein WLAN-Passwort?",
+    "zh": "你有无线网络（Wi-Fi）密码吗？"
+  },
+  {
+    "id": "de-zh-099",
+    "de": "Das Internet ist sehr langsam.",
+    "zh": "网络非常慢。"
+  },
+  {
+    "id": "de-zh-100",
+    "de": "Ich muss mein Ticket stornieren.",
+    "zh": "我需要退票。"
+  },{
+    "id": "de-zh-101",
+    "de": "Wie lange dauert die Fahrt?",
+    "zh": "车程需要多长时间？"
+  },
+  {
+    "id": "de-zh-102",
+    "de": "Können wir hier anhalten?",
+    "zh": "我们可以在这里停一下吗？"
+  },
+  {
+    "id": "de-zh-103",
+    "de": "Ich brauche eine Quittung.",
+    "zh": "我需要一张发票/收据。"
+  },
+  {
+    "id": "de-zh-104",
+    "de": "Wo kann ich Geld wechseln?",
+    "zh": "我可以在哪里兑换外币？"
+  },
+  {
+    "id": "de-zh-105",
+    "de": "Gibt es hier in der Nähe eine Bank?",
+    "zh": "这附近有银行吗？"
+  },
+  {
+    "id": "de-zh-106",
+    "de": "Akzeptieren Sie Kreditkarten?",
+    "zh": "你们接受信用卡吗？"
+  },
+  {
+    "id": "de-zh-107",
+    "de": "Ich zahle bar.",
+    "zh": "我用现金支付。"
+  },
+  {
+    "id": "de-zh-108",
+    "de": "Können Sie mir einen Rabatt geben?",
+    "zh": "能给我便宜一点吗？"
+  },
+  {
+    "id": "de-zh-109",
+    "de": "Das ist mein letztes Wort.",
+    "zh": "这是我最后的出价。"
+  },
+  {
+    "id": "de-zh-110",
+    "de": "Ich schaue mich nur um.",
+    "zh": "我只是随便看看。"
+  },
+  {
+    "id": "de-zh-111",
+    "de": "Haben Sie das in einer anderen Größe?",
+    "zh": "这个有其他尺码吗？"
+  },
+  {
+    "id": "de-zh-112",
+    "de": "Wo ist die Umkleidekabine?",
+    "zh": "试衣间在哪里？"
+  },
+  {
+    "id": "de-zh-113",
+    "de": "Das passt mir gut.",
+    "zh": "这很合我的身。"
+  },
+  {
+    "id": "de-zh-114",
+    "de": "Ich nehme es.",
+    "zh": "我要买这个。"
+  },
+  {
+    "id": "de-zh-115",
+    "de": "Wo kann ich meine Tasche abstellen?",
+    "zh": "我可以把包存在哪里？"
+  },
+  {
+    "id": "de-zh-116",
+    "de": "Haben Sie vegetarisches Essen?",
+    "zh": "你们有素食吗？"
+  },
+  {
+    "id": "de-zh-117",
+    "de": "Ich bin Allergiker.",
+    "zh": "我过敏。"
+  },
+  {
+    "id": "de-zh-118",
+    "de": "Ohne scharf, bitte.",
+    "zh": "请不要加辣。"
+  },
+  {
+    "id": "de-zh-119",
+    "de": "Bringen Sie mir bitte ein Glas Wasser.",
+    "zh": "请给我拿一杯水。"
+  },
+  {
+    "id": "de-zh-120",
+    "de": "Guten Appetit!",
+    "zh": "请慢用！"
+  },
+  {
+    "id": "de-zh-121",
+    "de": "Prost!",
+    "zh": "干杯！"
+  },
+  {
+    "id": "de-zh-122",
+    "de": "Das Essen war wunderbar.",
+    "zh": "东西非常好吃。"
+  },
+  {
+    "id": "de-zh-123",
+    "de": "Ich möchte ein Zimmer reservieren.",
+    "zh": "我想预订一间房间。"
+  },
+  {
+    "id": "de-zh-124",
+    "de": "Ist das Frühstück inklusive?",
+    "zh": "含早餐吗？"
+  },
+  {
+    "id": "de-zh-125",
+    "de": "Um wie viel Uhr ist der Check-out?",
+    "zh": "退房时间是几点？"
+  },
+  {
+    "id": "de-zh-126",
+    "de": "Können Sie ein Taxi rufen?",
+    "zh": "你能帮我叫辆出租车吗？"
+  },
+  {
+    "id": "de-zh-127",
+    "de": "Fahren Sie mich bitte zu dieser Adresse.",
+    "zh": "请带我去这个地址。"
+  },
+  {
+    "id": "de-zh-128",
+    "de": "Halten Sie hier an, bitte.",
+    "zh": "请在这里停车。"
+  },
+  {
+    "id": "de-zh-129",
+    "de": "Gibt es hier eine Bushaltestelle?",
+    "zh": "这里有公交车站吗？"
+  },
+  {
+    "id": "de-zh-130",
+    "de": "Wann fährt der nächste Zug?",
+    "zh": "下一班火车几点开？"
+  },
+  {
+    "id": "de-zh-131",
+    "de": "Der Zug hat Verspätung.",
+    "zh": "火车晚点了。"
+  },
+  {
+    "id": "de-zh-132",
+    "de": "Ich habe meinen Flug verpasst.",
+    "zh": "我错过了航班。"
+  },
+  {
+    "id": "de-zh-133",
+    "de": "Wo ist die Gepäckausgabe?",
+    "zh": "行李领取处在哪里？"
+  },
+  {
+    "id": "de-zh-134",
+    "de": "Das ist nicht mein Koffer.",
+    "zh": "这不是我的行李箱。"
+  },
+  {
+    "id": "de-zh-135",
+    "de": "Mein Reisepass ist weg.",
+    "zh": "我的护照不见了。"
+  },
+  {
+    "id": "de-zh-136",
+    "de": "Wo ist die Botschaft?",
+    "zh": "大使馆在哪里？"
+  },
+  {
+    "id": "de-zh-137",
+    "de": "Ich brauche Hilfe von der Polizei.",
+    "zh": "我需要警察的帮助。"
+  },
+  {
+    "id": "de-zh-138",
+    "de": "Hinterlassen Sie mich in Ruhe.",
+    "zh": "别管我 / 让我静静。"
+  },
+  {
+    "id": "de-zh-139",
+    "de": "Gehen Sie weg!",
+    "zh": "走开！"
+  },
+  {
+    "id": "de-zh-140",
+    "de": "Hilfe! Jemand hat mich bestohlen.",
+    "zh": "救命！有人偷了我的东西。"
+  },
+  {
+    "id": "de-zh-141",
+    "de": "Ich habe mich verlaufen.",
+    "zh": "我迷路了。"
+  },
+  {
+    "id": "de-zh-142",
+    "de": "Können Sie mir auf der Karte zeigen, wo ich bin?",
+    "zh": "你能在地图上指出我的位置吗？"
+  },
+  {
+    "id": "de-zh-143",
+    "de": "Wie ist Ihre Telefonnummer?",
+    "zh": "您的电话号码是多少？"
+  },
+  {
+    "id": "de-zh-144",
+    "de": "Schreiben Sie es bitte auf.",
+    "zh": "请把它写下来。"
+  },
+  {
+    "id": "de-zh-145",
+    "de": "Ich werde dich anrufen.",
+    "zh": "我会给你打电话。"
+  },
+  {
+    "id": "de-zh-146",
+    "de": "Schick mir eine Nachricht.",
+    "zh": "发信息给我。"
+  },
+  {
+    "id": "de-zh-147",
+    "de": "Sind Sie auf Social Media?",
+    "zh": "你用社交媒体吗？"
+  },
+  {
+    "id": "de-zh-148",
+    "de": "Ich folge dir.",
+    "zh": "我关注你。"
+  },
+  {
+    "id": "de-zh-149",
+    "de": "Was gibt es Neues?",
+    "zh": "有什么新闻吗？"
+  },
+  {
+    "id": "de-zh-150",
+    "de": "Nichts Besonderes.",
+    "zh": "没什么特别的。"
+  },
+  {
+    "id": "de-zh-151",
+    "de": "Ich freue mich darauf.",
+    "zh": "我很期待。"
+  },
+  {
+    "id": "de-zh-152",
+    "de": "Das ist mir egal.",
+    "zh": "我无所谓。"
+  },
+  {
+    "id": "de-zh-153",
+    "de": "Keine Sorge, alles wird gut.",
+    "zh": "别担心，一切都会好起来的。"
+  },
+  {
+    "id": "de-zh-154",
+    "de": "Beruhige dich, bitte.",
+    "zh": "请冷静下来。"
+  },
+  {
+    "id": "de-zh-155",
+    "de": "Mach dir keinen Stress.",
+    "zh": "别给自己太大压力。"
+  },
+  {
+    "id": "de-zh-156",
+    "de": "Das ist unglaublich!",
+    "zh": "这太令人难以置信了！"
+  },
+  {
+    "id": "de-zh-157",
+    "de": "Ich bin stolz auf dich.",
+    "zh": "我为你感到骄傲。"
+  },
+  {
+    "id": "de-zh-158",
+    "de": "Das hast du gut gemacht.",
+    "zh": "你做得很好。"
+  },
+  {
+    "id": "de-zh-159",
+    "de": "Kopf hoch!",
+    "zh": "抬起头来 / 振作起来！"
+  },
+  {
+    "id": "de-zh-160",
+    "de": "Geben Sie nicht auf!",
+    "zh": "别放弃！"
+  },
+  {
+    "id": "de-zh-161",
+    "de": "Übung macht den Meister.",
+    "zh": "熟能生巧。"
+  },
+  {
+    "id": "de-zh-162",
+    "de": "Lass uns morgen anfangen.",
+    "zh": "我们明天开始吧。"
+  },
+  {
+    "id": "de-zh-163",
+    "de": "Ich habe keine Zeit heute.",
+    "zh": "今天我没有时间。"
+  },
+  {
+    "id": "de-zh-164",
+    "de": "Wir können uns am Wochenende treffen.",
+    "zh": "我们可以在周末见面。"
+  },
+  {
+    "id": "de-zh-165",
+    "de": "Wann hast du Zeit?",
+    "zh": "你什么时候有时间？"
+  },
+  {
+    "id": "de-zh-166",
+    "de": "Ich bin flexibel.",
+    "zh": "我的时间很灵活。"
+  },
+  {
+    "id": "de-zh-167",
+    "de": "Es hängt vom Wetter ab.",
+    "zh": "这取决于天气。"
+  },
+  {
+    "id": "de-zh-168",
+    "de": "Es ist bewölkt heute.",
+    "zh": "今天天阴。"
+  },
+  {
+    "id": "de-zh-169",
+    "de": "Es schneit draußen.",
+    "zh": "外面下雪了。"
+  },
+  {
+    "id": "de-zh-170",
+    "de": "Der Wind ist sehr stark.",
+    "zh": "风非常大。"
+  },
+  {
+    "id": "de-zh-171",
+    "de": "Morgen wird es sonnig sein.",
+    "zh": "明天会是晴天。"
+  },
+  {
+    "id": "de-zh-172",
+    "de": "Ich liebe den Sommer.",
+    "zh": "我热爱夏天。"
+  },
+  {
+    "id": "de-zh-173",
+    "de": "Der Winter ist zu lang.",
+    "zh": "冬天太长了。"
+  },
+  {
+    "id": "de-zh-174",
+    "de": "Es ist meine Lieblingsjahreszeit.",
+    "zh": "这是我最喜欢的季节。"
+  },
+  {
+    "id": "de-zh-175",
+    "de": "Was hast du am Wochenende gemacht?",
+    "zh": "你周末做什么了？"
+  },
+  {
+    "id": "de-zh-176",
+    "de": "Ich bin zu Hause geblieben.",
+    "zh": "我待在家里。"
+  },
+  {
+    "id": "de-zh-177",
+    "de": "Ich habe meine Freunde besucht.",
+    "zh": "我拜访了我的朋友。"
+  },
+  {
+    "id": "de-zh-178",
+    "de": "Wir hatten viel Spaß.",
+    "zh": "我们玩得很开心。"
+  },
+  {
+    "id": "de-zh-179",
+    "de": "Das war eine Überraschung.",
+    "zh": "这真是一个惊喜。"
+  },
+  {
+    "id": "de-zh-180",
+    "de": "Ich habe ein neues Auto gekauft.",
+    "zh": "我买了一辆新车。"
+  },
+  {
+    "id": "de-zh-181",
+    "de": "Herzlichen Glückwunsch zum neuen Job!",
+    "zh": "祝贺你找到新工作！"
+  },
+  {
+    "id": "de-zh-182",
+    "de": "Wann fängst du an?",
+    "zh": "你什么时候入职？"
+  },
+  {
+    "id": "de-zh-183",
+    "de": "Ich fange nächsten Montag an.",
+    "zh": "我下周一开始上班。"
+  },
+  {
+    "id": "de-zh-184",
+    "de": "Ich bin ein bisschen nervös.",
+    "zh": "我有点紧张。"
+  },
+  {
+    "id": "de-zh-185",
+    "de": "Das ist völlig normal.",
+    "zh": "这完全正常。"
+  },
+  {
+    "id": "de-zh-186",
+    "de": "Du wirst das schaffen.",
+    "zh": "你一定可以做到的。"
+  },
+  {
+    "id": "de-zh-187",
+    "de": "Ich glaube an dich.",
+    "zh": "我相信你。"
+  },
+  {
+    "id": "de-zh-188",
+    "de": "Vielen Dank für deine Unterstützung.",
+    "zh": "非常感谢你的支持。"
+  },
+  {
+    "id": "de-zh-189",
+    "de": "Du bist ein guter Freund.",
+    "zh": "你是个好朋友。"
+  },
+  {
+    "id": "de-zh-190",
+    "de": "Ich bin immer für dich da.",
+    "zh": "我随叫随到 / 我一直在你身边。"
+  },
+  {
+    "id": "de-zh-191",
+    "de": "Das bedeutet mir viel.",
+    "zh": "这对我很重要。"
+  },
+  {
+    "id": "de-zh-192",
+    "de": "Lass uns bald wieder treffen.",
+    "zh": "我们很快再见面吧。"
+  },
+  {
+    "id": "de-zh-193",
+    "de": "Ich muss jetzt wirklich gehen.",
+    "zh": "我现在真的得走了。"
+  },
+  {
+    "id": "de-zh-194",
+    "de": "Komm gut nach Hause.",
+    "zh": "路上小心 / 平安到家。"
+  },
+  {
+    "id": "de-zh-195",
+    "de": "Schreib mir, wenn du angekommen bist.",
+    "zh": "到了发信息给我。"
+  },
+  {
+    "id": "de-zh-196",
+    "de": "Ich bin gut angekommen.",
+    "zh": "我已安全到达。"
+  },
+  {
+    "id": "de-zh-197",
+    "de": "Schlaf gut.",
+    "zh": "睡个好觉。"
+  },
+  {
+    "id": "de-zh-198",
+    "de": "Träum süß.",
+    "zh": "做个好梦。"
+  },
+  {
+    "id": "de-zh-199",
+    "de": "Bis zum nächsten Mal.",
+    "zh": "下次见。"
+  },
+  {
+    "id": "de-zh-200",
+    "de": "Tschüss!",
+    "zh": "再见！"
+  }]
   }
 }
