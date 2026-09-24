@@ -961,7 +961,986 @@
   },
   {
     "id": "it-fr-193","it": "Adesso devo proprio andare.","fr": "Je dois vraiment y aller maintenant."},{"id": "it-fr-194","it": "Fai buon rientro a casa.","fr": "Rentre bien chez toi."},{"id": "it-fr-195","it": "Scrivimi quando arrivi.","fr": "Écris-moi quand tu seras arrivé."},{"id": "it-fr-196","it": "Sono arrivato bene.","fr": "Je suis bien arrivé."},{"id": "it-fr-197","it": "Dormi bene.","fr": "Dors bien."},{"id": "it-fr-198","it": "Sogni d'oro.","fr": "Fais de beaux rêves."},{"id": "it-fr-199","it": "Alla prossima volta.","fr": "À la prochaine fois."},{"id": "it-fr-200","it": "Ciao ciao!","fr": "Salut !"}],
-    "italianenglish": [],
+    "italianenglish": [{
+    "id": "it-en-001",
+    "it": "Ciao, come sta?",
+    "en": "Hello, how are you?"
+  },
+  {
+    "id": "it-en-002",
+    "it": "Come si chiama?",
+    "en": "What is your name?"
+  },
+  {
+    "id": "it-en-003",
+    "it": "Mi chiamo John.",
+    "en": "My name is John."
+  },
+  {
+    "id": "it-en-004",
+    "it": "Piacere di conoscerla.",
+    "en": "Nice to meet you."
+  },
+  {
+    "id": "it-en-005",
+    "it": "Da dove viene?",
+    "en": "Where are you from?"
+  },
+  {
+    "id": "it-en-006",
+    "it": "Vengo dalla Francia.",
+    "en": "I am from France."
+  },
+  {
+    "id": "it-en-007",
+    "it": "Dove abita?",
+    "en": "Where do you live?"
+  },
+  {
+    "id": "it-en-008",
+    "it": "Abito a Parigi.",
+    "en": "I live in Paris."
+  },
+  {
+    "id": "it-en-009",
+    "it": "Quanti anni ha?",
+    "en": "How old are you?"
+  },
+  {
+    "id": "it-en-010",
+    "it": "Ho trent'anni.",
+    "en": "I am thirty years old."
+  },
+  {
+    "id": "it-en-011",
+    "it": "Che lavoro fa?",
+    "en": "What do you do for a living?"
+  },
+  {
+    "id": "it-en-012",
+    "it": "Sono uno studente.",
+    "en": "I am a student."
+  },
+  {
+    "id": "it-en-013",
+    "it": "Parla inglese?",
+    "en": "Do you speak English?"
+  },
+  {
+    "id": "it-en-014",
+    "it": "Parlo un po' di inglese.",
+    "en": "I speak a little English."
+  },
+  {
+    "id": "it-en-015",
+    "it": "Può aiutarmi, per favore?",
+    "en": "Can you help me, please?"
+  },
+  {
+    "id": "it-en-016",
+    "it": "Grazie mille.",
+    "en": "Thank you very much."
+  },
+  {
+    "id": "it-en-017",
+    "it": "Prego.",
+    "en": "You're welcome."
+  },
+  {
+    "id": "it-en-018",
+    "it": "Per favore.",
+    "en": "Please."
+  },
+  {
+    "id": "it-en-019",
+    "it": "Mi scusi.",
+    "en": "Excuse me."
+  },
+  {
+    "id": "it-en-020",
+    "it": "Mi dispiace.",
+    "en": "I am sorry."
+  },
+  {
+    "id": "it-en-021",
+    "it": "Che ore sono?",
+    "en": "What time is it?"
+  },
+  {
+    "id": "it-en-022",
+    "it": "Sono le dieci.",
+    "en": "It is ten o'clock."
+  },
+  {
+    "id": "it-en-023",
+    "it": "Dov'è il bagno?",
+    "en": "Where is the restroom?"
+  },
+  {
+    "id": "it-en-024",
+    "it": "È da quella parte.",
+    "en": "It is that way."
+  },
+  {
+    "id": "it-en-025",
+    "it": "Quanto costa?",
+    "en": "How much does it cost?"
+  },
+  {
+    "id": "it-en-026",
+    "it": "È troppo caro.",
+    "en": "It is too expensive."
+  },
+  {
+    "id": "it-en-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "en": "Where is the train station?"
+  },
+  {
+    "id": "it-en-028",
+    "it": "Cerco un buon ristorante.",
+    "en": "I am looking for a good restaurant."
+  },
+  {
+    "id": "it-en-029",
+    "it": "Il conto, per favore.",
+    "en": "The bill, please."
+  },
+  {
+    "id": "it-en-030",
+    "it": "Com'è il tempo oggi?",
+    "en": "What is the weather like today?"
+  },
+  {
+    "id": "it-en-031",
+    "it": "Il tempo è bello.",
+    "en": "The weather is nice."
+  },
+  {
+    "id": "it-en-032",
+    "it": "Piove.",
+    "en": "It is raining."
+  },
+  {
+    "id": "it-en-033",
+    "it": "Ho fame.",
+    "en": "I am hungry."
+  },
+  {
+    "id": "it-en-034",
+    "it": "Ho sete.",
+    "en": "I am thirsty."
+  },
+  {
+    "id": "it-en-035",
+    "it": "Sono stanco.",
+    "en": "I am tired."
+  },
+  {
+    "id": "it-en-036",
+    "it": "Non capisco.",
+    "en": "I don't understand."
+  },
+  {
+    "id": "it-en-037",
+    "it": "Può ripetere?",
+    "en": "Can you repeat?"
+  },
+  {
+    "id": "it-en-038",
+    "it": "Parli più lentamente, per favore.",
+    "en": "Speak more slowly, please."
+  },
+  {
+    "id": "it-en-039",
+    "it": "Come si dice in inglese?",
+    "en": "How do you say that in English?"
+  },
+  {
+    "id": "it-en-040",
+    "it": "Cosa significa questa parola?",
+    "en": "What does this word mean?"
+  },
+  {
+    "id": "it-en-041",
+    "it": "Ti amo.",
+    "en": "I love you."
+  },
+  {
+    "id": "it-en-042",
+    "it": "Mi manchi.",
+    "en": "I miss you."
+  },
+  {
+    "id": "it-en-043",
+    "it": "Buona fortuna!",
+    "en": "Good luck!"
+  },
+  {
+    "id": "it-en-044",
+    "it": "Congratulazioni!",
+    "en": "Congratulations!"
+  },
+  {
+    "id": "it-en-045",
+    "it": "Buon compleanno!",
+    "en": "Happy birthday!"
+  },
+  {
+    "id": "it-en-046",
+    "it": "Buon viaggio!",
+    "en": "Have a good trip!"
+  },
+  {
+    "id": "it-en-047",
+    "it": "Buona giornata.",
+    "en": "Have a nice day."
+  },
+  {
+    "id": "it-en-048",
+    "it": "A presto.",
+    "en": "See you soon."
+  },
+  {
+    "id": "it-en-049",
+    "it": "A domani.",
+    "en": "See you tomorrow."
+  },
+  {
+    "id": "it-en-050",
+    "it": "Arrivederci.",
+    "en": "Goodbye."
+  },
+  {
+    "id": "it-en-051",
+    "it": "Dove va?",
+    "en": "Where are you going?"
+  },
+  {
+    "id": "it-en-052",
+    "it": "Vado al supermercato.",
+    "en": "I am going to the supermarket."
+  },
+  {
+    "id": "it-en-053",
+    "it": "Cos'è questo?",
+    "en": "What is it?"
+  },
+  {
+    "id": "it-en-054",
+    "it": "Non lo so.",
+    "en": "I don't know."
+  },
+  {
+    "id": "it-en-055",
+    "it": "È sicuro?",
+    "en": "Are you sure?"
+  },
+  {
+    "id": "it-en-056",
+    "it": "Sì, sono sicuro.",
+    "en": "Yes, I am sure."
+  },
+  {
+    "id": "it-en-057",
+    "it": "Penso di sì.",
+    "en": "I think so."
+  },
+  {
+    "id": "it-en-058",
+    "it": "Penso di no.",
+    "en": "I don't think so."
+  },
+  {
+    "id": "it-en-059",
+    "it": "Nessun problema.",
+    "en": "No problem."
+  },
+  {
+    "id": "it-en-060",
+    "it": "Non importa.",
+    "en": "It doesn't matter."
+  },
+  {
+    "id": "it-en-061",
+    "it": "Cosa mangi?",
+    "en": "What are you eating?"
+  },
+  {
+    "id": "it-en-062",
+    "it": "È delizioso.",
+    "en": "It is delicious."
+  },
+  {
+    "id": "it-en-063",
+    "it": "Non mi piace.",
+    "en": "I don't like it."
+  },
+  {
+    "id": "it-en-064",
+    "it": "Quali sono i suoi hobby?",
+    "en": "What are your hobbies?"
+  },
+  {
+    "id": "it-en-065",
+    "it": "Mi piace leggere libri.",
+    "en": "I like reading books."
+  },
+  {
+    "id": "it-en-066",
+    "it": "Mi piace ascoltare musica.",
+    "en": "I like listening to music."
+  },
+  {
+    "id": "it-en-067",
+    "it": "Fa sport?",
+    "en": "Do you do sports?"
+  },
+  {
+    "id": "it-en-068",
+    "it": "Gioco a calcio.",
+    "en": "I play soccer."
+  },
+  {
+    "id": "it-en-069",
+    "it": "Guardo un film.",
+    "en": "I am watching a movie."
+  },
+  {
+    "id": "it-en-070",
+    "it": "Dove l'hai comprato?",
+    "en": "Where did you buy that?"
+  },
+  {
+    "id": "it-en-071",
+    "it": "È un regalo.",
+    "en": "It is a gift."
+  },
+  {
+    "id": "it-en-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "en": "Can you close the window?"
+  },
+  {
+    "id": "it-en-073",
+    "it": "Fa freddo qui.",
+    "en": "It is cold in here."
+  },
+  {
+    "id": "it-en-074",
+    "it": "Fa caldo fuori.",
+    "en": "It is hot outside."
+  },
+  {
+    "id": "it-en-075",
+    "it": "Dove sono le mie chiavi?",
+    "en": "Where are my keys?"
+  },
+  {
+    "id": "it-en-076",
+    "it": "Sono sul tavolo.",
+    "en": "They are on the table."
+  },
+  {
+    "id": "it-en-077",
+    "it": "Devo andare.",
+    "en": "I have to go."
+  },
+  {
+    "id": "it-en-078",
+    "it": "Stammi bene.",
+    "en": "Take care."
+  },
+  {
+    "id": "it-en-079",
+    "it": "A più tardi.",
+    "en": "See you later."
+  },
+  {
+    "id": "it-en-080",
+    "it": "Buonanotte.",
+    "en": "Good night."
+  },
+  {
+    "id": "it-en-081",
+    "it": "Ha fratelli o sorelle?",
+    "en": "Do you have any siblings?"
+  },
+  {
+    "id": "it-en-082",
+    "it": "Ho un fratello e una sorella.",
+    "en": "I have a brother and a sister."
+  },
+  {
+    "id": "it-en-083",
+    "it": "È sposato?",
+    "en": "Are you married?"
+  },
+  {
+    "id": "it-en-084",
+    "it": "Sono celibe.",
+    "en": "I am single."
+  },
+  {
+    "id": "it-en-085",
+    "it": "Hai figli?",
+    "en": "Do you have children?"
+  },
+  {
+    "id": "it-en-086",
+    "it": "Ho due figli.",
+    "en": "I have two children."
+  },
+  {
+    "id": "it-en-087",
+    "it": "Dove lavori?",
+    "en": "Where do you work?"
+  },
+  {
+    "id": "it-en-088",
+    "it": "Lavoro in ufficio.",
+    "en": "I work in an office."
+  },
+  {
+    "id": "it-en-089",
+    "it": "Le piace il caffè o il tè?",
+    "en": "Do you like coffee or tea?"
+  },
+  {
+    "id": "it-en-090",
+    "it": "Preferisco bere il tè.",
+    "en": "I prefer to drink tea."
+  },
+  {
+    "id": "it-en-091",
+    "it": "È una buona idea.",
+    "en": "That is a good idea."
+  },
+  {
+    "id": "it-en-092",
+    "it": "Sono stanco, vado a letto.",
+    "en": "I am tired, I am going to bed."
+  },
+  {
+    "id": "it-en-093",
+    "it": "Qual è il suo film preferito?",
+    "en": "What is your favorite movie?"
+  },
+  {
+    "id": "it-en-094",
+    "it": "Può indicarmi la strada?",
+    "en": "Can you show me the way?"
+  },
+  {
+    "id": "it-en-095",
+    "it": "Ho perso il mio telefono.",
+    "en": "I lost my phone."
+  },
+  {
+    "id": "it-en-096",
+    "it": "Chiami un medico, per favore.",
+    "en": "Call a doctor, please."
+  },
+  {
+    "id": "it-en-097",
+    "it": "È un'emergenza.",
+    "en": "It is an emergency."
+  },
+  {
+    "id": "it-en-098",
+    "it": "Ha la password del Wi-Fi?",
+    "en": "Do you have the Wi-Fi password?"
+  },
+  {
+    "id": "it-en-099",
+    "it": "Internet è molto lento.",
+    "en": "The internet is very slow."
+  },
+  {
+    "id": "it-en-100",
+    "it": "Devo annullare il mio biglietto.",
+    "en": "I need to cancel my ticket."
+  },{
+    "id": "it-en-101",
+    "it": "Quanto dura il viaggio?",
+    "en": "How long does the trip take?"
+  },
+  {
+    "id": "it-en-102",
+    "it": "Possiamo fermarci qui?",
+    "en": "Can we stop here?"
+  },
+  {
+    "id": "it-en-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "en": "I need a receipt."
+  },
+  {
+    "id": "it-en-104",
+    "it": "Dove posso cambiare il denaro?",
+    "en": "Where can I exchange money?"
+  },
+  {
+    "id": "it-en-105",
+    "it": "C'è una banca qui vicino?",
+    "en": "Is there a bank nearby?"
+  },
+  {
+    "id": "it-en-106",
+    "it": "Accettate carte di credito?",
+    "en": "Do you accept credit cards?"
+  },
+  {
+    "id": "it-en-107",
+    "it": "Pago in contanti.",
+    "en": "I pay in cash."
+  },
+  {
+    "id": "it-en-108",
+    "it": "Può farmi uno sconto?",
+    "en": "Can you give me a discount?"
+  },
+  {
+    "id": "it-en-109",
+    "it": "Questa è la mia ultima parola.",
+    "en": "That is my last word."
+  },
+  {
+    "id": "it-en-110",
+    "it": "Sto solo dando un'occhiata.",
+    "en": "I am just looking around."
+  },
+  {
+    "id": "it-en-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "en": "Do you have this in another size?"
+  },
+  {
+    "id": "it-en-112",
+    "it": "Dov'è il camerino?",
+    "en": "Where is the dressing room?"
+  },
+  {
+    "id": "it-en-113",
+    "it": "Mi sta bene.",
+    "en": "It fits me well."
+  },
+  {
+    "id": "it-en-114",
+    "it": "Lo prendo.",
+    "en": "I will take it."
+  },
+  {
+    "id": "it-en-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "en": "Where can I leave my bag?"
+  },
+  {
+    "id": "it-en-116",
+    "it": "Avete cibo vegetariano?",
+    "en": "Do you have vegetarian food?"
+  },
+  {
+    "id": "it-en-117",
+    "it": "Sono allergico.",
+    "en": "I am allergic."
+  },
+  {
+    "id": "it-en-118",
+    "it": "Non piccante, per favore.",
+    "en": "Without spice, please."
+  },
+  {
+    "id": "it-en-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "en": "Please bring me a glass of water."
+  },
+  {
+    "id": "it-en-120",
+    "it": "Buon appetito!",
+    "en": "Enjoy your meal!"
+  },
+  {
+    "id": "it-en-121",
+    "it": "Cin cin!",
+    "en": "Cheers!"
+  },
+  {
+    "id": "it-en-122",
+    "it": "Il cibo era meraviglioso.",
+    "en": "The food was wonderful."
+  },
+  {
+    "id": "it-en-123",
+    "it": "Vorrei prenotare una camera.",
+    "en": "I would like to reserve a room."
+  },
+  {
+    "id": "it-en-124",
+    "it": "La colazione è inclusa?",
+    "en": "Is breakfast included?"
+  },
+  {
+    "id": "it-en-125",
+    "it": "A che ora è il check-out?",
+    "en": "What time is check-out?"
+  },
+  {
+    "id": "it-en-126",
+    "it": "Può chiamare un taxi?",
+    "en": "Can you call a taxi?"
+  },
+  {
+    "id": "it-en-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "en": "Please drive me to this address."
+  },
+  {
+    "id": "it-en-128",
+    "it": "Si fermi qui, per favore.",
+    "en": "Please stop here."
+  },
+  {
+    "id": "it-en-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "en": "Is there a bus stop nearby?"
+  },
+  {
+    "id": "it-en-130",
+    "it": "A che ora parte il prossimo treno?",
+    "en": "What time does the next train leave?"
+  },
+  {
+    "id": "it-en-131",
+    "it": "Il treno è in ritardo.",
+    "en": "The train is late."
+  },
+  {
+    "id": "it-en-132",
+    "it": "Ho perso il mio volo.",
+    "en": "I missed my flight."
+  },
+  {
+    "id": "it-en-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "en": "Where is the baggage claim?"
+  },
+  {
+    "id": "it-en-134",
+    "it": "Questa non è la mia valigia.",
+    "en": "This is not my suitcase."
+  },
+  {
+    "id": "it-en-135",
+    "it": "Il mio passaporto è sparito.",
+    "en": "My passport is gone."
+  },
+  {
+    "id": "it-en-136",
+    "it": "Dov'è l'ambasciata?",
+    "en": "Where is the embassy?"
+  },
+  {
+    "id": "it-en-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "en": "I need help from the police."
+  },
+  {
+    "id": "it-en-138",
+    "it": "Lasciami in pace.",
+    "en": "Leave me alone."
+  },
+  {
+    "id": "it-en-139",
+    "it": "Vai via!",
+    "en": "Go away!"
+  },
+  {
+    "id": "it-en-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "en": "Help! Someone robbed me."
+  },
+  {
+    "id": "it-en-141",
+    "it": "Mi sono perso.",
+    "en": "I am lost."
+  },
+  {
+    "id": "it-en-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "en": "Can you show me on the map where I am?"
+  },
+  {
+    "id": "it-en-143",
+    "it": "Qual è il suo numero di telefono?",
+    "en": "What is your phone number?"
+  },
+  {
+    "id": "it-en-144",
+    "it": "Lo scriva, per favore.",
+    "en": "Please write it down."
+  },
+  {
+    "id": "it-en-145",
+    "it": "Ti chiamerò.",
+    "en": "I will call you."
+  },
+  {
+    "id": "it-en-146",
+    "it": "Mandami un messaggio.",
+    "en": "Send me a message."
+  },
+  {
+    "id": "it-en-147",
+    "it": "È sui social media?",
+    "en": "Are you on social media?"
+  },
+  {
+    "id": "it-en-148",
+    "it": "Ti seguo.",
+    "en": "I follow you."
+  },
+  {
+    "id": "it-en-149",
+    "it": "Quali sono le novità?",
+    "en": "What's new?"
+  },
+  {
+    "id": "it-en-150",
+    "it": "Nulla di speciale.",
+    "en": "Nothing special."
+  },
+  {
+    "id": "it-en-151",
+    "it": "Non vedo l'ora.",
+    "en": "I am looking forward to it."
+  },
+  {
+    "id": "it-en-152",
+    "it": "Non mi importa.",
+    "en": "I don't care."
+  },
+  {
+    "id": "it-en-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "en": "Don't worry, everything will be fine."
+  },
+  {
+    "id": "it-en-154",
+    "it": "Calmati, per favore.",
+    "en": "Please calm down."
+  },
+  {
+    "id": "it-en-155",
+    "it": "Non stressarti.",
+    "en": "Don't stress."
+  },
+  {
+    "id": "it-en-156",
+    "it": "È incredibile!",
+    "en": "That is incredible!"
+  },
+  {
+    "id": "it-en-157",
+    "it": "Sono orgoglioso di te.",
+    "en": "I am proud of you."
+  },
+  {
+    "id": "it-en-158",
+    "it": "Hai fatto un buon lavoro.",
+    "en": "You did a good job."
+  },
+  {
+    "id": "it-en-159",
+    "it": "Su col morale!",
+    "en": "Cheer up! / Keep your head up!"
+  },
+  {
+    "id": "it-en-160",
+    "it": "Non ti arrendere!",
+    "en": "Don't give up!"
+  },
+  {
+    "id": "it-en-161",
+    "it": "L'esercizio rende perfetti.",
+    "en": "Practice makes perfect."
+  },
+  {
+    "id": "it-en-162",
+    "it": "Cominciamo domani.",
+    "en": "Let's start tomorrow."
+  },
+  {
+    "id": "it-en-163",
+    "it": "Non ho tempo oggi.",
+    "en": "I don't have time today."
+  },
+  {
+    "id": "it-en-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "en": "We can meet on the weekend."
+  },
+  {
+    "id": "it-en-165",
+    "it": "Quando hai tempo?",
+    "en": "When do you have time?"
+  },
+  {
+    "id": "it-en-166",
+    "it": "Sono flessibile.",
+    "en": "I am flexible."
+  },
+  {
+    "id": "it-en-167",
+    "it": "Dipende dal tempo.",
+    "en": "It depends on the weather."
+  },
+  {
+    "id": "it-en-168",
+    "it": "È nuvoloso oggi.",
+    "en": "It is cloudy today."
+  },
+  {
+    "id": "it-en-169",
+    "it": "Nevica fuori.",
+    "en": "It is snowing outside."
+  },
+  {
+    "id": "it-en-170",
+    "it": "Il vento è molto forte.",
+    "en": "The wind is very strong."
+  },
+  {
+    "id": "it-en-171",
+    "it": "Domani sarà soleggiato.",
+    "en": "Tomorrow it will be sunny."
+  },
+  {
+    "id": "it-en-172",
+    "it": "Amo l'estate.",
+    "en": "I love summer."
+  },
+  {
+    "id": "it-en-173",
+    "it": "L'inverno è troppo lungo.",
+    "en": "Winter is too long."
+  },
+  {
+    "id": "it-en-174",
+    "it": "È la mia stagione preferita.",
+    "en": "It is my favorite season."
+  },
+  {
+    "id": "it-en-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "en": "What did you do on the weekend?"
+  },
+  {
+    "id": "it-en-176",
+    "it": "Sono rimasto a casa.",
+    "en": "I stayed at home."
+  },
+  {
+    "id": "it-en-177",
+    "it": "Ho visitato i miei amici.",
+    "en": "I visited my friends."
+  },
+  {
+    "id": "it-en-178",
+    "it": "Ci siamo divertiti molto.",
+    "en": "We had a lot of fun."
+  },
+  {
+    "id": "it-en-179",
+    "it": "È stata una sorpresa.",
+    "en": "That was a surprise."
+  },
+  {
+    "id": "it-en-180",
+    "it": "Ho comprato una nuova auto.",
+    "en": "I bought a new car."
+  },
+  {
+    "id": "it-en-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "en": "Congratulations on the new job!"
+  },
+  {
+    "id": "it-en-182",
+    "it": "Quando cominci?",
+    "en": "When do you start?"
+  },
+  {
+    "id": "it-en-183",
+    "it": "Comincio lunedì prossimo.",
+    "en": "I start next Monday."
+  },
+  {
+    "id": "it-en-184",
+    "it": "Sono un po' nervoso.",
+    "en": "I am a little nervous."
+  },
+  {
+    "id": "it-en-185",
+    "it": "È del tutto normale.",
+    "en": "That is completely normal."
+  },
+  {
+    "id": "it-en-186",
+    "it": "Ce la farai.",
+    "en": "You will make it."
+  },
+  {
+    "id": "it-en-187",
+    "it": "Credo in te.",
+    "en": "I believe in you."
+  },
+  {
+    "id": "it-en-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "en": "Thank you very much for your support."
+  },
+  {
+    "id": "it-en-189",
+    "it": "Sei un buon amico.",
+    "en": "You are a good friend."
+  },
+  {
+    "id": "it-en-190",
+    "it": "Ci sono sempre per te.",
+    "en": "I am always here for you."
+  },
+  {
+    "id": "it-en-191",
+    "it": "Questo significa molto per me.",
+    "en": "That means a lot to me."
+  },
+  {
+    "id": "it-en-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "en": "Let's meet again soon."
+  },
+  {
+    "id": "it-en-193",
+    "it": "Adesso devo proprio andare.",
+    "en": "I really have to go now."
+  },
+  {
+    "id": "it-en-194",
+    "it": "Fai buon rientro a casa.",
+    "en": "Get home safely."
+  },
+  {
+    "id": "it-en-195",
+    "it": "Scrivimi quando arrivi.",
+    "en": "Text me when you arrive."
+  },
+  {
+    "id": "it-en-196",
+    "it": "Sono arrivato bene.",
+    "en": "I arrived safely."
+  },
+  {"id": "it-en-197","it": "Dormi bene.","en": "Sleep well."},{"id": "it-en-198","it": "Sogni d'oro.","en": "Sweet dreams."},{"id": "it-en-199","it": "Alla prossima volta.","en": "Until next time."},{"id": "it-en-200","it": "Ciao ciao!","en": "Bye-bye!"}],
     "italiangerman": [],
     "italianspanish": [],
     "italianportuguese": [],
