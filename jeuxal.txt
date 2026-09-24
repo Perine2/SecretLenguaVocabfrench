@@ -5109,7 +5109,966 @@
   {
     "id": "de-hi-193",
     "de": "Ich muss jetzt wirklich gehen.","hi": "मुझे अब सचमुच जाना होगा।"},{"id": "de-hi-194","de": "Komm gut nach Hause.","hi": "सुरक्षित घर पहुँचना।"},{"id": "de-hi-195","de": "Schreib mir, wenn du angekommen bist.","hi": "पहुँचने के बाद मुझे मैसेज करना।"},{"id": "de-hi-196","de": "Ich bin gut angekommen.","hi": "मैं सुरक्षित पहुँच गया हूँ।"},{"id": "de-hi-197","de": "Schlaf gut.","hi": "अच्छी नींद लो।"},{"id": "de-hi-198","de": "Träum süß.","hi": "मीठे सपने देखें।"},{"id": "de-hi-199","de": "Bis zum nächsten Mal.","hi": "अगली बार तक।"},{"id": "de-hi-200","de": "Tschüss!","hi": "बाय-बाय!"}],
-    "germanpolish": [],
+    "germanpolish": [{
+    "id": "de-pl-001",
+    "de": "Hallo, wie geht es Ihnen?",
+    "pl": "Dzień dobry, jak się Pani/Pan ma?"
+  },
+  {
+    "id": "de-pl-002",
+    "de": "Wie heißen Sie?",
+    "pl": "Jak się Pani/Pan nazywa?"
+  },
+  {
+    "id": "de-pl-003",
+    "de": "Ich heiße John.",
+    "pl": "Nazywam się John."
+  },
+  {
+    "id": "de-pl-004",
+    "de": "Schön, Sie kennenzulernen.",
+    "pl": "Miło Panią/Pana poznać."
+  },
+  {
+    "id": "de-pl-005",
+    "de": "Woher kommen Sie?",
+    "pl": "Skąd Pani/Pan pochodzi?"
+  },
+  {
+    "id": "de-pl-006",
+    "de": "Ich komme aus Frankreich.",
+    "pl": "Pochodzę z Francji."
+  },
+  {
+    "id": "de-pl-007",
+    "de": "Wo wohnen Sie?",
+    "pl": "Gdzie Pani/Pan mieszka?"
+  },
+  {
+    "id": "de-pl-008",
+    "de": "Ich wohne in Paris.",
+    "pl": "Mieszkam w Paryżu."
+  },
+  {
+    "id": "de-pl-009",
+    "de": "Wie alt sind Sie?",
+    "pl": "Ile ma Pani/Pan lat?"
+  },
+  {
+    "id": "de-pl-010",
+    "de": "Ich bin dreißig Jahre alt.",
+    "pl": "Mam trzydzieści lat."
+  },
+  {
+    "id": "de-pl-011",
+    "de": "Was machen Sie beruflich?",
+    "pl": "Czym zajmuje się Pani/Pan zawodowo?"
+  },
+  {
+    "id": "de-pl-012",
+    "de": "Ich bin Student.",
+    "pl": "Jestem studentem."
+  },
+  {
+    "id": "de-pl-013",
+    "de": "Sprechen Sie Englisch?",
+    "pl": "Czy mówi Pani/Pan po angielsku?"
+  },
+  {
+    "id": "de-pl-014",
+    "de": "Ich spreche ein bisschen Englisch.",
+    "pl": "Mówię trochę po angielsku."
+  },
+  {
+    "id": "de-pl-015",
+    "de": "Können Sie mir bitte helfen?",
+    "pl": "Czy może mi Pani/Pan pomóc?"
+  },
+  {
+    "id": "de-pl-016",
+    "de": "Vielen Dank.",
+    "pl": "Dziękuję bardzo."
+  },
+  {
+    "id": "de-pl-017",
+    "de": "Bitte schön.",
+    "pl": "Proszę bardzo."
+  },
+  {
+    "id": "de-pl-018",
+    "de": "Bitte.",
+    "pl": "Proszę."
+  },
+  {
+    "id": "de-pl-019",
+    "de": "Entschuldigung.",
+    "pl": "Przepraszam."
+  },
+  {
+    "id": "de-pl-020",
+    "de": "Es tut mir leid.",
+    "pl": "Przykro mi."
+  },
+  {
+    "id": "de-pl-021",
+    "de": "Wie spät ist es?",
+    "pl": "Która jest godzina?"
+  },
+  {
+    "id": "de-pl-022",
+    "de": "Es ist zehn Uhr.",
+    "pl": "Jest godzina dziesiąta."
+  },
+  {
+    "id": "de-pl-023",
+    "de": "Wo ist die Toilette?",
+    "pl": "Gdzie jest toaleta?"
+  },
+  {
+    "id": "de-pl-024",
+    "de": "Es ist da entlang.",
+    "pl": "To tamtędy."
+  },
+  {
+    "id": "de-pl-025",
+    "de": "Wie viel kostet das?",
+    "pl": "Ile to kosztuje?"
+  },
+  {
+    "id": "de-pl-026",
+    "de": "Das ist zu teuer.",
+    "pl": "To jest za drogie."
+  },
+  {
+    "id": "de-pl-027",
+    "de": "Wo ist der Bahnhof?",
+    "pl": "Gdzie jest dworzec kolejowy?"
+  },
+  {
+    "id": "de-pl-028",
+    "de": "Ich suche ein gutes Restaurant.",
+    "pl": "Szukam dobrej restauracji."
+  },
+  {
+    "id": "de-pl-029",
+    "de": "Die Rechnung, bitte.",
+    "pl": "Poproszę rachunek."
+  },
+  {
+    "id": "de-pl-030",
+    "de": "Wie ist das Wetter heute?",
+    "pl": "Jaka jest dzisiaj pogoda?"
+  },
+  {
+    "id": "de-pl-031",
+    "de": "Das Wetter ist schön.",
+    "pl": "Pogoda jest ładna."
+  },
+  {
+    "id": "de-pl-032",
+    "de": "Es regnet.",
+    "pl": "Pada deszcz."
+  },
+  {
+    "id": "de-pl-033",
+    "de": "Ich habe Hunger.",
+    "pl": "Jestem głodny."
+  },
+  {
+    "id": "de-pl-034",
+    "de": "Ich habe Durst.",
+    "pl": "Chce mi się pić."
+  },
+  {
+    "id": "de-pl-035",
+    "de": "Ich bin müde.",
+    "pl": "Jestem zmęczony."
+  },
+  {
+    "id": "de-pl-036",
+    "de": "Ich verstehe nicht.",
+    "pl": "Nie rozumiem."
+  },
+  {
+    "id": "de-pl-037",
+    "de": "Können Sie das wiederholen?",
+    "pl": "Czy może Pani/Pan to powtórzyć?"
+  },
+  {
+    "id": "de-pl-038",
+    "de": "Sprechen Sie bitte langsamer.",
+    "pl": "Proszę mówić wolniej."
+  },
+  {
+    "id": "de-pl-039",
+    "de": "Wie sagt man das auf Englisch?",
+    "pl": "Jak to się mówi po angielsku?"
+  },
+  {
+    "id": "de-pl-040",
+    "de": "Was bedeutet dieses Wort?",
+    "pl": "Co oznacza to słowo?"
+  },
+  {
+    "id": "de-pl-041",
+    "de": "Ich liebe dich.",
+    "pl": "Kocham cię."
+  },
+  {
+    "id": "de-pl-042",
+    "de": "Ich vermisse dich.",
+    "pl": "Tęsknię za tobą."
+  },
+  {
+    "id": "de-pl-043",
+    "de": "Viel Glück!",
+    "pl": "Powodzenia!"
+  },
+  {
+    "id": "de-pl-044",
+    "de": "Herzlichen Glückwunsch!",
+    "pl": "Gratulacje!"
+  },
+  {
+    "id": "de-pl-045",
+    "de": "Alles Gute zum Geburtstag!",
+    "pl": "Wszystkiego najlepszego z okazji urodzin!"
+  },
+  {
+    "id": "de-pl-046",
+    "de": "Gute Reise!",
+    "pl": "Szczęśliwej podróży!"
+  },
+  {
+    "id": "de-pl-047",
+    "de": "Einen schönen Tag noch.",
+    "pl": "Miłego dnia."
+  },
+  {
+    "id": "de-pl-048",
+    "de": "Bis bald.",
+    "pl": "Do zobaczenia wkrótce."
+  },
+  {
+    "id": "de-pl-049",
+    "de": "Bis morgen.",
+    "pl": "Do jutra."
+  },
+  {
+    "id": "de-pl-050",
+    "de": "Auf Wiedersehen.",
+    "pl": "Do widzenia."
+  },
+  {
+    "id": "de-pl-051",
+    "de": "Wohin gehen Sie?",
+    "pl": "Dokąd Pani/Pan idzie?"
+  },
+  {
+    "id": "de-pl-052",
+    "de": "Ich gehe zum Supermarkt.",
+    "pl": "Idę do supermarketu."
+  },
+  {
+    "id": "de-pl-053",
+    "de": "Was ist das?",
+    "pl": "Co to jest?"
+  },
+  {
+    "id": "de-pl-054",
+    "de": "Ich weiß es nicht.",
+    "pl": "Nie wiem."
+  },
+  {
+    "id": "de-pl-055",
+    "de": "Sind Sie sicher?",
+    "pl": "Czy jest Pani/Pan pewna/pewien?"
+  },
+  {
+    "id": "de-pl-056",
+    "de": "Ja, ich bin sicher.",
+    "pl": "Tak, jestem pewien."
+  },
+  {
+    "id": "de-pl-057",
+    "de": "Ich glaube ja.",
+    "pl": "Tak mi się wydaje."
+  },
+  {
+    "id": "de-pl-058",
+    "de": "Ich glaube nicht.",
+    "pl": "Nie sądzę."
+  },
+  {
+    "id": "de-pl-059",
+    "de": "Kein Problem.",
+    "pl": "Nie ma problemu."
+  },
+  {
+    "id": "de-pl-060",
+    "de": "Das macht nichts.",
+    "pl": "To nic nie szkodzi."
+  },
+  {
+    "id": "de-pl-061",
+    "de": "Was isst du?",
+    "pl": "Co jesz?"
+  },
+  {
+    "id": "de-pl-062",
+    "de": "Es ist lecker.",
+    "pl": "To jest pyszne."
+  },
+  {
+    "id": "de-pl-063",
+    "de": "Ich mag das nicht.",
+    "pl": "Nie lubię tego."
+  },
+  {
+    "id": "de-pl-064",
+    "de": "Was sind Ihre Hobbys?",
+    "pl": "Jakie są Pani/Pana zainteresowania?"
+  },
+  {
+    "id": "de-pl-065",
+    "de": "Ich lese gerne Bücher.",
+    "pl": "Lubię czytać książki."
+  },
+  {
+    "id": "de-pl-066",
+    "de": "Ich hör gerne Musik.",
+    "pl": "Lubię słuchać muzyki."
+  },
+  {
+    "id": "de-pl-067",
+    "de": "Treiben Sie Sport?",
+    "pl": "Czy uprawia Pani/Pan sport?"
+  },
+  {
+    "id": "de-pl-068",
+    "de": "Ich spiele Fußball.",
+    "pl": "Gram w piłkę nożną."
+  },
+  {
+    "id": "de-pl-069",
+    "de": "Ich schaue einen Film.",
+    "pl": "Oglądam film."
+  },
+  {
+    "id": "de-pl-070",
+    "de": "Wo hast du das gekauft?",
+    "pl": "Gdzie to kupiłeś?"
+  },
+  {
+    "id": "de-pl-071",
+    "de": "Das ist ein Geschenk.",
+    "pl": "To jest prezent."
+  },
+  {
+    "id": "de-pl-072",
+    "de": "Können Sie bitte das Fenster schließen?",
+    "pl": "Czy może Pani/Pan zamknąć okno?"
+  },
+  {
+    "id": "de-pl-073",
+    "de": "Es ist kalt hier.",
+    "pl": "Tutaj jest zimno."
+  },
+  {
+    "id": "de-pl-074",
+    "de": "Es ist heiß draußen.",
+    "pl": "Na zewnątrz jest gorąco."
+  },
+  {
+    "id": "de-pl-075",
+    "de": "Wo sind meine Schlüssel?",
+    "pl": "Gdzie są moje klucze?"
+  },
+  {
+    "id": "de-pl-076",
+    "de": "Sie sind auf dem Tisch.",
+    "pl": "Są na stole."
+  },
+  {
+    "id": "de-pl-077",
+    "de": "Ich muss gehen.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "de-pl-078",
+    "de": "Mach's gut.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "de-pl-079",
+    "de": "Bis später.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "de-pl-080",
+    "de": "Gute Nacht.",
+    "pl": "Dobranoc."
+  },
+  {
+    "id": "de-pl-081",
+    "de": "Haben Sie Geschwister?",
+    "pl": "Czy ma Pani/Pan rodzeństwo?"
+  },
+  {
+    "id": "de-pl-082",
+    "de": "Ich habe einen Bruder und eine Schwester.",
+    "pl": "Mam brata i siostrę."
+  },
+  {
+    "id": "de-pl-083",
+    "de": "Sind Sie verheiratet?",
+    "pl": "Czy jest Pani/Pan żonaty/zamężna?"
+  },
+  {
+    "id": "de-pl-084",
+    "de": "Ich bin ledig.",
+    "pl": "Jestem kawalerem/panną."
+  },
+  {
+    "id": "de-pl-085",
+    "de": "Hast du Kinder?",
+    "pl": "Czy masz dzieci?"
+  },
+  {
+    "id": "de-pl-086",
+    "de": "Ich habe zwei Kinder.",
+    "pl": "Mam dwoje dzieci."
+  },
+  {
+    "id": "de-pl-087",
+    "de": "Wo arbeitest du?",
+    "pl": "Gdzie pracujesz?"
+  },
+  {
+    "id": "de-pl-088",
+    "de": "Ich arbeite im Büro.",
+    "pl": "Pracuję w biurze."
+  },
+  {
+    "id": "de-pl-089",
+    "de": "Mögen Sie Kaffee oder Tee?",
+    "pl": "Woli Pani/Pan kawę czy herbatę?"
+  },
+  {
+    "id": "de-pl-090",
+    "de": "Ich trinke lieber Tee.",
+    "pl": "Wolę pić herbatę."
+  },
+  {
+    "id": "de-pl-091",
+    "de": "Das ist eine gute Idee.",
+    "pl": "To dobry pomysł."
+  },
+  {
+    "id": "de-pl-092",
+    "de": "Ich bin müde, ich gehe ins Bett.",
+    "pl": "Jestem zmęczony, idę do łóżka."
+  },
+  {
+    "id": "de-pl-093",
+    "de": "Was ist Ihr Lieblingsfilm?",
+    "pl": "Jaki jest Pani/Pana ulubiony film?"
+  },
+  {
+    "id": "de-pl-094",
+    "de": "Können Sie mir den Weg zeigen?",
+    "pl": "Czy może mi Pani/Pan wskazać drogę?"
+  },
+  {
+    "id": "de-pl-095",
+    "de": "Ich habe mein Handy verloren.",
+    "pl": "Zgubiłem telefon."
+  },
+  {
+    "id": "de-pl-096",
+    "de": "Rufen Sie einen Arzt, bitte.",
+    "pl": "Proszę wezwać lekarza."
+  },
+  {
+    "id": "de-pl-097",
+    "de": "Es ist ein Notfall.",
+    "pl": "To jest nagły wypadek."
+  },
+  {
+    "id": "de-pl-098",
+    "de": "Haben Sie ein WLAN-Passwort?",
+    "pl": "Czy ma Pani/Pan hasło do Wi-Fi?"
+  },
+  {
+    "id": "de-pl-099",
+    "de": "Das Internet ist sehr langsam.",
+    "pl": "Internet działa bardzo wolno."
+  },
+  {
+    "id": "de-pl-100",
+    "de": "Ich muss mein Ticket stornieren.",
+    "pl": "Muszę anulować swój bilet."
+  },{
+    "id": "de-pl-101",
+    "de": "Wie lange dauert die Fahrt?",
+    "pl": "Jak długo trwa podróż?"
+  },
+  {
+    "id": "de-pl-102",
+    "de": "Können wir hier anhalten?",
+    "pl": "Czy możemy się tutaj zatrzymać?"
+  },
+  {
+    "id": "de-pl-103",
+    "de": "Ich brauche eine Quittung.",
+    "pl": "Potrzebuję paragonu."
+  },
+  {
+    "id": "de-pl-104",
+    "de": "Wo kann ich Geld wechseln?",
+    "pl": "Gdzie mogę wymienić pieniądze?"
+  },
+  {
+    "id": "de-pl-105",
+    "de": "Gibt es hier in der Nähe eine Bank?",
+    "pl": "Czy w pobliżu jest bank?"
+  },
+  {
+    "id": "de-pl-106",
+    "de": "Akzeptieren Sie Kreditkarten?",
+    "pl": "Czy akceptują Państwo karty kredytowe?"
+  },
+  {
+    "id": "de-pl-107",
+    "de": "Ich zahle bar.",
+    "pl": "Płacę gotówką."
+  },
+  {
+    "id": "de-pl-108",
+    "de": "Können Sie mir einen Rabatt geben?",
+    "pl": "Czy może mi Pani/Pan dać zniżkę?"
+  },
+  {
+    "id": "de-pl-109",
+    "de": "Das ist mein letztes Wort.",
+    "pl": "To moje ostatnie słowo."
+  },
+  {
+    "id": "de-pl-110",
+    "de": "Ich schaue mich nur um.",
+    "pl": "Tylko się rozglądam."
+  },
+  {
+    "id": "de-pl-111",
+    "de": "Haben Sie das in einer anderen Größe?",
+    "pl": "Czy ma Pani/Pan to w innym rozmiarze?"
+  },
+  {
+    "id": "de-pl-112",
+    "de": "Wo ist die Umkleidekabine?",
+    "pl": "Gdzie jest przymierzalnia?"
+  },
+  {
+    "id": "de-pl-113",
+    "de": "Das passt mir gut.",
+    "pl": "To mi dobrze pasuje."
+  },
+  {
+    "id": "de-pl-114",
+    "de": "Ich nehme es.",
+    "pl": "Biorę to."
+  },
+  {
+    "id": "de-pl-115",
+    "de": "Wo kann ich meine Tasche abstellen?",
+    "pl": "Gdzie mogę zostawić torbę?"
+  },
+  {
+    "id": "de-pl-116",
+    "de": "Haben Sie vegetarisches Essen?",
+    "pl": "Czy macie wegetariańskie jedzenie?"
+  },
+  {
+    "id": "de-pl-117",
+    "de": "Ich bin Allergiker.",
+    "pl": "Jestem alergikiem."
+  },
+  {
+    "id": "de-pl-118",
+    "de": "Ohne scharf, bitte.",
+    "pl": "Poproszę nieostre."
+  },
+  {
+    "id": "de-pl-119",
+    "de": "Bringen Sie mir bitte ein Glas Wasser.",
+    "pl": "Proszę przynieść mi szklankę wody."
+  },
+  {
+    "id": "de-pl-120",
+    "de": "Guten Appetit!",
+    "pl": "Smacznego!"
+  },
+  {
+    "id": "de-pl-121",
+    "de": "Prost!",
+    "pl": "Na zdrowie!"
+  },
+  {
+    "id": "de-pl-122",
+    "de": "Das Essen war wunderbar.",
+    "pl": "Jedzenie było wspaniałe."
+  },
+  {
+    "id": "de-pl-123",
+    "de": "Ich möchte ein Zimmer reservieren.",
+    "pl": "Chciałbym zarezerwować pokój."
+  },
+  {
+    "id": "de-pl-124",
+    "de": "Ist das Frühstück inklusive?",
+    "pl": "Czy śniadanie jest wliczone w cenę?"
+  },
+  {
+    "id": "de-pl-125",
+    "de": "Um wie viel Uhr ist der Check-out?",
+    "pl": "O której godzinie jest wymeldowanie?"
+  },
+  {
+    "id": "de-pl-126",
+    "de": "Können Sie ein Taxi rufen?",
+    "pl": "Czy może Pani/Pan wezwać taksówkę?"
+  },
+  {
+    "id": "de-pl-127",
+    "de": "Fahren Sie mich bitte zu dieser Adresse.",
+    "pl": "Proszę zawieźć mnie pod ten adres."
+  },
+  {
+    "id": "de-pl-128",
+    "de": "Halten Sie hier an, bitte.",
+    "pl": "Proszę się tutaj zatrzymać."
+  },
+  {
+    "id": "de-pl-129",
+    "de": "Gibt es hier eine Bushaltestelle?",
+    "pl": "Czy jest tutaj przystanek autobusowy?"
+  },
+  {
+    "id": "de-pl-130",
+    "de": "Wann fährt der nächste Zug?",
+    "pl": "O której odjeżdża następny pociąg?"
+  },
+  {
+    "id": "de-pl-131",
+    "de": "Der Zug hat Verspätung.",
+    "pl": "Pociąg jest opóźniony."
+  },
+  {
+    "id": "de-pl-132",
+    "de": "Ich habe meinen Flug verpasst.",
+    "pl": "Spóźniłem się na samolot."
+  },
+  {
+    "id": "de-pl-133",
+    "de": "Wo ist die Gepäckausgabe?",
+    "pl": "Gdzie jest odbiór bagażu?"
+  },
+  {
+    "id": "de-pl-134",
+    "de": "Das ist nicht mein Koffer.",
+    "pl": "To nie jest moja walizka."
+  },
+  {
+    "id": "de-pl-135",
+    "de": "Mein Reisepass ist weg.",
+    "pl": "Zgubiłem paszport."
+  },
+  {
+    "id": "de-pl-136",
+    "de": "Wo ist die Botschaft?",
+    "pl": "Gdzie jest ambasada?"
+  },
+  {
+    "id": "de-pl-137",
+    "de": "Ich brauche Hilfe von der Polizei.",
+    "pl": "Potrzebuję pomocy policji."
+  },
+  {
+    "id": "de-pl-138",
+    "de": "Hinterlassen Sie mich in Ruhe.",
+    "pl": "Zostaw mnie w spokoju."
+  },
+  {
+    "id": "de-pl-139",
+    "de": "Gehen Sie weg!",
+    "pl": "Odejdź!"
+  },
+  {
+    "id": "de-pl-140",
+    "de": "Hilfe! Jemand hat mich bestohlen.",
+    "pl": "Pomocy! Ktoś mnie okradł."
+  },
+  {
+    "id": "de-pl-141",
+    "de": "Ich habe mich verlaufen.",
+    "pl": "Zgubiłem się."
+  },
+  {
+    "id": "de-pl-142",
+    "de": "Können Sie mir auf der Karte zeigen, wo ich bin?",
+    "pl": "Czy może mi Pani/Pan pokazać na mapie, gdzie jestem?"
+  },
+  {
+    "id": "de-pl-143",
+    "de": "Wie ist Ihre Telefonnummer?",
+    "pl": "Jaki jest Pani/Pana numer telefonu?"
+  },
+  {
+    "id": "de-pl-144",
+    "de": "Schreiben Sie es bitte auf.",
+    "pl": "Proszę to zapisać."
+  },
+  {
+    "id": "de-pl-145",
+    "de": "Ich werde dich anrufen.",
+    "pl": "Zadzwonię do ciebie."
+  },
+  {
+    "id": "de-pl-146",
+    "de": "Schick mir eine Nachricht.",
+    "pl": "Wyślij mi wiadomość."
+  },
+  {
+    "id": "de-pl-147",
+    "de": "Sind Sie auf Social Media?",
+    "pl": "Czy jest Pani/Pan w mediach społecznościowych?"
+  },
+  {
+    "id": "de-pl-148",
+    "de": "Ich folge dir.",
+    "pl": "Obserwuję cię."
+  },
+  {
+    "id": "de-pl-149",
+    "de": "Was gibt es Neues?",
+    "pl": "Co nowego?"
+  },
+  {
+    "id": "de-pl-150",
+    "de": "Nichts Besonderes.",
+    "pl": "Nic specjalnego."
+  },
+  {
+    "id": "de-pl-151",
+    "de": "Ich freue mich darauf.",
+    "pl": "Cieszę się na to."
+  },
+  {
+    "id": "de-pl-152",
+    "de": "Das ist mir egal.",
+    "pl": "Wszystko mi jedno."
+  },
+  {
+    "id": "de-pl-153",
+    "de": "Keine Sorge, alles wird gut.",
+    "pl": "Nie martw się, wszystko będzie dobrze."
+  },
+  {
+    "id": "de-pl-154",
+    "de": "Beruhige dich, bitte.",
+    "pl": "Uspokój się, proszę."
+  },
+  {
+    "id": "de-pl-155",
+    "de": "Mach dir keinen Stress.",
+    "pl": "Nie stresuj się."
+  },
+  {
+    "id": "de-pl-156",
+    "de": "Das ist unglaublich!",
+    "pl": "To jest niewiarygodne!"
+  },
+  {
+    "id": "de-pl-157",
+    "de": "Ich bin stolz auf dich.",
+    "pl": "Jestem z ciebie dumny."
+  },
+  {
+    "id": "de-pl-158",
+    "de": "Das hast du gut gemacht.",
+    "pl": "Dobrze to zrobiłeś."
+  },
+  {
+    "id": "de-pl-159",
+    "de": "Kopf hoch!",
+    "pl": "Głowa do góry!"
+  },
+  {
+    "id": "de-pl-160",
+    "de": "Geben Sie nicht auf!",
+    "pl": "Proszę się nie poddawać!"
+  },
+  {
+    "id": "de-pl-161",
+    "de": "Übung macht den Meister.",
+    "pl": "Praktyka czyni mistrza."
+  },
+  {
+    "id": "de-pl-162",
+    "de": "Lass uns morgen anfangen.",
+    "pl": "Zacznijmy jutro."
+  },
+  {
+    "id": "de-pl-163",
+    "de": "Ich habe keine Zeit heute.",
+    "pl": "Nie mam dzisiaj czasu."
+  },
+  {
+    "id": "de-pl-164",
+    "de": "Wir können uns am Wochenende treffen.",
+    "pl": "Możemy się spotkać w weekend."
+  },
+  {
+    "id": "de-pl-165",
+    "de": "Wann hast du Zeit?",
+    "pl": "Kiedy masz czas?"
+  },
+  {
+    "id": "de-pl-166",
+    "de": "Ich bin flexibel.",
+    "pl": "Jestem elastyczny."
+  },
+  {
+    "id": "de-pl-167",
+    "de": "Es hängt vom Wetter ab.",
+    "pl": "To zależy od pogody."
+  },
+  {
+    "id": "de-pl-168",
+    "de": "Es ist bewölkt heute.",
+    "pl": "Dzisiaj jest pochmurno."
+  },
+  {
+    "id": "de-pl-169",
+    "de": "Es schneit draußen.",
+    "pl": "Na zewnątrz pada śnieg."
+  },
+  {
+    "id": "de-pl-170",
+    "de": "Der Wind ist sehr stark.",
+    "pl": "Wiatr jest bardzo silny."
+  },
+  {
+    "id": "de-pl-171",
+    "de": "Morgen wird es sonnig sein.",
+    "pl": "Jutro będzie słonecznie."
+  },
+  {
+    "id": "de-pl-172",
+    "de": "Ich liebe den Sommer.",
+    "pl": "Uwielbiam lato."
+  },
+  {
+    "id": "de-pl-173",
+    "de": "Der Winter ist zu lang.",
+    "pl": "Zima jest za długa."
+  },
+  {
+    "id": "de-pl-174",
+    "de": "Es ist meine Lieblingsjahreszeit.",
+    "pl": "To moja ulubiona pora roku."
+  },
+  {
+    "id": "de-pl-175",
+    "de": "Was hast du am Wochenende gemacht?",
+    "pl": "Co robiłeś w weekend?"
+  },
+  {
+    "id": "de-pl-176",
+    "de": "Ich bin zu Hause geblieben.",
+    "pl": "Zostałem w domu."
+  },
+  {
+    "id": "de-pl-177",
+    "de": "Ich habe meine Freunde besucht.",
+    "pl": "Odwiedziłem moich przyjaciół."
+  },
+  {
+    "id": "de-pl-178",
+    "de": "Wir hatten viel Spaß.",
+    "pl": "Dobrze się bawiliśmy."
+  },
+  {
+    "id": "de-pl-179",
+    "de": "Das war eine Überraschung.",
+    "pl": "To była niespodzianka."
+  },
+  {
+    "id": "de-pl-180",
+    "de": "Ich habe ein neues Auto gekauft.",
+    "pl": "Kupiłem nowy samochód."
+  },
+  {
+    "id": "de-pl-181",
+    "de": "Herzlichen Glückwunsch zum neuen Job!",
+    "pl": "Gratulacje z okazji nowej pracy!"
+  },
+  {
+    "id": "de-pl-182",
+    "de": "Wann fängst du an?",
+    "pl": "Kiedy zaczynasz?"
+  },
+  {
+    "id": "de-pl-183",
+    "de": "Ich fange nächsten Montag an.",
+    "pl": "Zaczynam w przyszły poniedziałek."
+  },
+  {
+    "id": "de-pl-184",
+    "de": "Ich bin ein bisschen nervös.",
+    "pl": "Jestem trochę nerwowy."
+  },
+  {
+    "id": "de-pl-185",
+    "de": "Das ist völlig normal.",
+    "pl": "To zupełnie normalne."
+  },
+  {
+    "id": "de-pl-186",
+    "de": "Du wirst das schaffen.",
+    "pl": "Poradzisz sobie z tym."
+  },
+  {
+    "id": "de-pl-187",
+    "de": "Ich glaube an dich.",
+    "pl": "Wierzę w ciebie."
+  },
+  {
+    "id": "de-pl-188",
+    "de": "Vielen Dank für deine Unterstützung.",
+    "pl": "Dziękuję bardzo za twoje wsparcie."
+  },
+  {
+    "id": "de-pl-189",
+    "de": "Du bist ein guter Freund.",
+    "pl": "Jesteś dobrym przyjacielem."
+  },
+  {
+    "id": "de-pl-190",
+    "de": "Ich bin immer für dich da.",
+    "pl": "Zawsze jestem tu dla ciebie."
+  },
+  {
+    "id": "de-pl-191",
+    "de": "Das bedeutet mir viel.",
+    "pl": "To wiele dla mnie znaczy."
+  },
+  {
+    "id": "de-pl-192",
+    "de": "Lass uns bald wieder treffen.",
+    "pl": "Spotkajmy się niedługo ponownie."
+  },
+  {"id": "de-pl-193","de": "Ich muss jetzt wirklich gehen.","pl": "Naprawdę muszę już iść."},{"id": "de-pl-194","de": "Komm gut nach Hause.","pl": "Wracaj bezpiecznie do domu."},{"id": "de-pl-195","de": "Schreib mir, wenn du angekommen bist.","pl": "Napisz do mnie, jak dojedziesz."},{"id": "de-pl-196","de": "Ich bin gut angekommen.","pl": "Dojechałem bezpiecznie."},{"id": "de-pl-197","de": "Schlaf gut.","pl": "Śpij dobrze."},{"id": "de-pl-198","de": "Träum süß.","pl": "Słodkich snów."},{"id": "de-pl-199","de": "Bis zum nächsten Mal.","pl": "Do następnego razu."},{"id": "de-pl-200","de": "Tschüss!","pl": "Cześć!"}],
     "germanchinese": []
   }
 }
