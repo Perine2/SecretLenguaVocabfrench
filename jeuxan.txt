@@ -4705,7 +4705,433 @@
   },
   {
     "id": "tr-112","en": "Turn left.","tr": "Sola dönün."},{"id": "tr-113","en": "I am lost.","tr": "Kayboldum."},{"id": "tr-114","en": "Can you show me on the map?","tr": "Haritada bana gösterebilir misiniz?"},{"id": "tr-115","en": "Where is the hotel?","tr": "Otel nerede?"},{"id": "tr-116","en": "I have a reservation.","tr": "Rezervasyonum var."},{"id": "tr-117","en": "Can I have the key?","tr": "Anahtarı alabilir miyim?"},{"id": "tr-118","en": "Is the Wi-Fi free?","tr": "Wi-Fi ücretsiz mi?"},{"id": "tr-119","en": "What is the password?","tr": "Şifre nedir?"},{"id": "tr-120","en": "Where is the elevator?","tr": "Asansör nerede?"},{"id": "tr-121","en": "I would like to book a table.","tr": "Bir masa ayırtmak istiyorum."},{"id": "tr-122","en": "For how many people?","tr": "Kaç kişilik?"},{"id": "tr-123","en": "For two people.","tr": "İki kişilik."},{"id": "tr-124","en": "At what time?","tr": "Saat kaçta?"},{"id": "tr-125","en": "Tonight at eight p.m.","tr": "Bu akşam saat sekizde."},{"id": "tr-126","en": "Are you ready to order?","tr": "Sipariş vermek için hazır mısınız?"},{"id": "tr-127","en": "I will have the chicken.","tr": "Tavuk alacağım."},{"id": "tr-128","en": "And to drink?","tr": "İçecek olarak ne alırsınız?"},{"id": "tr-129","en": "Mineral water, please.","tr": "Maden suyu lütfen."},{"id": "tr-130","en": "Enjoy your meal!","tr": "Afiyet olsun!"},{"id": "tr-131","en": "It was excellent.","tr": "Harikaydı."},{"id": "tr-132","en": "Do you accept credit cards?","tr": "Kredi kartı kabul ediyor musunuz?"},{"id": "tr-133","en": "I will pay in cash.","tr": "Nakit ödeyeceğim."},{"id": "tr-134","en": "Keep the change.","tr": "Üstü kalsın."},{"id": "tr-135","en": "Where are the shops?","tr": "Mağazalar nerede?"},{"id": "tr-136","en": "I am just looking.","tr": "Sadece bakıyorum."},{"id": "tr-137","en": "Can I try this on?","tr": "Bunu deneyebilir miyim?"},{"id": "tr-138","en": "Where are the fitting rooms?","tr": "Kabinler nerede?"},{"id": "tr-139","en": "What is your size?","tr": "Bedeniniz nedir?"},{"id": "tr-140","en": "It is too big.","tr": "Bu çok büyük."},{"id": "tr-141","en": "It is too small.","tr": "Bu çok küçük."},{"id": "tr-142","en": "Do you have a larger size?","tr": "Bir beden büyüğü var mı?"},{"id": "tr-143","en": "I'll take it.","tr": "Bunu alıyorum."},{"id": "tr-144","en": "Where is the cashier?","tr": "Kasa nerede?"},{"id": "tr-145","en": "Can I have a bag?","tr": "Poşet alabilir miyim?"},{"id": "tr-146","en": "I would like a refund.","tr": "Para iadesi istiyorum."},{"id": "tr-147","en": "It is broken.","tr": "Bu kırık."},{"id": "tr-148","en": "Where is the pharmacy?","tr": "Eczane nerede?"},{"id": "tr-149","en": "I am sick.","tr": "Hastayım."},{"id": "tr-150","en": "I have a headache.","tr": "Başım ağrıyor."},{"id": "tr-151","en": "I have a fever.","tr": "Ateşim var."},{"id": "tr-152","en": "I need some medicine.","tr": "İlaca ihtiyacım var."},{"id": "tr-153","en": "Where is the nearest hospital?","tr": "En yakın hastane nerede?"},{"id": "tr-154","en": "Call an ambulance!","tr": "Ambulans çağırın!"},{"id": "tr-155","en": "It is an emergency.","tr": "Bu bir acil durum."},{"id": "tr-156","en": "Is everything okay?","tr": "Her şey yolunda mı?"},{"id": "tr-157","en": "Yes, everything is fine.","tr": "Evet, her şey yolunda."},{"id": "tr-158","en": "Please calm down.","tr": "Lütfen sakin olun."},{"id": "tr-159","en": "Don't worry.","tr": "Endişelenmeyin."},{"id": "tr-160","en": "What happened?","tr": "Ne oldu?"},{"id": "tr-161","en": "It was an accident.","tr": "Bir kazaydı."},{"id": "tr-162","en": "I lost my passport.","tr": "Pasaportumu kaybettim."},{"id": "tr-163","en": "Where is the police station?","tr": "Karakol nerede?"},{"id": "tr-164","en": "My bag was stolen.","tr": "Çantam çalındı."},{"id": "tr-165","en": "Stop thief!","tr": "Hırsız var!"},{"id": "tr-166","en": "Help me!","tr": "Yardım edin!"},{"id": "tr-167","en": "What is the date today?","tr": "Bugünün tarihi nedir?"},{"id": "tr-168","en": "It is the first of May.","tr": "Bugün bir mayıs."},{"id": "tr-169","en": "What day is it today?","tr": "Bugün günlerden ne?"},{"id": "tr-170","en": "Today is Monday.","tr": "Bugün pazartesi."},{"id": "tr-171","en": "What did you do this weekend?","tr": "Bu hafta sonu ne yaptın?"},{"id": "tr-172","en": "I rested.","tr": "Dinlendim."},{"id": "tr-173","en": "What are we doing tomorrow?","tr": "Yarın ne yapıyoruz?"},{"id": "tr-174","en": "Shall we meet tonight?","tr": "Bu akşam görüşüyor muyuz?"},{"id": "tr-175","en": "What time shall we meet?","tr": "Saat kaçta buluşuyoruz?"},{"id": "tr-176","en": "Let's meet at seven p.m.","tr": "Saat yedi buluşuyoruz."},{"id": "tr-177","en": "Where is the meeting point?","tr": "Buluşma noktası nerede?"},{"id": "tr-178","en": "In front of the cinema.","tr": "Sinemanın önünde."},{"id": "tr-179","en": "I am on my way.","tr": "Yoldayım."},{"id": "tr-180","en": "I am going to be late.","tr": "Gecikeceğim."},{"id": "tr-181","en": "Sorry for being late.","tr": "Gecikme için özür dilerim."},{"id": "tr-182","en": "It's nothing.","tr": "Önemli değil."},{"id": "tr-183","en": "Thank you for coming.","tr": "Geldiğin için teşekkürler."},{"id": "tr-184","en": "It was a pleasure.","tr": "Benim için bir zevkti."},{"id": "tr-185","en": "Until next time.","tr": "Bir dahaki sefere."},{"id": "tr-186","en": "Did you have a good vacation?","tr": "Tatilin iyi geçti mi?"},{"id": "tr-187","en": "It was fantastic.","tr": "Harikaydı."},{"id": "tr-188","en": "Where did you go?","tr": "Nereye gittin?"},{"id": "tr-189","en": "I went to the beach.","tr": "Plaja gittim."},{"id": "tr-190","en": "How was the trip?","tr": "Yolculuk nasıldı?"},{"id": "tr-191","en": "It was a bit long.","tr": "Biraz uzundu."},{"id": "tr-192","en": "Did you take photos?","tr": "Fotoğraf çektin mi?"},{"id": "tr-193","en": "Yes, a lot.","tr": "Evet, çok."},{"id": "tr-194","en": "Show me, please.","tr": "Lütfen bana göster."},{"id": "tr-195","en": "It is beautiful.","tr": "Harika."},{"id": "tr-196","en": "How lucky!","tr": "Ne büyük şans!"},{"id": "tr-197","en": "I want to go there too.","tr": "Ben de gitmek istiyorum."},{"id": "tr-198","en": "Maybe next year.","tr": "Belki gelecek yıl."},{"id": "tr-199","en": "We will see.","tr": "Bakarız."},{"id": "tr-200","en": "This is the end of the file.","tr": "Dosyanın sonu."}],
-    "englishhindi": [],
+    "englishhindi": [{
+    "id": "hi-001",
+    "en": "Hello, how are you?",
+    "hi": "नमस्ते, आप कैसे हैं? (Namaste, aap kaise hain?)"
+  },
+  {
+    "id": "hi-002",
+    "en": "What is your name?",
+    "hi": "आपका नाम क्या है? (Aapka naam kya hai?)"
+  },
+  {
+    "id": "hi-003",
+    "en": "My name is John.",
+    "hi": "मेरा नाम जॉन है। (Mera naam John hai.)"
+  },
+  {
+    "id": "hi-004",
+    "en": "Nice to meet you.",
+    "hi": "आपसे मिलकर खुशी हुई। (Aapse milkar khushi hui.)"
+  },
+  {
+    "id": "hi-005",
+    "en": "Where are you from?",
+    "hi": "आप कहाँ से हैं? (Aap kahaan se hain?)"
+  },
+  {
+    "id": "hi-006",
+    "en": "I am from France.",
+    "hi": "मैं फ्रांस से हूँ। (Main France se hoon.)"
+  },
+  {
+    "id": "hi-007",
+    "en": "Where do you live?",
+    "hi": "आप कहाँ रहते हैं? (Aap kahaan rahte hain?)"
+  },
+  {
+    "id": "hi-008",
+    "en": "I live in Paris.",
+    "hi": "मैं पेरिस में रहता हूँ। (Main Paris mein rahta hoon.)"
+  },
+  {
+    "id": "hi-009",
+    "en": "How old are you?",
+    "hi": "आपकी उम्र क्या है? (Aapki umra kya hai?)"
+  },
+  {
+    "id": "hi-010",
+    "en": "I am thirty years old.",
+    "hi": "मैं तीस साल का हूँ। (Main tees saal ka hoon.)"
+  },
+  {
+    "id": "hi-011",
+    "en": "What do you do for a living?",
+    "hi": "आप क्या काम करते हैं? (Aap kya kaam karte hain?)"
+  },
+  {
+    "id": "hi-012",
+    "en": "I am a student.",
+    "hi": "मैं एक छात्र हूँ। (Main ek chhaatr hoon.)"
+  },
+  {
+    "id": "hi-013",
+    "en": "Do you speak Hindi?",
+    "hi": "क्या आप हिंदी बोलते हैं? (Kya aap Hindi bolte hain?)"
+  },
+  {
+    "id": "hi-014",
+    "en": "I speak a little Hindi.",
+    "hi": "मैं थोड़ी हिंदी बोलता हूँ। (Main thodi Hindi bolta hoon.)"
+  },
+  {
+    "id": "hi-015",
+    "en": "Can you help me, please?",
+    "hi": "कृपया क्या आप मेरी मदद कर सकते हैं? (Kripya kya aap meri madad kar sakte hain?)"
+  },
+  {
+    "id": "hi-016",
+    "en": "Thank you very much.",
+    "hi": "बहुत-बहुत धन्यवाद। (Bahut-bahut dhanyavaad.)"
+  },
+  {
+    "id": "hi-017",
+    "en": "You're welcome.",
+    "hi": "आपका स्वागत है। (Aapka swagat hai.)"
+  },
+  {
+    "id": "hi-018",
+    "en": "Please.",
+    "hi": "कृपया। (Kripya.)"
+  },
+  {
+    "id": "hi-019",
+    "en": "Excuse me.",
+    "hi": "माफ़ कीजिए। (Maaf kijiye.)"
+  },
+  {
+    "id": "hi-020",
+    "en": "I am sorry.",
+    "hi": "मुझे खेद है। (Muche khed hai.)"
+  },
+  {
+    "id": "hi-021",
+    "en": "What time is it?",
+    "hi": "क्या समय हुआ है? (Kya samay hua hai?)"
+  },
+  {
+    "id": "hi-022",
+    "en": "It is ten o'clock.",
+    "hi": "दस बजे हैं। (Das baje hain.)"
+  },
+  {
+    "id": "hi-023",
+    "en": "Where is the restroom?",
+    "hi": "शौचालय कहाँ है? (Shauchalay kahaan hai?)"
+  },
+  {
+    "id": "hi-024",
+    "en": "It is that way.",
+    "hi": "यह उस तरफ है। (Yeh us taraf hai.)"
+  },
+  {
+    "id": "hi-025",
+    "en": "How much does it cost?",
+    "hi": "इसकी कीमत क्या है? (Iski keemat kya hai?)"
+  },
+  {
+    "id": "hi-026",
+    "en": "It is too expensive.",
+    "hi": "यह बहुत महंगा है। (Yeh bahut mahanga hai.)"
+  },
+  {
+    "id": "hi-027",
+    "en": "Where is the train station?",
+    "hi": "रेलवे स्टेशन कहाँ है? (Railway station kahaan hai?)"
+  },
+  {
+    "id": "hi-028",
+    "en": "I am looking for a good restaurant.",
+    "hi": "मैं एक अच्छे रेस्तरां की तलाश में हूँ। (Main ek achhe restaurant ki talaash mein hoon.)"
+  },
+  {
+    "id": "hi-029",
+    "en": "The bill, please.",
+    "hi": "बिल प्लीज़। (Bill please.)"
+  },
+  {
+    "id": "hi-030",
+    "en": "What is the weather like today?",
+    "hi": "आज मौसम कैसा है? (Aaj mausam kaisa hai?)"
+  },
+  {
+    "id": "hi-031",
+    "en": "The weather is nice.",
+    "hi": "मौसम अच्छा है। (Mausam achha hai.)"
+  },
+  {
+    "id": "hi-032",
+    "en": "It is raining.",
+    "hi": "बारिश हो रही है। (Baarish ho rahi hai.)"
+  },
+  {
+    "id": "hi-033",
+    "en": "I am hungry.",
+    "hi": "मुझे भूख लगी है। (Muche bhookh lagi hai.)"
+  },
+  {
+    "id": "hi-034",
+    "en": "I am thirsty.",
+    "hi": "मुझे प्यास लगी है। (Muche pyaas lagi hai.)"
+  },
+  {
+    "id": "hi-035",
+    "en": "I am tired.",
+    "hi": "मैं थक गया हूँ। (Main thak gaya hoon.)"
+  },
+  {
+    "id": "hi-036",
+    "en": "I don't understand.",
+    "hi": "मैं समझा नहीं। (Main samjha nahin.)"
+  },
+  {
+    "id": "hi-037",
+    "en": "Can you repeat?",
+    "hi": "क्या आप दोहरा सकते हैं? (Kya aap dohra sakte hain?)"
+  },
+  {
+    "id": "hi-038",
+    "en": "Speak more slowly, please.",
+    "hi": "कृपया थोड़ा धीरे बोलें। (Kripya thoda dheere bolen.)"
+  },
+  {
+    "id": "hi-039",
+    "en": "How do you say that in Hindi?",
+    "hi": "इसे हिंदी में क्या कहते हैं? (Ise Hindi mein kya kahte hain?)"
+  },
+  {
+    "id": "hi-040",
+    "en": "What does this word mean?",
+    "hi": "इस शब्द का क्या अर्थ है? (Is shabd ka kya arth hai?)"
+  },
+  {
+    "id": "hi-041",
+    "en": "I love you.",
+    "hi": "मैं तुमसे प्यार करता हूँ। (Main tumse pyaar karta hoon.)"
+  },
+  {
+    "id": "hi-042",
+    "en": "I miss you.",
+    "hi": "मुझे तुम्हारी याद आती है। (Muche tumhari yaad aati hai.)"
+  },
+  {
+    "id": "hi-043",
+    "en": "Good luck!",
+    "hi": "सौभाग्य! (Saubhagya!)"
+  },
+  {
+    "id": "hi-044",
+    "en": "Congratulations!",
+    "hi": "बधाई हो! (Badhai ho!)"
+  },
+  {
+    "id": "hi-045",
+    "en": "Happy birthday!",
+    "hi": "जन्मदिन मुबारक हो! (Janmadin mubarak ho!)"
+  },
+  {
+    "id": "hi-046",
+    "en": "Have a good trip!",
+    "hi": "शुभ यात्रा! (Shubh yaatra!)"
+  },
+  {
+    "id": "hi-047",
+    "en": "Have a nice day.",
+    "hi": "आपका दिन शुभ हो। (Aapka din shubh ho.)"
+  },
+  {
+    "id": "hi-048",
+    "en": "See you soon.",
+    "hi": "जल्द ही फिर मिलेंगे। (Jald hi phir milenge.)"
+  },
+  {
+    "id": "hi-049",
+    "en": "See you tomorrow.",
+    "hi": "कल मिलते हैं। (Kal milte hain.)"
+  },
+  {
+    "id": "hi-050",
+    "en": "Goodbye.",
+    "hi": "अलविदा। (Alvida.)"
+  },
+  {
+    "id": "hi-051",
+    "en": "Where are you going?",
+    "hi": "आप कहाँ जा रहे हैं? (Aap kahaan ja rahe hain?)"
+  },
+  {
+    "id": "hi-052",
+    "en": "I am going to the supermarket.",
+    "hi": "मैं सुपरमार्केट जा रहा हूँ। (Main supermarket ja raha hoon.)"
+  },
+  {
+    "id": "hi-053",
+    "en": "What is it?",
+    "hi": "यह क्या है? (Yeh kya hai?)"
+  },
+  {
+    "id": "hi-054",
+    "en": "I don't know.",
+    "hi": "मुझे नहीं पता। (Muche nahin pata.)"
+  },
+  {
+    "id": "hi-055",
+    "en": "Are you sure?",
+    "hi": "क्या आपको यकीन है? (Kya aapko yakeen hai?)"
+  },
+  {
+    "id": "hi-056",
+    "en": "Yes, I am sure.",
+    "hi": "हाँ, मुझे यकीन है। (Haan, muche yakeen hai.)"
+  },
+  {
+    "id": "hi-057",
+    "en": "I think so.",
+    "hi": "मुझे ऐसा ही लगता है। (Muche aisa hi lagta hai.)"
+  },
+  {
+    "id": "hi-058",
+    "en": "I don't think so.",
+    "hi": "मुझे ऐसा नहीं लगता। (Muche aisa nahin lagta.)"
+  },
+  {
+    "id": "hi-059",
+    "en": "No problem.",
+    "hi": "कोई बात नहीं। (Koi baat nahin.)"
+  },
+  {
+    "id": "hi-060",
+    "en": "It doesn't matter.",
+    "hi": "इससे कोई फ़र्क नहीं पड़ता। (Isse koi farq nahin padta.)"
+  },
+  {
+    "id": "hi-061",
+    "en": "What are you eating?",
+    "hi": "तुम क्या खा रहे हो? (Tum kya kha rahe ho?)"
+  },
+  {
+    "id": "hi-062",
+    "en": "It is delicious.",
+    "hi": "यह बहुत स्वादिष्ट है। (Yeh bahut swadist hai.)"
+  },
+  {
+    "id": "hi-063",
+    "en": "I don't like it.",
+    "hi": "मुझे यह पसंद नहीं है। (Muche yeh pasand nahin hai.)"
+  },
+  {
+    "id": "hi-064",
+    "en": "What are your hobbies?",
+    "hi": "आपके शौक क्या हैं? (Aapke shauk kya hain?)"
+  },
+  {
+    "id": "hi-065",
+    "en": "I like reading books.",
+    "hi": "मुझे किताबें पढ़ना पसंद है। (Muche kitabein padhna pasand hai.)"
+  },
+  {
+    "id": "hi-066",
+    "en": "I like listening to music.",
+    "hi": "मुझे संगीत सुनना पसंद है। (Muche sangeet sunna pasand hai.)"
+  },
+  {
+    "id": "hi-067",
+    "en": "Do you do sports?",
+    "hi": "क्या आप खेल खेलते हैं? (Kya aap khel khelte hain?)"
+  },
+  {
+    "id": "hi-068",
+    "en": "I play soccer.",
+    "hi": "मैं फुटबॉल खेलता हूँ। (Main football khelta hoon.)"
+  },
+  {
+    "id": "hi-069",
+    "en": "I am watching a movie.",
+    "hi": "मैं फिल्म देख रहा हूँ। (Main movie dekh raha hoon.)"
+  },
+  {
+    "id": "hi-070",
+    "en": "Where did you buy that?",
+    "hi": "तुमने यह कहाँ से खरीदा? (Tumne yeh kahaan se kharida?)"
+  },
+  {
+    "id": "hi-071",
+    "en": "It is a gift.",
+    "hi": "यह एक उपहार है। (Yeh ek upahaar hai.)"
+  },
+  {
+    "id": "hi-072",
+    "en": "Can you close the window?",
+    "hi": "कृपया क्या आप खिड़की बंद कर सकते हैं? (Kripya kya aap khidki band kar sakte hain?)"
+  },
+  {
+    "id": "hi-073",
+    "en": "It is cold in here.",
+    "hi": "यहाँ ठंड है। (Yahaan thand hai.)"
+  },
+  {
+    "id": "hi-074",
+    "en": "It is hot outside.",
+    "hi": "बाहर गर्मी है। (Baahar garmi hai.)"
+  },
+  {
+    "id": "hi-075",
+    "en": "Where are my keys?",
+    "hi": "मेरी चाबियाँ कहाँ हैं? (Meri chabiyan kahaan hain?)"
+  },
+  {
+    "id": "hi-076",
+    "en": "They are on the table.",
+    "hi": "वे मेज पर हैं। (Ve mej par hain.)"
+  },
+  {
+    "id": "hi-077",
+    "en": "I have to go.",
+    "hi": "मुझे जाना होगा। (Muche jaana hoga.)"
+  },
+  {
+    "id": "hi-078",
+    "en": "Take care.",
+    "hi": "अपना ख्याल रखना। (Apna khayal rakhna.)"
+  },
+  {
+    "id": "hi-079",
+    "en": "See you later.",
+    "hi": "बाद में मिलते हैं। (Baad mein milte hain.)"
+  },
+  {
+    "id": "hi-080",
+    "en": "Good night.",
+    "hi": "शुभ रात्रि। (Shubh raatri.)"
+  },
+  {
+    "id": "hi-081",
+    "en": "Do you have any siblings?",
+    "hi": "क्या आपके भाई-बहन हैं? (Kya aapke bhai-bahan hain?)"
+  },
+  {
+    "id": "hi-082",
+    "en": "I have a brother and a sister.",
+    "hi": "मेरा एक भाई और एक बहन है। (Mera ek bhai aur ek bahan hai.)"
+  },
+  {
+    "id": "hi-083",
+    "en": "Are you married?",
+    "hi": "क्या आप शादीशुदा हैं? (Kya aap shaadishuda hain?)"
+  },
+  {
+    "id": "hi-084",
+    "en": "I am single.",
+    "hi": "मैं अविवाहित हूँ। (Main avivahit hoon.)"
+  },
+  {
+    "id": "hi-085",
+    "en": "Do you have children?",
+    "hi": "क्या तुम्हारे बच्चे हैं? (Kya tumhare bachhe hain?)"
+  },
+  {
+    "id": "hi-086","en": "I have two children.","hi": "मेरे दो बच्चे हैं। (Mere do bachhe hain.)"},{"id": "hi-087","en": "Where do you work?","hi": "तुम कहाँ काम करते हो? (Tum kahaan kaam karte ho?)"},{"id": "hi-088","en": "I work in an office.","hi": "मैं एक कार्यालय में काम करता हूँ। (Main ek karyalay mein kaam karta hoon.)"},{"id": "hi-089","en": "It is difficult.","hi": "यह कठिन है। (Yeh kathin hai.)"},{"id": "hi-090","en": "It is easy.","hi": "यह आसान है। (Yeh aasaan hai.)"},{"id": "hi-091","en": "I agree.","hi": "मैं सहमत हूँ। (Main sahmat hoon.)"},{"id": "hi-092","en": "I don't agree.","hi": "मैं सहमत नहीं हूँ। (Main sahmat nahin hoon.)"},{"id": "hi-093","en": "That's a good idea.","hi": "यह एक अच्छा विचार है। (Yeh ek achha vichaar hai.)"},{"id": "hi-094","en": "I don't have time.","hi": "मेरे पास समय नहीं है। (Mere paas samay nahin hai.)"},{"id": "hi-095","en": "Wait a minute.","hi": "एक minute रुकिए। (Ek minute rukiye.)"},{"id": "hi-096","en": "I'll be right back.","hi": "मैं अभी वापस आता हूँ। (Main abhi waapas aata hoon.)"},{"id": "hi-097","en": "Of course.","hi": "बिल्कुल। (Bilkul.)"},{"id": "hi-098","en": "Maybe.","hi": "शायद। (Shayad.)"},{"id": "hi-099","en": "Never.","hi": "कभी नहीं। (Kabhi nahin.)"},{"id": "hi-100","en": "Always.","hi": "हमेशा। (Hamesha.)"},{"id": "hi-101","en": "What is your favorite food?","hi": "तुम्हारा पसंदीदा खाना क्या है? (Tumhara pasandida khana kya hai?)"},{"id": "hi-102","en": "I love pasta.","hi": "मुझे पास्ता बहुत पसंद है। (Muche pasta bahut pasand hai.)"},{"id": "hi-103","en": "Do you want something to drink?","hi": "क्या तुम कुछ पीना चाहोगे? (Kya tum kuch peena chahoge?)"},{"id": "hi-104","en": "A coffee, please.","hi": "एक कॉफ़ी, कृपया। (Ek coffee, kripya.)"},{"id": "hi-105","en": "Where can I buy a ticket?","hi": "मैं टिकट कहाँ से खरीद सकता हूँ? (Main ticket kahaan se khareed sakta hoon?)"},{"id": "hi-106","en": "At the ticket counter.","hi": "टिकट काउंटर पर। (Ticket counter par.)"},{"id": "hi-107","en": "The train is late.","hi": "ट्रेन लेट है। (Train late hai.)"},{"id": "hi-108","en": "Is it far from here?","hi": "क्या यह यहाँ से दूर है? (Kya yeh yahaan se door hai?)"},{"id": "hi-109","en": "No, it is very close.","hi": "नहीं, यह बहुत पास है। (Nahin, yeh bahut paas hai.)"},{"id": "hi-110","en": "Go straight ahead.","hi": "सीधे जाइए। (Seedhe jaiye.)"},{"id": "hi-111","en": "Turn right.","hi": "दाएँ मुड़िए। (Daayein mudiye.)"},{"id": "hi-112","en": "Turn left.","hi": "बाएँ मुड़िए। (Baayein mudiye.)"},{"id": "hi-113","en": "I am lost.","hi": "मैं रास्ता भटक गया हूँ। (Main raasta bhatak gaya hoon.)"},{"id": "hi-114","en": "Can you show me on the map?","hi": "क्या आप मुझे नक्शे पर दिखा सकते हैं? (Kya aap muche nakshe par dikha sakte hain?)"},{"id": "hi-115","en": "Where is the hotel?","hi": "होटल कहाँ है? (Hotel kahaan hai?)"},{"id": "hi-116","en": "I have a reservation.","hi": "मेरी एक बुकिंग है। (Meri ek booking hai.)"},{"id": "hi-117","en": "Can I have the key?","hi": "क्या मुझे चाबी मिल सकती है? (Kya muche chaabi mil sakti hai?)"},{"id": "hi-118","en": "Is the Wi-Fi free?","hi": "क्या वाई-फाई मुफ़्त है? (Kya Wi-Fi muft hai?)"},{"id": "hi-119","en": "What is the password?","hi": "पासवर्ड क्या है? (Password kya hai?)"},{"id": "hi-120","en": "Where is the elevator?","hi": "लिफ्ट कहाँ है? (Lift kahaan hai?)"},{"id": "hi-121","en": "I would like to book a table.","hi": "मैं एक टेबल बुक करना चाहूंगा। (Main ek table book karna chahunga.)"},{"id": "hi-122","en": "For how many people?","hi": "कितने लोगों के लिए? (Kitne logon ke liye?)"},{"id": "hi-123","en": "For two people.","hi": "दो लोगों के लिए। (Do logon ke liye.)"},{"id": "hi-124","en": "At what time?","hi": "किस समय? (Kis samay?)"},{"id": "hi-125","en": "Tonight at eight p.m.","hi": "आज रात आठ बजे। (Aaj raat aath baje.)"},{"id": "hi-126","en": "Are you ready to order?","hi": "क्या आप ऑर्डर देने के लिए तैयार हैं? (Kya aap order dene ke liye taiyaar hain?)"},{"id": "hi-127","en": "I will have the chicken.","hi": "मैं चिकन लूंगा। (Main chicken loonga.)"},{"id": "hi-128","en": "And to drink?","hi": "और पीने के लिए? (Aur peene ke liye?)"},{"id": "hi-129","en": "Mineral water, please.","hi": "मिनरल वाटर, कृपया। (Mineral water, kripya.)"},{"id": "hi-130","en": "Enjoy your meal!","hi": "स्वादिष्ट भोजन का आनंद लें! (Swadist bhojan ka aanand lein!)"},{"id": "hi-131","en": "It was excellent.","hi": "यह बहुत बढ़िया था। (Yeh bahut badhiya tha.)"},{"id": "hi-132","en": "Do you accept credit cards?","hi": "क्या आप क्रेडिट कार्ड स्वीकार करते हैं? (Kya aap credit card sweekar karte hain?)"},{"id": "hi-133","en": "I will pay in cash.","hi": "मैं नकद भुगतान करूँगा। (Main nakad bhugtan karoonga.)"},{"id": "hi-134","en": "Keep the change.","hi": "छुट्टे रख लीजिए। (Chhutte rakh lijiye.)"},{"id": "hi-135","en": "Where are the shops?","hi": "दुकानें कहाँ हैं? (Dukanein kahaan hain?)"},{"id": "hi-136","en": "I am just looking.","hi": "मैं बस देख रहा हूँ। (Main bas dekh raha hoon.)"},{"id": "hi-137","en": "Can I try this on?","hi": "क्या मैं इसे आज़मा सकता हूँ? (Kya main ise aazma sakta hoon?)"},{"id": "hi-138","en": "Where are the fitting rooms?","hi": "ट्रायल रूम कहाँ है? (Trial room kahaan hai?)"},{"id": "hi-139","en": "What is your size?","hi": "आपका साइज क्या है? (Aapka size kya hai?)"},{"id": "hi-140","en": "It is too big.","hi": "यह बहुत बड़ा है। (Yeh bahut bada hai.)"},{"id": "hi-141","en": "It is too small.","hi": "यह बहुत छोटा है। (Yeh bahut chhota hai.)"},{"id": "hi-142","en": "Do you have a larger size?","hi": "क्या आपके पास इससे बड़ा साइज है? (Kya aapke paas isse bada size hai?)"},{"id": "hi-143","en": "I'll take it.","hi": "मैं इसे ले रहा हूँ। (Main ise le raha hoon.)"},{"id": "hi-144","en": "Where is the cashier?","hi": "कैश काउंटर कहाँ है? (Cash counter kahaan hai?)"},{"id": "hi-145","en": "Can I have a bag?","hi": "क्या मुझे एक थैली मिल सकती है? (Kya muche ek thaili mil sakti hai?)"},{"id": "hi-146","en": "I would like a refund.","hi": "मुझे रिफंड चाहिए। (Muche refund chahiye.)"},{"id": "hi-147","en": "It is broken.","hi": "यह टूटा हुआ है। (Yeh toota hua hai.)"},{"id": "hi-148","en": "Where is the pharmacy?","hi": "मेडिकल स्टोर कहाँ है? (Medical store kahaan hai?)"},{"id": "hi-149","en": "I am sick.","hi": "मैं बीमार हूँ। (Main beemar hoon.)"},{"id": "hi-150","en": "I have a headache.","hi": "मेरे सिर में दर्द है। (Mere sir mein dard hai.)"},{"id": "hi-151","en": "I have a fever.","hi": "मुझे बुखार है। (Muche bukhar hai.)"},{"id": "hi-152","en": "I need some medicine.","hi": "मुझे दवा चाहिए। (Muche dava chahiye.)"},{"id": "hi-153","en": "Where is the nearest hospital?","hi": "सबसे पास का अस्पताल कहाँ है? (Sabse paas ka hospital kahaan hai?)"},{"id": "hi-154","en": "Call an ambulance!","hi": "एम्बुलेंस बुलाओ! (Ambulance bulao!)"},{"id": "hi-155","en": "It is an emergency.","hi": "यह एक आपातकालीन स्थिति है। (Yeh ek aapaatkaleen sthiti hai.)"},{"id": "hi-156","en": "Is everything okay?","hi": "क्या सब ठीक है? (Kya sab theek hai?)"},{"id": "hi-157","en": "Yes, everything is fine.","hi": "हाँ, सब ठीक है। (Haan, sab theek hai.)"},{"id": "hi-158","en": "Please calm down.","hi": "कृपया शांत हो जाइए। (Kripya shaant ho jaiye.)"},{"id": "hi-159","en": "Don't worry.","hi": "चिंता मत करो। (Chinta mat karo.)"},{"id": "hi-160","en": "What happened?","hi": "क्या हुआ? (Kya hua?)"},{"id": "hi-161","en": "It was an accident.","hi": "यह एक दुर्घटना थी। (Yeh ek durghatna thi.)"},{"id": "hi-162","en": "I lost my passport.","hi": "मेरा पासपोर्ट खो गया है। (Mera passport kho gaya hai.)"},{"id": "hi-163","en": "Where is the police station?","hi": "पुलिस स्टेशन कहाँ है? (Police station kahaan hai?)"},{"id": "hi-164","en": "My bag was stolen.","hi": "मेरा बैग चोरी हो गया है। (Mera bag chori ho gaya hai.)"},{"id": "hi-165","en": "Stop thief!","hi": "चोर-चोर! (Chor-chor!)"},{"id": "hi-166","en": "Help me!","hi": "मेरी मदद करो! (Meri madad karo!)"},{"id": "hi-167","en": "What is the date today?","hi": "आज क्या तारीख है? (Aaj kya taareekh hai?)"},{"id": "hi-168","en": "It is the first of May.","hi": "आज पहली मई है। (Aaj pahli May hai.)"},{"id": "hi-169","en": "What day is it today?","hi": "आज कौन सा दिन है? (Aaj kaun sa din hai?)"},{"id": "hi-170","en": "Today is Monday.","hi": "आज सोमवार है। (Aaj Somvaar hai.)"},{"id": "hi-171","en": "What did you do this weekend?","hi": "तुमने इस वीकेंड पर what किया? (Tumne is weekend par kya kiya?)"},{"id": "hi-172","en": "I rested.","hi": "मैंने आराम किया। (Maine aaram kiya.)"},{"id": "hi-173","en": "What are we doing tomorrow?","hi": "हम कल क्या कर रहे हैं? (Hum kal kya kar rahe hain?)"},{"id": "hi-174","en": "Shall we meet tonight?","hi": "क्या हम आज रात मिल रहे हैं? (Kya hum aaj raat mil rahe hain?)"},{"id": "hi-175","en": "What time shall we meet?","hi": "हम किस समय मिल रहे हैं? (Hum kis samay mil rahe hain?)"},{"id": "hi-176","en": "Let's meet at seven p.m.","hi": "हम शाम सात बजे मिलेंगे। (Hum shaam saat baje milenge.)"},{"id": "hi-177","en": "Where is the meeting point?","hi": "मिलने की जगह कहाँ है? (Milne ki jagah kahaan hai?)"},{"id": "hi-178","en": "In front of the cinema.","hi": "सिनेमा हॉल के सामने। (Cinema hall ke saamne.)"},{"id": "hi-179","en": "I am on my way.","hi": "मैं रास्ते में हूँ। (Main raaste mein hoon.)"},{"id": "hi-180","en": "I am going to be late.","hi": "मुझे देर हो जाएगी। (Muche der ho jayegi.)"},{"id": "hi-181","en": "Sorry for being late.","hi": "देर से आने के लिए माफ़ी चाहता हूँ। (Der se aane ke liye maafi chahta hoon.)"},{"id": "hi-182","en": "It's nothing.","hi": "कोई बात नहीं। (Koi baat nahin.)"},{"id": "hi-183","en": "Thank you for coming.","hi": "आने के लिए धन्यवाद। (Aane ke liye dhanyavaad.)"},{"id": "hi-184","en": "It was a pleasure.","hi": "मुझे खुशी हुई। (Muche khushi hui.)"},{"id": "hi-185","en": "Until next time.","hi": "अगली बार मिलते हैं। (Agli baar milte hain.)"},{"id": "hi-186","en": "Did you have a good vacation?","hi": "आपकी छुट्टियां कैसी रहीं? (Aapki chhuttiyan kaisi raheen?)"},{"id": "hi-187","en": "It was fantastic.","hi": "यह बहुत शानदार था। (Yeh bahut shaandar tha.)"},{"id": "hi-188","en": "Where did you go?","hi": "तुम कहाँ गए थे? (Tum kahaan gaye the?)"},{"id": "hi-189","en": "I went to the beach.","hi": "मैं बीच पर गया था। (Main beach par gaya tha.)"},{"id": "hi-190","en": "How was the trip?","hi": "यात्रा कैसी रही? (Yaatra kaisi rahi?)"},{"id": "hi-191","en": "It was a bit long.","hi": "यह थोड़ा लंबा था। (Yeh thoda lamba tha.)"},{"id": "hi-192","en": "Did you take photos?","hi": "क्या तुमने तस्वीरें लीं? (Kya tumne tasveerein leen?)"},{"id": "hi-193","en": "Yes, a lot.","hi": "हाँ, बहुत सारी। (Haan, bahut saari.)"},{"id": "hi-194","en": "Show me, please.","hi": "कृपया मुझे दिखाओ। (Kripya muche dikhao.)"},{"id": "hi-195","en": "It is beautiful.","hi": "यह बहुत सुंदर है। (Yeh bahut sundar hai.)"},{"id": "hi-196","en": "How lucky!","hi": "कितनी अच्छी किस्मत है! (Kitni achhi kismat hai!)"},{"id": "hi-197","en": "I want to go there too.","hi": "मैं भी वहाँ जाना चाहता हूँ। (Main bhi wahaan jaana chahta hoon.)"},{"id": "hi-198","en": "Maybe next year.","hi": "शायद अगले साल। (Shayad agle saal.)"},{"id": "hi-199","en": "We will see.","hi": "देखते हैं। (Dekhte hain.)"},{"id": "hi-200","en": "This is the end of the file.","hi": "फ़ाइल समाप्त। (File samāpt.)"}],
     "englishpolish": [],
     "englishchinese": []
   }
