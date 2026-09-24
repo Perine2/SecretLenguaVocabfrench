@@ -8775,7 +8775,1974 @@
   {
     "id": "it-hi-195",
     "it": "Schreib mir, wenn du angekommen bist.","hi": "पहुँचने के बाद मुझे मैसेज करना।"},{"id": "it-hi-196","it": "Sono arrivato bene.","hi": "मैं सुरक्षित पहुँच गया हूँ।"},{"id": "it-hi-197","it": "Schlaf gut.","hi": "अच्छी नींद लो।"},{"id": "it-hi-198","it": "Träum süß.","hi": "मीठे सपने देखें।"},{"id": "it-hi-199","it": "Bis zum nächsten Mal.","hi": "अगली बार तक।"},{"id": "it-hi-200","it": "Tschüss!","hi": "बाय-बाय!"}],
-    "italianpolish": [],
-    "italianchinese": []
+    "italianpolish": [{
+    "id": "it-pl-001",
+    "it": "Ciao, come sta?",
+    "pl": "Dzień dobry, jak się Pani/Pan ma?"
+  },
+  {
+    "id": "it-pl-002",
+    "it": "Come si chiama?",
+    "pl": "Jak się Pani/Pan nazywa?"
+  },
+  {
+    "id": "it-pl-003",
+    "it": "Mi chiamo John.",
+    "pl": "Nazywam się John."
+  },
+  {
+    "id": "it-pl-004",
+    "it": "Piacere di conoscerla.",
+    "pl": "Miło Panią/Pana poznać."
+  },
+  {
+    "id": "it-pl-005",
+    "it": "Da dove viene?",
+    "pl": "Skąd Pani/Pan pochodzi?"
+  },
+  {
+    "id": "it-pl-006",
+    "it": "Vengo dalla Francia.",
+    "pl": "Pochodzę z Francji."
+  },
+  {
+    "id": "it-pl-007",
+    "it": "Dove abita?",
+    "pl": "Gdzie Pani/Pan mieszka?"
+  },
+  {
+    "id": "it-pl-008",
+    "it": "Abito a Parigi.",
+    "pl": "Mieszkam w Paryżu."
+  },
+  {
+    "id": "it-pl-009",
+    "it": "Quanti anni ha?",
+    "pl": "Ile ma Pani/Pan lat?"
+  },
+  {
+    "id": "it-pl-010",
+    "it": "Ho trent'anni.",
+    "pl": "Mam trzydzieści lat."
+  },
+  {
+    "id": "it-pl-011",
+    "it": "Che lavoro fa?",
+    "pl": "Czym zajmuje się Pani/Pan zawodowo?"
+  },
+  {
+    "id": "it-pl-012",
+    "it": "Sono uno studente.",
+    "pl": "Jestem studentem."
+  },
+  {
+    "id": "it-pl-013",
+    "it": "Parla inglese?",
+    "pl": "Czy mówi Pani/Pan po angielsku?"
+  },
+  {
+    "id": "it-pl-014",
+    "it": "Parlo un po' di inglese.",
+    "pl": "Mówię trochę po angielsku."
+  },
+  {
+    "id": "it-pl-015",
+    "it": "Può aiutarmi, per favore?",
+    "pl": "Czy może mi Pani/Pan pomóc?"
+  },
+  {
+    "id": "it-pl-016",
+    "it": "Grazie mille.",
+    "pl": "Dziękuję bardzo."
+  },
+  {
+    "id": "it-pl-017",
+    "it": "Prego.",
+    "pl": "Proszę bardzo."
+  },
+  {
+    "id": "it-pl-018",
+    "it": "Per favore.",
+    "pl": "Proszę."
+  },
+  {
+    "id": "it-pl-019",
+    "it": "Mi scusi.",
+    "pl": "Przepraszam."
+  },
+  {
+    "id": "it-pl-020",
+    "it": "Mi dispiace.",
+    "pl": "Przykro mi."
+  },
+  {
+    "id": "it-pl-021",
+    "it": "Che ore sono?",
+    "pl": "Która jest godzina?"
+  },
+  {
+    "id": "it-pl-022",
+    "it": "Sono le dieci.",
+    "pl": "Jest godzina dziesiąta."
+  },
+  {
+    "id": "it-pl-023",
+    "it": "Dov'è il bagno?",
+    "pl": "Gdzie jest toaleta?"
+  },
+  {
+    "id": "it-pl-024",
+    "it": "È da quella parte.",
+    "pl": "To tamtędy."
+  },
+  {
+    "id": "it-pl-025",
+    "it": "Quanto costa?",
+    "pl": "Ile to kosztuje?"
+  },
+  {
+    "id": "it-pl-026",
+    "it": "È troppo caro.",
+    "pl": "To jest za drogie."
+  },
+  {
+    "id": "it-pl-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "pl": "Gdzie jest dworzec kolejowy?"
+  },
+  {
+    "id": "it-pl-028",
+    "it": "Cerco un buon ristorante.",
+    "pl": "Szukam dobrej restauracji."
+  },
+  {
+    "id": "it-pl-029",
+    "it": "Il conto, per favore.",
+    "pl": "Poproszę rachunek."
+  },
+  {
+    "id": "it-pl-030",
+    "it": "Com'è il tempo oggi?",
+    "pl": "Jaka jest dzisiaj pogoda?"
+  },
+  {
+    "id": "it-pl-031",
+    "it": "Il tempo è bello.",
+    "pl": "Pogoda jest ładna."
+  },
+  {
+    "id": "it-pl-032",
+    "it": "Piove.",
+    "pl": "Pada deszcz."
+  },
+  {
+    "id": "it-pl-033",
+    "it": "Ho fame.",
+    "pl": "Jestem głodny."
+  },
+  {
+    "id": "it-pl-034",
+    "it": "Ho sete.",
+    "pl": "Chce mi się pić."
+  },
+  {
+    "id": "it-pl-035",
+    "it": "Sono stanco.",
+    "pl": "Jestem zmęczony."
+  },
+  {
+    "id": "it-pl-036",
+    "it": "Non capisco.",
+    "pl": "Nie rozumiem."
+  },
+  {
+    "id": "it-pl-037",
+    "it": "Può ripetere?",
+    "pl": "Czy może Pani/Pan to powtórzyć?"
+  },
+  {
+    "id": "it-pl-038",
+    "it": "Parli più lentamente, per favore.",
+    "pl": "Proszę mówić wolniej."
+  },
+  {
+    "id": "it-pl-039",
+    "it": "Come si dice in polacco?",
+    "pl": "Jak to się mówi po polsku?"
+  },
+  {
+    "id": "it-pl-040",
+    "it": "Cosa significa questa parola?",
+    "pl": "Co oznacza to słowo?"
+  },
+  {
+    "id": "it-pl-041",
+    "it": "Ti amo.",
+    "pl": "Kocham cię."
+  },
+  {
+    "id": "it-pl-042",
+    "it": "Mi manchi.",
+    "pl": "Tęsknię za tobą."
+  },
+  {
+    "id": "it-pl-043",
+    "it": "Buona fortuna!",
+    "pl": "Powodzenia!"
+  },
+  {
+    "id": "it-pl-044",
+    "it": "Congratulazioni!",
+    "pl": "Gratulacje!"
+  },
+  {
+    "id": "it-pl-045",
+    "it": "Buon compleanno!",
+    "pl": "Wszystkiego najlepszego z okazji urodzin!"
+  },
+  {
+    "id": "it-pl-046",
+    "it": "Buon viaggio!",
+    "pl": "Szczęśliwej podróży!"
+  },
+  {
+    "id": "it-pl-047",
+    "it": "Buona giornata.",
+    "pl": "Miłego dnia."
+  },
+  {
+    "id": "it-pl-048",
+    "it": "A presto.",
+    "pl": "Do zobaczenia wkrótce."
+  },
+  {
+    "id": "it-pl-049",
+    "it": "A domani.",
+    "pl": "Do jutra."
+  },
+  {
+    "id": "it-pl-050",
+    "it": "Arrivederci.",
+    "pl": "Do widzenia."
+  },
+  {
+    "id": "it-pl-051",
+    "it": "Dove va?",
+    "pl": "Dokąd Pani/Pan idzie?"
+  },
+  {
+    "id": "it-pl-052",
+    "it": "Vago al supermercato.",
+    "pl": "Idę do supermarketu."
+  },
+  {
+    "id": "it-pl-053",
+    "it": "Cos'è questo?",
+    "pl": "Co to jest?"
+  },
+  {
+    "id": "it-pl-054",
+    "it": "Non lo so.",
+    "pl": "Nie wiem."
+  },
+  {
+    "id": "it-pl-055",
+    "it": "È sicuro?",
+    "pl": "Czy jest Pani/Pan pewna/pewien?"
+  },
+  {
+    "id": "it-pl-056",
+    "it": "Sì, sono sicuro.",
+    "pl": "Tak, jestem pewien."
+  },
+  {
+    "id": "it-pl-057",
+    "it": "Penso di sì.",
+    "pl": "Tak mi się wydaje."
+  },
+  {
+    "id": "it-pl-058",
+    "it": "Penso di no.",
+    "pl": "Nie sądzę."
+  },
+  {
+    "id": "it-pl-059",
+    "it": "Nessun problema.",
+    "pl": "Nie ma problemu."
+  },
+  {
+    "id": "it-pl-060",
+    "it": "Non importa.",
+    "pl": "To nic nie szkodzi."
+  },
+  {
+    "id": "it-pl-061",
+    "it": "Cosa mangi?",
+    "pl": "Co jesz?"
+  },
+  {
+    "id": "it-pl-062",
+    "it": "È delizioso.",
+    "pl": "To jest pyszne."
+  },
+  {
+    "id": "it-pl-063",
+    "it": "Non mi piace.",
+    "pl": "Nie lubię tego."
+  },
+  {
+    "id": "it-pl-064",
+    "it": "Quali sono i suoi hobby?",
+    "pl": "Jakie są Pani/Pana zainteresowania?"
+  },
+  {
+    "id": "it-pl-065",
+    "it": "Mi piace leggere libri.",
+    "pl": "Lubię czytać książki."
+  },
+  {
+    "id": "it-pl-066",
+    "it": "Mi piace ascoltare musica.",
+    "pl": "Lubię słuchać muzyki."
+  },
+  {
+    "id": "it-pl-067",
+    "it": "Fa sport?",
+    "pl": "Czy uprawia Pani/Pan sport?"
+  },
+  {
+    "id": "it-pl-068",
+    "it": "Gioco a calcio.",
+    "pl": "Gram w piłkę nożną."
+  },
+  {
+    "id": "it-pl-069",
+    "it": "Guardo un film.",
+    "pl": "Oglądam film."
+  },
+  {
+    "id": "it-pl-070",
+    "it": "Dove l'hai comprato?",
+    "pl": "Gdzie to kupiłeś?"
+  },
+  {
+    "id": "it-pl-071",
+    "it": "È un regalo.",
+    "pl": "To jest prezent."
+  },
+  {
+    "id": "it-pl-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "pl": "Czy może Pani/Pan zamknąć okno?"
+  },
+  {
+    "id": "it-pl-073",
+    "it": "Fa freddo qui.",
+    "pl": "Tutaj jest zimno."
+  },
+  {
+    "id": "it-pl-074",
+    "it": "Fa caldo fuori.",
+    "pl": "Na zewnątrz jest gorąco."
+  },
+  {
+    "id": "it-pl-075",
+    "it": "Dove sono le mie chiavi?",
+    "pl": "Gdzie są moje klucze?"
+  },
+  {
+    "id": "it-pl-076",
+    "it": "Sono sul tavolo.",
+    "pl": "Są na stole."
+  },
+  {
+    "id": "it-pl-077",
+    "it": "Devo andare.",
+    "pl": "Muszę już iść."
+  },
+  {
+    "id": "it-pl-078",
+    "it": "Stammi bene.",
+    "pl": "Trzymaj się."
+  },
+  {
+    "id": "it-pl-079",
+    "it": "A più tardi.",
+    "pl": "Do zobaczenia później."
+  },
+  {
+    "id": "it-pl-080",
+    "it": "Buonanotte.",
+    "pl": "Dobranoc."
+  },
+  {
+    "id": "it-pl-081",
+    "it": "Ha fratelli o sorelle?",
+    "pl": "Czy ma Pani/Pan rodzeństwo?"
+  },
+  {
+    "id": "it-pl-082",
+    "it": "Ho un fratello e una sorella.",
+    "pl": "Mam brata i siostrę."
+  },
+  {
+    "id": "it-pl-083",
+    "it": "È sposato?",
+    "pl": "Czy jest Pani/Pan żonaty/zamężna?"
+  },
+  {
+    "id": "it-pl-084",
+    "it": "Sono celibe.",
+    "pl": "Jestem kawalerem/panną."
+  },
+  {
+    "id": "it-pl-085",
+    "it": "Hai figli?",
+    "pl": "Czy masz dzieci?"
+  },
+  {
+    "id": "it-pl-086",
+    "it": "Ho due figli.",
+    "pl": "Mam dwoje dzieci."
+  },
+  {
+    "id": "it-pl-087",
+    "it": "Dove lavori?",
+    "pl": "Gdzie pracujesz?"
+  },
+  {
+    "id": "it-pl-088",
+    "it": "Lavoro in ufficio.",
+    "pl": "Pracuję w biurze."
+  },
+  {
+    "id": "it-pl-089",
+    "it": "Le piace il caffè o il tè?",
+    "pl": "Woli Pani/Pan kawę czy herbatę?"
+  },
+  {
+    "id": "it-pl-090",
+    "it": "Preferisco bere il tè.",
+    "pl": "Wolę pić herbatę."
+  },
+  {
+    "id": "it-pl-091",
+    "it": "È una buona idea.",
+    "pl": "To dobry pomysł."
+  },
+  {
+    "id": "it-pl-092",
+    "it": "Sono stanco, vado a letto.",
+    "pl": "Jestem zmęczony, idę do łóżka."
+  },
+  {
+    "id": "it-pl-093",
+    "it": "Qual è il suo film preferito?",
+    "pl": "Jaki jest Pani/Pana ulubiony film?"
+  },
+  {
+    "id": "it-pl-094",
+    "it": "Può indicarmi la strada?",
+    "pl": "Czy może mi Pani/Pan wskazać drogę?"
+  },
+  {
+    "id": "it-pl-095",
+    "it": "Ho perso il mio telefono.",
+    "pl": "Zgubiłem telefon."
+  },
+  {
+    "id": "it-pl-096",
+    "it": "Chiami un medico, per favore.",
+    "pl": "Proszę wezwać lekarza."
+  },
+  {
+    "id": "it-pl-097",
+    "it": "È un'emergenza.",
+    "pl": "To jest nagły wypadek."
+  },
+  {
+    "id": "it-pl-098",
+    "it": "Ha la password del Wi-Fi?",
+    "pl": "Czy ma Pani/Pan hasło do Wi-Fi?"
+  },
+  {
+    "id": "it-pl-099",
+    "it": "Internet è molto lento.",
+    "pl": "Internet działa bardzo wolno."
+  },
+  {
+    "id": "it-pl-100",
+    "it": "Devo annullare il mio biglietto.",
+    "pl": "Muszę anulować swój bilet."
+  }, {
+    "id": "it-pl-101",
+    "it": "Quanto dura il viaggio?",
+    "pl": "Jak długo trwa podróż?"
+  },
+  {
+    "id": "it-pl-102",
+    "it": "Possiamo fermarci qui?",
+    "pl": "Czy możemy się tutaj zatrzymać?"
+  },
+  {
+    "id": "it-pl-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "pl": "Potrzebuję paragonu."
+  },
+  {
+    "id": "it-pl-104",
+    "it": "Dove posso cambiare il denaro?",
+    "pl": "Gdzie mogę wymienić pieniądze?"
+  },
+  {
+    "id": "it-pl-105",
+    "it": "C'è una banca qui vicino?",
+    "pl": "Czy w pobliżu jest bank?"
+  },
+  {
+    "id": "it-pl-106",
+    "it": "Accettate carte di credito?",
+    "pl": "Czy akceptują Państwo karty kredytowe?"
+  },
+  {
+    "id": "it-pl-107",
+    "it": "Pago in contanti.",
+    "pl": "Płacę gotówką."
+  },
+  {
+    "id": "it-pl-108",
+    "it": "Può farmi uno sconto?",
+    "pl": "Czy może mi Pani/Pan dać zniżkę?"
+  },
+  {
+    "id": "it-pl-109",
+    "it": "Questa è la mia ultima parola.",
+    "pl": "To moje ostatnie słowo."
+  },
+  {
+    "id": "it-pl-110",
+    "it": "Sto solo dando un'occhiata.",
+    "pl": "Tylko się rozglądam."
+  },
+  {
+    "id": "it-pl-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "pl": "Czy ma Pani/Pan to w innym rozmiarze?"
+  },
+  {
+    "id": "it-pl-112",
+    "it": "Dov'è il camerino?",
+    "pl": "Gdzie jest przymierzalnia?"
+  },
+  {
+    "id": "it-pl-113",
+    "it": "Mi sta bene.",
+    "pl": "To mi dobrze pasuje."
+  },
+  {
+    "id": "it-pl-114",
+    "it": "Lo prendo.",
+    "pl": "Biorę to."
+  },
+  {
+    "id": "it-pl-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "pl": "Gdzie mogę zostawić torbę?"
+  },
+  {
+    "id": "it-pl-116",
+    "it": "Avete cibo vegetariano?",
+    "pl": "Czy macie wegetariańskie jedzenie?"
+  },
+  {
+    "id": "it-pl-117",
+    "it": "Sono allergico.",
+    "pl": "Jestem alergikiem."
+  },
+  {
+    "id": "it-pl-118",
+    "it": "Non piccante, per favore.",
+    "pl": "Poproszę nieostre."
+  },
+  {
+    "id": "it-pl-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "pl": "Proszę przynieść mi szklankę wody."
+  },
+  {
+    "id": "it-pl-120",
+    "it": "Buon appetito!",
+    "pl": "Smacznego!"
+  },
+  {
+    "id": "it-pl-121",
+    "it": "Cin cin!",
+    "pl": "Na zdrowie!"
+  },
+  {
+    "id": "it-pl-122",
+    "it": "Il cibo era meraviglioso.",
+    "pl": "Jedzenie było wspaniałe."
+  },
+  {
+    "id": "it-pl-123",
+    "it": "Vorrei prenotare una camera.",
+    "pl": "Chciałbym zarezerwować pokój."
+  },
+  {
+    "id": "it-pl-124",
+    "it": "La colazione è inclusa?",
+    "pl": "Czy śniadanie jest wliczone w cenę?"
+  },
+  {
+    "id": "it-pl-125",
+    "it": "A che ora è il check-out?",
+    "pl": "O której godzinie jest wymeldowanie?"
+  },
+  {
+    "id": "it-pl-126",
+    "it": "Può chiamare un taxi?",
+    "pl": "Czy może mi Pani/Pan wezwać taksówkę?"
+  },
+  {
+    "id": "it-pl-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "pl": "Proszę zawieźć mnie pod ten adres."
+  },
+  {
+    "id": "it-pl-128",
+    "it": "Si fermi qui, per favore.",
+    "pl": "Proszę się tutaj zatrzymać."
+  },
+  {
+    "id": "it-pl-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "pl": "Czy jest tutaj przystanek autobusowy?"
+  },
+  {
+    "id": "it-pl-130",
+    "it": "A che ora parte il prossimo treno?",
+    "pl": "O której odjeżdża następny pociąg?"
+  },
+  {
+    "id": "it-pl-131",
+    "it": "Il treno è in ritardo.",
+    "pl": "Pociąg jest opóźniony."
+  },
+  {
+    "id": "it-pl-132",
+    "it": "Ho perso il mio volo.",
+    "pl": "Spóźniłem się na samolot."
+  },
+  {
+    "id": "it-pl-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "pl": "Gdzie jest odbiór bagażu?"
+  },
+  {
+    "id": "it-pl-134",
+    "it": "Questa non è la mia valigia.",
+    "pl": "To nie jest moja walizka."
+  },
+  {
+    "id": "it-pl-135",
+    "it": "Il mio passaporto è sparito.",
+    "pl": "Zgubiłem paszport."
+  },
+  {
+    "id": "it-pl-136",
+    "it": "Dov'è l'ambasciata?",
+    "pl": "Gdzie jest ambasada?"
+  },
+  {
+    "id": "it-pl-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "pl": "Potrzebuję pomocy policji."
+  },
+  {
+    "id": "it-pl-138",
+    "it": "Lasciami in pace.",
+    "pl": "Zostaw mnie w spokoju."
+  },
+  {
+    "id": "it-pl-139",
+    "it": "Vai via!",
+    "pl": "Odejdź!"
+  },
+  {
+    "id": "it-pl-140",
+    "it": "Aiuto! Qualcuno mi ha derubato.",
+    "pl": "Pomocy! Ktoś mnie okradł."
+  },
+  {
+    "id": "it-pl-141",
+    "it": "Mi sono perso.",
+    "pl": "Zgubiłem się."
+  },
+  {
+    "id": "it-pl-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "pl": "Czy może mi Pani/Pan pokazać na mapie, gdzie jestem?"
+  },
+  {
+    "id": "it-pl-143",
+    "it": "Qual è il suo numero di telefono?",
+    "pl": "Jaki jest Pani/Pana numer telefonu?"
+  },
+  {
+    "id": "it-pl-144",
+    "it": "Lo scriva, per favore.",
+    "pl": "Proszę to zapisać."
+  },
+  {
+    "id": "it-pl-145",
+    "it": "Ti chiamerò.",
+    "pl": "Zadzwonię do ciebie."
+  },
+  {
+    "id": "it-pl-146",
+    "it": "Mandami un messaggio.",
+    "pl": "Wyślij mi wiadomość."
+  },
+  {
+    "id": "it-pl-147",
+    "it": "È sui social media?",
+    "pl": "Czy jest Pani/Pan w mediach społecznościowych?"
+  },
+  {
+    "id": "it-pl-148",
+    "it": "Ti seguo.",
+    "pl": "Obserwuję cię."
+  },
+  {
+    "id": "it-pl-149",
+    "it": "Quali sono le novità?",
+    "pl": "Co nowego?"
+  },
+  {
+    "id": "it-pl-150",
+    "it": "Nulla di speciale.",
+    "pl": "Nic specjalnego."
+  },
+  {
+    "id": "it-pl-151",
+    "it": "Non vedo l'ora.",
+    "pl": "Cieszę się na to."
+  },
+  {
+    "id": "it-pl-152",
+    "it": "Non mi importa.",
+    "pl": "Wszystko mi jedno."
+  },
+  {
+    "id": "it-pl-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "pl": "Nie martw się, everything będzie dobrze."
+  },
+  {
+    "id": "it-pl-154",
+    "it": "Calmati, per favore.",
+    "pl": "Uspokój się, proszę."
+  },
+  {
+    "id": "it-pl-155",
+    "it": "Non stressarti.",
+    "pl": "Nie stresuj się."
+  },
+  {
+    "id": "it-pl-156",
+    "it": "È incredibile!",
+    "pl": "To jest niewiarygodne!"
+  },
+  {
+    "id": "it-pl-157",
+    "it": "Sono orgoglioso di te.",
+    "pl": "Jestem z ciebie dumny."
+  },
+  {
+    "id": "it-pl-158",
+    "it": "Hai fatto un buon lavoro.",
+    "pl": "Dobrze to zrobiłeś."
+  },
+  {
+    "id": "it-pl-159",
+    "it": "Su col morale!",
+    "pl": "Głowa do góry!"
+  },
+  {
+    "id": "it-pl-160",
+    "it": "Non ti arrendere!",
+    "pl": "Proszę się nie poddawać!"
+  },
+  {
+    "id": "it-pl-161",
+    "it": "L'esercizio rende perfetti.",
+    "pl": "Praktyka czyni mistrza."
+  },
+  {
+    "id": "it-pl-162",
+    "it": "Cominciamo domani.",
+    "pl": "Zacznijmy jutro."
+  },
+  {
+    "id": "it-pl-163",
+    "it": "Non ho tempo oggi.",
+    "pl": "Nie mam dzisiaj czasu."
+  },
+  {
+    "id": "it-pl-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "pl": "Możemy się spotkać w weekend."
+  },
+  {
+    "id": "it-pl-165",
+    "it": "Wann hast du zeit?",
+    "pl": "Kiedy masz czas?"
+  },
+  {
+    "id": "it-pl-166",
+    "it": "Sono flessibile.",
+    "pl": "Jestem elastyczny."
+  },
+  {
+    "id": "it-pl-167",
+    "it": "Dipende dal tempo.",
+    "pl": "To zależy od pogody."
+  },
+  {
+    "id": "it-pl-168",
+    "it": "È nuvoloso oggi.",
+    "pl": "Dzisiaj jest pochmurno."
+  },
+  {
+    "id": "it-pl-169",
+    "it": "Nevica fuori.",
+    "pl": "Na zewnątrz pada śnieg."
+  },
+  {
+    "id": "it-pl-170",
+    "it": "Il vento è molto forte.",
+    "pl": "Wiatr jest bardzo silny."
+  },
+  {
+    "id": "it-pl-171",
+    "it": "Domani sarà soleggiato.",
+    "pl": "Jutro będzie słonecznie."
+  },
+  {
+    "id": "it-pl-172",
+    "it": "Amo l'estate.",
+    "pl": "Uwielbiam lato."
+  },
+  {
+    "id": "it-pl-173",
+    "it": "L'inverno è troppo lungo.",
+    "pl": "Zima jest za długa."
+  },
+  {
+    "id": "it-pl-174",
+    "it": "È la mia stagione preferita.",
+    "pl": "To moja ulubiona pora roku."
+  },
+  {
+    "id": "it-pl-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "pl": "Co robiłeś w weekend?"
+  },
+  {
+    "id": "it-pl-176",
+    "it": "Sono rimato a casa.",
+    "pl": "Zostałem w domu."
+  },
+  {
+    "id": "it-pl-177",
+    "it": "Ho visitato i miei amici.",
+    "pl": "Odwiedziłem moich przyjaciół."
+  },
+  {
+    "id": "it-pl-178",
+    "it": "Ci siamo divertiti molto.",
+    "pl": "Dobrze się bawiliśmy."
+  },
+  {
+    "id": "it-pl-179",
+    "it": "È stata una sorpresa.",
+    "pl": "To była niespodzianka."
+  },
+  {
+    "id": "it-pl-180",
+    "it": "Ho comprato una nuova auto.",
+    "pl": "Kupiłem nowy samochód."
+  },
+  {
+    "id": "it-pl-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "pl": "Gratulacje z okazji nowej pracy!"
+  },
+  {
+    "id": "it-pl-182",
+    "it": "Quando cominci?",
+    "pl": "Kiedy zaczynasz?"
+  },
+  {
+    "id": "it-pl-183",
+    "it": "Comincio lunedì prossimo.",
+    "pl": "Zacznijmy w przyszły poniedziałek."
+  },
+  {
+    "id": "it-pl-184",
+    "it": "Sono un po' nervoso.",
+    "pl": "Jestem trochę nerwowy."
+  },
+  {
+    "id": "it-pl-185",
+    "it": "È del tutto normale.",
+    "pl": "To zupełnie normalne."
+  },
+  {
+    "id": "it-pl-186",
+    "it": "Ce la farai.",
+    "pl": "Poradzisz sobie z tym."
+  },
+  {
+    "id": "it-pl-187",
+    "it": "Credo in te.",
+    "pl": "Wierzę w ciebie."
+  },
+  {
+    "id": "it-pl-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "pl": "Dziękuję bardzo za twoje wsparcie."
+  },
+  {
+    "id": "it-pl-189",
+    "it": "Sei un buon amico.",
+    "pl": "Jesteś dobrym przyjacielem."
+  },
+  {
+    "id": "it-pl-190",
+    "it": "Ci sono sempre per te.",
+    "pl": "Zawsze jestem tu dla ciebie."
+  },
+  {
+    "id": "it-pl-191",
+    "it": "Questo significa molto per me.",
+    "pl": "To wiele dla mnie znaczy."
+  },
+  {
+    "id": "it-pl-192",
+    "it": "Incontriamoci di nuovo presto.",
+    "pl": "Spotkajmy się niedługo ponownie."
+  },
+  {
+    "id": "it-pl-193",
+    "it": "Adesso devo proprio andare.",
+    "pl": "Naprawdę muszę już iść."
+  },
+  {
+    "id": "it-pl-194",
+    "it": "Fai buon rientro a casa.",
+    "pl": "Wracaj bezpiecznie do domu."
+  },
+  {"id": "it-pl-195","it": "Scrivimi quando arrivi.","pl": "Napisz do mnie, jak dojedziesz."},{"id": "it-pl-196","it": "Sono arrivato bene.","pl": "Dojechałem bezpiecznie."},{"id": "it-pl-197","it": "Dormi bene.","pl": "Śpij dobrze."},{"id": "it-pl-198","it": "Sogni d'oro.","pl": "Słodkich snów."},{"id": "it-pl-199","it": "Alla prossima volta.","pl": "Do następnego razu."},{"id": "it-pl-200","it": "Ciao ciao!","pl": "Cześć!"}],
+    "italianchinese": [{
+    "id": "it-zh-001",
+    "it": "Ciao, come sta?",
+    "zh": "您好，您好吗？"
+  },
+  {
+    "id": "it-zh-002",
+    "it": "Come si chiama?",
+    "zh": "您叫什么名字？"
+  },
+  {
+    "id": "it-zh-003",
+    "it": "Mi chiamo John.",
+    "zh": "我叫约翰。"
+  },
+  {
+    "id": "it-zh-004",
+    "it": "Piacere di conoscerla.",
+    "zh": "很高兴认识您。"
+  },
+  {
+    "id": "it-zh-005",
+    "it": "Da dove viene?",
+    "zh": "您来自哪里？"
+  },
+  {
+    "id": "it-zh-006",
+    "it": "Vengo dalla Francia.",
+    "zh": "我来自法国。"
+  },
+  {
+    "id": "it-zh-007",
+    "it": "Dove abita?",
+    "zh": "您住在哪里？"
+  },
+  {
+    "id": "it-zh-008",
+    "it": "Abito a Parigi.",
+    "zh": "我住在巴黎。"
+  },
+  {
+    "id": "it-zh-009",
+    "it": "Quanti anni ha?",
+    "zh": "您多大年纪？"
+  },
+  {
+    "id": "it-zh-010",
+    "it": "Ho trent'anni.",
+    "zh": "我三十岁了。"
+  },
+  {
+    "id": "it-zh-011",
+    "it": "Che lavoro fa?",
+    "zh": "您的职业是什么？"
+  },
+  {
+    "id": "it-zh-012",
+    "it": "Sono uno studente.",
+    "zh": "我是学生。"
+  },
+  {
+    "id": "it-zh-013",
+    "it": "Parla inglese?",
+    "zh": "您说英语吗？"
+  },
+  {
+    "id": "it-zh-014",
+    "it": "Parlo un po' di inglese.",
+    "zh": "我会说一点英语。"
+  },
+  {
+    "id": "it-zh-015",
+    "it": "Può aiutarmi, per favore?",
+    "zh": "请问您能帮我一下吗？"
+  },
+  {
+    "id": "it-zh-016",
+    "it": "Grazie mille.",
+    "zh": "非常感谢。"
+  },
+  {
+    "id": "it-zh-017",
+    "it": "Prego.",
+    "zh": "不用客气。"
+  },
+  {
+    "id": "it-zh-018",
+    "it": "Per favore.",
+    "zh": "请。"
+  },
+  {
+    "id": "it-zh-019",
+    "it": "Mi scusi.",
+    "zh": "打扰一下 / 对不起。"
+  },
+  {
+    "id": "it-zh-020",
+    "it": "Mi dispiace.",
+    "zh": "我很抱歉。"
+  },
+  {
+    "id": "it-zh-021",
+    "it": "Che ore sono?",
+    "zh": "现在几点了？"
+  },
+  {
+    "id": "it-zh-022",
+    "it": "Sono le dieci.",
+    "zh": "现在十点了。"
+  },
+  {
+    "id": "it-zh-023",
+    "it": "Dov'è il bagno?",
+    "zh": "洗手间在哪里？"
+  },
+  {
+    "id": "it-zh-024",
+    "it": "È da quella parte.",
+    "zh": "往那边走。"
+  },
+  {
+    "id": "it-zh-025",
+    "it": "Quanto costa?",
+    "zh": "这个多少钱？"
+  },
+  {
+    "id": "it-zh-026",
+    "it": "È troppo caro.",
+    "zh": "这太贵了。"
+  },
+  {
+    "id": "it-zh-027",
+    "it": "Dov'è la stazione ferroviaria?",
+    "zh": "火车站在哪里？"
+  },
+  {
+    "id": "it-zh-028",
+    "it": "Cerco un buon ristorante.",
+    "zh": "我在寻找一家好的餐厅。"
+  },
+  {
+    "id": "it-zh-029",
+    "it": "Il conto, per favore.",
+    "zh": "买单，谢谢。"
+  },
+  {
+    "id": "it-zh-030",
+    "it": "Com'è il tempo oggi?",
+    "zh": "今天天气怎么样？"
+  },
+  {
+    "id": "it-zh-031",
+    "it": "Il tempo è bello.",
+    "zh": "天气很好。"
+  },
+  {
+    "id": "it-zh-032",
+    "it": "Piove.",
+    "zh": "下雨了。"
+  },
+  {
+    "id": "it-zh-033",
+    "it": "Ho fame.",
+    "zh": "我饿了。"
+  },
+  {
+    "id": "it-zh-034",
+    "it": "Ho sete.",
+    "zh": "我渴了。"
+  },
+  {
+    "id": "it-zh-035",
+    "it": "Sono stanco.",
+    "zh": "我累了。"
+  },
+  {
+    "id": "it-zh-036",
+    "it": "Non capisco.",
+    "zh": "我不明白。"
+  },
+  {
+    "id": "it-zh-037",
+    "it": "Può ripetere?",
+    "zh": "您能重复一遍吗？"
+  },
+  {
+    "id": "it-zh-038",
+    "it": "Parli più lentamente, per favore.",
+    "zh": "请说慢一点。"
+  },
+  {
+    "id": "it-zh-039",
+    "it": "Come si dice in cinese?",
+    "zh": "这个用中文怎么说？"
+  },
+  {
+    "id": "it-zh-040",
+    "it": "Cosa significa questa parola?",
+    "zh": "这个词是什么意思？"
+  },
+  {
+    "id": "it-zh-041",
+    "it": "Ti amo.",
+    "zh": "我爱你。"
+  },
+  {
+    "id": "it-zh-042",
+    "it": "Mi manchi.",
+    "zh": "我想你。"
+  },
+  {
+    "id": "it-zh-043",
+    "it": "Buona fortuna!",
+    "zh": "祝你好运！"
+  },
+  {
+    "id": "it-zh-044",
+    "it": "Congratulazioni!",
+    "zh": "恭喜你！"
+  },
+  {
+    "id": "it-zh-045",
+    "it": "Buon compleanno!",
+    "zh": "生日快乐！"
+  },
+  {
+    "id": "it-zh-046",
+    "it": "Buon viaggio!",
+    "zh": "旅途愉快！"
+  },
+  {
+    "id": "it-zh-047",
+    "it": "Buona giornata.",
+    "zh": "祝您度过美好的一天。"
+  },
+  {
+    "id": "it-zh-048",
+    "it": "A presto.",
+    "zh": "回头见 / 一会儿见。"
+  },
+  {
+    "id": "it-zh-049",
+    "it": "A domani.",
+    "zh": "明天见。"
+  },
+  {
+    "id": "it-zh-050",
+    "it": "Arrivederci.",
+    "zh": "再见。"
+  },
+  {
+    "id": "it-zh-051",
+    "it": "Dove va?",
+    "zh": "您要去哪里？"
+  },
+  {
+    "id": "it-zh-052",
+    "it": "Vado al supermercato.",
+    "zh": "我要去超市。"
+  },
+  {
+    "id": "it-zh-053",
+    "it": "Cos'è questo?",
+    "zh": "这是什么？"
+  },
+  {
+    "id": "it-zh-054",
+    "it": "Non lo so.",
+    "zh": "我不知道。"
+  },
+  {
+    "id": "it-zh-055",
+    "it": "È sicuro?",
+    "zh": "您确定吗？"
+  },
+  {
+    "id": "it-zh-056",
+    "it": "Sì, sono sicuro.",
+    "zh": "是的，我确定。"
+  },
+  {
+    "id": "it-zh-057",
+    "it": "Penso di sì.",
+    "zh": "我想是的。"
+  },
+  {
+    "id": "it-zh-058",
+    "it": "Penso di no.",
+    "zh": "我想不是。"
+  },
+  {
+    "id": "it-zh-059",
+    "it": "Nessun problema.",
+    "zh": "没问题。"
+  },
+  {
+    "id": "it-zh-060",
+    "it": "Non importa.",
+    "zh": "没关系。"
+  },
+  {
+    "id": "it-zh-061",
+    "it": "Cosa mangi?",
+    "zh": "你在吃什么？"
+  },
+  {
+    "id": "it-zh-062",
+    "it": "È delizioso.",
+    "zh": "很好吃。"
+  },
+  {
+    "id": "it-zh-063",
+    "it": "Non mi piace.",
+    "zh": "我不喜欢这个。"
+  },
+  {
+    "id": "it-zh-064",
+    "it": "Quali sono i suoi hobby?",
+    "zh": "您的爱好是什么？"
+  },
+  {
+    "id": "it-zh-065",
+    "it": "Mi piace leggere libri.",
+    "zh": "我喜欢读书。"
+  },
+  {
+    "id": "it-zh-066",
+    "it": "Mi piace ascoltare musica.",
+    "zh": "我喜欢听音乐。"
+  },
+  {
+    "id": "it-zh-067",
+    "it": "Fa sport?",
+    "zh": "您做运动吗？"
+  },
+  {
+    "id": "it-zh-068",
+    "it": "Gioco a calcio.",
+    "zh": "我踢足球。"
+  },
+  {
+    "id": "it-zh-069",
+    "it": "Guardo un film.",
+    "zh": "我在看电影。"
+  },
+  {
+    "id": "it-zh-070",
+    "it": "Dove l'hai comprato?",
+    "zh": "你是在哪里买的？"
+  },
+  {
+    "id": "it-zh-071",
+    "it": "È un regalo.",
+    "zh": "这是一份礼物。"
+  },
+  {
+    "id": "it-zh-072",
+    "it": "Può chiudere la finestra, per favore?",
+    "zh": "请关一下窗户好吗？"
+  },
+  {
+    "id": "it-zh-073",
+    "it": "Fa freddo qui.",
+    "zh": "这里很冷。"
+  },
+  {
+    "id": "it-zh-074",
+    "it": "Fa caldo fuori.",
+    "zh": "外面很热。"
+  },
+  {
+    "id": "it-zh-075",
+    "it": "Dove sono le mie chiavi?",
+    "zh": "我的钥匙在哪里？"
+  },
+  {
+    "id": "it-zh-076",
+    "it": "Sono sul tavolo.",
+    "zh": "它们在桌子上。"
+  },
+  {
+    "id": "it-zh-077",
+    "it": "Devo andare.",
+    "zh": "我得走了。"
+  },
+  {
+    "id": "it-zh-078",
+    "it": "Stammi bene.",
+    "zh": "保重。"
+  },
+  {
+    "id": "it-zh-079",
+    "it": "A più tardi.",
+    "zh": "回头见。"
+  },
+  {
+    "id": "it-zh-080",
+    "it": "Buonanotte.",
+    "zh": "晚安。"
+  },
+  {
+    "id": "it-zh-081",
+    "it": "Ha fratelli o sorelle?",
+    "zh": "你有兄弟姐妹吗？"
+  },
+  {
+    "id": "it-zh-082",
+    "it": "Ho un fratello e una sorella.",
+    "zh": "我有一个哥哥/弟弟和一个姐姐/妹妹。"
+  },
+  {
+    "id": "it-zh-083",
+    "it": "Sind Sie verheiratet?",
+    "zh": "您结婚了吗？"
+  },
+  {
+    "id": "it-zh-084",
+    "it": "Sono celibe.",
+    "zh": "我单身。"
+  },
+  {
+    "id": "it-zh-085",
+    "it": "Hai figli?",
+    "zh": "你有孩子吗？"
+  },
+  {
+    "id": "it-zh-086",
+    "it": "Ho due figli.",
+    "zh": "我有两个孩子。"
+  },
+  {
+    "id": "it-zh-087",
+    "it": "Dove lavori?",
+    "zh": "你在哪里工作？"
+  },
+  {
+    "id": "it-zh-088",
+    "it": "Lavoro in ufficio.",
+    "zh": "我在办公室工作。"
+  },
+  {
+    "id": "it-zh-089",
+    "it": "Le piace il caffè o il tè?",
+    "zh": "您喜欢咖啡还是茶？"
+  },
+  {
+    "id": "it-zh-090",
+    "it": "Preferisco bere il tè.",
+    "zh": "我更喜欢喝茶。"
+  },
+  {
+    "id": "it-zh-091",
+    "it": "È una buona idea.",
+    "zh": "这是个好主意。"
+  },
+  {
+    "id": "it-zh-092",
+    "it": "Sono stanco, vado a letto.",
+    "zh": "我累了，我要去睡觉了。"
+  },
+  {
+    "id": "it-zh-093",
+    "it": "Qual è il suo film preferito?",
+    "zh": "你最喜欢的电影是什么？"
+  },
+  {
+    "id": "it-zh-094",
+    "it": "Può indicarmi la strada?",
+    "zh": "您能给我指路吗？"
+  },
+  {
+    "id": "it-zh-095",
+    "it": "Ho perso il mio telefono.",
+    "zh": "我的手机丢了。"
+  },
+  {
+    "id": "it-zh-096",
+    "it": "Chiami un medico, per favore.",
+    "zh": "请叫医生。"
+  },
+  {
+    "id": "it-zh-097",
+    "it": "È un'emergenza.",
+    "zh": "这是紧急情况。"
+  },
+  {
+    "id": "it-zh-098",
+    "it": "Ha la password del Wi-Fi?",
+    "zh": "你有无线网络（Wi-Fi）密码吗？"
+  },
+  {
+    "id": "it-zh-099",
+    "it": "Internet è molto lento.",
+    "zh": "网络非常慢。"
+  },
+  {
+    "id": "it-zh-100",
+    "it": "Devo annullare il mio biglietto.",
+    "zh": "我需要退票。"
+  },{
+    "id": "it-zh-101",
+    "it": "Quanto dura il viaggio?",
+    "zh": "车程需要多长时间？"
+  },
+  {
+    "id": "it-zh-102",
+    "it": "Possiamo fermarci qui?",
+    "zh": "我们可以在这里停一下吗？"
+  },
+  {
+    "id": "it-zh-103",
+    "it": "Ho bisogno di una ricevuta.",
+    "zh": "我需要一张发票/收据。"
+  },
+  {
+    "id": "it-zh-104",
+    "it": "Dove posso cambiare il denaro?",
+    "zh": "我可以在哪里兑换外币？"
+  },
+  {
+    "id": "it-zh-105",
+    "it": "C'è una banca qui vicino?",
+    "zh": "这附近有银行吗？"
+  },
+  {
+    "id": "it-zh-106",
+    "it": "Accettate carte di credito?",
+    "zh": "你们接受信用卡吗？"
+  },
+  {
+    "id": "it-zh-107",
+    "it": "Pago in contanti.",
+    "zh": "我用现金支付。"
+  },
+  {
+    "id": "it-zh-108",
+    "it": "Può farmi uno sconto?",
+    "zh": "能给我便宜一点吗？"
+  },
+  {
+    "id": "it-zh-109",
+    "it": "Questa è la mia ultima parola.",
+    "zh": "这是我最后的出价。"
+  },
+  {
+    "id": "it-zh-110",
+    "it": "Sto solo dando un'occhiata.",
+    "zh": "我只是随便看看。"
+  },
+  {
+    "id": "it-zh-111",
+    "it": "Ce l'ha in un'altra taglia?",
+    "zh": "这个有其他尺码吗？"
+  },
+  {
+    "id": "it-zh-112",
+    "it": "Dov'è il camerino?",
+    "zh": "试衣间在哪里？"
+  },
+  {
+    "id": "it-zh-113",
+    "it": "Mi sta bene.",
+    "zh": "这很合我的身。"
+  },
+  {
+    "id": "it-zh-114",
+    "it": "Lo prendo.",
+    "zh": "我要买这个。"
+  },
+  {
+    "id": "it-zh-115",
+    "it": "Dove posso lasciare la mia borsa?",
+    "zh": "我可以把包存在哪里？"
+  },
+  {
+    "id": "it-zh-116",
+    "it": "Avete cibo vegetariano?",
+    "zh": "你们有素食吗？"
+  },
+  {
+    "id": "it-zh-117",
+    "it": "Sono allergico.",
+    "zh": "我过敏。"
+  },
+  {
+    "id": "it-zh-118",
+    "it": "Non piccante, per favore.",
+    "zh": "请不要加辣。"
+  },
+  {
+    "id": "it-zh-119",
+    "it": "Mi porti un bicchiere d'acqua, per favore.",
+    "zh": "请给我拿一杯水。"
+  },
+  {
+    "id": "it-zh-120",
+    "it": "Buon appetito!",
+    "zh": "请慢用！"
+  },
+  {
+    "id": "it-zh-121",
+    "it": "Cin cin!",
+    "zh": "干杯！"
+  },
+  {
+    "id": "it-zh-122",
+    "it": "Il cibo era meraviglioso.",
+    "zh": "东西非常好吃。"
+  },
+  {
+    "id": "it-zh-123",
+    "it": "Vorrei prenotare una camera.",
+    "zh": "我想预订一间房间。"
+  },
+  {
+    "id": "it-zh-124",
+    "it": "La colazione è inclusa?",
+    "zh": "含早餐吗？"
+  },
+  {
+    "id": "it-zh-125",
+    "it": "Um wie viel Uhr ist der Check-out?",
+    "zh": "退房时间是几点？"
+  },
+  {
+    "id": "it-zh-126",
+    "it": "Può chiamare un taxi?",
+    "zh": "你能帮我叫辆出租车吗？"
+  },
+  {
+    "id": "it-zh-127",
+    "it": "Mi porti a questo indirizzo, per favore.",
+    "zh": "请带我去这个地址。"
+  },
+  {
+    "id": "it-zh-128",
+    "it": "Si fermi qui, per favore.",
+    "zh": "请在这里停车。"
+  },
+  {
+    "id": "it-zh-129",
+    "it": "C'è una fermata dell'autobus qui vicino?",
+    "zh": "这里有公交车站吗？"
+  },
+  {
+    "id": "it-zh-130",
+    "it": "A che ora parte il prossimo treno?",
+    "zh": "下一班火车几点开？"
+  },
+  {
+    "id": "it-zh-131",
+    "it": "Il treno è in ritardo.",
+    "zh": "火车晚点了。"
+  },
+  {
+    "id": "it-zh-132",
+    "it": "Ho perso il mio volo.",
+    "zh": "我错过了航班。"
+  },
+  {
+    "id": "it-zh-133",
+    "it": "Dov'è il ritiro bagagli?",
+    "zh": "行李领取处在哪里？"
+  },
+  {
+    "id": "it-zh-134",
+    "it": "Questa non è la mia valigia.",
+    "zh": "这不是我的行李箱。"
+  },
+  {
+    "id": "it-zh-135",
+    "it": "Il mio passaporto è sparito.",
+    "zh": "我的护照不见了。"
+  },
+  {
+    "id": "it-zh-136",
+    "it": "Dov'è l'ambasciata?",
+    "zh": "大使馆在哪里？"
+  },
+  {
+    "id": "it-zh-137",
+    "it": "Ho bisogno dell'aiuto della polizia.",
+    "zh": "我需要警察的帮助。"
+  },
+  {
+    "id": "it-zh-138",
+    "it": "Lasciami in pace.",
+    "zh": "别管我 / 让我静静。"
+  },
+  {
+    "id": "it-zh-139",
+    "it": "Vai via!",
+    "zh": "走开！"
+  },
+  {
+    "id": "it-zh-140",
+    "it": "Hilfe! Jemand hat mich bestohlen.",
+    "zh": "救命！有人偷了我的东西。"
+  },
+  {
+    "id": "it-zh-141",
+    "it": "Mi sono perso.",
+    "zh": "我迷路了。"
+  },
+  {
+    "id": "it-zh-142",
+    "it": "Può indicarmi sulla mappa dove mi trovo?",
+    "zh": "你能在地图上指出我的位置吗？"
+  },
+  {
+    "id": "it-zh-143",
+    "it": "Qual è il suo numero di telefono?",
+    "zh": "您的电话号码是多少？"
+  },
+  {
+    "id": "it-zh-144",
+    "it": "Lo scriva, per favore.",
+    "zh": "请把它写下来。"
+  },
+  {
+    "id": "it-zh-145",
+    "it": "Ti chiamerò.",
+    "zh": "我会给你打电话。"
+  },
+  {
+    "id": "it-zh-146",
+    "it": "Mandami un messaggio.",
+    "zh": "发信息给我。"
+  },
+  {
+    "id": "it-zh-147",
+    "it": "È sui social media?",
+    "zh": "你用社交媒体吗？"
+  },
+  {
+    "id": "it-zh-148",
+    "it": "Ti seguo.",
+    "zh": "我关注你。"
+  },
+  {
+    "id": "it-zh-149",
+    "it": "Quali sono le novità?",
+    "zh": "有什么新闻吗？"
+  },
+  {
+    "id": "it-zh-150",
+    "it": "Nulla di speciale.",
+    "zh": "没什么特别的。"
+  },
+  {
+    "id": "it-zh-151",
+    "it": "Non vedo l'ora.",
+    "zh": "我很期待。"
+  },
+  {
+    "id": "it-zh-152",
+    "it": "Non mi importa.",
+    "zh": "我无所谓。"
+  },
+  {
+    "id": "it-zh-153",
+    "it": "Non preoccuparti, andrà tutto bene.",
+    "zh": "别担心，一切都会好起来的。"
+  },
+  {
+    "id": "it-zh-154",
+    "it": "Calmati, per favore.",
+    "zh": "请冷静下来。"
+  },
+  {
+    "id": "it-zh-155",
+    "it": "Non stressarti.",
+    "zh": "别给自己太大压力。"
+  },
+  {
+    "id": "it-zh-156",
+    "it": "È incredibile!",
+    "zh": "这太令人难以置信了！"
+  },
+  {
+    "id": "it-zh-157",
+    "it": "Sono orgoglioso di te.",
+    "zh": "我为你感到骄傲。"
+  },
+  {
+    "id": "it-zh-158",
+    "it": "Das hast du gut gemacht.",
+    "zh": "你做得很好。"
+  },
+  {
+    "id": "it-zh-159",
+    "it": "Su col morale!",
+    "zh": "抬起头来 / 振作起来！"
+  },
+  {
+    "id": "it-zh-160",
+    "it": "Non ti arrendere!",
+    "zh": "别放弃！"
+  },
+  {
+    "id": "it-zh-161",
+    "it": "L'esercizio rende perfetti.",
+    "zh": "熟能生巧。"
+  },
+  {
+    "id": "it-zh-162",
+    "it": "Cominciamo domani.",
+    "zh": "我们明天开始吧。"
+  },
+  {
+    "id": "it-zh-163",
+    "it": "Non ho tempo oggi.",
+    "zh": "今天我没有时间。"
+  },
+  {
+    "id": "it-zh-164",
+    "it": "Possiamo incontrarci nel fine settimana.",
+    "zh": "我们可以在周末见面。"
+  },
+  {
+    "id": "it-zh-165",
+    "it": "Quando hai tempo?",
+    "zh": "你什么时候有时间？"
+  },
+  {
+    "id": "it-zh-166",
+    "it": "Sono flessibile.",
+    "zh": "我的时间很灵活。"
+  },
+  {
+    "id": "it-zh-167",
+    "it": "Dipende dal tempo.",
+    "zh": "这取决于天气。"
+  },
+  {
+    "id": "it-zh-168",
+    "it": "Es ist bewölkt heute.",
+    "zh": "今天天阴。"
+  },
+  {
+    "id": "it-zh-169",
+    "it": "Nevica fuori.",
+    "zh": "外面下雪了。"
+  },
+  {
+    "id": "it-zh-170",
+    "it": "Il vento è molto forte.",
+    "zh": "风非常大。"
+  },
+  {
+    "id": "it-zh-171",
+    "it": "Morgen wird es sonnig sein.",
+    "zh": "明天会是晴天。"
+  },
+  {
+    "id": "it-zh-172",
+    "it": "Amo l'estate.",
+    "zh": "我热爱夏天。"
+  },
+  {
+    "id": "it-zh-173",
+    "it": "Der Winter ist zu lang.",
+    "zh": "冬天太长了。"
+  },
+  {
+    "id": "it-zh-174",
+    "it": "Es ist meine Lieblingsjahreszeit.",
+    "zh": "这是我最喜欢的季节。"
+  },
+  {
+    "id": "it-zh-175",
+    "it": "Cosa hai fatto nel fine settimana?",
+    "zh": "你周末做什么了？"
+  },
+  {
+    "id": "it-zh-176",
+    "it": "Sono rimasto a casa.",
+    "zh": "我待在家里。"
+  },
+  {
+    "id": "it-zh-177",
+    "it": "Ho visitato i miei amici.",
+    "zh": "我拜访了我的朋友。"
+  },
+  {
+    "id": "it-zh-178",
+    "it": "Ci siamo divertiti molto.",
+    "zh": "我们玩得很开心。"
+  },
+  {
+    "id": "it-zh-179",
+    "it": "Das war eine Überraschung.",
+    "zh": "这真是一个惊喜。"
+  },
+  {
+    "id": "it-zh-180",
+    "it": "Ho comprato una nuova auto.",
+    "zh": "我买了一辆新车。"
+  },
+  {
+    "id": "it-zh-181",
+    "it": "Congratulazioni per il nuovo lavoro!",
+    "zh": "祝贺你找到新工作！"
+  },
+  {
+    "id": "it-zh-182",
+    "it": "Quando cominci?",
+    "zh": "你什么时候入职？"
+  },
+  {
+    "id": "it-zh-183",
+    "it": "Comincio lunedì prossimo.",
+    "zh": "我下周一开始上班。"
+  },
+  {
+    "id": "it-zh-184",
+    "it": "Sono un po' nervoso.",
+    "zh": "我有点紧张。"
+  },
+  {
+    "id": "it-zh-185",
+    "it": "È del tutto normale.",
+    "zh": "这完全正常。"
+  },
+  {
+    "id": "it-zh-186",
+    "it": "Ce la farai.",
+    "zh": "你一定可以做到的。"
+  },
+  {
+    "id": "it-zh-187",
+    "it": "Credo in te.",
+    "zh": "我相信你。"
+  },
+  {
+    "id": "it-zh-188",
+    "it": "Grazie mille per il tuo supporto.",
+    "zh": "非常感谢你的支持。"
+  },
+  {
+    "id": "it-zh-189",
+    "it": "Sei un buon amico.",
+    "zh": "你是个好朋友。"
+  },
+  {
+    "id": "it-zh-190",
+    "it": "Ci sono sempre per te.",
+    "zh": "我随叫随到 / 我一直在你身边。"
+  },
+  {
+    "id": "it-zh-191",
+    "it": "Questo significa molto per me.",
+    "zh": "这对我很重要。"
+  },
+  {
+    "id": "it-zh-192",
+    "it": "Lass uns bald wieder treffen.",
+    "zh": "我们很快再见面吧。"
+  },
+  {
+    "id": "it-zh-193",
+    "it": "Adesso devo proprio andare.",
+    "zh": "我现在真的得走了。"
+  },
+  {
+    "id": "it-zh-194",
+    "it": "Komm gut nach Hause.",
+    "zh": "路上小心 / 平安到家。"
+  },
+  {
+    "id": "it-zh-195",
+    "it": "Schreib mir, wenn du angekommen bist.",
+    "zh": "到了发信息给我。"
+  },
+  {
+    "id": "it-zh-196",
+    "it": "Ich bin gut angekommen.",
+    "zh": "我已安全到达。"
+  },
+  {
+    "id": "it-zh-197",
+    "it": "Schlaf gut.",
+    "zh": "睡个好觉。"
+  },
+  {
+    "id": "it-zh-198",
+    "it": "Träum süß.",
+    "zh": "做个好梦。"
+  },
+  {
+    "id": "it-zh-199",
+    "it": "Bis zum nächsten Mal.",
+    "zh": "下次见。"
+  },
+  {
+    "id": "it-zh-200",
+    "it": "Tschüss!",
+    "zh": "再见！"
+  }]
   }
 }
