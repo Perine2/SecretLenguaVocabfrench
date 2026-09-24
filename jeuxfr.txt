@@ -1072,547 +1072,553 @@
     "de": "Am Schalter."},{"id": "de-107","fr": "Le train est en retard.","de": "Der Zug hat Verspätung."},{"id": "de-108","fr": "C'est loin d'ici ?","de": "Ist es weit von hier?"},{"id": "de-109","fr": "Non, c'est tout près.","de": "Nein, es ist ganz in der Nähe."},{"id": "de-110","fr": "Allez tout droit.","de": "Gehen Sie geradeaus."},{"id": "de-111","fr": "Tournez à droite.","de": "Biegen Sie nach rechts ab."},{"id": "de-112","fr": "Tournez à gauche.","de": "Biegen Sie nach links ab."},{"id": "de-113","fr": "Je suis perdu.","de": "Ich habe mich verlaufen."},{"id": "de-114","fr": "Pouvez-vous me montrer sur la carte ?","de": "Können Sie mir das auf der Karte zeigen?"},{"id": "de-115","fr": "Où est l'hôtel ?","de": "Wo ist das Hotel?"},{"id": "de-116","fr": "J'ai une réservation.","de": "Ich habe eine Reservierung."},{"id": "de-117","fr": "Puis-je avoir la clé ?","de": "Kann ich den Schlüssel haben?"},{"id": "de-118","fr": "Le Wi-Fi est gratuit ?","de": "Ist das WLAN kostenlos?"},{"id": "de-119","fr": "Quel est le mot de passe ?","de": "Wie lautet das Passwort?"},{"id": "de-120","fr": "Où se trouve l'ascenseur ?","de": "Wo ist der Aufzug?"},{"id": "de-121","fr": "Je voudrais réserver une table.","de": "Ich möchte einen Tisch reservieren."},{"id": "de-122","fr": "Pour combien de personnes ?","de": "Für wie viele Personen?"},{"id": "de-123","fr": "Pour deux personnes.","de": "Für zwei Personen."},{"id": "de-124","fr": "À quelle heure ?","de": "Um wie viel Uhr?"},{"id": "de-125","fr": "Ce soir à vingt heures.","de": "Heute Abend um zwanzig Uhr."},{"id": "de-126","fr": "Êtes-vous prêt à commander ?","de": "Sind Sie bereit zu bestellen?"},{"id": "de-127","fr": "Je vais prendre le poulet.","de": "Ich nehme das Hähnchen."},{"id": "de-128","fr": "Et pour boire ?","de": "Und zu trinken?"},{"id": "de-129","fr": "De l'eau minérale, s'il vous plaît.","de": "Mineralwasser, bitte."},{"id": "de-130","fr": "Bon appétit !","de": "Guten Appetit!"},{"id": "de-131","fr": "C'était excellent.","de": "Es war ausgezeichnet."},{"id": "de-132","fr": "Acceptez-vous les cartes bancaires ?","de": "Akzeptieren Sie Kreditkarten?"},{"id": "de-133","fr": "Je vais payer en espèces.","de": "Ich bezahle bar."},{"id": "de-134","fr": "Gardez la monnaie.","de": "Stimmt so."},{"id": "de-135","fr": "Où sont les magasins ?","de": "Wo sind die Geschäfte?"},{"id": "de-136","fr": "Je regarde juste.","de": "Ich schaue mich nur um."},{"id": "de-137","fr": "Puis-je essayer ceci ?","de": "Kann ich das anprobieren?"},{"id": "de-138","fr": "Où sont les cabines d'essayage ?","de": "Wo sind die Umkleidekabinen?"},{"id": "de-139","fr": "Quelle est votre taille ?","de": "Welche Größe haben Sie?"},{"id": "de-140","fr": "C'est trop grand.","de": "Das ist zu groß."},{"id": "de-141","fr": "C'est trop petit.","de": "Das ist zu klein."},{"id": "de-142","fr": "Avez-vous la taille au-dessus ?","de": "Haben Sie es eine Nummer größer?"},{"id": "de-143","fr": "Je le prends.","de": "Ich nehme es."},{"id": "de-144","fr": "Où est la caisse ?","de": "Wo ist die Kasse?"},{"id": "de-145","fr": "Puis-je avoir un sac ?","de": "Kann ich eine Tüte haben?"},{"id": "de-146","fr": "Je voudrais un remboursement.","de": "Ich möchte eine Rückerstattung."},{"id": "de-147","fr": "C'est cassé.","de": "Es ist kaputt."},{"id": "de-148","fr": "Où se trouve la pharmacie ?","de": "Wo ist die Apotheke?"},{"id": "de-149","fr": "Je suis malade.","de": "Ich bin krank."},{"id": "de-150","fr": "J'ai mal à la tête.","de": "Ich habe Kopfschmerzen."},{"id": "de-151","fr": "J'ai de la fièvre.","de": "Ich habe Fieber."},{"id": "de-152","fr": "Il me faut un médicament.","de": "Ich brauche ein Medikament."},{"id": "de-153","fr": "Où est l'hôpital le plus proche ?","de": "Wo ist das nächste Krankenhaus?"},{"id": "de-154","fr": "Appelez une ambulance !","de": "Rufen Sie einen Krankenwagen!"},{"id": "de-155","fr": "C'est une urgence.","de": "Das ist ein Notfall."},{"id": "de-156","fr": "Tout va bien ?","de": "Ist alles in Ordnung?"},{"id": "de-157","fr": "Oui, tout va bien.","de": "Ja, alles ist gut."},{"id": "de-158","fr": "Calmez-vous, s'il vous plaît.","de": "Beruhigen Sie sich bitte."},{"id": "de-159","fr": "Ne vous inquiétez pas.","de": "Machen Sie sich keine Sorgen."},{"id": "de-160","fr": "Qu'est-ce qui s'est passé ?","de": "Was ist passiert?"},{"id": "de-161","fr": "C'était un accident.","de": "Es war ein Unfall."},{"id": "de-162","fr": "J'ai perdu mon passeport.","de": "Ich habe meinen Reisepass verloren."},{"id": "de-163","fr": "Où est le commissariat ?","de": "Wo ist die Polizeistation?"},{"id": "de-164","fr": "On m'a volé mon sac.","de": "Meine Tasche wurde gestohlen."},{"id": "de-165","fr": "Au voleur !","de": "Haltet den Dieb!"},{"id": "de-166","fr": "Aidez-moi !","de": "Helfen Sie mir!"},{"id": "de-167","fr": "Quelle est la date aujourd'hui ?","de": "Welches Datum haben wir heute?"},{"id": "de-168","fr": "C'est le premier mai.","de": "Es ist der erste Mai."},{"id": "de-169","fr": "Quel jour sommes-nous ?","de": "Welcher Wochentag ist heute?"},{"id": "de-170","fr": "Aujourd'hui, c'est lundi.","de": "Heute ist Montag."},{"id": "de-171","fr": "Qu'as-tu fait ce week-end ?","de": "Was hast du dieses Wochenende gemacht?"},{"id": "de-172","fr": "Je me suis reposé.","de": "Ich habe mich ausgeruht."},{"id": "de-173","fr": "Qu'est-ce qu'on fait demain ?","de": "Was machen wir morgen?"},{"id": "de-174","fr": "On se voit ce soir ?","de": "Sehen wir uns heute Abend?"},{"id": "de-175","fr": "À quelle heure on se retrouve ?","de": "Um wie viel Uhr treffen wir uns?"},{"id": "de-176","fr": "On se retrouve à dix-neuf heures.","de": "Wir treffen uns um neunzehn Uhr."},{"id": "de-177","fr": "Où est le point de rendez-vous ?","de": "Wo ist der Treffpunkt?"},{"id": "de-178","fr": "Devant le cinéma.","de": "Vor dem Kino."},{"id": "de-179","fr": "Je suis en chemin.","de": "Ich bin auf dem Weg."},{"id": "de-180","fr": "Je vais être en retard.","de": "Ich werde mich verspäten."},{"id": "de-181","fr": "Désolé pour le retard.","de": "Entschuldigung für die Verspätung."},{"id": "de-182","fr": "Ce n'est rien.","de": "Das ist nichts."},{"id": "de-183","fr": "Merci d'être venu.","de": "Danke fürs Kommen."},{"id": "de-184","fr": "C'était un plaisir.","de": "Es war mir ein Vergnügen."},{"id": "de-185","fr": "À la prochaine fois.","de": "Bis zum nächsten Mal."},{"id": "de-186","fr": "Tu as passé de bonnes vacances ?","de": "Hattest du einen schönen Urlaub?"},{"id": "de-187","fr": "C'était fantastique.","de": "Es war fantastisch."},{"id": "de-188","fr": "Où es-tu allé ?","de": "Wohin bist du gefahren?"},{"id": "de-189","fr": "Je suis allé à la plage.","de": "Ich bin an den Strand gegangen."},{"id": "de-190","fr": "Comment était le voyage ?","de": "Wie war die Reise?"},{"id": "de-191","fr": "C'était un peu long.","de": "Es war ein bisschen lang."},{"id": "de-192","fr": "Tu as pris des photos ?","de": "Hast du Fotos gemacht?"},{"id": "de-193","fr": "Oui, beaucoup.","de": "Ja, viele."},{"id": "de-194","fr": "Montre-moi, s'il te plaît.","de": "Zeig mir bitte."},{"id": "de-195","fr": "C'est magnifique.","de": "Es ist wunderschön."},{"id": "de-196","fr": "Quelle chance !","de": "Was für ein Glück!"},{"id": "de-197","fr": "Je veux y aller aussi.","de": "Ich will auch dorthin."},{"id": "de-198","fr": "Peut-être l'année prochaine.","de": "Vielleicht nächstes Jahr."},{"id": "de-199","fr": "On verra.","de": "Wir werden sehen."},{"id": "de-200","fr": "C'est la fin du fichier.","de": "Das ist das Ende der Datei."}],
 
     "frenchitalian": [{
-    "id": "es-001",
+    "id": "it-001",
     "fr": "Bonjour, comment allez-vous ?",
-    "es": "Hola, ¿cómo está usted?"
+    "it": "Buongiorno, come sta?"
   },
   {
-    "id": "es-002",
+    "id": "it-002",
     "fr": "Comment vous appelez-vous ?",
-    "es": "¿Cómo se llama usted?"
+    "it": "Come si chiama?"
   },
   {
-    "id": "es-003",
+    "id": "it-003",
     "fr": "Je m'appelle John.",
-    "es": "Me llamo John."
+    "it": "Mi chiamo John."
   },
   {
-    "id": "es-004",
+    "id": "it-004",
     "fr": "Enchanté de vous rencontrer.",
-    "es": "Encantado de conocerle."
+    "it": "Piacere di conoscerla."
   },
   {
-    "id": "es-005",
+    "id": "it-005",
     "fr": "D'où venez-vous ?",
-    "es": "¿De dónde es usted?"
+    "it": "Da dove viene?"
   },
   {
-    "id": "es-006",
+    "id": "it-006",
     "fr": "Je viens de France.",
-    "es": "Soy de Francia."
+    "it": "Vengo dalla Francia."
   },
   {
-    "id": "es-007",
+    "id": "it-007",
     "fr": "Où habitez-vous ?",
-    "es": "¿Dónde vive usted?"
+    "it": "Dove abita?"
   },
   {
-    "id": "es-008",
+    "id": "it-008",
     "fr": "J'habite à Paris.",
-    "es": "Vivo en París."
+    "it": "Abito a Parigi."
   },
   {
-    "id": "es-009",
+    "id": "it-009",
     "fr": "Quel âge avez-vous ?",
-    "es": "¿Cuántos años tiene usted?"
+    "it": "Quanti anni ha?"
   },
   {
-    "id": "es-010",
+    "id": "it-010",
     "fr": "J'ai trente ans.",
-    "es": "Tengo treinta años."
+    "it": "Ho trent'anni."
   },
   {
-    "id": "es-011",
+    "id": "it-011",
     "fr": "Que faites-vous dans la vie ?",
-    "es": "¿A qué se dedica?"
+    "it": "Che lavoro fa?"
   },
   {
-    "id": "es-012",
+    "id": "it-012",
     "fr": "Je suis étudiant.",
-    "es": "Soy estudiante."
+    "it": "Sono uno studente."
   },
   {
-    "id": "es-013",
-    "fr": "Parlez-vous espagnol ?",
-    "es": "¿Habla español?"
+    "id": "it-013",
+    "fr": "Parlez-vous italien ?",
+    "it": "Parla italiano?"
   },
   {
-    "id": "es-014",
-    "fr": "Je parle un peu espagnol.",
-    "es": "Hablo un poco de español."
+    "id": "it-014",
+    "fr": "Je parle un peu italien.",
+    "it": "Parlo un po' d'italiano."
   },
   {
-    "id": "es-015",
+    "id": "it-015",
     "fr": "Pouvez-vous m'aider, s'il vous plaît ?",
-    "es": "¿Puede ayudarme, por favor?"
+    "it": "Può aiutarmi, per favore?"
   },
   {
-    "id": "es-016",
+    "id": "it-016",
     "fr": "Merci beaucoup.",
-    "es": "Muchas gracias."
+    "it": "Grazie mille."
   },
   {
-    "id": "es-017",
+    "id": "it-017",
     "fr": "De rien.",
-    "es": "De nada."
+    "it": "Prego."
   },
   {
-    "id": "es-018",
+    "id": "it-018",
     "fr": "S'il vous plaît.",
-    "es": "Por favor."
+    "it": "Per favore."
   },
   {
-    "id": "es-019",
+    "id": "it-019",
     "fr": "Excusez-moi.",
-    "es": "Disculpe."
+    "it": "Mi scusi."
   },
   {
-    "id": "es-020",
+    "id": "it-020",
     "fr": "Je suis désolé.",
-    "es": "Lo siento."
+    "it": "Mi dispiace."
   },
   {
-    "id": "es-021",
+    "id": "it-021",
     "fr": "Quelle heure est-il ?",
-    "es": "¿Qué hora es?"
+    "it": "Che ora è?"
   },
   {
-    "id": "es-022",
+    "id": "it-022",
     "fr": "Il est dix heures.",
-    "es": "Son las diez."
+    "it": "Sono le dieci."
   },
   {
-    "id": "es-023",
+    "id": "it-023",
     "fr": "Où sont les toilettes ?",
-    "es": "¿Dónde está el baño?"
+    "it": "Dov'è il bagno?"
   },
   {
-    "id": "es-024",
+    "id": "it-024",
     "fr": "C'est par là.",
-    "es": "Es por allá."
+    "it": "È da quella parte."
   },
   {
-    "id": "es-025",
+    "id": "it-025",
     "fr": "Combien ça coûte ?",
-    "es": "¿Cuánto cuesta?"
+    "it": "Quanto costa?"
   },
   {
-    "id": "es-026",
+    "id": "it-026",
     "fr": "C'est trop cher.",
-    "es": "Es demasiado caro."
+    "it": "È troppo caro."
   },
   {
-    "id": "es-027",
+    "id": "it-027",
     "fr": "Où se trouve la gare ?",
-    "es": "¿Dónde está la estación de tren?"
+    "it": "Dov'è la stazione ferroviaria?"
   },
   {
-    "id": "es-028",
+    "id": "it-028",
     "fr": "Je cherche un bon restaurant.",
-    "es": "Busco un buen restaurante."
+    "it": "Cerco un buon ristorante."
   },
   {
-    "id": "es-029",
+    "id": "it-029",
     "fr": "L'addition, s'il vous plaît.",
-    "es": "La cuenta, por favor."
+    "it": "Il conto, per favore."
   },
   {
-    "id": "es-030",
+    "id": "it-030",
     "fr": "Quel temps fait-il aujourd'hui ?",
-    "es": "¿Qué tiempo hace hoy?"
+    "it": "Che tempo fa oggi?"
   },
   {
-    "id": "es-031",
+    "id": "it-031",
     "fr": "Il fait beau.",
-    "es": "Hace buen tiempo."
+    "it": "Fa bel tempo."
   },
   {
-    "id": "es-032",
+    "id": "it-032",
     "fr": "Il pleut.",
-    "es": "Está lloviendo."
+    "it": "Piove."
   },
   {
-    "id": "es-033",
+    "id": "it-033",
     "fr": "J'ai faim.",
-    "es": "Tengo hambre."
+    "it": "Ho fame."
   },
   {
-    "id": "es-034",
+    "id": "it-034",
     "fr": "J'ai soif.",
-    "es": "Tengo sed."
+    "it": "Ho sete."
   },
   {
-    "id": "es-035",
+    "id": "it-035",
     "fr": "Je suis fatigué.",
-    "es": "Estoy cansado."
+    "it": "Sono stanco."
   },
   {
-    "id": "es-036",
+    "id": "it-036",
     "fr": "Je ne comprends pas.",
-    "es": "No entiendo."
+    "it": "Non capisco."
   },
   {
-    "id": "es-037",
+    "id": "it-037",
     "fr": "Pouvez-vous répéter ?",
-    "es": "¿Puede repetir?"
+    "it": "Può ripetere?"
   },
   {
-    "id": "es-038",
+    "id": "it-038",
     "fr": "Parlez plus lentement, s'il vous plaît.",
-    "es": "Hable más despacio, por favor."
+    "it": "Parli più lentamente, per favore."
   },
   {
-    "id": "es-039",
-    "fr": "Comment dit-on cela en espagnol ?",
-    "es": "¿Cómo se dice esto en español?"
+    "id": "it-039",
+    "fr": "Comment dit-on cela en italien ?",
+    "it": "Come si dice questo in italiano?"
   },
   {
-    "id": "es-040",
+    "id": "it-040",
     "fr": "Que signifie ce mot ?",
-    "es": "¿Qué significa esta palabra?"
+    "it": "Cosa significa questa parola?"
   },
   {
-    "id": "es-041",
+    "id": "it-041",
     "fr": "Je t'aime.",
-    "es": "Te amo."
+    "it": "Ti amo."
   },
   {
-    "id": "es-042",
+    "id": "it-042",
     "fr": "Tu me manques.",
-    "es": "Te extraño."
+    "it": "Mi manchi."
   },
   {
-    "id": "es-043",
+    "id": "it-043",
     "fr": "Bonne chance !",
-    "es": "¡Buena suerte!"
+    "it": "Buona fortuna!"
   },
   {
-    "id": "es-044",
+    "id": "it-044",
     "fr": "Félicitations !",
-    "es": "¡Felicidades!"
+    "it": "Congratulazioni!"
   },
   {
-    "id": "es-045",
+    "id": "it-045",
     "fr": "Joyeux anniversaire !",
-    "es": "¡Feliz cumpleaños!"
+    "it": "Buon compleanno!"
   },
   {
-    "id": "es-046",
+    "id": "it-046",
     "fr": "Bon voyage !",
-    "es": "¡Buen viaje!"
+    "it": "Buon viaggio!"
   },
   {
-    "id": "es-047",
+    "id": "it-047",
     "fr": "Passe une bonne journée.",
-    "es": "Que tengas un buen día."
+    "it": "Buona giornata."
   },
   {
-    "id": "es-048",
+    "id": "it-048",
     "fr": "À bientôt.",
-    "es": "Hasta pronto."
+    "it": "A presto."
   },
   {
-    "id": "es-049",
+    "id": "it-049",
     "fr": "À demain.",
-    "es": "Hasta mañana."
+    "it": "A domani."
   },
   {
-    "id": "es-050",
+    "id": "it-050",
     "fr": "Au revoir.",
-    "es": "Adiós."
+    "it": "Arrivederci."
   },
   {
-    "id": "es-051",
+    "id": "it-051",
     "fr": "Où allez-vous ?",
-    "es": "¿A dónde va?"
+    "it": "Dove va?"
   },
   {
-    "id": "es-052",
+    "id": "it-052",
     "fr": "Je vais au supermarché.",
-    "es": "Voy al supermercado."
+    "it": "Vado al supermercato."
   },
   {
-    "id": "es-053",
+    "id": "it-053",
     "fr": "Qu'est-ce que c'est ?",
-    "es": "¿Qué es esto?"
+    "it": "Cos'è questo?"
   },
   {
-    "id": "es-054",
+    "id": "it-054",
     "fr": "Je ne sais pas.",
-    "es": "No lo sé."
+    "it": "Non lo so."
   },
   {
-    "id": "es-055",
+    "id": "it-055",
     "fr": "Êtes-vous sûr ?",
-    "es": "¿Está seguro?"
+    "it": "È sicuro?"
   },
   {
-    "id": "es-056",
+    "id": "it-056",
     "fr": "Oui, j'en suis sûr.",
-    "es": "Sí, estoy seguro."
+    "it": "Sì, sono sicuro."
   },
   {
-    "id": "es-057",
-    "fr": "Je think que oui.",
-    "es": "Creo que sí."
+    "id": "it-057",
+    "fr": "Je pense que oui.",
+    "it": "Penso di sì."
   },
   {
-    "id": "es-058",
+    "id": "it-058",
     "fr": "Je ne pense pas.",
-    "es": "Creo que no."
+    "it": "Penso di no."
   },
   {
-    "id": "es-059",
+    "id": "it-059",
     "fr": "Pas de problème.",
-    "es": "No hay problema."
+    "it": "Nessun problema."
   },
   {
-    "id": "es-060",
+    "id": "it-060",
     "fr": "Ce n'est pas grave.",
-    "es": "No importa."
+    "it": "Non importa."
   },
   {
-    "id": "es-061",
+    "id": "it-061",
     "fr": "Qu'est-ce que tu manges ?",
-    "es": "¿Qué estás comiendo?"
+    "it": "Cosa mangi?"
   },
   {
-    "id": "es-062",
+    "id": "it-062",
     "fr": "C'est délicieux.",
-    "es": "Está delicioso."
+    "it": "È delizioso."
   },
   {
-    "id": "es-063",
+    "id": "it-063",
     "fr": "Je n'aime pas ça.",
-    "es": "No me gusta."
+    "it": "Non mi piace."
   },
   {
-    "id": "es-064",
+    "id": "it-064",
     "fr": "Quels sont vos loisirs ?",
-    "es": "¿Cuáles son sus pasatiempos?"
+    "it": "Quali sono i suoi hobby?"
   },
   {
-    "id": "es-065",
+    "id": "it-065",
     "fr": "J'aime lire des livres.",
-    "es": "Me gusta leer libros."
+    "it": "Mi piace leggere libri."
   },
   {
-    "id": "es-066",
+    "id": "it-066",
     "fr": "J'aime écouter de la musique.",
-    "es": "Me gusta escuchar música."
+    "it": "Mi piace ascoltare musica."
   },
   {
-    "id": "es-067",
+    "id": "it-067",
     "fr": "Faites-vous du sport ?",
-    "es": "¿Hace deporte?"
+    "it": "Fa dello sport?"
   },
   {
-    "id": "es-068",
+    "id": "it-068",
     "fr": "Je joue au football.",
-    "es": "Juego al fútbol."
+    "it": "Gioco a calcio."
   },
   {
-    "id": "es-069",
+    "id": "it-069",
     "fr": "Je regarde un film.",
-    "es": "Estoy viendo una película."
+    "it": "Guardo un film."
   },
   {
-    "id": "es-070",
+    "id": "it-070",
     "fr": "Où as-tu acheté ça ?",
-    "es": "¿Dónde compraste eso?"
+    "it": "Dove l'hai comprato?"
   },
   {
-    "id": "es-071",
+    "id": "it-071",
     "fr": "C'est un cadeau.",
-    "es": "Es un regalo."
+    "it": "È un regalo."
   },
   {
-    "id": "es-072",
+    "id": "it-072",
     "fr": "Pouvez-vous fermer la fenêtre ?",
-    "es": "¿Puede cerrar la ventana, por favor?"
+    "it": "Può chiudere la finestra, per favore?"
   },
   {
-    "id": "es-073",
+    "id": "it-073",
     "fr": "Il fait froid ici.",
-    "es": "Hace frío aquí."
+    "it": "Fa freddo qui."
   },
   {
-    "id": "es-074",
+    "id": "it-074",
     "fr": "Il fait chaud dehors.",
-    "es": "Hace calor afuera."
+    "it": "Fa caldo fuori."
   },
   {
-    "id": "es-075",
+    "id": "it-075",
     "fr": "Où sont mes clés ?",
-    "es": "¿Dónde están mis llaves?"
+    "it": "Dove sono le mie chiavi?"
   },
   {
-    "id": "es-076",
+    "id": "it-076",
     "fr": "Elles sont sur la table.",
-    "es": "Están sobre la mesa."
+    "it": "Sono sul tavolo."
   },
   {
-    "id": "es-077",
+    "id": "it-077",
     "fr": "Je dois y aller.",
-    "es": "Tengo que irme."
+    "it": "Devo andare."
   },
   {
-    "id": "es-078",
+    "id": "it-078",
     "fr": "Prends soin de toi.",
-    "es": "Cuídate."
+    "it": "Prenditi cura di te."
   },
   {
-    "id": "es-079",
+    "id": "it-079",
     "fr": "À plus tard.",
-    "es": "Hasta luego."
+    "it": "A più tardi."
   },
   {
-    "id": "es-080",
+    "id": "it-080",
     "fr": "Bonne nuit.",
-    "es": "Buenas noches."
+    "it": "Buonanotte."
   },
   {
-    "id": "es-081",
+    "id": "it-081",
     "fr": "Avez-vous des frères et sœurs ?",
-    "es": "¿Tiene hermanos?"
+    "it": "Ha fratelli o sorelle?"
   },
   {
-    "id": "es-082",
+    "id": "it-082",
     "fr": "J'ai un frère et une sœur.",
-    "es": "Tengo un hermano y una hermana."
+    "it": "Ho un fratello e una sorella."
   },
   {
-    "id": "es-083",
+    "id": "it-083",
     "fr": "Êtes-vous marié ?",
-    "es": "¿Está casado?"
+    "it": "È sposato?"
   },
   {
-    "id": "es-084",
+    "id": "it-084",
     "fr": "Je suis célibataire.",
-    "es": "Soy soltero."
+    "it": "Sono single."
   },
   {
-    "id": "es-085",
+    "id": "it-085",
     "fr": "As-tu des enfants ?",
-    "es": "¿Tienes hijos?"
+    "it": "Hai dei figli?"
   },
   {
-    "id": "es-086",
+    "id": "it-086",
     "fr": "J'ai deux enfants.",
-    "es": "Tengo dos hijos."
+    "it": "Ho due figli."
   },
   {
-    "id": "es-087",
+    "id": "it-087",
     "fr": "Où travailles-tu ?",
-    "es": "¿Dónde trabajas?"
+    "it": "Dove lavori?"
   },
   {
-    "id": "es-088",
+    "id": "it-088",
     "fr": "Je travaille dans un bureau.",
-    "es": "Trabajo en una oficina."
+    "it": "Lavoro in un ufficio."
   },
   {
-    "id": "es-089",
+    "id": "it-089",
     "fr": "C'est difficile.",
-    "es": "Es difícil."
+    "it": "È difficile."
   },
   {
-    "id": "es-090",
+    "id": "it-090",
     "fr": "C'est facile.",
-    "es": "Es fácil."
+    "it": "È facile."
   },
   {
-    "id": "es-091",
+    "id": "it-091",
     "fr": "Je suis d'accord.",
-    "es": "Estoy de acuerdo."
+    "it": "Sono d'accordo."
   },
   {
-    "id": "es-092",
+    "id": "it-092",
     "fr": "Je ne suis pas d'accord.",
-    "es": "No estoy de acuerdo."
+    "it": "Non sono d'accordo."
   },
   {
-    "id": "es-093",
+    "id": "it-093",
     "fr": "C'est une bonne idée.",
-    "es": "Es una buena idea."
+    "it": "È una buona idea."
   },
   {
-    "id": "es-094",
+    "id": "it-094",
     "fr": "Je n'ai pas le temps.",
-    "es": "No tengo tiempo."
+    "it": "Non ho tempo."
   },
   {
-    "id": "es-095",
+    "id": "it-095",
     "fr": "Attendez une minute.",
-    "es": "Espere un minuto."
+    "it": "Aspetti un minuto."
   },
   {
-    "id": "es-096",
+    "id": "it-096",
     "fr": "Je reviens tout de suite.",
-    "es": "Ya vuelvo."
+    "it": "Torno subito."
   },
   {
-    "id": "es-097",
+    "id": "it-097",
     "fr": "Bien sûr.",
-    "es": "Por supuesto."
+    "it": "Certamente."
   },
   {
-    "id": "es-098",
+    "id": "it-098",
     "fr": "Peut-être.",
-    "es": "Tal vez."
+    "it": "Forse."
   },
   {
-    "id": "es-099",
+    "id": "it-099",
     "fr": "Jamais.",
-    "es": "Nunca."
+    "it": "Mai."
   },
   {
-    "id": "es-100",
+    "id": "it-100",
     "fr": "Toujours.",
-    "es": "Siempre."
+    "it": "Sempre."
   },
   {
-    "id": "es-101",
+    "id": "it-101",
     "fr": "Quel est ton plat préféré ?",
-    "es": "¿Cuál es tu comida favorita?"
+    "it": "Qual è il tuo piatto preferito?"
   },
   {
-    "id": "es-102",
+    "id": "it-102",
     "fr": "J'adore les pâtes.",
-    "es": "Me encanta la pasta."
+    "it": "Adoro la pasta."
   },
   {
-    "id": "es-103",
+    "id": "it-103",
     "fr": "Tu veux boire quelque chose ?",
-    "es": "¿Quieres beber algo?"
+    "it": "Vuoi bere qualcosa?"
   },
   {
-    "id": "es-104",
+    "id": "it-104",
     "fr": "Un café, s'il vous plaît.",
-    "es": "Un café, por favor."
+    "it": "Un caffè, per favore."
   },
   {
-    "id": "es-105",
+    "id": "it-105",
     "fr": "Où puis-je acheter un billet ?",
-    "es": "¿Dónde puedo comprar un boleto?"
+    "it": "Dove posso comprare un biglietto?"
   },
   {
-    "id": "es-106",
+    "id": "it-106",
     "fr": "Au guichet.",
-    "es": "En la taquilla."
+    "it": "Allo sportello."
   },
   {
-    "id": "es-107",
+    "id": "it-107",
     "fr": "Le train est en retard.",
-    "es": "El tren viene retrasado."
+    "it": "Il treno è in ritardo."
   },
   {
-    "id": "es-108",
+    "id": "it-108",
     "fr": "C'est loin d'ici ?",
-    "es": "¿Está lejos de aquí?"
+    "it": "È lontano da qui?"
   },
   {
-    "id": "es-109","fr": "Non, c'est tout près.","es": "No, está muy cerca."},{"id": "es-110","fr": "Allez tout droit.","es": "Vaya todo recto."},{"id": "es-111","fr": "Tournez à droite.","es": "Gire a la derecha."},{"id": "es-112","fr": "Tournez à gauche.","es": "Gire a la izquierda."},{"id": "es-113","fr": "Je suis perdu.","es": "Estoy perdido."},{"id": "es-114","fr": "Pouvez-vous me montrer sur la carte ?","es": "¿Puede mostrármelo en el mapa?"},{"id": "es-115","fr": "Où est l'hôtel ?","es": "¿Dónde está el hotel?"},{"id": "es-116","fr": "J'ai une réservation.","es": "Tengo una reservación."},{"id": "es-117","fr": "Puis-je avoir la clé ?","es": "¿Puedo tener la llave?"},{"id": "es-118","fr": "Le Wi-Fi est gratuit ?","es": "¿El Wi-Fi es gratis?"},{"id": "es-119","fr": "Quel est le mot de passe ?","es": "¿Cuál es la contraseña?"},{"id": "es-120","fr": "Où se trouve l'ascenseur ?","es": "¿Dónde está el ascensor?"},{"id": "es-121","fr": "Je voudrais réserver une table.","es": "Me gustaría reservar una mesa."},{"id": "es-122","fr": "Pour combien de personnes ?","es": "¿Para cuántas personas?"},{"id": "es-123","fr": "Pour deux personnes.","es": "Para dos personas."},{"id": "es-124","fr": "À quelle heure ?","es": "¿A qué hora?"},{"id": "es-125","fr": "Ce soir à vingt heures.","es": "Esta noche a las veinte horas."},{"id": "es-126","fr": "Êtes-vous prêt à commander ?","es": "¿Está listo para ordenar?"},{"id": "es-127","fr": "Je vais prendre le poulet.","es": "Voy a pedir el pollo."},{"id": "es-128","fr": "Et pour boire ?","es": "¿Y para beber?"},{"id": "es-129","fr": "De l'eau minérale, s'il vous plaît.","es": "Agua mineral, por favor."},{"id": "es-130","fr": "Bon appétit !","es": "¡Buen provecho!"},{"id": "es-131","fr": "C'était excellent.","es": "Estuvo excelente."},{"id": "es-132","fr": "Acceptez-vous les cartes bancaires ?","es": "¿Aceptan tarjetas de crédito?"},{"id": "es-133","fr": "Je vais payer en espèces.","es": "Voy a pagar en efectivo."},{"id": "es-134","fr": "Gardez la monnaie.","es": "Quédese con el cambio."},{"id": "es-135","fr": "Où sont les magasins ?","es": "¿Dónde están las tiendas?"},{"id": "es-136","fr": "Je regarde juste.","es": "Solo estoy mirando."},{"id": "es-137","fr": "Puis-je essayer ceci ?","es": "¿Puedo probarme esto?"},{"id": "es-138","fr": "Où sont les cabines d'essayage ?","es": "¿Dónde están los probadores?"},{"id": "es-139","fr": "Quelle est votre taille ?","es": "¿Cuál es su talla?"},{"id": "es-140","fr": "C'est trop grand.","es": "Es demasiado grande."},{"id": "es-141","fr": "C'est trop petit.","es": "Es demasiado pequeño."},{"id": "es-142","fr": "Avez-vous la taille au-dessus ?","es": "¿Lo tiene en una talla más grande?"},{"id": "es-143","fr": "Je le prends.","es": "Me lo llevo."},{"id": "es-144","fr": "Où est la caisse ?","es": "¿Dónde está la caja?"},{"id": "es-145","fr": "Puis-je avoir un sac ?","es": "¿Puedo tener una bolsa?"},{"id": "es-146","fr": "Je voudrais un remboursement.","es": "Me gustaría un reembolso."},{"id": "es-147","fr": "C'est cassé.","es": "Está roto."},{"id": "es-148","fr": "Où se trouve la pharmacie ?","es": "¿Dónde está la farmacia?"},{"id": "es-149","fr": "Je suis malade.","es": "Estoy enfermo."},{"id": "es-150","fr": "J'ai mal à la tête.","es": "Me duele la cabeza."},{"id": "es-151","fr": "J'ai de la fièvre.","es": "Tengo fiebre."},{"id": "es-152","fr": "Il me faut un médicament.","es": "Necesito un medicamento."},{"id": "es-153","fr": "Où est l'hôpital le plus proche ?","es": "¿Dónde está el hospital más cercano?"},{"id": "es-154","fr": "Appelez une ambulance !","es": "¡Llame a una ambulancia!"},{"id": "es-155","fr": "C'est une urgence.","es": "Es una emergencia."},{"id": "es-156","fr": "Tout va bien ?","es": "¿Todo está bien?"},{"id": "es-157","fr": "Oui, tout va bien.","es": "Sí, todo está bien."},{"id": "es-158","fr": "Calmez-vous, s'il vous plaît.","es": "Cálmese, por favor."},{"id": "es-159","fr": "Ne vous inquiétez pas.","es": "No se preocupe."},{"id": "es-160","fr": "Qu'est-ce qui s'est passé ?","es": "¿Qué pasó?"},{"id": "es-161","fr": "C'était un accident.","es": "Fue un accidente."},{"id": "es-162","fr": "J'ai perdu mon passeport.","es": "Perdí mi pasaporte."},{"id": "es-163","fr": "Où est le commissariat ?","es": "¿Dónde está la comisaría?"},{"id": "es-164","fr": "On m'a volé mon sac.","es": "Me robaron el bolso."},{"id": "es-165","fr": "Au voleur !","es": "¡Al ladrón!"},{"id": "es-166","fr": "Aidez-moi !","es": "¡Ayúdeme!"},{"id": "es-167","fr": "Quelle est la date aujourd'hui ?","es": "¿Cuál es la fecha de hoy?"},{"id": "es-168","fr": "C'est le premier mai.","es": "Es el primero de mayo."},{"id": "es-169","fr": "Quel jour sommes-nous ?","es": "¿Qué día es hoy?"},{"id": "es-170","fr": "Aujourd'hui, c'est lundi.","es": "Hoy es lunes."},{"id": "es-171","fr": "Qu'as-tu fait ce week-end ?","es": "¿Qué hiciste este fin de semana?"},{"id": "es-172","fr": "Je me suis reposé.","es": "Me descansé."},{"id": "es-173","fr": "Qu'est-ce qu'on fait demain ?","es": "¿Qué hacemos mañana?"},{"id": "es-174","fr": "On se voit ce soir ?","es": "¿Nos vemos esta noche?"},{"id": "es-175","fr": "À quelle heure on se retrouve ?","es": "¿A qué hora nos encontramos?"},{"id": "es-176","fr": "On se retrouve à dix-neuf heures.","es": "Nos encontramos a las diecinueve horas."},{"id": "es-177","fr": "Où est le point de rendez-vous ?","es": "¿Dónde es el punto de encuentro?"},{"id": "es-178","fr": "Devant le cinéma.","es": "Frente al cine."},{"id": "es-179","fr": "Je suis en chemin.","es": "Estoy en camino."},{"id": "es-180","fr": "Je vais être en retard.","es": "Voy a llegar tarde."},{"id": "es-181","fr": "Désolé pour le retard.","es": "Lo siento por el retraso."},{"id": "es-182","fr": "Ce n'est rien.","es": "No es nada."},{"id": "es-183","fr": "Merci d'être venu.","es": "Gracias por venir."},{"id": "es-184","fr": "C'était un plaisir.","es": "Fue un placer."},{"id": "es-185","fr": "À la prochaine fois.","es": "Hasta la próxima."},{"id": "es-186","fr": "Tu as passé de bonnes vacances ?","es": "¿Pasaste unas buenas vacaciones?"},{"id": "es-187","fr": "C'était fantastique.","es": "Estuvo fantástico."},{"id": "es-188","fr": "Où es-tu allé ?","es": "¿A dónde fuiste?"},{"id": "es-189","fr": "Je suis allé à la plage.","es": "Fui a la playa."},{"id": "es-190","fr": "Comment était le voyage ?","es": "¿Cómo estuvo el viaje?"},{"id": "es-191","fr": "C'était un peu long.","es": "Estuvo un poco largo."},{"id": "es-192","fr": "Tu as pris des photos ?","es": "¿Tomaste fotos?"},{"id": "es-193","fr": "Oui, beaucoup.","es": "Sí, muchas."},{"id": "es-194","fr": "Montre-moi, s'il te plaît.","es": "Muéstrame, por favor."},{"id": "es-195","fr": "C'est magnifique.","es": "Es hermoso."},{"id": "es-196","fr": "Quelle chance !","es": "¡Qué suerte!"},{"id": "es-197","fr": "Je veux y aller aussi.","es": "Yo también quiero ir."},{"id": "es-198","fr": "Peut-être l'année prochaine.","es": "Tal vez el próximo año."},{"id": "es-199","fr": "On verra.","es": "Ya veremos."},{"id": "es-200","fr": "C'est la fin du fichier.","es": "Este es el final del archivo."}],
+    "id": "it-109",
+    "fr": "Non, c'est tout près.",
+    "it": "No, è vicinissimo."
+  },
+  {
+    "id": "it-110",
+    "fr": "Allez tout droit.","it": "Vada sempre dritto."},{"id": "it-111","fr": "Tournez à droite.","it": "Giri a destra."},{"id": "it-112","fr": "Tournez à gauche.","it": "Giri a sinistra."},{"id": "it-113","fr": "Je suis perdu.","it": "Mi sono perso."},{"id": "it-114","fr": "Pouvez-vous me montrer sur la carte ?","it": "Può mostrarmelo sulla mappa?"},{"id": "it-115","fr": "Où est l'hôtel ?","it": "Dov'è l'hotel?"},{"id": "it-116","fr": "J'ai une réservation.","it": "Ho una prenotazione."},{"id": "it-117","fr": "Puis-je avoir la clé ?","it": "Posso avere la chiave?"},{"id": "it-118","fr": "Le Wi-Fi est gratuit ?","it": "Il Wi-Fi è gratuito?"},{"id": "it-119","fr": "Quel est le mot de passe ?","it": "Qual è la password?"},{"id": "it-120","fr": "Où se trouve l'ascenseur ?","it": "Dov'è l'ascensore?"},{"id": "it-121","fr": "Je voudrais réserver une table.","it": "Vorrei prenotare un tavolo."},{"id": "it-122","fr": "Pour combien de personnes ?","it": "Per quante persone?"},{"id": "it-123","fr": "Pour deux personnes.","it": "Per due persone."},{"id": "it-124","fr": "À quelle heure ?","it": "A che ora?"},{"id": "it-125","fr": "Ce soir à vingt heures.","it": "Stasera alle venti."},{"id": "it-126","fr": "Êtes-vous prêt à commander ?","it": "È pronto per ordinare?"},{"id": "it-127","fr": "Je vais prendre le poulet.","it": "Prendo il pollo."},{"id": "it-128","fr": "Et pour boire ?","it": "E da bere?"},{"id": "it-129","fr": "De l'eau minérale, s'il vous plaît.","it": "Acqua minerale, per favore."},{"id": "it-130","fr": "Bon appétit !","it": "Buon appetito!"},{"id": "it-131","fr": "C'était excellent.","it": "Era eccellente."},{"id": "it-132","fr": "Acceptez-vous les cartes bancaires ?","it": "Accettate carte di credito?"},{"id": "it-133","fr": "Je vais payer en espèces.","it": "Pago in contanti."},{"id": "it-134","fr": "Gardez la monnaie.","it": "Tenga il resto."},{"id": "it-135","fr": "Où sont les magasins ?","it": "Dove sono i negozi?"},{"id": "it-136","fr": "Je regarde juste.","it": "Sto solo guardando."},{"id": "it-137","fr": "Puis-je essayer ceci ?","it": "Posso provare questo?"},{"id": "it-138","fr": "Où sont les cabines d'essayage ?","it": "Dove sono i camerini?"},{"id": "it-139","fr": "Quelle est votre taille ?","it": "Qual è la sua taglia?"},{"id": "it-140","fr": "C'est trop grand.","it": "È troppo grande."},{"id": "it-141","fr": "C'est trop petit.","it": "È troppo piccolo."},{"id": "it-142","fr": "Avez-vous la taille au-dessus ?","it": "Ha una taglia in più?"},{"id": "it-143","fr": "Je le prends.","it": "Lo prendo."},{"id": "it-144","fr": "Où est la caisse ?","it": "Dov'è la cassa?"},{"id": "it-145","fr": "Puis-je avoir un sac ?","it": "Posso avere una busta?"},{"id": "it-146","fr": "Je voudrais un remboursement.","it": "Vorrei un rimborso."},{"id": "it-147","fr": "C'est cassé.","it": "È rotto."},{"id": "it-148","fr": "Où se trouve la pharmacie ?","it": "Dov'è la farmacia?"},{"id": "it-149","fr": "Je suis malade.","it": "Sono malato."},{"id": "it-150","fr": "J'ai mal à la tête.","it": "Ho mal di testa."},{"id": "it-151","fr": "J'ai de la fièvre.","it": "Ho la febbre."},{"id": "it-152","fr": "Il me faut un médicament.","it": "Ho bisogno di una medicina."},{"id": "it-153","fr": "Où est l'hôpital le plus proche ?","it": "Dov'è l'ospedale più vicino?"},{"id": "it-154","fr": "Appelez une ambulance !","it": "Chiami un'ambulanza!"},{"id": "it-155","fr": "C'est une urgence.","it": "È un'emergenza."},{"id": "it-156","fr": "Tout va bien ?","it": "Tutto bene?"},{"id": "it-157","fr": "Oui, tout va bien.","it": "Sì, tutto bene."},{"id": "it-158","fr": "Calmez-vous, s'il vous plaît.","it": "Si calmi, per favore."},{"id": "it-159","fr": "Ne vous inquiétez pas.","it": "Non si preoccupi."},{"id": "it-160","fr": "Qu'est-ce qui s'est passé ?","it": "Cos'è successo?"},{"id": "it-161","fr": "C'était un accident.","it": "È stato un incidente."},{"id": "it-162","fr": "J'ai perdu mon passeport.","it": "Ho perso il passaporto."},{"id": "it-163","fr": "Où est le commissariat ?","it": "Dov'è il commissariato?"},{"id": "it-164","fr": "On m'a volé mon sac.","it": "Mi hanno rubato la borsa."},{"id": "it-165","fr": "Au voleur !","it": "Al ladro!"},{"id": "it-166","fr": "Aidez-moi !","it": "Aiutatemi!"},{"id": "it-167","fr": "Quelle est la date aujourd'hui ?","it": "Qual è la data di oggi?"},{"id": "it-168","fr": "C'est le premier mai.","it": "È il primo maggio."},{"id": "it-169","fr": "Quel jour sommes-nous ?","it": "Che giorno è oggi?"},{"id": "it-170","fr": "Aujourd'hui, c'est lundi.","it": "Oggi è lunedì."},{"id": "it-171","fr": "Qu'as-tu fait ce week-end ?","it": "Cosa hai fatto questo fine settimana?"},{"id": "it-172","fr": "Je me suis reposé.","it": "Mi sono riposato."},{"id": "it-173","fr": "Qu'est-ce qu'on fait demain ?","it": "Cosa facciamo domani?"},{"id": "it-174","fr": "On se voit ce soir ?","it": "Ci vediamo stasera?"},{"id": "it-175","fr": "À quelle heure on se retrouve ?","it": "A che ora ci troviamo?"},{"id": "it-176","fr": "On se retrouve à dix-neuf heures.","it": "Ci troviamo alle diciannove."},{"id": "it-177","fr": "Où est le point de rendez-vous ?","it": "Dov'è il punto di ritrovo?"},{"id": "it-178","fr": "Devant le cinéma.","it": "Davanti al cinema."},{"id": "it-179","fr": "Je suis en chemin.","it": "Sto arrivando."},{"id": "it-180","fr": "Je vais être en retard.","it": "Farò tardi."},{"id": "it-181","fr": "Désolé pour le retard.","it": "Scusa per il ritardo."},{"id": "it-182","fr": "Ce n'est rien.","it": "Non è niente."},{"id": "it-183","fr": "Merci d'être venu.","it": "Grazie di essere venuto."},{"id": "it-184","fr": "C'était un plaisir.","it": "È stato un piacere."},{"id": "it-185","fr": "À la prochaine fois.","it": "Alla prossima volta."},{"id": "it-186","fr": "Tu as passé de bonnes vacances ?","it": "Hai fatto una buona vacanza?"},{"id": "it-187","fr": "C'était fantastique.","it": "È stato fantastico."},{"id": "it-188","fr": "Où es-tu allé ?","it": "Dove sei andato?"},{"id": "it-189","fr": "Je suis allé à la plage.","it": "Sono andato in spiaggia."},{"id": "it-190","fr": "Comment était le voyage ?","it": "Com'era il viaggio?"},{"id": "it-191","fr": "C'était un peu long.","it": "È stato un po' lungo."},{"id": "it-192","fr": "Tu as pris des photos ?","it": "Hai fatto delle foto?"},{"id": "it-193","fr": "Oui, beaucoup.","it": "Sì, molte."},{"id": "it-194","fr": "Montre-moi, s'il te plaît.","it": "Mostrami, per favore."},{"id": "it-195","fr": "C'est magnifique.","it": "È bellissimo."},{"id": "it-196","fr": "Quelle chance !","it": "Che fortuna!"},{"id": "it-197","fr": "Je veux y aller aussi.","it": "Voglio andarci anch'io."},{"id": "it-198","fr": "Peut-être l'année prochaine.","it": "Forse l'anno prossimo."},{"id": "it-199","fr": "On verra.","it": "Vedremo."},{"id": "it-200","fr": "C'est la fin du fichier.","it": "Questa è la fine del file."}],
 
     "frenchspanish": [],
 
