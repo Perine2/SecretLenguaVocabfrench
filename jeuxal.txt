@@ -4630,7 +4630,7 @@
   {
     "id": "de-hi-097",
     "de": "Es ist ein Notfall.",
-    "hi": "यह एक आपातकालीन स्थिति है।"
+    "hi": "यह een आपातकालीन स्थिति है।"
   },
   {
     "id": "de-hi-098",
@@ -4645,7 +4645,7 @@
   {
     "id": "de-hi-100",
     "de": "Ich muss mein Ticket stornieren.",
-    "hi": "मुझे अपना ticket रद्द करना होगा।"
+    "hi": "मुझे अपना टिकट रद्द करना होगा।"
   }{
     "id": "de-hi-101",
     "de": "Wie lange dauert die Fahrt?",
@@ -4774,7 +4774,7 @@
   {
     "id": "de-hi-126",
     "de": "Können Sie ein Taxi rufen?",
-    "hi": "क्या आप एक टैक्सी बुला सकते हैं?"
+    "hi": "क्या आप een टैक्सी बुला सकते हैं?"
   },
   {
     "id": "de-hi-127",
@@ -5044,7 +5044,7 @@
   {
     "id": "de-hi-180",
     "de": "Ich habe ein neues Auto gekauft.",
-    "hi": "मैंने एक नई कार खरीदी है।"
+    "hi": "मैंने een नई कार खरीदी है।"
   },
   {
     "id": "de-hi-181",
