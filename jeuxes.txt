@@ -1,6 +1,969 @@
 {
   "spanish": {
-    "spanishfrench": [],
+    "spanishfrench": [{
+    "id": "es-fr-001",
+    "es": "¿Hola, cómo está?",
+    "fr": "Bonjour, comment allez-vous ?"
+  },
+  {
+    "id": "es-fr-002",
+    "es": "¿Cómo se llama?",
+    "fr": "Comment vous appelez-vous ?"
+  },
+  {
+    "id": "es-fr-003",
+    "es": "Me llamo John.",
+    "fr": "Je m'appelle John."
+  },
+  {
+    "id": "es-fr-004",
+    "es": "Mucho gusto en conocerle.",
+    "fr": "Enchanté de vous rencontrer."
+  },
+  {
+    "id": "es-fr-005",
+    "es": "¿De dónde viene?",
+    "fr": "D'où venez-vous ?"
+  },
+  {
+    "id": "es-fr-006",
+    "es": "Vengo de Francia.",
+    "fr": "Je viens de France."
+  },
+  {
+    "id": "es-fr-007",
+    "es": "¿Dónde vive?",
+    "fr": "Où habitez-vous ?"
+  },
+  {
+    "id": "es-fr-008",
+    "es": "Vivo en París.",
+    "fr": "J'habite à Paris."
+  },
+  {
+    "id": "es-fr-009",
+    "es": "¿Cuántos años tiene?",
+    "fr": "Quel âge avez-vous ?"
+  },
+  {
+    "id": "es-fr-010",
+    "es": "Tengo treinta años.",
+    "fr": "J'ai trente ans."
+  },
+  {
+    "id": "es-fr-011",
+    "es": "¿En qué trabaja?",
+    "fr": "Que faites-vous comme travail ?"
+  },
+  {
+    "id": "es-fr-012",
+    "es": "Soy estudiante.",
+    "fr": "Je suis étudiant."
+  },
+  {
+    "id": "es-fr-013",
+    "es": "¿Habla inglés?",
+    "fr": "Parlez-vous anglais ?"
+  },
+  {
+    "id": "es-fr-014",
+    "es": "Hablo un poco de inglés.",
+    "fr": "Je parle un peu anglais."
+  },
+  {
+    "id": "es-fr-015",
+    "es": "¿Puede ayudarme, por favor?",
+    "fr": "Pouvez-vous m'aider, s'il vous plaît ?"
+  },
+  {
+    "id": "es-fr-016",
+    "es": "Muchas gracias.",
+    "fr": "Merci beaucoup."
+  },
+  {
+    "id": "es-fr-017",
+    "es": "De nada.",
+    "fr": "Je vous en prie."
+  },
+  {
+    "id": "es-fr-018",
+    "es": "Por favor.",
+    "fr": "S'il vous plaît."
+  },
+  {
+    "id": "es-fr-019",
+    "es": "Disculpe.",
+    "fr": "Excusez-moi."
+  },
+  {
+    "id": "es-fr-020",
+    "es": "Lo siento.",
+    "fr": "Je suis désolé."
+  },
+  {
+    "id": "es-fr-021",
+    "es": "¿Qué hora es?",
+    "fr": "Quelle heure est-il ?"
+  },
+  {
+    "id": "es-fr-022",
+    "es": "Son las diez.",
+    "fr": "Il est dix heures."
+  },
+  {
+    "id": "es-fr-023",
+    "es": "¿Dónde está el baño?",
+    "fr": "Où sont les toilettes ?"
+  },
+  {
+    "id": "es-fr-024",
+    "es": "Es por allá.",
+    "fr": "C'est par là."
+  },
+  {
+    "id": "es-fr-025",
+    "es": "¿Cuánto cuesta?",
+    "fr": "Combien ça coûte ?"
+  },
+  {
+    "id": "es-fr-026",
+    "es": "Es demasiado caro.",
+    "fr": "C'est trop cher."
+  },
+  {
+    "id": "es-fr-027",
+    "es": "¿Dónde está la estación de tren?",
+    "fr": "Où est la gare ?"
+  },
+  {
+    "id": "es-fr-028",
+    "es": "Busco un buen restaurante.",
+    "fr": "Je cherche un bon restaurant."
+  },
+  {
+    "id": "es-fr-029",
+    "es": "La cuenta, por favor.",
+    "fr": "L'addition, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-030",
+    "es": "¿Cómo está el clima hoy?",
+    "fr": "Quel temps fait-il aujourd'hui ?"
+  },
+  {
+    "id": "es-fr-031",
+    "es": "Hace buen tiempo.",
+    "fr": "Le temps est beau."
+  },
+  {
+    "id": "es-fr-032",
+    "es": "Está lloviendo.",
+    "fr": "Il pleut."
+  },
+  {
+    "id": "es-fr-033",
+    "es": "Tengo hambre.",
+    "fr": "J'ai faim."
+  },
+  {
+    "id": "es-fr-034",
+    "es": "Tengo sed.",
+    "fr": "J'ai soif."
+  },
+  {
+    "id": "es-fr-035",
+    "es": "Estoy cansado.",
+    "fr": "Je suis fatigué."
+  },
+  {
+    "id": "es-fr-036",
+    "es": "No entiendo.",
+    "fr": "Je ne comprends pas."
+  },
+  {
+    "id": "es-fr-037",
+    "es": "¿Puede repetir?",
+    "fr": "Pouvez-vous répéter ?"
+  },
+  {
+    "id": "es-fr-038",
+    "es": "Hable más despacio, por favor.",
+    "fr": "Parlez plus lentement, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-039",
+    "es": "¿Cómo se dice eso en francés?",
+    "fr": "Comment dit-on cela en français ?"
+  },
+  {
+    "id": "es-fr-040",
+    "es": "¿Qué significa esta palabra?",
+    "fr": "Que signifie ce mot ?"
+  },
+  {
+    "id": "es-fr-041",
+    "es": "Te amo.",
+    "fr": "Je t'aime."
+  },
+  {
+    "id": "es-fr-042",
+    "es": "Te extraño.",
+    "fr": "Tu me manques."
+  },
+  {
+    "id": "es-fr-043",
+    "es": "¡Buena suerte!",
+    "fr": "Bonne chance !"
+  },
+  {
+    "id": "es-fr-044",
+    "es": "¡Felicitaciones!",
+    "fr": "Félicitations !"
+  },
+  {
+    "id": "es-fr-045",
+    "es": "¡Feliz cumpleaños!",
+    "fr": "Joyeux anniversaire !"
+  },
+  {
+    "id": "es-fr-046",
+    "es": "¡Buen viaje!",
+    "fr": "Bon voyage !"
+  },
+  {
+    "id": "es-fr-047",
+    "es": "Que tenga un buen día.",
+    "fr": "Bonne journée."
+  },
+  {
+    "id": "es-fr-048",
+    "es": "Hasta pronto.",
+    "fr": "À bientôt."
+  },
+  {
+    "id": "es-fr-049",
+    "es": "Hasta mañana.",
+    "fr": "À demain."
+  },
+  {
+    "id": "es-fr-050",
+    "es": "Adiós.",
+    "fr": "Au revoir."
+  },
+  {
+    "id": "es-fr-051",
+    "es": "¿A dónde va?",
+    "fr": "Où allez-vous ?"
+  },
+  {
+    "id": "es-fr-052",
+    "es": "Voy al supermercado.",
+    "fr": "Je vais au supermarché."
+  },
+  {
+    "id": "es-fr-053",
+    "es": "¿Qué es esto?",
+    "fr": "Qu'est-ce que c'est ?"
+  },
+  {
+    "id": "es-fr-054",
+    "es": "No lo sé.",
+    "fr": "Je ne sais pas."
+  },
+  {
+    "id": "es-fr-055",
+    "es": "¿Está seguro?",
+    "fr": "Êtes-vous sûr ?"
+  },
+  {
+    "id": "es-fr-056",
+    "es": "Sí, estoy seguro.",
+    "fr": "Oui, je suis sûr."
+  },
+  {
+    "id": "es-fr-057",
+    "es": "Creo que sí.",
+    "fr": "Je think que oui."
+  },
+  {
+    "id": "es-fr-058",
+    "es": "Creo que no.",
+    "fr": "Je ne pense pas."
+  },
+  {
+    "id": "es-fr-059",
+    "es": "No hay problema.",
+    "fr": "Pas de problème."
+  },
+  {
+    "id": "es-fr-060",
+    "es": "No importa.",
+    "fr": "Ça ne fait rien."
+  },
+  {
+    "id": "es-fr-061",
+    "es": "¿Qué estás comiendo?",
+    "fr": "Qu'est-ce que tu manges ?"
+  },
+  {
+    "id": "es-fr-062",
+    "es": "Está delicioso.",
+    "fr": "C'est délicieux."
+  },
+  {
+    "id": "es-fr-063",
+    "es": "No me gusta.",
+    "fr": "Je n'aime pas ça."
+  },
+  {
+    "id": "es-fr-064",
+    "es": "¿Cuáles son sus pasatiempos?",
+    "fr": "Quels sont vos loisirs ?"
+  },
+  {
+    "id": "es-fr-065",
+    "es": "Me gusta leer libros.",
+    "fr": "J'aime lire des livres."
+  },
+  {
+    "id": "es-fr-066",
+    "es": "Me gusta escuchar música.",
+    "fr": "J'aime écouter de la musique."
+  },
+  {
+    "id": "es-fr-067",
+    "es": "¿Hace deporte?",
+    "fr": "Faites-vous du sport ?"
+  },
+  {
+    "id": "es-fr-068",
+    "es": "Juego al fútbol.",
+    "fr": "Je joue au football."
+  },
+  {
+    "id": "es-fr-069",
+    "es": "Estoy viendo una película.",
+    "fr": "Je regarde un film."
+  },
+  {
+    "id": "es-fr-070",
+    "es": "¿Dónde lo compraste?",
+    "fr": "Où as-tu acheté ça ?"
+  },
+  {
+    "id": "es-fr-071",
+    "es": "Es un regalo.",
+    "fr": "C'est un cadeau."
+  },
+  {
+    "id": "es-fr-072",
+    "es": "¿Puede cerrar la ventana, por favor?",
+    "fr": "Pouvez-vous fermer la fenêtre, s'il vous plaît ?"
+  },
+  {
+    "id": "es-fr-073",
+    "es": "Hace frío aquí.",
+    "fr": "Il fait froid ici."
+  },
+  {
+    "id": "es-fr-074",
+    "es": "Hace calor afuera.",
+    "fr": "Il fait chaud dehors."
+  },
+  {
+    "id": "es-fr-075",
+    "es": "¿Dónde están mis llaves?",
+    "fr": "Où sont mes clés ?"
+  },
+  {
+    "id": "es-fr-076",
+    "es": "Están sobre la mesa.",
+    "fr": "Elles sont sur la table."
+  },
+  {
+    "id": "es-fr-077",
+    "es": "Tengo que irme.",
+    "fr": "Je dois partir."
+  },
+  {
+    "id": "es-fr-078",
+    "es": "Cuídate.",
+    "fr": "Prends soin de toi."
+  },
+  {
+    "id": "es-fr-079",
+    "es": "Hasta luego.",
+    "fr": "À plus tard."
+  },
+  {
+    "id": "es-fr-080",
+    "es": "Buenas noches.",
+    "fr": "Bonne nuit."
+  },
+  {
+    "id": "es-fr-081",
+    "es": "¿Tiene hermanos o hermanas?",
+    "fr": "Avez-vous des frères et sœurs ?"
+  },
+  {
+    "id": "es-fr-082",
+    "es": "Tengo un hermano y una hermana.",
+    "fr": "J'ai un frère et une sœur."
+  },
+  {
+    "id": "es-fr-083",
+    "es": "¿Está casado?",
+    "fr": "Êtes-vous marié ?"
+  },
+  {
+    "id": "es-fr-084",
+    "es": "Soy soltero.",
+    "fr": "Je suis célibataire."
+  },
+  {
+    "id": "es-fr-085",
+    "es": "¿Tienes hijos?",
+    "fr": "As-tu des enfants ?"
+  },
+  {
+    "id": "es-fr-086",
+    "es": "Tengo dos hijos.",
+    "fr": "J'ai deux enfants."
+  },
+  {
+    "id": "es-fr-087",
+    "es": "¿Dónde trabajas?",
+    "fr": "Où travailles-tu ?"
+  },
+  {
+    "id": "es-fr-088",
+    "es": "Trabajo en una oficina.",
+    "fr": "Je travaille dans un bureau."
+  },
+  {
+    "id": "es-fr-089",
+    "es": "¿Le gusta el café o el té?",
+    "fr": "Préférez-vous le café ou le thé ?"
+  },
+  {
+    "id": "es-fr-090",
+    "es": "Prefiero tomar té.",
+    "fr": "Je préfère boire du thé."
+  },
+  {
+    "id": "es-fr-091",
+    "es": "Es una buena idea.",
+    "fr": "C'est une bonne idée."
+  },
+  {
+    "id": "es-fr-092",
+    "es": "Estoy cansado, me voy a la cama.",
+    "fr": "Je suis fatigué, je vais me coucher."
+  },
+  {
+    "id": "es-fr-093",
+    "es": "¿Cuál es su película favorita?",
+    "fr": "Quel est votre film préféré ?"
+  },
+  {
+    "id": "es-fr-094",
+    "es": "¿Puede mostrarme el camino?",
+    "fr": "Pouvez-vous me montrer le chemin ?"
+  },
+  {
+    "id": "es-fr-095",
+    "es": "Perdí mi teléfono.",
+    "fr": "J'ai perdu mon téléphone."
+  },
+  {
+    "id": "es-fr-096",
+    "es": "Llame a un médico, por favor.",
+    "fr": "Appelez un médecin, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-097",
+    "es": "Es una emergencia.",
+    "fr": "C'est une urgence."
+  },
+  {
+    "id": "es-fr-098",
+    "es": "¿Tiene la contraseña del Wi-Fi?",
+    "fr": "Avez-vous le mot de passe du Wi-Fi ?"
+  },
+  {
+    "id": "es-fr-099",
+    "es": "Internet está muy lento.",
+    "fr": "Internet est très lent."
+  },
+  {
+    "id": "es-fr-100",
+    "es": "Tengo que cancelar mi boleto.",
+    "fr": "Je doit annuler mon billet."
+  },{
+    "id": "es-fr-101",
+    "es": "¿Cuánto dura el viaje?",
+    "fr": "Combien de temps dure le trajet ?"
+  },
+  {
+    "id": "es-fr-102",
+    "es": "¿Podemos parar aquí?",
+    "fr": "Pouvons-nous nous arrêter ici ?"
+  },
+  {
+    "id": "es-fr-103",
+    "es": "Necesito un recibo.",
+    "fr": "J'ai besoin d'un reçu."
+  },
+  {
+    "id": "es-fr-104",
+    "es": "¿Dónde puedo cambiar dinero?",
+    "fr": "Où puis-je changer de l'argent ?"
+  },
+  {
+    "id": "es-fr-105",
+    "es": "¿Hay un banco cerca?",
+    "fr": "Y a-t-il une banque à proximité ?"
+  },
+  {
+    "id": "es-fr-106",
+    "es": "¿Aceptan tarjetas de crédito?",
+    "fr": "Acceptez-vous les cartes de crédit ?"
+  },
+  {
+    "id": "es-fr-107",
+    "es": "Pago en efectivo.",
+    "fr": "Je paie en espèces."
+  },
+  {
+    "id": "es-fr-108",
+    "es": "¿Puede hacerme un descuento?",
+    "fr": "Pouvez-vous me faire une réduction ?"
+  },
+  {
+    "id": "es-fr-109",
+    "es": "Esta es mi última palabra.",
+    "fr": "C'est mon dernier mot."
+  },
+  {
+    "id": "es-fr-110",
+    "es": "Solo estoy mirando.",
+    "fr": "Je regarde seulement."
+  },
+  {
+    "id": "es-fr-111",
+    "es": "¿Lo tiene en otra talla?",
+    "fr": "L'avez-vous dans une autre taille ?"
+  },
+  {
+    "id": "es-fr-112",
+    "es": "¿Dónde está el probador?",
+    "fr": "Où est la cabine d'essayage ?"
+  },
+  {
+    "id": "es-fr-113",
+    "es": "Me queda bien.",
+    "fr": "Ça me va bien."
+  },
+  {
+    "id": "es-fr-114",
+    "es": "Me lo llevo.",
+    "fr": "Je le prends."
+  },
+  {
+    "id": "es-fr-115",
+    "es": "¿Dónde puedo dejar mi bolso?",
+    "fr": "Où puis-je poser mon sac ?"
+  },
+  {
+    "id": "es-fr-116",
+    "es": "¿Tienen comida vegetariana?",
+    "fr": "Avez-vous des plats végétariens ?"
+  },
+  {
+    "id": "es-fr-117",
+    "es": "Soy alérgico.",
+    "fr": "Je suis allergique."
+  },
+  {
+    "id": "es-fr-118",
+    "es": "Sin picante, por favor.",
+    "fr": "Pas épicé, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-119",
+    "es": "Tráigame un vaso de agua, por favor.",
+    "fr": "Apportez-moi un verre d'eau, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-120",
+    "es": "¡Buen provecho!",
+    "fr": "Bon appétit !"
+  },
+  {
+    "id": "es-fr-121",
+    "es": "¡Salud!",
+    "fr": "Santé !"
+  },
+  {
+    "id": "es-fr-122",
+    "es": "La comida estaba maravillosa.",
+    "fr": "Le repas était délicieux."
+  },
+  {
+    "id": "es-fr-123",
+    "es": "Me gustaría reservar una habitación.",
+    "fr": "Je voudrais réserver une chambre."
+  },
+  {
+    "id": "es-fr-124",
+    "es": "¿El desayuno está incluido?",
+    "fr": "Le petit-déjeuner est-il inclus ?"
+  },
+  {
+    "id": "es-fr-125",
+    "es": "¿A qué hora es la salida?",
+    "fr": "À quelle heure est le départ ?"
+  },
+  {
+    "id": "es-fr-126",
+    "es": "¿Puede llamar a un taxi?",
+    "fr": "Pouvez-vous appeler un taxi ?"
+  },
+  {
+    "id": "es-fr-127",
+    "es": "Lléveme a esta dirección, por favor.",
+    "fr": "Emmenez-moi à cette adresse, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-128",
+    "es": "Deténgase aquí, por favor.",
+    "fr": "Arrêtez-vous ici, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-129",
+    "es": "¿Hay una parada de autobús cerca?",
+    "fr": "Y a-t-il un arrêt de bus par ici ?"
+  },
+  {
+    "id": "es-fr-130",
+    "es": "¿A qué hora sale el próximo tren?",
+    "fr": "À quelle heure part le prochain train ?"
+  },
+  {
+    "id": "es-fr-131",
+    "es": "El tren está retrasado.",
+    "fr": "Le train est en retard."
+  },
+  {
+    "id": "es-fr-132",
+    "es": "Perdí mi vuelo.",
+    "fr": "J'ai raté mon vol."
+  },
+  {
+    "id": "es-fr-133",
+    "es": "¿Dónde está el reclamo de equipaje?",
+    "fr": "Où est la zone de livraison des bagages ?"
+  },
+  {
+    "id": "es-fr-134",
+    "es": "Esta no es mi maleta.",
+    "fr": "Ce n'est pas ma valise."
+  },
+  {
+    "id": "es-fr-135",
+    "es": "Mi pasaporte desapareció.",
+    "fr": "Mon passeport a disparu."
+  },
+  {
+    "id": "es-fr-136",
+    "es": "¿Dónde está la embajada?",
+    "fr": "Où est l'ambassade ?"
+  },
+  {
+    "id": "es-fr-137",
+    "es": "Necesito ayuda de la policía.",
+    "fr": "J'ai besoin de l'aide de la police."
+  },
+  {
+    "id": "es-fr-138",
+    "es": "Déjame en paz.",
+    "fr": "Laisse-moi tranquille."
+  },
+  {
+    "id": "es-fr-139",
+    "es": "¡Vete!",
+    "fr": "Va-t'en !"
+  },
+  {
+    "id": "es-fr-140",
+    "es": "¡Ayuda! Alguien me robó.",
+    "fr": "Au secours ! Quelqu'un m'a volé."
+  },
+  {
+    "id": "es-fr-141",
+    "es": "Me perdí.",
+    "fr": "Je me suis perdu."
+  },
+  {
+    "id": "es-fr-142",
+    "es": "¿Puede mostrarme en el mapa dónde estoy?",
+    "fr": "Pouvez-vous me montrer sur la carte où je me trouve ?"
+  },
+  {
+    "id": "es-fr-143",
+    "es": "¿Cuál es su número de teléfono?",
+    "fr": "Quel est votre numéro de téléphone ?"
+  },
+  {
+    "id": "es-fr-144",
+    "es": "Escríbalo, por favor.",
+    "fr": "Écrivez-le, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-145",
+    "es": "Te llamaré.",
+    "fr": "Je t'appellerai."
+  },
+  {
+    "id": "es-fr-146",
+    "es": "Mándame un message.",
+    "fr": "Envoie-moi un message."
+  },
+  {
+    "id": "es-fr-147",
+    "es": "¿Está en las redes sociales?",
+    "fr": "Êtes-vous sur les réseaux sociaux ?"
+  },
+  {
+    "id": "es-fr-148",
+    "es": "Te sigo.",
+    "fr": "Je te suis."
+  },
+  {
+    "id": "es-fr-149",
+    "es": "¿Qué hay de nuevo?",
+    "fr": "Quelles sont les nouvelles ?"
+  },
+  {
+    "id": "es-fr-150",
+    "es": "Nada especial.",
+    "fr": "Rien de spécial."
+  },
+  {
+    "id": "es-fr-151",
+    "es": "No veo la hora.",
+    "fr": "J'ai hâte."
+  },
+  {
+    "id": "es-fr-152",
+    "es": "No me importa.",
+    "fr": "Je m'en fiche."
+  },
+  {
+    "id": "es-fr-153",
+    "es": "No te preocupes, todo saldrá bien.",
+    "fr": "Ne t'inquiète pas, tout ira bien."
+  },
+  {
+    "id": "es-fr-154",
+    "es": "Cálmate, por favor.",
+    "fr": "Calme-toi, s'il vous plaît."
+  },
+  {
+    "id": "es-fr-155",
+    "es": "No te estreses.",
+    "fr": "Ne te stresse pas."
+  },
+  {
+    "id": "es-fr-156",
+    "es": "¡Es increíble!",
+    "fr": "C'est incroyable !"
+  },
+  {
+    "id": "es-fr-157",
+    "es": "Estoy orgulloso de ti.",
+    "fr": "Je suis fier de toi."
+  },
+  {
+    "id": "es-fr-158",
+    "es": "Hiciste un buen trabajo.",
+    "fr": "Tu as fait du bon travail."
+  },
+  {
+    "id": "es-fr-159",
+    "es": "¡Ánimo!",
+    "fr": "Garde la tête haute !"
+  },
+  {
+    "id": "es-fr-160",
+    "es": "¡No te rindas!",
+    "fr": "N'abandonne pas !"
+  },
+  {
+    "id": "es-fr-161",
+    "es": "La práctica hace al maestro.",
+    "fr": "C'est en forgeant qu'on devient forgeron."
+  },
+  {
+    "id": "es-fr-162",
+    "es": "Comencemos mañana.",
+    "fr": "Commençons demain."
+  },
+  {
+    "id": "es-fr-163",
+    "es": "No tengo tiempo hoy.",
+    "fr": "Je n'ai pas le temps aujourd'hui."
+  },
+  {
+    "id": "es-fr-164",
+    "es": "Podemos encontrarnos el fin de semana.",
+    "fr": "Nous pouvons nous rencontrer ce week-end."
+  },
+  {
+    "id": "es-fr-165",
+    "es": "¿Cuándo tienes tiempo?",
+    "fr": "Quand as-tu du temps ?"
+  },
+  {
+    "id": "es-fr-166",
+    "es": "Soy flexible.",
+    "fr": "Je suis flexible."
+  },
+  {
+    "id": "es-fr-167",
+    "es": "Depende del clima.",
+    "fr": "Cela dépend du temps."
+  },
+  {
+    "id": "es-fr-168",
+    "es": "Está nublado hoy.",
+    "fr": "C'est nuageux aujourd'hui."
+  },
+  {
+    "id": "es-fr-169",
+    "es": "Está nevando afuera.",
+    "fr": "Il neige dehors."
+  },
+  {
+    "id": "es-fr-170",
+    "es": "El viento está muy fuerte.",
+    "fr": "Le vent est très fort."
+  },
+  {
+    "id": "es-fr-171",
+    "es": "Mañana estará soleado.",
+    "fr": "Demain sera ensoleillé."
+  },
+  {
+    "id": "es-fr-172",
+    "es": "Amo el verano.",
+    "fr": "J'adore l'été."
+  },
+  {
+    "id": "es-fr-173",
+    "es": "El invierno es demasiado largo.",
+    "fr": "L'hiver est trop long."
+  },
+  {
+    "id": "es-fr-174",
+    "es": "Es mi estación favorita.",
+    "fr": "C'est ma saison préférée."
+  },
+  {
+    "id": "es-fr-175",
+    "es": "¿Qué hiciste el fin de semana?",
+    "fr": "Qu'as-tu fait ce week-end ?"
+  },
+  {
+    "id": "es-fr-176",
+    "es": "Me quedé en casa.",
+    "fr": "Je suis resté à la maison."
+  },
+  {
+    "id": "es-fr-177",
+    "es": "Visité a mis amigos.",
+    "fr": "J'ai rendu visite à mes amis."
+  },
+  {
+    "id": "es-fr-178",
+    "es": "Nos divertimos mucho.",
+    "fr": "Nous nous sommes bien amusés."
+  },
+  {
+    "id": "es-fr-179",
+    "es": "Fue una sorpresa.",
+    "fr": "C'était une surprise."
+  },
+  {
+    "id": "es-fr-180",
+    "es": "Compré un auto nuevo.",
+    "fr": "J'ai acheté une nouvelle voiture."
+  },
+  {
+    "id": "es-fr-181",
+    "es": "¡Felicitaciones por el nuevo trabajo!",
+    "fr": "Félicitations pour ton nouveau travail !"
+  },
+  {
+    "id": "es-fr-182",
+    "es": "¿Cuándo comienzas?",
+    "fr": "Quand commences-tu ?"
+  },
+  {
+    "id": "es-fr-183",
+    "es": "Comienzo el próximo lunes.",
+    "fr": "Je commence lundi prochain."
+  },
+  {
+    "id": "es-fr-184",
+    "es": "Estoy un poco nervioso.",
+    "fr": "Je suis un peu nerveux."
+  },
+  {
+    "id": "es-fr-185",
+    "es": "Es completamente normal.",
+    "fr": "C'est tout à fait normal."
+  },
+  {
+    "id": "es-fr-186",
+    "es": "Lo lograrás.",
+    "fr": "Tu vas y arriver."
+  },
+  {
+    "id": "es-fr-187",
+    "es": "Creo en ti.",
+    "fr": "Je crois en toi."
+  },
+  {
+    "id": "es-fr-188",
+    "es": "Muchas gracias por tu apoyo.",
+    "fr": "Merci beaucoup pour ton soutien."
+  },
+  {
+    "id": "es-fr-189",
+    "es": "Eres un buen amigo.",
+    "fr": "Tu es un bon ami."
+  },
+  {
+    "id": "es-fr-190",
+    "es": "Siempre estoy aquí para ti.",
+    "fr": "Je suis toujours là pour toi."
+  },
+  {
+    "id": "es-fr-191",
+    "es": "Esto significa mucho para mí.",
+    "fr": "Cela compte beaucoup pour moi."
+  },
+  {
+    "id": "es-fr-192",
+    "es": "Reunámonos de nuevo pronto.",
+    "fr": "Revoyons-nous bientôt."
+  },
+  {
+    "id": "es-fr-193",
+    "es": "Ahora de verdad tengo que irme.",
+    "fr": "Je dois vraiment y aller maintenant."
+  },{"id": "es-fr-194","es": "Que llegues bien a casa.","fr": "Rentre bien chez toi."},{"id": "es-fr-195","es": "Escríbeme cuando llegues.","fr": "Écris-moi quand tu seras arrivé."},{"id": "es-fr-196","es": "Llegué bien.","fr": "Je suis bien arrivé."},{"id": "es-fr-197","es": "Que duermas bien.","fr": "Dors bien."},{"id": "es-fr-198","es": "Dulces sueños.","fr": "Fais de beaux rêves."},{"id": "es-fr-199","es": "Hasta la próxima.","fr": "À la prochaine fois."},{"id": "es-fr-200","es": "¡Adiós!","fr": "Salut !"}],
     "spanishenglish": [],
     "spanishgerman": [],
     "spanishitalian": [],
