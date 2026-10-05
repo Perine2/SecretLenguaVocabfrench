@@ -9980,6 +9980,1003 @@
         "fr": "À bien y réfléchir, ce n'est peut-être qu'en acceptant l'incertitude inhérente à toute décision importante que nous pouvons espérer faire des choix réellement pertinents.",
         "ru": "Если хорошенько подумать, возможно, только принимая неопределённость, неизбежно присущую любому важному решению, мы можем надеяться делать действительно обоснованный выбор."
       }],
-    "frenchpolish": []
+    "frenchpolish": [{
+        "id": "pl-001",
+        "fr": "Même si la journée avait commencé difficilement, nous avons réussi à terminer le projet avant la réunion de l'après-midi.",
+        "pl": "Mimo że dzień zaczął się trudno, udało nam się zakończyć projekt przed popołudniowym spotkaniem."
+      },
+      {
+        "id": "pl-002",
+        "fr": "Comme le train avait pris du retard, j'ai prévenu mes collègues que j'arriverais probablement après le début de la réunion.",
+        "pl": "Ponieważ pociąg miał opóźnienie, uprzedziłem kolegów, że prawdopodobnie przyjadę po rozpoczęciu spotkania."
+      },
+      {
+        "id": "pl-003",
+        "fr": "Bien qu'il ait beaucoup travaillé cette semaine, il a décidé de consacrer son samedi à aider sa sœur à déménager.",
+        "pl": "Chociaż w tym tygodniu dużo pracował, postanowił poświęcić sobotę na pomoc siostrze w przeprowadzce."
+      },
+      {
+        "id": "pl-004",
+        "fr": "Après avoir vérifié plusieurs fois les horaires, nous avons choisi de partir plus tôt afin d'éviter les embouteillages.",
+        "pl": "Po kilkukrotnym sprawdzeniu rozkładu jazdy zdecydowaliśmy się wyjechać wcześniej, aby uniknąć korków."
+      },
+      {
+        "id": "pl-005",
+        "fr": "Même si le restaurant était presque vide, nous avons dû attendre longtemps avant que quelqu'un vienne prendre notre commande.",
+        "pl": "Mimo że restauracja była prawie pusta, musieliśmy długo czekać, zanim ktoś przyszedł przyjąć nasze zamówienie."
+      },
+      {
+        "id": "pl-006",
+        "fr": "Puisque tu connais déjà la ville, pourrais-tu me conseiller un endroit calme où nous pourrions dîner ce soir ?",
+        "pl": "Skoro znasz już to miasto, czy mógłbyś polecić mi spokojne miejsce, w którym moglibyśmy dziś wieczorem zjeść kolację?"
+      },
+      {
+        "id": "pl-007",
+        "fr": "À condition que la météo reste favorable, nous passerons la journée au bord du lac avec les enfants.",
+        "pl": "Pod warunkiem że pogoda pozostanie sprzyjająca, spędzimy dzień nad jeziorem z dziećmi."
+      },
+      {
+        "id": "pl-008",
+        "fr": "Avant de prendre une décision définitive, elle souhaite discuter du problème avec les personnes directement concernées.",
+        "pl": "Zanim podejmie ostateczną decyzję, chce omówić problem z osobami bezpośrednio nim zainteresowanymi."
+      },
+      {
+        "id": "pl-009",
+        "fr": "Malgré les difficultés rencontrées au début, l'équipe a progressivement trouvé une méthode de travail plus efficace.",
+        "pl": "Mimo trudności napotkanych na początku zespół stopniowo znalazł skuteczniejszą metodę pracy."
+      },
+      {
+        "id": "pl-010",
+        "fr": "Dès que tu auras terminé ton rapport, envoie-le-moi afin que je puisse le relire avant demain matin.",
+        "pl": "Gdy tylko skończysz swój raport, wyślij mi go, abym mógł go przeczytać przed jutrzejszym rankiem."
+      },
+      {
+        "id": "pl-011",
+        "fr": "Comme personne ne savait exactement où se trouvait l'adresse, nous avons demandé notre chemin à plusieurs passants.",
+        "pl": "Ponieważ nikt dokładnie nie wiedział, gdzie znajduje się ten adres, zapytaliśmy o drogę kilku przechodniów."
+      },
+      {
+        "id": "pl-012",
+        "fr": "Même s'il n'avait jamais utilisé ce logiciel auparavant, il a rapidement compris comment effectuer les tâches principales.",
+        "pl": "Mimo że nigdy wcześniej nie korzystał z tego programu, szybko zrozumiał, jak wykonywać najważniejsze zadania."
+      },
+      {
+        "id": "pl-013",
+        "fr": "Après avoir comparé les différentes offres, nous avons choisi celle qui proposait les meilleures conditions pour notre budget.",
+        "pl": "Po porównaniu różnych ofert wybraliśmy tę, która oferowała najlepsze warunki w ramach naszego budżetu."
+      },
+      {
+        "id": "pl-014",
+        "fr": "Bien qu'elle soit fatiguée après son voyage, elle a accepté de participer au dîner organisé par ses collègues.",
+        "pl": "Chociaż była zmęczona po podróży, zgodziła się wziąć udział w kolacji zorganizowanej przez jej kolegów."
+      },
+      {
+        "id": "pl-015",
+        "fr": "Puisque le magasin ferme dans moins d'une heure, nous devons nous dépêcher si nous voulons encore acheter les ingrédients nécessaires.",
+        "pl": "Ponieważ sklep zamyka się za mniej niż godzinę, musimy się pospieszyć, jeśli chcemy jeszcze kupić potrzebne składniki."
+      },
+      {
+        "id": "pl-016",
+        "fr": "Même si la proposition semble intéressante, je préfère attendre quelques jours avant de donner une réponse définitive.",
+        "pl": "Mimo że propozycja wydaje się interesująca, wolę poczekać kilka dni, zanim udzielę ostatecznej odpowiedzi."
+      },
+      {
+        "id": "pl-017",
+        "fr": "À force de travailler tard tous les soirs, il a fini par manquer d'énergie et par perdre sa motivation.",
+        "pl": "Pracując codziennie do późna, w końcu stracił energię i motywację."
+      },
+      {
+        "id": "pl-018",
+        "fr": "Comme nous avions oublié de réserver une chambre, nous avons dû chercher un hôtel disponible à la dernière minute.",
+        "pl": "Ponieważ zapomnieliśmy zarezerwować pokój, musieliśmy w ostatniej chwili szukać wolnego hotelu."
+      },
+      {
+        "id": "pl-019",
+        "fr": "Bien qu'il connaisse déjà le sujet, il a pris quelques notes afin de pouvoir participer activement à la discussion.",
+        "pl": "Chociaż znał już ten temat, zrobił kilka notatek, aby móc aktywnie uczestniczyć w dyskusji."
+      },
+      {
+        "id": "pl-020",
+        "fr": "Avant de quitter la maison, vérifie que toutes les fenêtres sont bien fermées et que tu as pris tes clés.",
+        "pl": "Zanim wyjdziesz z domu, sprawdź, czy wszystkie okna są dobrze zamknięte i czy masz klucze."
+      },
+      {
+        "id": "pl-021",
+        "fr": "Même si le trajet est assez long, nous préférons prendre le bus parce qu'il coûte beaucoup moins cher que le taxi.",
+        "pl": "Mimo że podróż jest dość długa, wolimy jechać autobusem, ponieważ kosztuje on znacznie mniej niż taksówka."
+      },
+      {
+        "id": "pl-022",
+        "fr": "Dès que les résultats seront disponibles, l'entreprise informera les candidats qui ont participé au processus de sélection.",
+        "pl": "Gdy tylko wyniki będą dostępne, firma poinformuje kandydatów, którzy wzięli udział w procesie rekrutacji."
+      },
+      {
+        "id": "pl-023",
+        "fr": "Puisque tu dois partir tôt demain, il serait préférable que tu prépares tes affaires ce soir.",
+        "pl": "Skoro jutro musisz wyjechać wcześnie, lepiej będzie, jeśli przygotujesz swoje rzeczy dziś wieczorem."
+      },
+      {
+        "id": "pl-024",
+        "fr": "Malgré le bruit provenant de la rue, elle a réussi à se concentrer suffisamment pour terminer son travail.",
+        "pl": "Mimo hałasu dobiegającego z ulicy udało jej się wystarczająco skoncentrować, aby dokończyć pracę."
+      },
+      {
+        "id": "pl-025",
+        "fr": "Après avoir discuté avec son responsable, il a compris que le problème pouvait être résolu plus simplement qu'il ne le pensait.",
+        "pl": "Po rozmowie ze swoim przełożonym zrozumiał, że problem można rozwiązać prościej, niż mu się wydawało."
+      },
+      {
+        "id": "pl-026",
+        "fr": "Même si nous n'avons pas beaucoup de temps, je pense que nous pouvons encore terminer cette partie aujourd'hui.",
+        "pl": "Mimo że nie mamy dużo czasu, myślę, że nadal możemy dokończyć tę część dzisiaj."
+      },
+      {
+        "id": "pl-027",
+        "fr": "À condition que chacun respecte les règles, la réunion devrait se dérouler sans difficulté majeure.",
+        "pl": "Pod warunkiem że każdy będzie przestrzegał zasad, spotkanie powinno przebiec bez większych trudności."
+      },
+      {
+        "id": "pl-028",
+        "fr": "Comme elle ne se sentait pas bien, elle a préféré rester chez elle plutôt que de venir travailler.",
+        "pl": "Ponieważ nie czuła się dobrze, wolała zostać w domu, zamiast przychodzić do pracy."
+      },
+      {
+        "id": "pl-029",
+        "fr": "Bien qu'il ait reçu plusieurs offres, il n'a encore accepté aucun poste parce qu'il souhaite réfléchir tranquillement.",
+        "pl": "Chociaż otrzymał kilka ofert, nie przyjął jeszcze żadnego stanowiska, ponieważ chce spokojnie się zastanowić."
+      },
+      {
+        "id": "pl-030",
+        "fr": "Après avoir lu les instructions attentivement, elle a réussi à installer l'appareil sans demander l'aide de personne.",
+        "pl": "Po uważnym przeczytaniu instrukcji udało jej się zainstalować urządzenie bez proszenia kogokolwiek o pomoc."
+      },
+      {
+        "id": "pl-031",
+        "fr": "Même si les prix ont augmenté récemment, cette boutique reste l'une des moins chères du quartier.",
+        "pl": "Mimo że ceny ostatnio wzrosły, ten sklep nadal jest jednym z najtańszych w okolicy."
+      },
+      {
+        "id": "pl-032",
+        "fr": "Dès que nous aurons reçu les documents manquants, nous pourrons commencer la procédure administrative.",
+        "pl": "Gdy tylko otrzymamy brakujące dokumenty, będziemy mogli rozpocząć procedurę administracyjną."
+      },
+      {
+        "id": "pl-033",
+        "fr": "Puisqu'il pleuvait fortement, nous avons décidé de reporter la promenade jusqu'au lendemain.",
+        "pl": "Ponieważ mocno padało, zdecydowaliśmy się przełożyć spacer na następny dzień."
+      },
+      {
+        "id": "pl-034",
+        "fr": "Malgré son manque d'expérience, elle a réussi à convaincre les autres membres de l'équipe de soutenir son idée.",
+        "pl": "Mimo braku doświadczenia udało jej się przekonać pozostałych członków zespołu do poparcia jej pomysłu."
+      },
+      {
+        "id": "pl-035",
+        "fr": "Avant de signer le contrat, nous devons vérifier attentivement toutes les conditions mentionnées dans le dernier paragraphe.",
+        "pl": "Przed podpisaniem umowy musimy dokładnie sprawdzić wszystkie warunki wymienione w ostatnim akapicie."
+      },
+      {
+        "id": "pl-036",
+        "fr": "Même si le problème paraît compliqué, il devrait être possible de le résoudre en procédant étape par étape.",
+        "pl": "Mimo że problem wydaje się skomplikowany, powinno być możliwe rozwiązanie go krok po kroku."
+      },
+      {
+        "id": "pl-037",
+        "fr": "Comme il avait déjà préparé le dîner, nous avons simplement mis la table et attendu les autres invités.",
+        "pl": "Ponieważ miał już przygotowaną kolację, po prostu nakryliśmy do stołu i czekaliśmy na pozostałych gości."
+      },
+      {
+        "id": "pl-038",
+        "fr": "Bien qu'elle habite loin de ses parents, elle essaie de leur rendre visite au moins une fois par mois.",
+        "pl": "Chociaż mieszka daleko od rodziców, stara się odwiedzać ich przynajmniej raz w miesiącu."
+      },
+      {
+        "id": "pl-039",
+        "fr": "Après avoir économisé pendant plusieurs mois, ils ont enfin pu acheter la voiture dont ils avaient besoin.",
+        "pl": "Po oszczędzaniu przez kilka miesięcy w końcu mogli kupić samochód, którego potrzebowali."
+      },
+      {
+        "id": "pl-040",
+        "fr": "À moins que quelque chose d'imprévu ne se produise, nous devrions pouvoir respecter le calendrier prévu.",
+        "pl": "Chyba że wydarzy się coś nieprzewidzianego, powinniśmy być w stanie dotrzymać ustalonego harmonogramu."
+      },
+      {
+        "id": "pl-041",
+        "fr": "Même si elle était en désaccord avec son collègue, elle a choisi de rester calme afin d'éviter une discussion inutilement tendue.",
+        "pl": "Mimo że nie zgadzała się ze swoim kolegą, postanowiła zachować spokój, aby uniknąć niepotrzebnie napiętej dyskusji."
+      },
+      {
+        "id": "pl-042",
+        "fr": "Puisque les enfants dormaient déjà, nous avons parlé doucement pour ne pas les réveiller.",
+        "pl": "Ponieważ dzieci już spały, rozmawialiśmy cicho, żeby ich nie obudzić."
+      },
+      {
+        "id": "pl-043",
+        "fr": "Dès que le médecin aura reçu les résultats, il pourra déterminer quelles analyses supplémentaires sont nécessaires.",
+        "pl": "Gdy tylko lekarz otrzyma wyniki, będzie mógł określić, jakie dodatkowe badania są potrzebne."
+      },
+      {
+        "id": "pl-044",
+        "fr": "Malgré plusieurs tentatives, nous n'avons pas réussi à joindre la personne responsable du dossier.",
+        "pl": "Mimo kilku prób nie udało nam się skontaktować z osobą odpowiedzialną za tę sprawę."
+      },
+      {
+        "id": "pl-045",
+        "fr": "Après avoir terminé ses études, il a décidé de travailler pendant un an avant de poursuivre sa formation.",
+        "pl": "Po ukończeniu studiów postanowił pracować przez rok, zanim będzie kontynuował naukę."
+      },
+      {
+        "id": "pl-046",
+        "fr": "Bien qu'il soit encore tôt, plusieurs personnes attendent déjà devant le bâtiment où aura lieu la conférence.",
+        "pl": "Chociaż jest jeszcze wcześnie, kilka osób już czeka przed budynkiem, w którym odbędzie się konferencja."
+      },
+      {
+        "id": "pl-047",
+        "fr": "Comme la connexion internet était instable, nous avons téléchargé les documents avant de commencer la réunion.",
+        "pl": "Ponieważ połączenie internetowe było niestabilne, pobraliśmy dokumenty przed rozpoczęciem spotkania."
+      },
+      {
+        "id": "pl-048",
+        "fr": "Même si cette solution demande davantage de temps, elle permettra probablement d'éviter les mêmes erreurs à l'avenir.",
+        "pl": "Mimo że to rozwiązanie wymaga więcej czasu, prawdopodobnie pozwoli uniknąć tych samych błędów w przyszłości."
+      },
+      {
+        "id": "pl-049",
+        "fr": "À condition que tu me préviennes suffisamment tôt, je pourrai organiser mon emploi du temps pour venir t'aider.",
+        "pl": "Pod warunkiem że odpowiednio wcześnie mnie uprzedzisz, będę mógł zorganizować swój harmonogram, aby przyjść ci z pomocą."
+      },
+      {
+        "id": "pl-050",
+        "fr": "Avant de répondre à son message, elle a préféré attendre quelques heures pour réfléchir à la manière de présenter son point de vue.",
+        "pl": "Zanim odpowiedziała na jego wiadomość, wolała odczekać kilka godzin, aby zastanowić się, jak przedstawić swój punkt widzenia."
+      },
+      {
+        "id": "pl-051",
+        "fr": "Même si nous avons déjà réservé les billets, nous devons encore vérifier les conditions d'entrée dans le pays.",
+        "pl": "Mimo że już zarezerwowaliśmy bilety, musimy jeszcze sprawdzić warunki wjazdu do kraju."
+      },
+      {
+        "id": "pl-052",
+        "fr": "Puisqu'il avait oublié son portefeuille, son ami lui a proposé de payer le repas et de récupérer l'argent plus tard.",
+        "pl": "Ponieważ zapomniał portfela, jego przyjaciel zaproponował, że zapłaci za posiłek, a pieniądze odbierze później."
+      },
+      {
+        "id": "pl-053",
+        "fr": "Bien qu'elle ait reçu des critiques, elle a décidé de continuer son projet en tenant compte des remarques les plus utiles.",
+        "pl": "Chociaż spotkała się z krytyką, postanowiła kontynuować projekt, uwzględniając najbardziej przydatne uwagi."
+      },
+      {
+        "id": "pl-054",
+        "fr": "Après avoir rencontré plusieurs candidats, le directeur a choisi celui qui semblait le mieux correspondre aux besoins de l'entreprise.",
+        "pl": "Po spotkaniu z kilkoma kandydatami dyrektor wybrał tego, który wydawał się najlepiej odpowiadać potrzebom firmy."
+      },
+      {
+        "id": "pl-055",
+        "fr": "Malgré le mauvais temps, les agriculteurs ont continué à travailler parce qu'ils avaient beaucoup de tâches urgentes à terminer.",
+        "pl": "Mimo złej pogody rolnicy nadal pracowali, ponieważ mieli wiele pilnych zadań do wykonania."
+      },
+      {
+        "id": "pl-056",
+        "fr": "Même si le voyage est long, nous préférons prendre le train parce qu'il est plus confortable et plus pratique.",
+        "pl": "Mimo że podróż jest długa, wolimy jechać pociągiem, ponieważ jest wygodniejszy i bardziej praktyczny."
+      },
+      {
+        "id": "pl-057",
+        "fr": "Dès que tu auras fini de cuisiner, appelle-moi pour que je sache à quelle heure je dois venir.",
+        "pl": "Gdy tylko skończysz gotować, zadzwoń do mnie, żebym wiedział, o której mam przyjść."
+      },
+      {
+        "id": "pl-058",
+        "fr": "Comme les travaux ont pris plus de temps que prévu, les habitants devront attendre encore quelques jours avant de pouvoir utiliser la route.",
+        "pl": "Ponieważ prace trwały dłużej, niż przewidywano, mieszkańcy będą musieli poczekać jeszcze kilka dni, zanim będą mogli korzystać z drogi."
+      },
+      {
+        "id": "pl-059",
+        "fr": "Bien qu'il ait accepté les nouvelles conditions, il a demandé quelques jours supplémentaires pour organiser son travail.",
+        "pl": "Chociaż zaakceptował nowe warunki, poprosił o kilka dodatkowych dni na zorganizowanie swojej pracy."
+      },
+      {
+        "id": "pl-060",
+        "fr": "Après avoir vérifié les comptes, elle a découvert une erreur qui expliquait pourquoi le montant final était différent.",
+        "pl": "Po sprawdzeniu rachunków odkryła błąd, który wyjaśniał, dlaczego końcowa kwota była inna."
+      },
+      {
+        "id": "pl-061",
+        "fr": "À force de remettre cette décision à plus tard, ils ont finalement dû agir dans l'urgence.",
+        "pl": "Odkładając tę decyzję na później, ostatecznie musieli działać w pośpiechu."
+      },
+      {
+        "id": "pl-062",
+        "fr": "Même si personne ne lui avait demandé de rester, il a décidé d'attendre jusqu'à ce que tous les invités soient partis.",
+        "pl": "Mimo że nikt nie prosił go, żeby został, postanowił poczekać, aż wszyscy goście wyjdą."
+      },
+      {
+        "id": "pl-063",
+        "fr": "Puisque nous devons présenter le projet vendredi, il serait préférable de terminer la première version avant mercredi soir.",
+        "pl": "Skoro musimy przedstawić projekt w piątek, lepiej byłoby zakończyć pierwszą wersję przed środowym wieczorem."
+      },
+      {
+        "id": "pl-064",
+        "fr": "Malgré les différences entre leurs opinions, ils ont réussi à trouver un compromis acceptable pour tout le monde.",
+        "pl": "Mimo różnic w ich poglądach udało im się znaleźć kompromis akceptowalny dla wszystkich."
+      },
+      {
+        "id": "pl-065",
+        "fr": "Avant de commencer les travaux, l'architecte a demandé aux propriétaires de confirmer définitivement leurs choix.",
+        "pl": "Przed rozpoczęciem prac architekt poprosił właścicieli o ostateczne potwierdzenie swoich wyborów."
+      },
+      {
+        "id": "pl-066",
+        "fr": "Bien qu'elle ait peu de temps libre, elle essaie de lire régulièrement afin de ne pas perdre l'habitude.",
+        "pl": "Chociaż ma niewiele wolnego czasu, stara się regularnie czytać, aby nie stracić tego nawyku."
+      },
+      {
+        "id": "pl-067",
+        "fr": "Dès que les portes seront ouvertes, les visiteurs pourront entrer dans le musée sans devoir attendre davantage.",
+        "pl": "Gdy tylko drzwi zostaną otwarte, zwiedzający będą mogli wejść do muzeum bez konieczności dalszego czekania."
+      },
+      {
+        "id": "pl-068",
+        "fr": "Comme le prix du logement avait augmenté, ils ont décidé de chercher un appartement un peu plus éloigné du centre.",
+        "pl": "Ponieważ cena mieszkania wzrosła, zdecydowali się poszukać lokalu nieco dalej od centrum."
+      },
+      {
+        "id": "pl-069",
+        "fr": "Même si elle n'était pas entièrement satisfaite du résultat, elle a reconnu que l'équipe avait fait des progrès importants.",
+        "pl": "Mimo że nie była w pełni zadowolona z rezultatu, przyznała, że zespół poczynił znaczne postępy."
+      },
+      {
+        "id": "pl-070",
+        "fr": "À moins que le fournisseur ne confirme la livraison aujourd'hui, nous devrons trouver une autre solution pour respecter le délai.",
+        "pl": "Chyba że dostawca potwierdzi dziś dostawę, będziemy musieli znaleźć inne rozwiązanie, aby dotrzymać terminu."
+      }, {
+        "id": "pl-071",
+        "fr": "À force de vouloir tout contrôler, elle s'est retrouvée avec une quantité de travail qu'elle ne pouvait plus raisonnablement gérer seule.",
+        "pl": "Próbując kontrolować wszystko, znalazła się w sytuacji, w której miała tyle pracy, że nie była już w stanie rozsądnie poradzić sobie z nią sama."
+      },
+      {
+        "id": "pl-072",
+        "fr": "Ce n'est qu'après avoir examiné l'ensemble des données que les responsables ont compris l'origine réelle du problème.",
+        "pl": "Dopiero po przeanalizowaniu wszystkich danych osoby odpowiedzialne zrozumiały prawdziwe źródło problemu."
+      },
+      {
+        "id": "pl-073",
+        "fr": "Quoi qu'il en soit, il faudra trouver une solution qui permette à chacun de poursuivre son travail sans compromettre les objectifs communs.",
+        "pl": "Tak czy inaczej, trzeba będzie znaleźć rozwiązanie, które pozwoli każdemu kontynuować pracę bez narażania wspólnych celów."
+      },
+      {
+        "id": "pl-074",
+        "fr": "À moins que les conditions ne changent radicalement, il est peu probable que l'entreprise abandonne le projet à ce stade.",
+        "pl": "O ile warunki nie zmienią się radykalnie, mało prawdopodobne jest, aby firma na tym etapie zrezygnowała z projektu."
+      },
+      {
+        "id": "pl-075",
+        "fr": "Il a beau avoir l'habitude de travailler sous pression, cette fois-ci la quantité de responsabilités qui lui incombaient dépassait largement ce qu'il avait prévu.",
+        "pl": "Choć jest przyzwyczajony do pracy pod presją, tym razem zakres odpowiedzialności, który na nim spoczywał, znacznie przekraczał to, co przewidywał."
+      },
+      {
+        "id": "pl-076",
+        "fr": "Pour peu que chacun accepte de faire un effort, le conflit pourrait être résolu sans qu'il soit nécessaire de prendre des mesures plus radicales.",
+        "pl": "Jeśli tylko każdy zgodzi się trochę wysilić, konflikt można będzie rozwiązać bez konieczności podejmowania bardziej radykalnych działań."
+      },
+      {
+        "id": "pl-077",
+        "fr": "Dès lors que nous avons accepté de modifier le calendrier, il nous appartient également de nous assurer que personne ne sera pénalisé par ce changement.",
+        "pl": "Skoro zgodziliśmy się zmienić harmonogram, naszym obowiązkiem jest również dopilnowanie, aby nikt nie został poszkodowany przez tę zmianę."
+      },
+      {
+        "id": "pl-078",
+        "fr": "À supposer que les résultats soient confirmés, cette découverte pourrait avoir des conséquences importantes pour la suite du projet.",
+        "pl": "Zakładając, że wyniki zostaną potwierdzone, odkrycie to może mieć istotne konsekwencje dla dalszego przebiegu projektu."
+      },
+      {
+        "id": "pl-079",
+        "fr": "Plus les semaines passaient, plus il devenait évident que la stratégie initialement choisie ne répondait plus aux besoins de l'équipe.",
+        "pl": "Im więcej tygodni mijało, tym bardziej oczywiste stawało się, że początkowo wybrana strategia nie odpowiada już potrzebom zespołu."
+      },
+      {
+        "id": "pl-080",
+        "fr": "Ce qui semblait au départ n'être qu'un simple retard s'est progressivement transformé en un problème beaucoup plus difficile à résoudre.",
+        "pl": "To, co początkowo wydawało się jedynie prostym opóźnieniem, stopniowo przekształciło się w problem znacznie trudniejszy do rozwiązania."
+      },
+      {
+        "id": "pl-081",
+        "fr": "Bien qu'elle ait été prévenue à plusieurs reprises, elle a continué à utiliser l'ancien système jusqu'au jour où celui-ci a finalement cessé de fonctionner.",
+        "pl": "Chociaż kilkakrotnie ją ostrzegano, nadal korzystała ze starego systemu aż do dnia, w którym ostatecznie przestał działać."
+      },
+      {
+        "id": "pl-082",
+        "fr": "À bien y réfléchir, la décision que nous considérions comme temporaire risque finalement d'avoir des effets beaucoup plus durables.",
+        "pl": "Po głębszym zastanowieniu decyzja, którą uważaliśmy za tymczasową, może ostatecznie przynieść znacznie trwalsze skutki."
+      },
+      {
+        "id": "pl-083",
+        "fr": "Encore faut-il que les informations dont nous disposons soient suffisamment fiables pour justifier une décision aussi importante.",
+        "pl": "Trzeba jednak jeszcze upewnić się, że informacje, którymi dysponujemy, są wystarczająco wiarygodne, aby uzasadnić tak ważną decyzję."
+      },
+      {
+        "id": "pl-084",
+        "fr": "Quoi qu'elle puisse en penser aujourd'hui, elle reconnaîtra probablement plus tard que cette expérience lui a beaucoup appris.",
+        "pl": "Niezależnie od tego, co dziś o tym sądzi, prawdopodobnie później przyzna, że to doświadczenie wiele ją nauczyło."
+      },
+      {
+        "id": "pl-085",
+        "fr": "Ce n'est pas tant le manque de ressources qui nous inquiète que l'incertitude concernant leur utilisation à long terme.",
+        "pl": "Nie tyle brak zasobów nas niepokoi, ile niepewność dotycząca ich długoterminowego wykorzystania."
+      },
+      {
+        "id": "pl-086",
+        "fr": "Même si les premières réactions ont été plutôt négatives, la situation s'est améliorée à mesure que les changements devenaient plus visibles.",
+        "pl": "Mimo że pierwsze reakcje były raczej negatywne, sytuacja poprawiała się w miarę, jak zmiany stawały się bardziej widoczne."
+      },
+      {
+        "id": "pl-087",
+        "fr": "À force de repousser la discussion, les deux parties ont fini par rendre le désaccord beaucoup plus difficile à résoudre.",
+        "pl": "Odkładając rozmowę na później, obie strony doprowadziły w końcu do tego, że spór stał się znacznie trudniejszy do rozwiązania."
+      },
+      {
+        "id": "pl-088",
+        "fr": "Pour peu que les données soient interprétées correctement, elles pourraient nous aider à comprendre pourquoi les résultats ont évolué de cette manière.",
+        "pl": "Jeśli tylko dane zostaną właściwie zinterpretowane, mogą nam pomóc zrozumieć, dlaczego wyniki zmieniały się w ten sposób."
+      },
+      {
+        "id": "pl-089",
+        "fr": "Dès lors que chacun assume sa part de responsabilité, il devient beaucoup plus facile de discuter ouvertement des erreurs commises.",
+        "pl": "Gdy tylko każdy bierze na siebie swoją część odpowiedzialności, znacznie łatwiej jest otwarcie rozmawiać o popełnionych błędach."
+      },
+      {
+        "id": "pl-090",
+        "fr": "Il aurait été préférable de vérifier ces informations avant de les transmettre, ne serait-ce que pour éviter une confusion inutile.",
+        "pl": "Lepiej byłoby sprawdzić te informacje przed ich przekazaniem, choćby po to, aby uniknąć niepotrzebnego zamieszania."
+      },
+      {
+        "id": "pl-091",
+        "fr": "Ce qui m'a le plus surpris, c'est qu'aucun des participants ne semblait avoir envisagé cette possibilité auparavant.",
+        "pl": "Najbardziej zaskoczyło mnie to, że żaden z uczestników nie wydawał się wcześniej brać pod uwagę takiej możliwości."
+      },
+      {
+        "id": "pl-092",
+        "fr": "À supposer même que nous obtenions l'autorisation demain, il resterait encore plusieurs étapes à franchir avant de pouvoir commencer.",
+        "pl": "Nawet zakładając, że jutro otrzymamy zgodę, nadal pozostanie kilka etapów do przejścia, zanim będziemy mogli rozpocząć."
+      },
+      {
+        "id": "pl-093",
+        "fr": "Bien qu'il ait longtemps défendu cette approche, il commence désormais à reconnaître qu'elle présente certaines limites.",
+        "pl": "Chociaż przez długi czas bronił tego podejścia, zaczyna teraz przyznawać, że ma ono pewne ograniczenia."
+      },
+      {
+        "id": "pl-094",
+        "fr": "Plus nous avançons dans l'analyse, plus nous découvrons des éléments qui remettent en question notre première interprétation.",
+        "pl": "Im bardziej zagłębiamy się w analizę, tym więcej odkrywamy elementów podważających naszą pierwszą interpretację."
+      },
+      {
+        "id": "pl-095",
+        "fr": "Quoi qu'il en soit, personne ne peut nier que les mesures prises au cours des derniers mois ont produit certains résultats.",
+        "pl": "Tak czy inaczej, nikt nie może zaprzeczyć, że działania podjęte w ostatnich miesiącach przyniosły pewne rezultaty."
+      },
+      {
+        "id": "pl-096",
+        "fr": "Ce n'est qu'en comparant les différentes périodes que nous avons pu comprendre pourquoi les dépenses avaient autant augmenté.",
+        "pl": "Dopiero porównując poszczególne okresy, mogliśmy zrozumieć, dlaczego wydatki tak bardzo wzrosły."
+      },
+      {
+        "id": "pl-097",
+        "fr": "Il a beau disposer de nombreuses compétences, il lui manque encore l'expérience nécessaire pour gérer seul une situation aussi complexe.",
+        "pl": "Choć posiada wiele umiejętności, nadal brakuje mu doświadczenia potrzebnego do samodzielnego zarządzania tak złożoną sytuacją."
+      },
+      {
+        "id": "pl-098",
+        "fr": "À moins que nous ne recevions de nouvelles informations, il serait imprudent de modifier complètement le plan que nous avons préparé.",
+        "pl": "O ile nie otrzymamy nowych informacji, nierozsądnie byłoby całkowicie zmieniać przygotowany przez nas plan."
+      },
+      {
+        "id": "pl-099",
+        "fr": "Ce qui compte désormais, ce n'est pas de déterminer qui a commis l'erreur, mais de comprendre comment éviter qu'elle se reproduise.",
+        "pl": "To, co ma teraz znaczenie, to nie ustalenie, kto popełnił błąd, lecz zrozumienie, jak zapobiec jego powtórzeniu."
+      },
+      {
+        "id": "pl-100",
+        "fr": "À bien y réfléchir, nous aurions probablement obtenu un meilleur résultat si nous avions commencé par définir clairement nos priorités.",
+        "pl": "Po głębszym zastanowieniu prawdopodobnie osiągnęlibyśmy lepszy rezultat, gdybyśmy zaczęli od jasnego określenia naszych priorytetów."
+      },
+      {
+        "id": "pl-101",
+        "fr": "Pour peu que le dialogue reste ouvert, les différences d'opinion ne devraient pas empêcher les deux groupes de travailler ensemble.",
+        "pl": "Jeśli tylko dialog pozostanie otwarty, różnice zdań nie powinny uniemożliwić obu grupom wspólnej pracy."
+      },
+      {
+        "id": "pl-102",
+        "fr": "À force de vouloir gagner du temps, ils ont pris plusieurs raccourcis qui leur ont finalement fait perdre davantage de temps.",
+        "pl": "Próbując za wszelką cenę zaoszczędzić czas, poszli na kilka skrótów, które ostatecznie kosztowały ich jeszcze więcej czasu."
+      },
+      {
+        "id": "pl-103",
+        "fr": "Dès lors que le problème a été clairement identifié, les discussions ont cessé de porter sur ses causes et se sont concentrées sur les solutions.",
+        "pl": "Gdy tylko problem został jasno zidentyfikowany, dyskusje przestały dotyczyć jego przyczyn i skupiły się na rozwiązaniach."
+      },
+      {
+        "id": "pl-104",
+        "fr": "Même si personne ne l'avait prévu, cette modification a finalement permis d'améliorer considérablement l'organisation du travail.",
+        "pl": "Mimo że nikt tego nie przewidział, ta zmiana ostatecznie znacznie poprawiła organizację pracy."
+      },
+      {
+        "id": "pl-105",
+        "fr": "Encore faut-il que les personnes chargées de mettre cette décision en œuvre disposent des moyens nécessaires pour le faire correctement.",
+        "pl": "Trzeba jednak jeszcze upewnić się, że osoby odpowiedzialne za wdrożenie tej decyzji dysponują środkami niezbędnymi do prawidłowego wykonania zadania."
+      },
+      {
+        "id": "pl-106",
+        "fr": "Il ne s'agit pas simplement de réduire les coûts, mais de trouver une manière plus efficace d'utiliser les ressources disponibles.",
+        "pl": "Nie chodzi po prostu o ograniczenie kosztów, lecz o znalezienie skuteczniejszego sposobu wykorzystania dostępnych zasobów."
+      },
+      {
+        "id": "pl-107",
+        "fr": "Quoi qu'en disent certains collègues, la décision semble avoir été prise après une analyse assez approfondie de la situation.",
+        "pl": "Niezależnie od tego, co mówią niektórzy koledzy, wydaje się, że decyzję podjęto po dość dokładnej analizie sytuacji."
+      },
+      {
+        "id": "pl-108",
+        "fr": "Bien que les résultats soient encourageants, il serait prématuré d'en conclure que toutes les difficultés ont été définitivement surmontées.",
+        "pl": "Chociaż wyniki są zachęcające, byłoby przedwczesne wyciąganie wniosku, że wszystkie trudności zostały ostatecznie pokonane."
+      },
+      {
+        "id": "pl-109",
+        "fr": "Ce n'est qu'une fois le contrat signé que nous avons réalisé que certaines clauses pouvaient être interprétées de plusieurs manières.",
+        "pl": "Dopiero po podpisaniu umowy zdaliśmy sobie sprawę, że niektóre klauzule można interpretować na kilka sposobów."
+      },
+      {
+        "id": "pl-110",
+        "fr": "À supposer que la situation se stabilise, il faudra néanmoins plusieurs mois avant que les effets de ces changements deviennent réellement visibles.",
+        "pl": "Zakładając, że sytuacja się ustabilizuje, minie jednak kilka miesięcy, zanim skutki tych zmian staną się naprawdę widoczne."
+      },
+      {
+        "id": "pl-111",
+        "fr": "Plus la discussion avançait, plus il apparaissait clairement que les deux parties ne parlaient pas exactement du même problème.",
+        "pl": "Im bardziej posuwała się dyskusja, tym wyraźniej było widać, że obie strony nie mówią dokładnie o tym samym problemie."
+      },
+      {
+        "id": "pl-112",
+        "fr": "Il aurait été inutile de poursuivre la réunion alors que plusieurs participants n'avaient toujours pas accès aux documents nécessaires.",
+        "pl": "Nie miałoby sensu kontynuowanie spotkania, skoro kilku uczestników nadal nie miało dostępu do potrzebnych dokumentów."
+      },
+      {
+        "id": "pl-113",
+        "fr": "À force d'entendre des versions contradictoires, nous avons fini par demander directement aux personnes concernées de clarifier les faits.",
+        "pl": "Po wysłuchaniu wielu sprzecznych wersji w końcu poprosiliśmy bezpośrednio zainteresowane osoby o wyjaśnienie faktów."
+      },
+      {
+        "id": "pl-114",
+        "fr": "Pour peu que la nouvelle méthode soit appliquée correctement, elle devrait permettre de réduire sensiblement le temps consacré aux tâches administratives.",
+        "pl": "Jeśli tylko nowa metoda będzie prawidłowo stosowana, powinna znacznie skrócić czas poświęcany na zadania administracyjne."
+      },
+      {
+        "id": "pl-115",
+        "fr": "Ce qui rend cette situation particulièrement délicate, c'est que plusieurs personnes ont déjà pris des décisions en se fondant sur des informations incomplètes.",
+        "pl": "To, co czyni tę sytuację szczególnie delikatną, to fakt, że kilka osób podjęło już decyzje na podstawie niepełnych informacji."
+      },
+      {
+        "id": "pl-116",
+        "fr": "Même si la proposition paraît raisonnable, il convient d'en examiner attentivement les conséquences avant de l'accepter.",
+        "pl": "Mimo że propozycja wydaje się rozsądna, należy dokładnie przeanalizować jej konsekwencje przed jej zaakceptowaniem."
+      },
+      {
+        "id": "pl-117",
+        "fr": "Dès lors que les priorités auront été clairement définies, chacun saura mieux quelles tâches doivent être réalisées en premier.",
+        "pl": "Gdy tylko priorytety zostaną jasno określone, każdy będzie lepiej wiedział, które zadania należy wykonać w pierwszej kolejności."
+      },
+      {
+        "id": "pl-118",
+        "fr": "Il a beau essayer de rester optimiste, il ne peut ignorer les difficultés auxquelles son équipe risque de se heurter.",
+        "pl": "Choć stara się zachować optymizm, nie może ignorować trudności, z którymi jego zespół może się zetknąć."
+      },
+      {
+        "id": "pl-119",
+        "fr": "Quoi qu'il en soit, nous devons éviter de prendre une décision irréversible tant que toutes les conséquences n'ont pas été évaluées.",
+        "pl": "Tak czy inaczej, musimy unikać podejmowania nieodwracalnej decyzji, dopóki nie ocenimy wszystkich jej konsekwencji."
+      },
+      {
+        "id": "pl-120",
+        "fr": "À bien y réfléchir, le véritable problème ne résidait pas dans le manque de temps, mais dans la manière dont nous avions organisé notre travail.",
+        "pl": "Po głębszym zastanowieniu prawdziwy problem nie polegał na braku czasu, lecz na sposobie, w jaki zorganizowaliśmy swoją pracę."
+      },
+      {
+        "id": "pl-121",
+        "fr": "Bien qu'elle ait reconnu la nécessité du changement, elle a insisté pour que celui-ci soit introduit progressivement afin de limiter les perturbations.",
+        "pl": "Chociaż uznała konieczność zmian, nalegała, aby wprowadzano je stopniowo w celu ograniczenia zakłóceń."
+      },
+      {
+        "id": "pl-122",
+        "fr": "Ce n'est pas parce qu'une solution est moins coûteuse qu'elle sera nécessairement plus adaptée aux besoins de l'organisation.",
+        "pl": "To, że rozwiązanie jest tańsze, nie oznacza, że będzie ono koniecznie lepiej dostosowane do potrzeb organizacji."
+      },
+      {
+        "id": "pl-123",
+        "fr": "À moins que quelqu'un ne propose une alternative crédible, nous devrons probablement conserver le plan actuellement prévu.",
+        "pl": "O ile ktoś nie zaproponuje wiarygodnej alternatywy, prawdopodobnie będziemy musieli zachować obecnie zaplanowane rozwiązanie."
+      },
+      {
+        "id": "pl-124",
+        "fr": "Plus nous essayons de simplifier le système, plus nous découvrons que certaines fonctions essentielles sont difficiles à supprimer.",
+        "pl": "Im bardziej próbujemy uprościć system, tym bardziej odkrywamy, że niektóre kluczowe funkcje trudno usunąć."
+      },
+      {
+        "id": "pl-125",
+        "fr": "Encore faut-il que les utilisateurs comprennent suffisamment bien les nouvelles règles pour pouvoir les appliquer sans assistance permanente.",
+        "pl": "Trzeba jednak jeszcze upewnić się, że użytkownicy wystarczająco dobrze rozumieją nowe zasady, aby móc stosować je bez stałej pomocy."
+      },
+      {
+        "id": "pl-126",
+        "fr": "Même si le désaccord semble profond, les deux responsables ont convenu qu'ils chercheraient ensemble une solution acceptable.",
+        "pl": "Mimo że różnica zdań wydaje się głęboka, obaj kierownicy zgodzili się wspólnie poszukać akceptowalnego rozwiązania."
+      },
+      {
+        "id": "pl-127",
+        "fr": "À supposer que nous disposions de suffisamment de temps, il serait intéressant de comparer les résultats obtenus dans plusieurs régions.",
+        "pl": "Zakładając, że będziemy mieli wystarczająco dużo czasu, warto byłoby porównać wyniki uzyskane w kilku regionach."
+      },
+      {
+        "id": "pl-128",
+        "fr": "Ce qui semblait être une décision purement administrative a finalement eu des conséquences importantes sur l'organisation quotidienne du service.",
+        "pl": "To, co wydawało się czysto administracyjną decyzją, ostatecznie miało istotne konsekwencje dla codziennego funkcjonowania działu."
+      },
+      {
+        "id": "pl-129",
+        "fr": "À force de vouloir satisfaire toutes les demandes, l'équipe a perdu de vue les objectifs prioritaires qu'elle devait initialement atteindre.",
+        "pl": "Próbując spełnić wszystkie oczekiwania, zespół stracił z oczu najważniejsze cele, które początkowo miał osiągnąć."
+      },
+      {
+        "id": "pl-130",
+        "fr": "Dès lors que les premières mesures ont été mises en place, les responsables ont commencé à recueillir des réactions afin d'apporter les ajustements nécessaires.",
+        "pl": "Gdy tylko wprowadzono pierwsze działania, osoby odpowiedzialne zaczęły zbierać opinie, aby wprowadzić niezbędne korekty."
+      },
+      {
+        "id": "pl-131",
+        "fr": "Quoi qu'en pensent les personnes les plus sceptiques, cette expérience a montré que certaines habitudes pouvaient effectivement évoluer.",
+        "pl": "Niezależnie od tego, co sądzą najbardziej sceptyczne osoby, doświadczenie to pokazało, że niektóre nawyki rzeczywiście mogą się zmieniać."
+      },
+      {
+        "id": "pl-132",
+        "fr": "Il aurait été préférable que nous soyons informés plus tôt, car plusieurs décisions auraient alors pu être prises différemment.",
+        "pl": "Lepiej byłoby, gdybyśmy zostali poinformowani wcześniej, ponieważ kilka decyzji można byłoby wtedy podjąć inaczej."
+      },
+      {
+        "id": "pl-133",
+        "fr": "Pour peu que les conditions économiques restent stables, le projet devrait pouvoir entrer dans sa deuxième phase au début de l'année prochaine.",
+        "pl": "Jeśli tylko warunki gospodarcze pozostaną stabilne, projekt powinien móc wejść w drugą fazę na początku przyszłego roku."
+      },
+      {
+        "id": "pl-134",
+        "fr": "Même si nous comprenons leurs préoccupations, nous ne pouvons pas ignorer les contraintes auxquelles notre propre équipe doit faire face.",
+        "pl": "Mimo że rozumiemy ich obawy, nie możemy ignorować ograniczeń, z którymi musi mierzyć się nasz własny zespół."
+      },
+      {
+        "id": "pl-135",
+        "fr": "À bien y réfléchir, ce sont souvent les petites décisions prises quotidiennement qui finissent par produire les changements les plus importants.",
+        "pl": "Po głębszym zastanowieniu to często małe decyzje podejmowane codziennie prowadzą ostatecznie do największych zmian."
+      },
+      {
+        "id": "pl-136",
+        "fr": "Il ne s'agit plus seulement de résoudre le problème actuel, mais de mettre en place un système capable d'éviter qu'il ne se reproduise.",
+        "pl": "Nie chodzi już tylko o rozwiązanie obecnego problemu, lecz o stworzenie systemu, który zapobiegnie jego ponownemu wystąpieniu."
+      },
+      {
+        "id": "pl-137",
+        "fr": "Bien qu'il ait été initialement opposé à cette idée, il a fini par reconnaître qu'elle pouvait présenter certains avantages.",
+        "pl": "Chociaż początkowo sprzeciwiał się temu pomysłowi, ostatecznie przyznał, że może on mieć pewne zalety."
+      },
+      {
+        "id": "pl-138",
+        "fr": "Plus les informations deviennent nombreuses, plus il devient nécessaire de distinguer les faits vérifiés des simples hypothèses.",
+        "pl": "Im więcej pojawia się informacji, tym bardziej konieczne staje się odróżnianie sprawdzonych faktów od zwykłych hipotez."
+      },
+      {
+        "id": "pl-139",
+        "fr": "À moins que les responsables ne revoient leur position, les négociations risquent de rester bloquées pendant encore plusieurs semaines.",
+        "pl": "O ile osoby odpowiedzialne nie zmienią swojego stanowiska, negocjacje mogą pozostać zablokowane jeszcze przez kilka tygodni."
+      },
+      {
+        "id": "pl-140",
+        "fr": "Quoi qu'il en soit, cette décision devra être expliquée clairement à ceux qui seront directement concernés par ses conséquences.",
+        "pl": "Tak czy inaczej, tę decyzję trzeba będzie jasno wyjaśnić osobom, których skutki będą bezpośrednio dotyczyć."
+      },{
+        "id": "pl-141",
+        "fr": "Quand bien même toutes les conditions seraient réunies, rien ne garantirait que le projet produise immédiatement les résultats que ses promoteurs espèrent.",
+        "pl": "Nawet gdyby wszystkie warunki zostały spełnione, nic nie gwarantowałoby, że projekt od razu przyniesie rezultaty, na które liczą jego inicjatorzy."
+      },
+      {
+        "id": "pl-142",
+        "fr": "Encore eût-il fallu que les informations dont ils disposaient fussent suffisamment précises pour permettre une interprétation aussi catégorique.",
+        "pl": "Trzeba by jeszcze, aby informacje, którymi dysponowali, były wystarczająco precyzyjne, by umożliwić tak kategoryczną interpretację."
+      },
+      {
+        "id": "pl-143",
+        "fr": "Bien qu'il eût longtemps refusé de l'admettre, il devenait de plus en plus évident que la stratégie adoptée avait atteint ses limites.",
+        "pl": "Chociaż przez długi czas odmawiał przyznania tego, coraz bardziej oczywiste stawało się, że przyjęta strategia osiągnęła swoje granice."
+      },
+      {
+        "id": "pl-144",
+        "fr": "À supposer même que cette hypothèse se vérifiât, elle ne suffirait pas à expliquer l'ensemble des phénomènes observés au cours des derniers mois.",
+        "pl": "Nawet gdyby ta hipoteza się potwierdziła, nie wystarczyłaby do wyjaśnienia wszystkich zjawisk zaobserwowanych w ostatnich miesiącach."
+      },
+      {
+        "id": "pl-145",
+        "fr": "Si tant est que l'on puisse tirer une conclusion définitive de cette expérience, ce serait sans doute que les apparences sont parfois trompeuses.",
+        "pl": "Jeśli w ogóle można wyciągnąć z tego doświadczenia ostateczny wniosek, to zapewne taki, że pozory bywają mylące."
+      },
+      {
+        "id": "pl-146",
+        "fr": "À peine avait-elle commencé à présenter son argument que plusieurs participants ont compris qu'elle remettait en cause une décision prise depuis longtemps.",
+        "pl": "Ledwie zaczęła przedstawiać swój argument, kilku uczestników zrozumiało, że podważa decyzję podjętą dawno temu."
+      },
+      {
+        "id": "pl-147",
+        "fr": "Quoi qu'il advienne au cours des prochaines semaines, il serait imprudent de considérer la situation comme définitivement réglée.",
+        "pl": "Cokolwiek wydarzy się w ciągu najbliższych tygodni, nierozsądnie byłoby uznać sytuację za ostatecznie rozwiązaną."
+      },
+      {
+        "id": "pl-148",
+        "fr": "Bien lui en ait pris de vérifier une dernière fois les chiffres, car une erreur apparemment insignifiante aurait pu fausser l'ensemble des résultats.",
+        "pl": "Dobrze zrobił, że jeszcze raz sprawdził liczby, ponieważ pozornie nieistotny błąd mógł zniekształcić wszystkie wyniki."
+      },
+      {
+        "id": "pl-149",
+        "fr": "Il ne s'agirait plus, dans ces conditions, de corriger une erreur ponctuelle, mais de repenser en profondeur la manière dont le système a été conçu.",
+        "pl": "W tych warunkach nie chodziłoby już o poprawienie pojedynczego błędu, lecz o gruntowne przemyślenie sposobu, w jaki zaprojektowano cały system."
+      },
+      {
+        "id": "pl-150",
+        "fr": "À bien considérer les faits, rien ne permet d'affirmer que la décision aurait été différente si les responsables avaient disposé de toutes les informations dès le départ.",
+        "pl": "Biorąc pod uwagę wszystkie fakty, nic nie pozwala stwierdzić, że decyzja byłaby inna, gdyby osoby odpowiedzialne od początku dysponowały wszystkimi informacjami."
+      },
+      {
+        "id": "pl-151",
+        "fr": "Quand bien même nous accepterions de revoir nos objectifs à la baisse, encore faudrait-il que cette modification reste compatible avec les engagements déjà pris.",
+        "pl": "Nawet gdybyśmy zgodzili się obniżyć nasze cele, trzeba by jeszcze upewnić się, że taka zmiana pozostaje zgodna z podjętymi już zobowiązaniami."
+      },
+      {
+        "id": "pl-152",
+        "fr": "Ce qui pouvait passer pour une simple divergence de méthode révèle désormais un désaccord beaucoup plus profond sur les priorités à retenir.",
+        "pl": "To, co mogło uchodzić za zwykłą różnicę metod, ujawnia teraz znacznie głębszy spór dotyczący priorytetów, które należy przyjąć."
+      },
+      {
+        "id": "pl-153",
+        "fr": "À moins que de nouveaux éléments ne viennent modifier le tableau, il serait difficile de défendre une interprétation aussi éloignée des faits établis.",
+        "pl": "O ile nowe elementy nie zmienią obrazu sytuacji, trudno byłoby bronić interpretacji tak odległej od ustalonych faktów."
+      },
+      {
+        "id": "pl-154",
+        "fr": "Si tant est qu'une telle distinction soit encore pertinente, il faudrait déterminer avec précision où s'arrête la responsabilité individuelle et où commence celle du groupe.",
+        "pl": "Jeśli takie rozróżnienie jest jeszcze w ogóle istotne, należałoby dokładnie określić, gdzie kończy się odpowiedzialność jednostki, a zaczyna odpowiedzialność grupy."
+      },
+      {
+        "id": "pl-155",
+        "fr": "Encore eût-il fallu que chacun comprît les conséquences de cette décision avant de s'engager à la mettre en œuvre.",
+        "pl": "Trzeba by jeszcze, aby każdy rozumiał konsekwencje tej decyzji, zanim zobowiązał się do jej wdrożenia."
+      },
+      {
+        "id": "pl-156",
+        "fr": "À peine le nouveau dispositif avait-il été annoncé que plusieurs utilisateurs ont signalé des difficultés qui n'avaient manifestement pas été anticipées.",
+        "pl": "Ledwie ogłoszono nowe rozwiązanie, kilku użytkowników zgłosiło trudności, których najwyraźniej wcześniej nie przewidziano."
+      },
+      {
+        "id": "pl-157",
+        "fr": "Bien qu'elle eût soigneusement préparé son intervention, elle savait que certaines questions auxquelles elle devrait répondre resteraient nécessairement délicates.",
+        "pl": "Chociaż starannie przygotowała swoje wystąpienie, wiedziała, że niektóre pytania, na które będzie musiała odpowiedzieć, pozostaną siłą rzeczy delikatne."
+      },
+      {
+        "id": "pl-158",
+        "fr": "Quand bien même les résultats seraient meilleurs que prévu, ils ne suffiraient pas à eux seuls à démontrer que la méthode est applicable dans tous les contextes.",
+        "pl": "Nawet gdyby wyniki były lepsze od przewidywanych, same w sobie nie wystarczyłyby do wykazania, że metoda nadaje się do zastosowania we wszystkich kontekstach."
+      },
+      {
+        "id": "pl-159",
+        "fr": "À supposer que les difficultés actuelles puissent être surmontées, encore faudrait-il disposer des ressources nécessaires pour maintenir le dispositif à long terme.",
+        "pl": "Zakładając, że obecne trudności można przezwyciężyć, trzeba by jeszcze dysponować zasobami niezbędnymi do utrzymania rozwiązania w dłuższej perspektywie."
+      },
+      {
+        "id": "pl-160",
+        "fr": "Quoi qu'il en soit, la question ne saurait être réduite à une simple comparaison de coûts, tant les conséquences indirectes sont nombreuses.",
+        "pl": "Tak czy inaczej, kwestii tej nie można sprowadzić do prostego porównania kosztów, ponieważ konsekwencji pośrednich jest bardzo wiele."
+      },
+      {
+        "id": "pl-161",
+        "fr": "À bien y regarder, les changements les plus significatifs ne sont pas nécessairement ceux qui produisent les effets les plus immédiatement visibles.",
+        "pl": "Przy bliższym przyjrzeniu się najistotniejsze zmiany niekoniecznie są tymi, które przynoszą najbardziej widoczne skutki od razu."
+      },
+      {
+        "id": "pl-162",
+        "fr": "Il ne faudrait pas, sous prétexte de simplifier les procédures, supprimer des étapes qui jouent en réalité un rôle essentiel dans la vérification des informations.",
+        "pl": "Nie należałoby pod pretekstem uproszczenia procedur usuwać etapów, które w rzeczywistości odgrywają kluczową rolę w weryfikowaniu informacji."
+      },
+      {
+        "id": "pl-163",
+        "fr": "Quand bien même certains indicateurs semblent encourageants, ils ne sauraient masquer les difficultés persistantes auxquelles plusieurs équipes restent confrontées.",
+        "pl": "Nawet jeśli niektóre wskaźniki wydają się zachęcające, nie mogą one przesłonić utrzymujących się trudności, z którymi nadal mierzy się kilka zespołów."
+      },
+      {
+        "id": "pl-164",
+        "fr": "Si tant est que l'on puisse parler d'un véritable changement, celui-ci semble davantage résulter d'une accumulation de petites décisions que d'une réforme unique.",
+        "pl": "Jeśli w ogóle można mówić o prawdziwej zmianie, wydaje się ona raczej wynikiem nagromadzenia wielu drobnych decyzji niż jednej reformy."
+      },
+      {
+        "id": "pl-165",
+        "fr": "Encore eût-il fallu que les personnes concernées fussent informées à temps pour qu'elles puissent adapter leur organisation sans subir de perturbations inutiles.",
+        "pl": "Trzeba by jeszcze, aby zainteresowane osoby zostały odpowiednio wcześnie poinformowane, żeby mogły dostosować swoją organizację bez niepotrzebnych zakłóceń."
+      },
+      {
+        "id": "pl-166",
+        "fr": "À peine avait-on commencé à mettre en œuvre la nouvelle procédure que l'on s'est aperçu qu'elle reposait sur une hypothèse qui n'était plus valable.",
+        "pl": "Ledwie zaczęto wdrażać nową procedurę, zauważono, że opierała się ona na założeniu, które nie było już aktualne."
+      },
+      {
+        "id": "pl-167",
+        "fr": "Bien lui en ait pris de conserver les anciens documents, car ils ont finalement permis de comprendre pourquoi certaines décisions avaient été prises.",
+        "pl": "Dobrze zrobił, że zachował stare dokumenty, ponieważ ostatecznie pozwoliły one zrozumieć, dlaczego podjęto niektóre decyzje."
+      },
+      {
+        "id": "pl-168",
+        "fr": "Quoi qu'il advienne, il faudra éviter que les désaccords actuels ne compromettent des relations professionnelles qui ont été construites pendant plusieurs années.",
+        "pl": "Cokolwiek się wydarzy, trzeba będzie uniknąć sytuacji, w której obecne nieporozumienia zaszkodzą relacjom zawodowym budowanym przez wiele lat."
+      },
+      {
+        "id": "pl-169",
+        "fr": "À supposer même que cette mesure soit efficace à court terme, rien ne prouve qu'elle puisse être maintenue sans effets secondaires importants.",
+        "pl": "Nawet zakładając, że środek ten jest skuteczny w krótkiej perspektywie, nic nie dowodzi, że można go utrzymać bez poważnych skutków ubocznych."
+      },
+      {
+        "id": "pl-170",
+        "fr": "Il ne s'agit plus de savoir si le problème existe, mais de déterminer dans quelle mesure les solutions envisagées sont réellement capables d'y répondre.",
+        "pl": "Nie chodzi już o ustalenie, czy problem istnieje, lecz o określenie, w jakim stopniu proponowane rozwiązania są rzeczywiście w stanie na niego odpowiedzieć."
+      },
+      {
+        "id": "pl-171",
+        "fr": "Quand bien même nous disposerions de davantage de temps, il ne serait pas certain que nous parvenions à obtenir des informations suffisamment fiables.",
+        "pl": "Nawet gdybyśmy mieli więcej czasu, nie byłoby pewne, że udałoby nam się uzyskać wystarczająco wiarygodne informacje."
+      },
+      {
+        "id": "pl-172",
+        "fr": "Bien qu'il eût tenté de présenter la décision comme provisoire, chacun savait qu'un retour en arrière serait désormais particulièrement difficile.",
+        "pl": "Chociaż próbował przedstawić tę decyzję jako tymczasową, każdy wiedział, że cofnięcie jej byłoby teraz szczególnie trudne."
+      },
+      {
+        "id": "pl-173",
+        "fr": "À bien considérer l'ensemble des circonstances, il serait excessif d'attribuer l'évolution récente à une seule cause.",
+        "pl": "Biorąc pod uwagę wszystkie okoliczności, przesadą byłoby przypisywanie ostatnich zmian jednej przyczynie."
+      },
+      {
+        "id": "pl-174",
+        "fr": "Si tant est que les deux parties souhaitent réellement parvenir à un accord, elles devront accepter de revoir certaines positions qu'elles défendent depuis longtemps.",
+        "pl": "Jeśli obie strony rzeczywiście chcą osiągnąć porozumienie, będą musiały zgodzić się na zmianę niektórych stanowisk, których od dawna bronią."
+      },
+      {
+        "id": "pl-175",
+        "fr": "Encore eût-il fallu que cette possibilité eût été envisagée suffisamment tôt pour que ses conséquences puissent être correctement évaluées.",
+        "pl": "Trzeba by jeszcze, aby możliwość ta została rozważona odpowiednio wcześnie, tak aby można było właściwie ocenić jej konsekwencje."
+      },
+      {
+        "id": "pl-176",
+        "fr": "À peine la nouvelle avait-elle été annoncée que les réseaux sociaux se sont remplis d'interprétations parfois très éloignées des faits.",
+        "pl": "Ledwie ogłoszono tę wiadomość, media społecznościowe wypełniły się interpretacjami niekiedy bardzo odległymi od faktów."
+      },
+      {
+        "id": "pl-177",
+        "fr": "Quand bien même cette explication serait plausible, elle ne permettrait pas de rendre compte de toutes les contradictions apparues dans les documents.",
+        "pl": "Nawet gdyby to wyjaśnienie było wiarygodne, nie pozwoliłoby uwzględnić wszystkich sprzeczności, które pojawiły się w dokumentach."
+      },
+      {
+        "id": "pl-178",
+        "fr": "Quoi qu'il en soit, le véritable enjeu consiste désormais à préserver la confiance des personnes qui ont accepté de participer au projet.",
+        "pl": "Tak czy inaczej, prawdziwym wyzwaniem jest teraz zachowanie zaufania osób, które zgodziły się uczestniczyć w projekcie."
+      },
+      {
+        "id": "pl-179",
+        "fr": "À supposer que les circonstances actuelles se maintiennent, les responsables devront probablement revoir les prévisions établies au début de l'année.",
+        "pl": "Zakładając, że obecne okoliczności się utrzymają, osoby odpowiedzialne będą prawdopodobnie musiały zrewidować prognozy sporządzone na początku roku."
+      },
+      {
+        "id": "pl-180",
+        "fr": "Il serait réducteur d'attribuer l'évolution de la situation à une seule cause, alors que plusieurs facteurs, parfois contradictoires, semblent avoir agi simultanément.",
+        "pl": "Byłoby zbyt dużym uproszczeniem przypisywanie rozwoju sytuacji jednej przyczynie, skoro jednocześnie działało, jak się wydaje, kilka niekiedy sprzecznych ze sobą czynników."
+      },
+      {
+        "id": "pl-181",
+        "fr": "Bien qu'elle eût conscience des risques, elle a estimé qu'attendre davantage aurait créé des difficultés encore plus importantes.",
+        "pl": "Chociaż była świadoma ryzyka, uznała, że dalsze czekanie spowodowałoby jeszcze większe trudności."
+      },
+      {
+        "id": "pl-182",
+        "fr": "Si tant est qu'une solution parfaite existe, elle ne pourra probablement être trouvée qu'après avoir examiné attentivement les intérêts parfois contradictoires de toutes les parties.",
+        "pl": "Jeśli w ogóle istnieje idealne rozwiązanie, prawdopodobnie będzie można je znaleźć dopiero po dokładnym przeanalizowaniu niekiedy sprzecznych interesów wszystkich stron."
+      },
+      {
+        "id": "pl-183",
+        "fr": "À bien y réfléchir, ce n'est peut-être pas l'absence de ressources qui limite nos possibilités, mais plutôt la manière dont nous choisissons de les répartir.",
+        "pl": "Po głębszym zastanowieniu być może to nie brak zasobów ogranicza nasze możliwości, lecz sposób, w jaki decydujemy się je rozdzielać."
+      },
+      {
+        "id": "pl-184",
+        "fr": "Quand bien même chacun reconnaîtrait la nécessité d'agir rapidement, encore faudrait-il parvenir à s'accorder sur la direction à prendre.",
+        "pl": "Nawet gdyby każdy uznał konieczność szybkiego działania, trzeba by jeszcze dojść do porozumienia co do kierunku, który należy obrać."
+      },
+      {
+        "id": "pl-185",
+        "fr": "À peine les premières mesures avaient-elles produit leurs effets que de nouvelles difficultés, jusque-là insoupçonnées, sont apparues.",
+        "pl": "Ledwie pierwsze działania przyniosły swoje skutki, pojawiły się nowe, dotychczas nieprzewidziane trudności."
+      },
+      {
+        "id": "pl-186",
+        "fr": "Il ne faudrait pas confondre la rapidité avec l'efficacité, surtout lorsqu'une décision prise dans l'urgence risque d'avoir des conséquences difficiles à inverser.",
+        "pl": "Nie należy mylić szybkości ze skutecznością, zwłaszcza gdy decyzja podjęta w pośpiechu może mieć konsekwencje trudne do odwrócenia."
+      },
+      {
+        "id": "pl-187",
+        "fr": "Quoi qu'en disent ceux qui avaient initialement soutenu cette approche, les résultats obtenus invitent désormais à en réexaminer sérieusement les fondements.",
+        "pl": "Niezależnie od tego, co mówią ci, którzy początkowo popierali to podejście, uzyskane wyniki skłaniają teraz do poważnego ponownego przeanalizowania jego podstaw."
+      },
+      {
+        "id": "pl-188",
+        "fr": "Si tant est que l'on puisse tirer une conclusion définitive de cette expérience, c'est sans doute que les solutions les plus simples ne sont pas toujours celles qui produisent les effets les plus durables.",
+        "pl": "Jeśli w ogóle można wyciągnąć z tego doświadczenia ostateczny wniosek, to zapewne taki, że najprostsze rozwiązania nie zawsze przynoszą najbardziej trwałe rezultaty."
+      },
+      {
+        "id": "pl-189",
+        "fr": "Encore eût-il fallu que les différentes équipes partageassent leurs informations en temps utile pour éviter que certaines décisions ne reposent sur des données dépassées.",
+        "pl": "Trzeba by jeszcze, aby poszczególne zespoły przekazywały sobie informacje w odpowiednim czasie, żeby uniknąć podejmowania niektórych decyzji na podstawie nieaktualnych danych."
+      },
+      {
+        "id": "pl-190",
+        "fr": "À supposer même que les prévisions actuelles soient exactes, elles ne sauraient tenir compte de tous les événements imprévus susceptibles de modifier la situation.",
+        "pl": "Nawet zakładając, że obecne prognozy są dokładne, nie mogą one uwzględniać wszystkich nieprzewidzianych wydarzeń, które mogą zmienić sytuację."
+      },
+      {
+        "id": "pl-191",
+        "fr": "Bien lui en ait pris de ne pas suivre immédiatement le conseil qui lui avait été donné, car les informations reçues le lendemain ont complètement changé la perspective.",
+        "pl": "Dobrze zrobił, że nie zastosował się od razu do udzielonej mu rady, ponieważ informacje otrzymane następnego dnia całkowicie zmieniły perspektywę."
+      },
+      {
+        "id": "pl-192",
+        "fr": "À bien considérer les choses, le désaccord qui oppose actuellement les deux groupes semble moins porter sur leurs objectifs que sur les moyens de les atteindre.",
+        "pl": "Biorąc pod uwagę wszystkie okoliczności, obecny spór między obiema grupami wydaje się dotyczyć mniej ich celów niż sposobów ich osiągnięcia."
+      },
+      {
+        "id": "pl-193",
+        "fr": "Quand bien même une majorité se prononcerait en faveur de cette proposition, il resterait à convaincre ceux qui devront concrètement en assurer la mise en œuvre.",
+        "pl": "Nawet gdyby większość opowiedziała się za tą propozycją, nadal trzeba byłoby przekonać tych, którzy będą musieli ją faktycznie wdrożyć."
+      },
+      {
+        "id": "pl-194",
+        "fr": "Ce qui rend le problème particulièrement difficile à résoudre, c'est que chacune des solutions envisagées entraîne des conséquences que personne ne peut entièrement prévoir.",
+        "pl": "To, co czyni problem szczególnie trudnym do rozwiązania, to fakt, że każde z rozważanych rozwiązań pociąga za sobą konsekwencje, których nikt nie jest w stanie w pełni przewidzieć."
+      },
+      {
+        "id": "pl-195",
+        "fr": "À moins que de nouvelles preuves ne viennent remettre en cause les conclusions actuelles, il serait difficile de justifier un changement aussi radical.",
+        "pl": "O ile nowe dowody nie podważą obecnych wniosków, trudno byłoby uzasadnić tak radykalną zmianę."
+      },
+      {
+        "id": "pl-196",
+        "fr": "Il ne s'agirait plus alors d'une simple adaptation aux circonstances, mais d'une véritable remise en question des principes sur lesquels l'ensemble du projet avait été construit.",
+        "pl": "Nie chodziłoby już wtedy o zwykłe dostosowanie się do okoliczności, lecz o rzeczywiste zakwestionowanie zasad, na których oparto cały projekt."
+      },
+      {
+        "id": "pl-197",
+        "fr": "Quoi qu'il advienne, il importe que les personnes concernées comprennent non seulement ce qui a été décidé, mais aussi les raisons qui ont conduit à cette décision.",
+        "pl": "Cokolwiek się wydarzy, ważne jest, aby zainteresowane osoby rozumiały nie tylko to, co postanowiono, lecz także powody, które doprowadziły do tej decyzji."
+      },
+      {
+        "id": "pl-198",
+        "fr": "À supposer que les négociations reprennent prochainement, rien ne permet encore de penser qu'elles aboutiront nécessairement à un compromis acceptable pour les deux parties.",
+        "pl": "Zakładając, że negocjacje zostaną wkrótce wznowione, nic nie pozwala jeszcze sądzić, że koniecznie doprowadzą one do kompromisu akceptowalnego dla obu stron."
+      },
+      {
+        "id": "pl-199",
+        "fr": "Il serait illusoire de croire qu'une décision, aussi bien préparée soit-elle, puisse satisfaire durablement toutes les personnes concernées lorsque leurs intérêts demeurent profondément divergents.",
+        "pl": "Byłoby złudzeniem sądzić, że decyzja, choćby była najlepiej przygotowana, może trwale zadowolić wszystkie zainteresowane osoby, gdy ich interesy pozostają głęboko rozbieżne."
+      },
+      {
+        "id": "pl-200",
+        "fr": "Quand bien même nous parviendrions à résoudre les difficultés actuelles, il nous faudrait encore tirer les leçons de cette expérience afin de ne pas reproduire les mêmes erreurs à l'avenir.",
+        "pl": "Nawet gdyby udało nam się rozwiązać obecne trudności, musielibyśmy jeszcze wyciągnąć wnioski z tego doświadczenia, aby nie powtarzać tych samych błędów w przyszłości."
+      }]
   }
 }
