@@ -7984,7 +7984,1004 @@
         "fr": "À bien y réfléchir, ce que cette expérience nous aura surtout appris, c'est qu'une solution véritablement durable suppose non seulement de traiter les conséquences visibles d'un problème, mais également de comprendre les mécanismes qui l'ont rendu possible.",
         "tr": "İyice düşünüldüğünde, bu deneyimin bize özellikle öğrettiği şey, gerçekten sürdürülebilir bir çözümün yalnızca bir sorunun görünür sonuçlarını ele almakla kalmayıp aynı zamanda onu mümkün kılan mekanizmaları da anlamayı gerektirdiğidir."
       }],
-    "frenchhindi": [],
+    "frenchhindi": [{
+        "id": "hi-001",
+        "fr": "Même si nous avions prévu de partir tôt, nous avons dû attendre que la pluie cesse avant de prendre la route.",
+        "hi": "हालाँकि हमने जल्दी निकलने की योजना बनाई थी, फिर भी सड़क पर निकलने से पहले हमें बारिश रुकने का इंतज़ार करना पड़ा।"
+      },
+      {
+        "id": "hi-002",
+        "fr": "Comme le train avait déjà beaucoup de retard, nous avons décidé de prendre le bus, même si le trajet était plus long.",
+        "hi": "चूँकि ट्रेन पहले ही बहुत देर से चल रही थी, हमने बस लेने का फैसला किया, भले ही यात्रा अधिक लंबी थी।"
+      },
+      {
+        "id": "hi-003",
+        "fr": "Après avoir terminé son travail, elle est passée au marché afin d'acheter tout ce dont elle avait besoin pour préparer le dîner.",
+        "hi": "अपना काम पूरा करने के बाद, वह रात का खाना बनाने के लिए ज़रूरी सारी चीज़ें खरीदने बाज़ार चली गई।"
+      },
+      {
+        "id": "hi-004",
+        "fr": "Nous avons choisi cet appartement parce qu'il était proche du centre-ville et qu'il disposait également d'un petit balcon.",
+        "hi": "हमने यह अपार्टमेंट इसलिए चुना क्योंकि यह शहर के केंद्र के पास था और इसमें एक छोटी बालकनी भी थी।"
+      },
+      {
+        "id": "hi-005",
+        "fr": "Bien qu'il connaisse déjà la ville, il a préféré utiliser une carte pour éviter de perdre du temps dans les rues qu'il connaissait moins bien.",
+        "hi": "हालाँकि वह शहर को पहले से जानता था, फिर भी उसने उन गलियों में समय बर्बाद होने से बचने के लिए नक्शे का इस्तेमाल करना पसंद किया जिन्हें वह कम जानता था।"
+      },
+      {
+        "id": "hi-006",
+        "fr": "Si tu veux terminer ce projet avant vendredi, il faudra que tu commences à travailler dès aujourd'hui.",
+        "hi": "अगर तुम इस परियोजना को शुक्रवार से पहले पूरा करना चाहते हो, तो तुम्हें आज से ही काम शुरू करना होगा।"
+      },
+      {
+        "id": "hi-007",
+        "fr": "Elle a accepté de venir avec nous, à condition que nous rentrions avant la tombée de la nuit.",
+        "hi": "उसने हमारे साथ आने के लिए हामी भर दी, बशर्ते कि हम अँधेरा होने से पहले वापस लौट आएँ।"
+      },
+      {
+        "id": "hi-008",
+        "fr": "Comme personne ne connaissait la réponse, le professeur a donné quelques indices pour nous permettre de résoudre le problème.",
+        "hi": "चूँकि किसी को उत्तर पता नहीं था, शिक्षक ने हमें समस्या हल करने में मदद करने के लिए कुछ संकेत दिए।"
+      },
+      {
+        "id": "hi-009",
+        "fr": "Il a finalement accepté le poste, même si le salaire était légèrement inférieur à celui qu'il espérait obtenir.",
+        "hi": "आखिरकार उसने नौकरी स्वीकार कर ली, भले ही वेतन उसकी उम्मीद से थोड़ा कम था।"
+      },
+      {
+        "id": "hi-010",
+        "fr": "Nous avons dû reporter notre voyage parce que plusieurs routes avaient été fermées à cause des fortes pluies.",
+        "hi": "हमें अपनी यात्रा स्थगित करनी पड़ी क्योंकि भारी बारिश के कारण कई सड़कें बंद कर दी गई थीं।"
+      },
+      {
+        "id": "hi-011",
+        "fr": "Elle a économisé suffisamment d'argent pour acheter un ordinateur dont elle avait besoin pour ses études.",
+        "hi": "उसने अपनी पढ़ाई के लिए ज़रूरी कंप्यूटर खरीदने के लिए पर्याप्त पैसे बचाए।"
+      },
+      {
+        "id": "hi-012",
+        "fr": "Même s'il était très fatigué après une longue journée de travail, il a pris le temps d'aider son voisin.",
+        "hi": "लंबे दिन के काम के बाद बहुत थका होने के बावजूद उसने अपने पड़ोसी की मदद करने के लिए समय निकाला।"
+      },
+      {
+        "id": "hi-013",
+        "fr": "Lorsque nous sommes arrivés au restaurant, toutes les tables près de la fenêtre étaient déjà occupées.",
+        "hi": "जब हम रेस्तराँ पहुँचे, तब खिड़की के पास की सारी मेज़ें पहले ही भरी हुई थीं।"
+      },
+      {
+        "id": "hi-014",
+        "fr": "Elle préfère travailler le matin, car elle trouve qu'elle est beaucoup plus concentrée avant le déjeuner.",
+        "hi": "वह सुबह काम करना पसंद करती है, क्योंकि उसे लगता है कि दोपहर के भोजन से पहले उसका ध्यान कहीं अधिक केंद्रित रहता है।"
+      },
+      {
+        "id": "hi-015",
+        "fr": "Nous avons décidé de rester à la maison puisque la météo annonçait de fortes pluies pour toute la journée.",
+        "hi": "हमने घर पर रहने का फैसला किया क्योंकि मौसम विभाग ने पूरे दिन भारी बारिश की भविष्यवाणी की थी।"
+      },
+      {
+        "id": "hi-016",
+        "fr": "Il faudrait que tu vérifies les informations avant de les partager, afin d'éviter de diffuser une erreur.",
+        "hi": "गलत जानकारी फैलाने से बचने के लिए तुम्हें उसे साझा करने से पहले जानकारी की जाँच कर लेनी चाहिए।"
+      },
+      {
+        "id": "hi-017",
+        "fr": "Après plusieurs tentatives, elle a réussi à réparer la machine sans avoir besoin d'appeler un technicien.",
+        "hi": "कई कोशिशों के बाद वह बिना किसी तकनीशियन को बुलाए मशीन ठीक करने में सफल हो गई।"
+      },
+      {
+        "id": "hi-018",
+        "fr": "Nous avons choisi de marcher plutôt que de prendre un taxi, puisque la distance n'était pas très grande.",
+        "hi": "हमने टैक्सी लेने के बजाय पैदल चलने का फैसला किया, क्योंकि दूरी बहुत अधिक नहीं थी।"
+      },
+      {
+        "id": "hi-019",
+        "fr": "Bien qu'il ait peu d'expérience, son responsable lui a confié cette tâche parce qu'il avait montré beaucoup de sérieux.",
+        "hi": "हालाँकि उसके पास अनुभव कम था, फिर भी उसके प्रबंधक ने उसे यह काम सौंपा क्योंकि उसने बहुत गंभीरता दिखाई थी।"
+      },
+      {
+        "id": "hi-020",
+        "fr": "Si vous avez des questions concernant le contrat, n'hésitez pas à nous contacter avant de le signer.",
+        "hi": "अगर आपको अनुबंध के बारे में कोई सवाल है, तो उस पर हस्ताक्षर करने से पहले हमसे संपर्क करने में संकोच न करें।"
+      },
+      {
+        "id": "hi-021",
+        "fr": "Elle a acheté une veste plus chaude parce qu'elle savait que les températures allaient fortement baisser pendant son séjour.",
+        "hi": "उसने एक अधिक गर्म जैकेट खरीदी क्योंकि उसे पता था कि उसके ठहरने के दौरान तापमान काफी गिरने वाला था।"
+      },
+      {
+        "id": "hi-022",
+        "fr": "Nous avons attendu près d'une heure avant de comprendre que le rendez-vous avait été déplacé à un autre endroit.",
+        "hi": "हमें लगभग एक घंटे तक इंतज़ार करने के बाद पता चला कि मुलाकात की जगह बदल दी गई थी।"
+      },
+      {
+        "id": "hi-023",
+        "fr": "Il a décidé de changer de travail parce qu'il souhaitait avoir davantage de temps à consacrer à sa famille.",
+        "hi": "उसने नौकरी बदलने का फैसला किया क्योंकि वह अपने परिवार के लिए अधिक समय देना चाहता था।"
+      },
+      {
+        "id": "hi-024",
+        "fr": "Même si le produit semblait intéressant, nous avons préféré attendre quelques semaines avant de l'acheter.",
+        "hi": "हालाँकि उत्पाद दिलचस्प लग रहा था, फिर भी हमने उसे खरीदने से पहले कुछ सप्ताह इंतज़ार करना बेहतर समझा।"
+      },
+      {
+        "id": "hi-025",
+        "fr": "Après avoir lu les instructions attentivement, il a compris pourquoi l'appareil ne fonctionnait pas correctement.",
+        "hi": "निर्देशों को ध्यान से पढ़ने के बाद उसे समझ में आया कि उपकरण ठीक से काम क्यों नहीं कर रहा था।"
+      },
+      {
+        "id": "hi-026",
+        "fr": "Nous devons terminer cette partie aujourd'hui pour pouvoir commencer la suivante demain matin.",
+        "hi": "हमें यह हिस्सा आज पूरा करना होगा ताकि हम कल सुबह अगले हिस्से की शुरुआत कर सकें।"
+      },
+      {
+        "id": "hi-027",
+        "fr": "Elle a demandé à son frère de garder les enfants pendant qu'elle allait faire quelques courses.",
+        "hi": "उसने अपने भाई से बच्चों की देखभाल करने को कहा, जबकि वह कुछ सामान खरीदने जा रही थी।"
+      },
+      {
+        "id": "hi-028",
+        "fr": "Comme le magasin était déjà fermé, nous avons dû chercher une autre solution pour acheter ce dont nous avions besoin.",
+        "hi": "चूँकि दुकान पहले ही बंद हो चुकी थी, हमें अपनी ज़रूरत की चीज़ें खरीदने के लिए कोई दूसरा उपाय ढूँढ़ना पड़ा।"
+      },
+      {
+        "id": "hi-029",
+        "fr": "Il est important que chacun respecte les règles afin que le travail puisse être terminé dans de bonnes conditions.",
+        "hi": "यह ज़रूरी है कि हर व्यक्ति नियमों का पालन करे ताकि काम अच्छे तरीके से पूरा किया जा सके।"
+      },
+      {
+        "id": "hi-030",
+        "fr": "Elle a choisi cette formation parce qu'elle pensait qu'elle lui permettrait d'améliorer ses compétences professionnelles.",
+        "hi": "उसने यह प्रशिक्षण इसलिए चुना क्योंकि उसे लगा कि इससे वह अपनी पेशेवर क्षमताओं में सुधार कर सकेगी।"
+      },
+      {
+        "id": "hi-031",
+        "fr": "Nous avons pris plusieurs photos afin de garder un souvenir de cette journée passée ensemble.",
+        "hi": "हमने इस दिन की याद को सँजोकर रखने के लिए कई तस्वीरें खींचीं।"
+      },
+      {
+        "id": "hi-032",
+        "fr": "Même si la route était difficile, le conducteur a continué à avancer jusqu'à ce que nous arrivions au village.",
+        "hi": "हालाँकि रास्ता कठिन था, चालक तब तक आगे बढ़ता रहा जब तक हम गाँव नहीं पहुँच गए।"
+      },
+      {
+        "id": "hi-033",
+        "fr": "Il a promis qu'il nous préviendrait dès qu'il aurait reçu une réponse de l'entreprise.",
+        "hi": "उसने वादा किया कि जैसे ही उसे कंपनी से जवाब मिलेगा, वह हमें सूचित करेगा।"
+      },
+      {
+        "id": "hi-034",
+        "fr": "Nous avons préféré réserver à l'avance, car le restaurant est souvent complet le week-end.",
+        "hi": "हमने पहले से बुकिंग करना पसंद किया क्योंकि सप्ताहांत में रेस्तराँ अक्सर पूरी तरह भर जाता है।"
+      },
+      {
+        "id": "hi-035",
+        "fr": "Bien qu'elle soit encore jeune, elle a déjà acquis une expérience importante dans ce domaine.",
+        "hi": "हालाँकि वह अभी युवा है, फिर भी उसने इस क्षेत्र में पहले ही महत्वपूर्ण अनुभव हासिल कर लिया है।"
+      },
+      {
+        "id": "hi-036",
+        "fr": "Si le temps le permet, nous irons nous promener après le déjeuner.",
+        "hi": "अगर मौसम ने साथ दिया, तो हम दोपहर के भोजन के बाद टहलने जाएँगे।"
+      },
+      {
+        "id": "hi-037",
+        "fr": "Après plusieurs mois de préparation, l'équipe a enfin présenté le projet auquel elle travaillait depuis longtemps.",
+        "hi": "कई महीनों की तैयारी के बाद टीम ने आखिरकार वह परियोजना प्रस्तुत की जिस पर वह लंबे समय से काम कर रही थी।"
+      },
+      {
+        "id": "hi-038",
+        "fr": "Il a annulé son voyage parce qu'il devait rester au bureau pour terminer un travail urgent.",
+        "hi": "उसने अपनी यात्रा रद्द कर दी क्योंकि उसे एक जरूरी काम पूरा करने के लिए कार्यालय में रुकना पड़ा।"
+      },
+      {
+        "id": "hi-039",
+        "fr": "Nous avons demandé au propriétaire de réparer la fuite avant de pouvoir emménager dans l'appartement.",
+        "hi": "हमने मकान मालिक से अपार्टमेंट में रहने जाने से पहले रिसाव ठीक करने को कहा।"
+      },
+      {
+        "id": "hi-040",
+        "fr": "Elle a continué à travailler malgré les difficultés qu'elle rencontrait depuis plusieurs semaines.",
+        "hi": "कई हफ्तों से सामने आ रही कठिनाइयों के बावजूद उसने काम जारी रखा।"
+      },
+      {
+        "id": "hi-041",
+        "fr": "Comme il ne connaissait pas la région, il a demandé conseil à quelqu'un qui y vivait depuis plusieurs années.",
+        "hi": "चूँकि वह इस क्षेत्र को नहीं जानता था, उसने वहाँ कई वर्षों से रहने वाले एक व्यक्ति से सलाह माँगी।"
+      },
+      {
+        "id": "hi-042",
+        "fr": "Nous avons décidé de modifier le programme afin que tout le monde puisse participer à la réunion.",
+        "hi": "हमने कार्यक्रम में बदलाव करने का फैसला किया ताकि हर कोई बैठक में भाग ले सके।"
+      },
+      {
+        "id": "hi-043",
+        "fr": "Elle a refusé de signer le document tant qu'elle n'aurait pas lu toutes les conditions.",
+        "hi": "उसने तब तक दस्तावेज़ पर हस्ताक्षर करने से इनकार किया जब तक वह सभी शर्तें पढ़ नहीं लेती।"
+      },
+      {
+        "id": "hi-044",
+        "fr": "Même si nous n'étions pas entièrement d'accord, nous avons accepté de chercher un compromis.",
+        "hi": "हालाँकि हम पूरी तरह सहमत नहीं थे, फिर भी हमने समझौता खोजने के लिए सहमति जताई।"
+      },
+      {
+        "id": "hi-045",
+        "fr": "Il faudrait réserver les billets suffisamment tôt si nous voulons être certains d'avoir de bonnes places.",
+        "hi": "अगर हम अच्छी सीटें सुनिश्चित करना चाहते हैं, तो हमें टिकट काफी पहले बुक कर लेने चाहिए।"
+      },
+      {
+        "id": "hi-046",
+        "fr": "Après avoir comparé plusieurs offres, elle a choisi celle qui correspondait le mieux à son budget.",
+        "hi": "कई प्रस्तावों की तुलना करने के बाद उसने वही चुना जो उसके बजट के लिए सबसे उपयुक्त था।"
+      },
+      {
+        "id": "hi-047",
+        "fr": "Nous ne savions pas combien de temps il faudrait attendre avant que le médecin puisse nous recevoir.",
+        "hi": "हमें नहीं पता था कि डॉक्टर हमें देखने से पहले कितनी देर इंतज़ार करना पड़ेगा।"
+      },
+      {
+        "id": "hi-048",
+        "fr": "Il a accepté de nous aider à condition que nous terminions notre partie du travail avant lundi.",
+        "hi": "उसने हमारी मदद करने के लिए सहमति दी, बशर्ते कि हम सोमवार से पहले अपने हिस्से का काम पूरा कर दें।"
+      },
+      {
+        "id": "hi-049",
+        "fr": "Elle a appris à cuisiner plusieurs plats traditionnels après avoir passé quelques mois dans sa famille d'accueil.",
+        "hi": "अपने मेज़बान परिवार के साथ कुछ महीने बिताने के बाद उसने कई पारंपरिक व्यंजन बनाना सीख लिया।"
+      },
+      {
+        "id": "hi-050",
+        "fr": "Nous avons attendu que les enfants soient prêts avant de commencer le voyage.",
+        "hi": "यात्रा शुरू करने से पहले हमने बच्चों के तैयार होने का इंतज़ार किया।"
+      },
+      {
+        "id": "hi-051",
+        "fr": "Même s'il avait peu de temps, il a pris quelques minutes pour répondre à toutes nos questions.",
+        "hi": "हालाँकि उसके पास समय कम था, फिर भी उसने हमारे सभी सवालों का जवाब देने के लिए कुछ मिनट निकाले।"
+      },
+      {
+        "id": "hi-052",
+        "fr": "Comme les prix avaient augmenté, nous avons dû réduire certaines dépenses pour respecter notre budget.",
+        "hi": "चूँकि कीमतें बढ़ गई थीं, हमें अपने बजट के भीतर रहने के लिए कुछ खर्च कम करने पड़े।"
+      },
+      {
+        "id": "hi-053",
+        "fr": "Elle a décidé de suivre ce conseil parce qu'elle pensait qu'il pourrait lui être utile à long terme.",
+        "hi": "उसने इस सलाह को मानने का फैसला किया क्योंकि उसे लगा कि लंबे समय में यह उसके लिए उपयोगी हो सकती है।"
+      },
+      {
+        "id": "hi-054",
+        "fr": "Nous avons déplacé la réunion à demain afin que les personnes absentes puissent également y participer.",
+        "hi": "हमने बैठक को कल के लिए स्थगित कर दिया ताकि अनुपस्थित लोग भी उसमें भाग ले सकें।"
+      },
+      {
+        "id": "hi-055",
+        "fr": "Il est parti plus tôt que prévu parce qu'il craignait de rester bloqué dans les embouteillages.",
+        "hi": "वह तय समय से पहले निकल गया क्योंकि उसे डर था कि वह ट्रैफिक जाम में फँस सकता है।"
+      },
+      {
+        "id": "hi-056",
+        "fr": "Même si le trajet était long, nous avons préféré prendre le bus parce qu'il était moins cher que le train.",
+        "hi": "यात्रा लंबी होने के बावजूद हमने बस से जाना पसंद किया क्योंकि वह ट्रेन से सस्ती थी।"
+      },
+      {
+        "id": "hi-057",
+        "fr": "Après avoir reçu les documents, elle les a immédiatement envoyés au responsable qui les attendait.",
+        "hi": "दस्तावेज़ प्राप्त करने के बाद उसने उन्हें तुरंत उस अधिकारी को भेज दिया जो उनका इंतज़ार कर रहा था।"
+      },
+      {
+        "id": "hi-058",
+        "fr": "Nous devons trouver une solution qui soit acceptable pour tout le monde avant de prendre une décision définitive.",
+        "hi": "अंतिम निर्णय लेने से पहले हमें ऐसा समाधान ढूँढ़ना होगा जो सभी के लिए स्वीकार्य हो।"
+      },
+      {
+        "id": "hi-059",
+        "fr": "Elle a gardé son ancien téléphone bien qu'elle en ait acheté un nouveau, car elle voulait conserver certaines données.",
+        "hi": "उसने अपना पुराना फोन संभालकर रखा, हालाँकि उसने नया फोन खरीद लिया था, क्योंकि वह कुछ डेटा सुरक्षित रखना चाहती थी।"
+      },
+      {
+        "id": "hi-060",
+        "fr": "Si nous voulons éviter les problèmes, il vaut mieux vérifier chaque détail avant de commencer.",
+        "hi": "अगर हम समस्याओं से बचना चाहते हैं, तो शुरू करने से पहले हर विवरण की जाँच कर लेना बेहतर होगा।"
+      },
+      {
+        "id": "hi-061",
+        "fr": "Il a accepté de participer au projet après avoir compris les objectifs que l'équipe souhaitait atteindre.",
+        "hi": "टीम जिन लक्ष्यों को हासिल करना चाहती थी, उन्हें समझने के बाद उसने परियोजना में भाग लेने के लिए सहमति दी।"
+      },
+      {
+        "id": "hi-062",
+        "fr": "Nous avons dû attendre plusieurs jours avant de recevoir la réponse que nous espérions.",
+        "hi": "हमें उस जवाब को पाने के लिए कई दिनों तक इंतज़ार करना पड़ा जिसकी हमें उम्मीद थी।"
+      },
+      {
+        "id": "hi-063",
+        "fr": "Bien qu'elle ait rencontré plusieurs difficultés, elle n'a jamais abandonné le projet qu'elle avait commencé.",
+        "hi": "हालाँकि उसे कई कठिनाइयों का सामना करना पड़ा, फिर भी उसने उस परियोजना को कभी नहीं छोड़ा जिसे उसने शुरू किया था।"
+      },
+      {
+        "id": "hi-064",
+        "fr": "Comme nous avions encore quelques heures devant nous, nous avons décidé de visiter le musée avant de rentrer.",
+        "hi": "चूँकि हमारे पास अभी कुछ घंटे बाकी थे, हमने वापस लौटने से पहले संग्रहालय देखने का फैसला किया।"
+      },
+      {
+        "id": "hi-065",
+        "fr": "Elle a demandé à son collègue de vérifier le rapport avant de l'envoyer au directeur.",
+        "hi": "उसने अपने सहकर्मी से रिपोर्ट निदेशक को भेजने से पहले उसकी जाँच करने को कहा।"
+      },
+      {
+        "id": "hi-066",
+        "fr": "Même si les résultats n'étaient pas parfaits, ils étaient suffisamment bons pour nous permettre de continuer.",
+        "hi": "हालाँकि परिणाम बिल्कुल सही नहीं थे, फिर भी वे इतने अच्छे थे कि हम आगे बढ़ सकें।"
+      },
+      {
+        "id": "hi-067",
+        "fr": "Nous avons choisi de travailler ensemble parce que chacun possédait des compétences différentes mais complémentaires.",
+        "hi": "हमने साथ मिलकर काम करने का फैसला किया क्योंकि हर व्यक्ति के पास अलग-अलग लेकिन एक-दूसरे की पूरक क्षमताएँ थीं।"
+      },
+      {
+        "id": "hi-068",
+        "fr": "Il faudra attendre que la situation soit plus claire avant de décider de la prochaine étape.",
+        "hi": "अगला कदम तय करने से पहले हमें स्थिति के और स्पष्ट होने का इंतज़ार करना होगा।"
+      },
+      {
+        "id": "hi-069",
+        "fr": "Après avoir discuté avec plusieurs personnes, elle a finalement choisi la solution qui lui semblait la plus raisonnable.",
+        "hi": "कई लोगों से चर्चा करने के बाद उसने आखिरकार वही समाधान चुना जो उसे सबसे उचित लगा।"
+      },
+      {
+        "id": "hi-070",
+        "fr": "Même si nous avions quelques réserves au début, nous avons progressivement compris que cette décision pouvait être bénéfique pour tout le groupe.",
+        "hi": "हालाँकि शुरुआत में हमें कुछ संदेह थे, लेकिन धीरे-धीरे हमें समझ में आया कि यह निर्णय पूरे समूह के लिए लाभदायक हो सकता है।"
+      },{
+        "id": "hi-071",
+        "fr": "Même si personne ne s'y attendait vraiment, la réunion s'est terminée beaucoup plus tôt que prévu, ce qui nous a permis de revoir certains points qui avaient été laissés de côté.",
+        "hi": "हालाँकि वास्तव में किसी को इसकी उम्मीद नहीं थी, बैठक तय समय से काफी पहले समाप्त हो गई, जिससे हमें उन कुछ बिंदुओं की फिर से समीक्षा करने का अवसर मिला जिन्हें पहले छोड़ दिया गया था।"
+      },
+      {
+        "id": "hi-072",
+        "fr": "À force de repousser cette décision, nous avons fini par nous retrouver dans une situation où les possibilités de changement étaient devenues beaucoup plus limitées.",
+        "hi": "इस निर्णय को बार-बार टालते रहने के कारण अंततः हम ऐसी स्थिति में पहुँच गए जहाँ बदलाव की संभावनाएँ बहुत सीमित हो गई थीं।"
+      },
+      {
+        "id": "hi-073",
+        "fr": "Bien qu'il ait reconnu que les critiques étaient parfois justifiées, il a estimé qu'elles ne tenaient pas suffisamment compte des difficultés auxquelles son équipe avait dû faire face.",
+        "hi": "हालाँकि उसने माना कि आलोचनाएँ कभी-कभी उचित थीं, फिर भी उसका मानना था कि उनमें उन कठिनाइयों को पर्याप्त रूप से ध्यान में नहीं रखा गया था जिनका उसकी टीम को सामना करना पड़ा था।"
+      },
+      {
+        "id": "hi-074",
+        "fr": "Ce n'est qu'après avoir relu attentivement le contrat que nous avons compris que certaines conditions importantes n'avaient pas été clairement expliquées lors de la première réunion.",
+        "hi": "अनुबंध को ध्यान से दोबारा पढ़ने के बाद ही हमें समझ में आया कि कुछ महत्वपूर्ण शर्तों को पहली बैठक के दौरान स्पष्ट रूप से समझाया नहीं गया था।"
+      },
+      {
+        "id": "hi-075",
+        "fr": "Quoi qu'en pensent certaines personnes, il est difficile de nier que cette décision a profondément changé la manière dont l'équipe travaillait.",
+        "hi": "कुछ लोग चाहे जो सोचें, इस बात से इनकार करना मुश्किल है कि इस निर्णय ने टीम के काम करने के तरीके को गहराई से बदल दिया।"
+      },
+      {
+        "id": "hi-076",
+        "fr": "À moins que la situation ne s'améliore rapidement, l'entreprise devra probablement revoir les objectifs qu'elle s'était fixés au début de l'année.",
+        "hi": "जब तक स्थिति जल्दी नहीं सुधरती, कंपनी को शायद उन लक्ष्यों की फिर से समीक्षा करनी पड़ेगी जिन्हें उसने वर्ष की शुरुआत में निर्धारित किया था।"
+      },
+      {
+        "id": "hi-077",
+        "fr": "Il a beau avoir beaucoup d'expérience, il lui arrive encore de sous-estimer le temps nécessaire pour mener certaines tâches à bien.",
+        "hi": "उसके पास भले ही बहुत अनुभव हो, फिर भी कभी-कभी वह कुछ कार्यों को पूरा करने के लिए आवश्यक समय को कम आँक देता है।"
+      },
+      {
+        "id": "hi-078",
+        "fr": "Même si nous avions anticipé une partie des difficultés, nous n'avions pas prévu que les retards s'accumuleraient au point de compromettre le calendrier initial.",
+        "hi": "हालाँकि हमने कुछ कठिनाइयों का अनुमान लगा लिया था, लेकिन हमने यह नहीं सोचा था कि देरी इतनी बढ़ जाएगी कि शुरुआती समय-सारणी ही प्रभावित हो जाएगी।"
+      },
+      {
+        "id": "hi-079",
+        "fr": "Ce qui nous a surtout surpris, c'est que personne n'ait signalé le problème alors qu'il était déjà visible depuis plusieurs semaines.",
+        "hi": "जिस बात ने हमें सबसे अधिक हैरान किया, वह यह थी कि समस्या कई हफ्तों से स्पष्ट होने के बावजूद किसी ने उसके बारे में सूचित नहीं किया था।"
+      },
+      {
+        "id": "hi-080",
+        "fr": "Après avoir pris connaissance des nouvelles informations, elle a préféré attendre avant de réagir, de peur de tirer des conclusions trop hâtives.",
+        "hi": "नई जानकारी मिलने के बाद उसने तुरंत प्रतिक्रिया देने के बजाय इंतज़ार करना पसंद किया, क्योंकि उसे डर था कि कहीं वह जल्दबाज़ी में निष्कर्ष न निकाल ले।"
+      },
+      {
+        "id": "hi-081",
+        "fr": "Quelles que soient les raisons qui l'ont poussé à partir, son départ a laissé une charge de travail considérable à ceux qui sont restés.",
+        "hi": "उसे जाने के लिए चाहे जो भी कारण रहे हों, उसके जाने से पीछे रह गए लोगों पर काफी अधिक काम का बोझ पड़ गया।"
+      },
+      {
+        "id": "hi-082",
+        "fr": "Pour peu que chacun accepte de faire un effort supplémentaire, nous devrions être capables de terminer le projet dans les délais prévus.",
+        "hi": "अगर हर कोई थोड़ा अतिरिक्त प्रयास करने को तैयार हो, तो हमें परियोजना को निर्धारित समय सीमा के भीतर पूरा कर पाने में सक्षम होना चाहिए।"
+      },
+      {
+        "id": "hi-083",
+        "fr": "Il ne s'agit pas simplement de trouver une solution rapide, mais de mettre en place une organisation qui puisse fonctionner durablement.",
+        "hi": "मामला केवल जल्दी से कोई समाधान खोजने का नहीं है, बल्कि ऐसी व्यवस्था स्थापित करने का है जो लंबे समय तक प्रभावी ढंग से चल सके।"
+      },
+      {
+        "id": "hi-084",
+        "fr": "Alors que tout semblait indiquer que le projet allait être abandonné, une nouvelle proposition a permis de relancer les discussions.",
+        "hi": "जब सब कुछ इस ओर संकेत कर रहा था कि परियोजना छोड़ दी जाएगी, तभी एक नए प्रस्ताव ने बातचीत को फिर से शुरू करने का अवसर दिया।"
+      },
+      {
+        "id": "hi-085",
+        "fr": "Elle a accepté de reprendre le dossier, à condition que les informations dont elle avait besoin lui soient transmises suffisamment tôt.",
+        "hi": "उसने मामले को फिर से संभालने के लिए सहमति दी, बशर्ते कि उसे आवश्यक जानकारी पर्याप्त समय पहले उपलब्ध करा दी जाए।"
+      },
+      {
+        "id": "hi-086",
+        "fr": "Ce n'est pas tant le montant de la dépense qui nous inquiète que le fait que personne n'ait prévu cette charge supplémentaire.",
+        "hi": "हमें खर्च की राशि से उतनी चिंता नहीं है जितनी इस बात से कि किसी ने इस अतिरिक्त खर्च का अनुमान ही नहीं लगाया था।"
+      },
+      {
+        "id": "hi-087",
+        "fr": "Même s'il avait été prévenu à plusieurs reprises, il a continué à agir comme si le problème pouvait être réglé de lui-même.",
+        "hi": "हालाँकि उसे कई बार चेतावनी दी गई थी, फिर भी वह ऐसे व्यवहार करता रहा जैसे समस्या अपने आप हल हो जाएगी।"
+      },
+      {
+        "id": "hi-088",
+        "fr": "À bien y réfléchir, la solution que nous avions rejetée au départ aurait peut-être permis d'éviter une grande partie des difficultés rencontrées par la suite.",
+        "hi": "अच्छी तरह सोचने पर लगता है कि जिस समाधान को हमने शुरुआत में ठुकरा दिया था, उससे बाद में आई कई कठिनाइयों से शायद बचा जा सकता था।"
+      },
+      {
+        "id": "hi-089",
+        "fr": "Il aurait été préférable que nous vérifiions toutes les informations avant de prendre une décision qui allait avoir des conséquences aussi importantes.",
+        "hi": "बेहतर होता अगर हम इतना महत्वपूर्ण प्रभाव डालने वाले निर्णय लेने से पहले सभी जानकारियों की जाँच कर लेते।"
+      },
+      {
+        "id": "hi-090",
+        "fr": "Bien qu'elle ne partage pas entièrement son opinion, elle reconnaît que certains de ses arguments méritent d'être examinés plus attentivement.",
+        "hi": "हालाँकि वह उसकी राय से पूरी तरह सहमत नहीं है, फिर भी वह मानती है कि उसके कुछ तर्कों की अधिक ध्यान से जाँच की जानी चाहिए।"
+      },
+      {
+        "id": "hi-091",
+        "fr": "Dès lors que les règles sont les mêmes pour tout le monde, il devient beaucoup plus facile de justifier les décisions prises.",
+        "hi": "जब नियम सभी के लिए समान होते हैं, तो लिए गए निर्णयों को उचित ठहराना बहुत आसान हो जाता है।"
+      },
+      {
+        "id": "hi-092",
+        "fr": "À force de vouloir tout contrôler, il a fini par consacrer tellement de temps aux détails qu'il en a négligé les priorités.",
+        "hi": "हर चीज़ को नियंत्रित करने की लगातार कोशिश में वह विवरणों पर इतना समय खर्च करने लगा कि उसने प्राथमिकताओं की उपेक्षा कर दी।"
+      },
+      {
+        "id": "hi-093",
+        "fr": "Ce qui importe désormais, ce n'est pas de chercher qui est responsable, mais de comprendre comment éviter que la même situation ne se reproduise.",
+        "hi": "अब महत्वपूर्ण यह नहीं है कि जिम्मेदार कौन है, बल्कि यह समझना है कि ऐसी स्थिति दोबारा होने से कैसे रोका जाए।"
+      },
+      {
+        "id": "hi-094",
+        "fr": "Quoi qu'il arrive au cours des prochaines semaines, nous devrons rester suffisamment flexibles pour pouvoir adapter notre stratégie.",
+        "hi": "अगले कुछ हफ्तों में चाहे जो भी हो, हमें अपनी रणनीति को बदलने में सक्षम होने के लिए पर्याप्त लचीला रहना होगा।"
+      },
+      {
+        "id": "hi-095",
+        "fr": "Même si les résultats sont encourageants, rien ne permet encore d'affirmer que cette méthode fonctionnera dans toutes les situations.",
+        "hi": "हालाँकि परिणाम उत्साहजनक हैं, फिर भी अभी यह कहना संभव नहीं है कि यह तरीका हर परिस्थिति में काम करेगा।"
+      },
+      {
+        "id": "hi-096",
+        "fr": "Après plusieurs heures de discussion, les participants sont finalement parvenus à un accord qui, sans satisfaire pleinement tout le monde, restait acceptable pour la majorité.",
+        "hi": "कई घंटों की चर्चा के बाद प्रतिभागी अंततः एक ऐसे समझौते पर पहुँचे जो सभी को पूरी तरह संतुष्ट तो नहीं करता था, लेकिन अधिकांश लोगों के लिए स्वीकार्य था।"
+      },
+      {
+        "id": "hi-097",
+        "fr": "Il est peu probable que nous puissions modifier le calendrier sans que cela n'entraîne de nouvelles complications.",
+        "hi": "यह बहुत कम संभावना है कि हम समय-सारणी में बदलाव कर पाएँगे बिना इसके कि इससे नई जटिलताएँ पैदा हों।"
+      },
+      {
+        "id": "hi-098",
+        "fr": "Elle a beau essayer de rester optimiste, elle sait parfaitement que plusieurs obstacles devront encore être surmontés avant que le projet puisse aboutir.",
+        "hi": "वह चाहे कितनी भी आशावादी रहने की कोशिश करे, वह अच्छी तरह जानती है कि परियोजना के सफल होने से पहले अभी कई बाधाओं को पार करना होगा।"
+      },
+      {
+        "id": "hi-099",
+        "fr": "À supposer même que nous obtenions le financement nécessaire, il faudrait encore disposer d'une équipe suffisamment expérimentée pour mettre le projet en œuvre.",
+        "hi": "मान लें कि हमें आवश्यक वित्तपोषण मिल भी जाए, तब भी परियोजना को लागू करने के लिए पर्याप्त अनुभवी टीम की आवश्यकता होगी।"
+      },
+      {
+        "id": "hi-100",
+        "fr": "Ce n'est qu'en comparant les différentes propositions que nous pourrons déterminer laquelle répond réellement à nos besoins.",
+        "hi": "अलग-अलग प्रस्तावों की तुलना करने के बाद ही हम यह निर्धारित कर पाएँगे कि कौन-सा प्रस्ताव वास्तव में हमारी आवश्यकताओं को पूरा करता है।"
+      },
+      {
+        "id": "hi-101",
+        "fr": "Il ne faudrait pas confondre le fait d'avoir beaucoup d'informations avec celui de disposer des informations réellement utiles pour prendre une décision.",
+        "hi": "बहुत सारी जानकारी होने और निर्णय लेने के लिए वास्तव में उपयोगी जानकारी उपलब्ध होने को एक ही बात नहीं समझना चाहिए।"
+      },
+      {
+        "id": "hi-102",
+        "fr": "Bien qu'il ait accepté les nouvelles responsabilités, il a demandé qu'on lui accorde une période d'adaptation avant d'être évalué.",
+        "hi": "हालाँकि उसने नई जिम्मेदारियाँ स्वीकार कर लीं, फिर भी उसने मूल्यांकन से पहले उसे अनुकूलन के लिए कुछ समय देने का अनुरोध किया।"
+      },
+      {
+        "id": "hi-103",
+        "fr": "Plus le temps passait, plus il devenait évident que la stratégie initiale ne permettrait pas d'atteindre les objectifs fixés.",
+        "hi": "जैसे-जैसे समय बीतता गया, यह और स्पष्ट होता गया कि शुरुआती रणनीति से निर्धारित लक्ष्यों को हासिल नहीं किया जा सकेगा।"
+      },
+      {
+        "id": "hi-104",
+        "fr": "Elle a préféré ne rien promettre tant qu'elle ne disposait pas de suffisamment d'éléments pour être certaine de pouvoir tenir ses engagements.",
+        "hi": "उसने तब तक कोई वादा न करने का फैसला किया जब तक उसके पास अपने वादे पूरे करने का भरोसा करने के लिए पर्याप्त जानकारी न हो।"
+      },
+      {
+        "id": "hi-105",
+        "fr": "Même si cette mesure peut sembler contraignante au premier abord, elle devrait permettre d'éviter plusieurs problèmes à l'avenir.",
+        "hi": "हालाँकि पहली नज़र में यह उपाय प्रतिबंधात्मक लग सकता है, फिर भी इससे भविष्य में कई समस्याओं से बचने में मदद मिलनी चाहिए।"
+      },
+      {
+        "id": "hi-106",
+        "fr": "À moins que de nouvelles informations ne viennent modifier la situation, nous continuerons à suivre le plan qui a été approuvé hier.",
+        "hi": "जब तक कोई नई जानकारी स्थिति को नहीं बदलती, हम कल स्वीकृत की गई योजना का पालन करते रहेंगे।"
+      },
+      {
+        "id": "hi-107",
+        "fr": "Ce qui est particulièrement intéressant dans cette approche, c'est qu'elle permet de résoudre plusieurs problèmes sans nécessiter de ressources supplémentaires.",
+        "hi": "इस दृष्टिकोण की खास बात यह है कि इससे अतिरिक्त संसाधनों की आवश्यकता के बिना कई समस्याओं को हल किया जा सकता है।"
+      },
+      {
+        "id": "hi-108",
+        "fr": "Il a reconnu qu'il aurait dû demander davantage de précisions avant d'accepter une proposition dont il ne mesurait pas encore toutes les implications.",
+        "hi": "उसने माना कि उसे ऐसे प्रस्ताव को स्वीकार करने से पहले अधिक स्पष्टीकरण माँगना चाहिए था जिसके सभी प्रभावों का उसे अभी पूरी तरह अंदाज़ा नहीं था।"
+      },
+      {
+        "id": "hi-109",
+        "fr": "Pour peu que les conditions restent favorables, l'équipe devrait pouvoir terminer cette étape sans devoir modifier profondément le projet.",
+        "hi": "अगर परिस्थितियाँ अनुकूल बनी रहीं, तो टीम को परियोजना में बड़े बदलाव किए बिना इस चरण को पूरा कर पाने में सक्षम होना चाहिए।"
+      },
+      {
+        "id": "hi-110",
+        "fr": "Quelles que soient les difficultés rencontrées, elle refuse de considérer que les efforts accomplis jusqu'ici ont été inutiles.",
+        "hi": "चाहे कितनी भी कठिनाइयाँ क्यों न आई हों, वह अब तक किए गए प्रयासों को बेकार मानने से इनकार करती है।"
+      },
+      {
+        "id": "hi-111",
+        "fr": "Alors que certains estimaient qu'il était trop tôt pour agir, elle considérait au contraire que tout retard supplémentaire risquait de rendre la situation plus difficile à gérer.",
+        "hi": "जहाँ कुछ लोगों का मानना था कि कार्रवाई करना अभी जल्दबाज़ी होगी, वहीं उसका मानना था कि और देरी से स्थिति को संभालना और कठिन हो सकता है।"
+      },
+      {
+        "id": "hi-112",
+        "fr": "Il serait dommage de renoncer maintenant alors que nous avons déjà consacré autant de temps et d'énergie à ce projet.",
+        "hi": "अब हार मान लेना अफ़सोस की बात होगी, जबकि हमने इस परियोजना में पहले ही इतना समय और ऊर्जा लगा दी है।"
+      },
+      {
+        "id": "hi-113",
+        "fr": "Même si le problème paraît simple à première vue, son origine est en réalité beaucoup plus complexe qu'on ne pourrait le croire.",
+        "hi": "हालाँकि पहली नज़र में समस्या सरल लगती है, लेकिन वास्तव में उसका कारण जितना समझा जा सकता है उससे कहीं अधिक जटिल है।"
+      },
+      {
+        "id": "hi-114",
+        "fr": "Ce n'est qu'une fois que toutes les données auront été vérifiées que nous pourrons publier les résultats définitifs.",
+        "hi": "सभी आँकड़ों की जाँच हो जाने के बाद ही हम अंतिम परिणाम प्रकाशित कर पाएँगे।"
+      },
+      {
+        "id": "hi-115",
+        "fr": "Il a beau connaître parfaitement le fonctionnement du système, il ne peut pas prévoir toutes les réactions des utilisateurs.",
+        "hi": "वह सिस्टम के काम करने के तरीके को भले ही अच्छी तरह जानता हो, लेकिन वह उपयोगकर्ताओं की सभी प्रतिक्रियाओं का अनुमान नहीं लगा सकता।"
+      },
+      {
+        "id": "hi-116",
+        "fr": "À force d'attendre le moment idéal, nous risquons surtout de laisser passer des occasions qui ne se présenteront peut-être plus.",
+        "hi": "आदर्श समय का इंतज़ार करते रहने से सबसे बड़ा जोखिम यह है कि हम ऐसे अवसर खो दें जो शायद दोबारा न मिलें।"
+      },
+      {
+        "id": "hi-117",
+        "fr": "Bien qu'elle ait été informée des risques, elle a estimé que les avantages potentiels justifiaient néanmoins de poursuivre l'expérience.",
+        "hi": "हालाँकि उसे जोखिमों के बारे में बताया गया था, फिर भी उसका मानना था कि संभावित लाभ प्रयोग जारी रखने को उचित ठहराते हैं।"
+      },
+      {
+        "id": "hi-118",
+        "fr": "Il ne suffit pas que la solution soit techniquement possible ; encore faut-il qu'elle soit accessible aux personnes qui devront l'utiliser.",
+        "hi": "केवल समाधान का तकनीकी रूप से संभव होना पर्याप्त नहीं है; यह भी आवश्यक है कि वह उन लोगों के लिए सुलभ हो जिन्हें इसका उपयोग करना होगा।"
+      },
+      {
+        "id": "hi-119",
+        "fr": "Après avoir examiné les différentes options, nous avons retenu celle qui présentait le meilleur équilibre entre coût, qualité et rapidité.",
+        "hi": "अलग-अलग विकल्पों की जाँच करने के बाद हमने उस विकल्प को चुना जिसमें लागत, गुणवत्ता और गति के बीच सबसे अच्छा संतुलन था।"
+      },
+      {
+        "id": "hi-120",
+        "fr": "Quoi qu'on puisse penser de sa méthode, force est de constater qu'elle a obtenu des résultats que peu de personnes avaient anticipés.",
+        "hi": "उसकी पद्धति के बारे में चाहे जो भी सोचा जाए, यह मानना पड़ेगा कि उसने ऐसे परिणाम हासिल किए जिनकी बहुत कम लोगों ने उम्मीद की थी।"
+      },
+      {
+        "id": "hi-121",
+        "fr": "Même si nous parvenons à résoudre ce problème rapidement, il faudra encore déterminer pourquoi il s'est produit afin d'éviter qu'il ne se reproduise.",
+        "hi": "भले ही हम इस समस्या को जल्दी हल कर लें, फिर भी हमें यह पता लगाना होगा कि यह क्यों हुई ताकि यह दोबारा न हो।"
+      },
+      {
+        "id": "hi-122",
+        "fr": "Elle aurait préféré que la discussion ait lieu en personne, car certains malentendus auraient probablement pu être évités de cette manière.",
+        "hi": "वह चाहती थी कि बातचीत आमने-सामने होती, क्योंकि इस तरह शायद कुछ गलतफहमियों से बचा जा सकता था।"
+      },
+      {
+        "id": "hi-123",
+        "fr": "Dès lors qu'une décision engage plusieurs personnes, il paraît logique que chacune puisse donner son avis avant qu'elle ne soit définitivement adoptée.",
+        "hi": "जब कोई निर्णय कई लोगों को प्रभावित करता है, तो यह स्वाभाविक लगता है कि उसे अंतिम रूप देने से पहले हर व्यक्ति को अपनी राय देने का अवसर मिले।"
+      },
+      {
+        "id": "hi-124",
+        "fr": "Il a finalement compris que ce n'était pas le manque de ressources qui ralentissait le projet, mais surtout l'absence d'une organisation claire.",
+        "hi": "आखिरकार उसे समझ में आया कि परियोजना को धीमा करने वाली समस्या संसाधनों की कमी नहीं, बल्कि मुख्य रूप से स्पष्ट संगठन का अभाव था।"
+      },
+      {
+        "id": "hi-125",
+        "fr": "À supposer que tout se passe comme prévu, nous pourrions commencer la deuxième phase dès le mois prochain.",
+        "hi": "मान लें कि सब कुछ योजना के अनुसार चलता है, तो हम अगले महीने से ही दूसरे चरण की शुरुआत कर सकते हैं।"
+      },
+      {
+        "id": "hi-126",
+        "fr": "Bien qu'il ait reçu plusieurs offres intéressantes, il a choisi de rester dans son entreprise parce qu'il y voyait encore des possibilités d'évolution.",
+        "hi": "हालाँकि उसे कई आकर्षक प्रस्ताव मिले थे, फिर भी उसने अपनी कंपनी में बने रहने का फैसला किया क्योंकि उसे वहाँ अभी भी आगे बढ़ने की संभावनाएँ दिखाई देती थीं।"
+      },
+      {
+        "id": "hi-127",
+        "fr": "Ce qui rend cette situation particulièrement délicate, c'est que chacune des solutions envisagées comporte des avantages, mais aussi des risques importants.",
+        "hi": "इस स्थिति को विशेष रूप से जटिल बनाने वाली बात यह है कि विचार किए गए हर समाधान के अपने लाभ हैं, लेकिन महत्वपूर्ण जोखिम भी हैं।"
+      },
+      {
+        "id": "hi-128",
+        "fr": "Il serait préférable de prendre quelques jours supplémentaires plutôt que de présenter un travail qui n'a pas été suffisamment vérifié.",
+        "hi": "ऐसा काम प्रस्तुत करने के बजाय जिसे पर्याप्त रूप से जाँचा नहीं गया है, कुछ अतिरिक्त दिन लेना बेहतर होगा।"
+      },
+      {
+        "id": "hi-129",
+        "fr": "Même si les premières réactions sont positives, nous devons attendre davantage de retours avant de tirer une conclusion définitive.",
+        "hi": "हालाँकि शुरुआती प्रतिक्रियाएँ सकारात्मक हैं, फिर भी अंतिम निष्कर्ष निकालने से पहले हमें और प्रतिक्रियाओं की प्रतीक्षा करनी चाहिए।"
+      },
+      {
+        "id": "hi-130",
+        "fr": "À peine avait-il commencé à expliquer la situation que plusieurs personnes ont compris qu'un détail important avait été oublié.",
+        "hi": "उसने स्थिति समझाना शुरू ही किया था कि कई लोगों को समझ में आ गया कि एक महत्वपूर्ण विवरण छूट गया था।"
+      },
+      {
+        "id": "hi-131",
+        "fr": "Elle a insisté pour que le document soit modifié, non pas parce qu'il était incorrect, mais parce que certaines formulations pouvaient prêter à confusion.",
+        "hi": "उसने दस्तावेज़ में बदलाव करने पर ज़ोर दिया, इसलिए नहीं कि वह गलत था, बल्कि इसलिए कि कुछ अभिव्यक्तियाँ भ्रम पैदा कर सकती थीं।"
+      },
+      {
+        "id": "hi-132",
+        "fr": "Quelles que soient les circonstances, il est essentiel que les personnes concernées soient informées suffisamment tôt pour pouvoir s'organiser.",
+        "hi": "परिस्थितियाँ चाहे जैसी भी हों, यह आवश्यक है कि संबंधित लोगों को पर्याप्त समय पहले सूचित किया जाए ताकि वे अपनी व्यवस्था कर सकें।"
+      },
+      {
+        "id": "hi-133",
+        "fr": "À bien y regarder, les deux propositions sont moins différentes qu'elles ne le semblent, puisqu'elles poursuivent finalement le même objectif.",
+        "hi": "ध्यान से देखने पर दोनों प्रस्ताव उतने अलग नहीं हैं जितने दिखाई देते हैं, क्योंकि अंततः उनका लक्ष्य एक ही है।"
+      },
+      {
+        "id": "hi-134",
+        "fr": "Il ne faudrait pas que la recherche de la perfection nous empêche de mettre en œuvre une solution qui est déjà suffisamment efficace.",
+        "hi": "ऐसा नहीं होना चाहिए कि पूर्णता की खोज हमें ऐसे समाधान को लागू करने से रोक दे जो पहले से ही पर्याप्त रूप से प्रभावी है।"
+      },
+      {
+        "id": "hi-135",
+        "fr": "Même si personne ne peut garantir que cette stratégie fonctionnera, elle semble pour l'instant être l'option la plus raisonnable.",
+        "hi": "हालाँकि कोई यह गारंटी नहीं दे सकता कि यह रणनीति काम करेगी, फिर भी फिलहाल यह सबसे उचित विकल्प लगती है।"
+      },
+      {
+        "id": "hi-136",
+        "fr": "Après avoir pris le temps d'écouter toutes les parties, le responsable a proposé une solution qui tenait compte des principales préoccupations exprimées.",
+        "hi": "सभी पक्षों की बात ध्यान से सुनने के बाद जिम्मेदार अधिकारी ने ऐसा समाधान प्रस्तावित किया जिसमें व्यक्त की गई मुख्य चिंताओं को ध्यान में रखा गया था।"
+      },
+      {
+        "id": "hi-137",
+        "fr": "Il a reconnu que certaines erreurs auraient pu être évitées s'il avait pris le temps de demander conseil avant de commencer.",
+        "hi": "उसने माना कि अगर उसने शुरू करने से पहले सलाह लेने के लिए समय निकाला होता, तो कुछ गलतियों से बचा जा सकता था।"
+      },
+      {
+        "id": "hi-138",
+        "fr": "Pour autant que les informations dont nous disposons soient exactes, aucune modification majeure ne devrait être nécessaire.",
+        "hi": "बशर्ते कि हमारे पास उपलब्ध जानकारी सही हो, किसी बड़े बदलाव की आवश्यकता नहीं होनी चाहिए।"
+      },
+      {
+        "id": "hi-139",
+        "fr": "Ce n'est qu'après plusieurs semaines d'observation que les chercheurs ont commencé à comprendre les causes réelles du phénomène.",
+        "hi": "कई हफ्तों के अवलोकन के बाद ही शोधकर्ताओं ने इस घटना के वास्तविक कारणों को समझना शुरू किया।"
+      },
+      {
+        "id": "hi-140",
+        "fr": "Quoi qu'il en soit, nous devons maintenant tirer les leçons de cette expérience et éviter de reproduire les mêmes erreurs.",
+        "hi": "जो भी हो, अब हमें इस अनुभव से सीख लेनी चाहिए और वही गलतियाँ दोहराने से बचना चाहिए।"
+      }, {
+        "id": "hi-141",
+        "fr": "Quand bien même nous disposerions de davantage de temps, rien ne garantirait que les difficultés auxquelles nous sommes confrontés disparaîtraient d'elles-mêmes.",
+        "hi": "भले ही हमारे पास अधिक समय क्यों न हो, फिर भी इसकी कोई गारंटी नहीं होगी कि जिन कठिनाइयों का हम सामना कर रहे हैं वे अपने आप समाप्त हो जाएँगी।"
+      },
+      {
+        "id": "hi-142",
+        "fr": "Encore eût-il fallu que toutes les informations nécessaires fussent disponibles pour que nous puissions prendre une décision véritablement éclairée.",
+        "hi": "इसके लिए यह भी आवश्यक था कि सभी आवश्यक जानकारी उपलब्ध होती, तभी हम वास्तव में सूचित निर्णय ले सकते थे।"
+      },
+      {
+        "id": "hi-143",
+        "fr": "Bien qu'il eût été plus simple de renoncer dès les premières difficultés, elle a préféré poursuivre, convaincue que les efforts déjà consentis finiraient par porter leurs fruits.",
+        "hi": "हालाँकि पहली कठिनाइयों के सामने ही हार मान लेना आसान होता, फिर भी उसने आगे बढ़ना पसंद किया, क्योंकि उसे विश्वास था कि अब तक किए गए प्रयास अंततः रंग लाएँगे।"
+      },
+      {
+        "id": "hi-144",
+        "fr": "À supposer même que toutes les conditions soient réunies, il n'en resterait pas moins que la réussite dépendrait de notre capacité à réagir face aux imprévus.",
+        "hi": "मान लें कि सभी परिस्थितियाँ अनुकूल हों, फिर भी सफलता हमारी अप्रत्याशित परिस्थितियों के सामने प्रतिक्रिया देने की क्षमता पर निर्भर करेगी।"
+      },
+      {
+        "id": "hi-145",
+        "fr": "Si tant est que l'on puisse encore parler de hasard, les événements de ces dernières semaines semblent avoir suivi une logique que personne n'avait véritablement anticipée.",
+        "hi": "यदि अब भी इसे संयोग कहा जा सकता है, तो पिछले कुछ हफ्तों की घटनाएँ ऐसी तर्कसंगत दिशा में आगे बढ़ती दिखाई देती हैं जिसकी वास्तव में किसी ने कल्पना नहीं की थी।"
+      },
+      {
+        "id": "hi-146",
+        "fr": "À peine avait-elle achevé sa présentation que plusieurs participants, jusque-là silencieux, ont commencé à soulever des questions dont la complexité a prolongé considérablement les échanges.",
+        "hi": "उसने अपनी प्रस्तुति समाप्त ही की थी कि अब तक चुप रहे कई प्रतिभागियों ने ऐसे प्रश्न उठाने शुरू कर दिए जिनकी जटिलता ने चर्चा को काफी लंबा कर दिया।"
+      },
+      {
+        "id": "hi-147",
+        "fr": "Bien lui en ait pris d'attendre avant de répondre, car les informations reçues quelques heures plus tard ont profondément modifié la manière dont il envisageait la situation.",
+        "hi": "उसका जवाब देने से पहले इंतज़ार करना सही साबित हुआ, क्योंकि कुछ घंटों बाद मिली जानकारी ने स्थिति को देखने का उसका पूरा दृष्टिकोण बदल दिया।"
+      },
+      {
+        "id": "hi-148",
+        "fr": "Encore faudrait-il, pour que cette proposition soit réellement viable, que les personnes chargées de sa mise en œuvre disposent d'une autonomie suffisante.",
+        "hi": "इस प्रस्ताव को वास्तव में व्यवहार्य बनाने के लिए यह भी आवश्यक होगा कि इसके कार्यान्वयन के लिए जिम्मेदार लोगों के पास पर्याप्त स्वायत्तता हो।"
+      },
+      {
+        "id": "hi-149",
+        "fr": "Quand bien même certains résultats paraîtraient encourageants, il serait prématuré d'en déduire que la méthode peut être généralisée à toutes les situations.",
+        "hi": "भले ही कुछ परिणाम उत्साहजनक दिखाई दें, फिर भी यह निष्कर्ष निकालना जल्दबाज़ी होगी कि इस पद्धति को सभी परिस्थितियों में लागू किया जा सकता है।"
+      },
+      {
+        "id": "hi-150",
+        "fr": "Ce n'est qu'à mesure que les données se sont accumulées que les chercheurs ont compris que l'hypothèse initiale reposait sur une interprétation trop simplifiée du phénomène.",
+        "hi": "जैसे-जैसे आँकड़े एकत्र होते गए, तभी शोधकर्ताओं को समझ में आया कि शुरुआती परिकल्पना इस घटना की अत्यधिक सरल व्याख्या पर आधारित थी।"
+      },
+      {
+        "id": "hi-151",
+        "fr": "Pour peu que l'on accepte de remettre en question certaines habitudes profondément ancrées, il devient possible d'envisager des solutions auxquelles personne n'aurait spontanément pensé.",
+        "hi": "यदि हम लंबे समय से जमी हुई कुछ आदतों पर सवाल उठाने के लिए तैयार हों, तो ऐसे समाधानों पर विचार करना संभव हो जाता है जिनके बारे में कोई स्वाभाविक रूप से नहीं सोचता।"
+      },
+      {
+        "id": "hi-152",
+        "fr": "À supposer que les prévisions actuelles se confirment, encore faudrait-il déterminer dans quelle mesure les conséquences annoncées seraient réellement durables.",
+        "hi": "मान लें कि वर्तमान पूर्वानुमान सही साबित होते हैं, तब भी यह निर्धारित करना आवश्यक होगा कि घोषित परिणाम वास्तव में कितने टिकाऊ होंगे।"
+      },
+      {
+        "id": "hi-153",
+        "fr": "Bien qu'il n'eût jamais remis en cause la compétence de son équipe, il estimait qu'une meilleure répartition des responsabilités aurait permis d'éviter plusieurs erreurs.",
+        "hi": "हालाँकि उसने कभी अपनी टीम की क्षमता पर सवाल नहीं उठाया था, फिर भी उसका मानना था कि जिम्मेदारियों के बेहतर विभाजन से कई गलतियों से बचा जा सकता था।"
+      },
+      {
+        "id": "hi-154",
+        "fr": "Il ne s'agit plus seulement de corriger les conséquences d'une décision mal préparée, mais de comprendre les mécanismes qui ont rendu cette erreur possible.",
+        "hi": "अब मामला केवल गलत तरीके से तैयार किए गए निर्णय के परिणामों को सुधारने का नहीं, बल्कि उन प्रक्रियाओं को समझने का है जिन्होंने इस गलती को संभव बनाया।"
+      },
+      {
+        "id": "hi-155",
+        "fr": "Encore aurait-il fallu que chacun mesure pleinement les conséquences de son choix avant de considérer cette décision comme définitive.",
+        "hi": "इस निर्णय को अंतिम मानने से पहले यह भी आवश्यक था कि हर व्यक्ति अपने चुनाव के परिणामों को पूरी तरह समझता।"
+      },
+      {
+        "id": "hi-156",
+        "fr": "À bien y réfléchir, ce qui paraissait être un échec n'était peut-être que la conséquence temporaire d'une stratégie qui nécessitait davantage de temps pour produire ses effets.",
+        "hi": "अच्छी तरह सोचने पर जो चीज़ असफलता लग रही थी, वह शायद केवल ऐसी रणनीति का अस्थायी परिणाम थी जिसे अपना प्रभाव दिखाने के लिए अधिक समय चाहिए था।"
+      },
+      {
+        "id": "hi-157",
+        "fr": "Quand bien même cette hypothèse serait confirmée, elle ne suffirait pas à expliquer l'ensemble des observations effectuées au cours de l'expérience.",
+        "hi": "भले ही यह परिकल्पना सही साबित हो जाए, फिर भी यह प्रयोग के दौरान किए गए सभी अवलोकनों की व्याख्या करने के लिए पर्याप्त नहीं होगी।"
+      },
+      {
+        "id": "hi-158",
+        "fr": "Ce n'est qu'une fois les différentes possibilités examinées que nous avons pris conscience de l'ampleur des conséquences qu'aurait pu entraîner notre première décision.",
+        "hi": "विभिन्न संभावनाओं की जाँच करने के बाद ही हमें एहसास हुआ कि हमारे शुरुआती निर्णय के कितने व्यापक परिणाम हो सकते थे।"
+      },
+      {
+        "id": "hi-159",
+        "fr": "Quoi qu'il en soit, il serait illusoire de croire qu'une réforme aussi profonde puisse être menée à bien sans susciter de résistances.",
+        "hi": "जो भी हो, यह मानना भ्रमपूर्ण होगा कि इतने गहरे सुधार को बिना किसी विरोध के सफलतापूर्वक लागू किया जा सकता है।"
+      },
+      {
+        "id": "hi-160",
+        "fr": "Si tant est que cette interprétation soit correcte, elle remettrait en question plusieurs conclusions auxquelles nous étions parvenus jusqu'à présent.",
+        "hi": "यदि यह व्याख्या सही है, तो यह उन कई निष्कर्षों पर सवाल खड़ा कर देगी जिन तक हम अब तक पहुँचे थे।"
+      },
+      {
+        "id": "hi-161",
+        "fr": "Bien qu'elle eût parfaitement conscience des risques, elle considérait que ne rien tenter aurait constitué, à terme, un risque plus important encore.",
+        "hi": "हालाँकि वह जोखिमों से पूरी तरह परिचित थी, फिर भी उसका मानना था कि कुछ भी प्रयास न करना अंततः उससे भी बड़ा जोखिम होता।"
+      },
+      {
+        "id": "hi-162",
+        "fr": "Encore faudrait-il que les ressources annoncées soient effectivement disponibles au moment où leur utilisation deviendra indispensable.",
+        "hi": "इसके लिए यह भी आवश्यक होगा कि घोषित संसाधन वास्तव में उस समय उपलब्ध हों जब उनका उपयोग अनिवार्य हो जाए।"
+      },
+      {
+        "id": "hi-163",
+        "fr": "À peine les premières mesures avaient-elles été annoncées que plusieurs organisations ont commencé à demander des précisions sur leur mise en œuvre.",
+        "hi": "जैसे ही शुरुआती उपायों की घोषणा हुई, कई संगठनों ने उनके कार्यान्वयन के बारे में स्पष्टीकरण माँगना शुरू कर दिया।"
+      },
+      {
+        "id": "hi-164",
+        "fr": "Pour peu que les responsables acceptent de reconnaître les erreurs commises, une amélioration significative de la situation resterait encore possible.",
+        "hi": "यदि जिम्मेदार लोग की गई गलतियों को स्वीकार करने के लिए तैयार हों, तो स्थिति में महत्वपूर्ण सुधार अभी भी संभव है।"
+      },
+      {
+        "id": "hi-165",
+        "fr": "Ce qui semblait n'être au départ qu'un détail administratif s'est progressivement révélé être un problème susceptible d'affecter l'ensemble du projet.",
+        "hi": "जो शुरुआत में केवल एक प्रशासनिक विवरण जैसा लग रहा था, वह धीरे-धीरे ऐसी समस्या साबित हुआ जो पूरी परियोजना को प्रभावित कर सकती थी।"
+      },
+      {
+        "id": "hi-166",
+        "fr": "Quand bien même nous parviendrions à obtenir l'accord de toutes les parties, il resterait à résoudre la question de savoir comment financer la mise en œuvre.",
+        "hi": "भले ही हम सभी पक्षों की सहमति प्राप्त कर लें, फिर भी कार्यान्वयन के लिए वित्तपोषण कैसे किया जाए, यह प्रश्न बना रहेगा।"
+      },
+      {
+        "id": "hi-167",
+        "fr": "Bien lui en a pris de conserver les anciens documents, lesquels se sont révélés indispensables lorsque les informations les plus récentes se sont avérées incomplètes.",
+        "hi": "उसका पुराने दस्तावेज़ों को संभालकर रखना सही साबित हुआ, क्योंकि बाद में सबसे नई जानकारी अधूरी साबित होने पर वही दस्तावेज़ आवश्यक हो गए।"
+      },
+      {
+        "id": "hi-168",
+        "fr": "À supposer même que personne ne conteste désormais la nécessité de cette réforme, encore faudrait-il parvenir à un accord sur les modalités de son application.",
+        "hi": "मान लें कि अब कोई भी इस सुधार की आवश्यकता पर सवाल नहीं उठाता, फिर भी इसके कार्यान्वयन के तरीकों पर सहमति बनाना आवश्यक होगा।"
+      },
+      {
+        "id": "hi-169",
+        "fr": "Il aurait fallu que les responsables anticipassent davantage les conséquences indirectes de la mesure, lesquelles n'ont été pleinement visibles que plusieurs mois plus tard.",
+        "hi": "जिम्मेदार लोगों को इस उपाय के अप्रत्यक्ष परिणामों का अधिक अनुमान लगाना चाहिए था, जो कई महीनों बाद ही पूरी तरह स्पष्ट हुए।"
+      },
+      {
+        "id": "hi-170",
+        "fr": "À force de vouloir répondre immédiatement à chaque difficulté, l'organisation a fini par multiplier les solutions provisoires sans jamais s'attaquer véritablement aux causes profondes.",
+        "hi": "हर कठिनाई का तुरंत समाधान करने की कोशिश में संगठन ने अंततः अस्थायी समाधानों की संख्या तो बढ़ा दी, लेकिन मूल कारणों से वास्तव में कभी नहीं निपटा।"
+      },
+      {
+        "id": "hi-171",
+        "fr": "Ce n'est qu'en prenant du recul par rapport aux événements que nous avons pu comprendre à quel point certaines décisions, jugées anodines à l'époque, avaient été déterminantes.",
+        "hi": "घटनाओं से कुछ दूरी बनाकर देखने के बाद ही हम समझ पाए कि उस समय मामूली समझे गए कुछ निर्णय वास्तव में कितने निर्णायक थे।"
+      },
+      {
+        "id": "hi-172",
+        "fr": "Quand bien même les circonstances auraient été différentes, il n'est pas certain que nous aurions abouti à une conclusion différente.",
+        "hi": "भले ही परिस्थितियाँ अलग होतीं, फिर भी यह निश्चित नहीं है कि हम किसी अलग निष्कर्ष पर पहुँचते।"
+      },
+      {
+        "id": "hi-173",
+        "fr": "Encore eût-il fallu que les personnes concernées fussent informées de l'existence de cette possibilité pour qu'elles puissent en tirer parti.",
+        "hi": "इसके लिए यह भी आवश्यक था कि संबंधित लोगों को इस संभावना के अस्तित्व के बारे में जानकारी होती, तभी वे इसका लाभ उठा सकते थे।"
+      },
+      {
+        "id": "hi-174",
+        "fr": "Si tant est que l'on puisse établir un lien direct entre les deux phénomènes, celui-ci ne permettrait pas pour autant d'affirmer qu'ils ont la même origine.",
+        "hi": "यदि इन दोनों घटनाओं के बीच सीधा संबंध स्थापित किया भी जा सके, तब भी इससे यह साबित नहीं होगा कि उनका स्रोत एक ही है।"
+      },
+      {
+        "id": "hi-175",
+        "fr": "Bien qu'il eût souhaité présenter les résultats plus tôt, il a préféré attendre que toutes les vérifications soient achevées afin de ne laisser subsister aucun doute inutile.",
+        "hi": "हालाँकि वह परिणाम पहले प्रस्तुत करना चाहता था, फिर भी उसने सभी जाँच पूरी होने तक इंतज़ार करना पसंद किया ताकि कोई अनावश्यक संदेह न रह जाए।"
+      },
+      {
+        "id": "hi-176",
+        "fr": "À supposer que les hypothèses actuellement retenues soient exactes, il faudrait encore expliquer pourquoi certaines observations semblent les contredire.",
+        "hi": "मान लें कि वर्तमान में स्वीकार की गई परिकल्पनाएँ सही हैं, फिर भी यह समझाना होगा कि कुछ अवलोकन उनके विपरीत क्यों दिखाई देते हैं।"
+      },
+      {
+        "id": "hi-177",
+        "fr": "Quoi qu'on en dise, la difficulté ne réside pas tant dans l'absence de solutions que dans la difficulté à déterminer laquelle serait la moins risquée.",
+        "hi": "चाहे कुछ भी कहा जाए, कठिनाई समाधानों की कमी में नहीं, बल्कि यह निर्धारित करने में है कि उनमें से सबसे कम जोखिम वाला कौन-सा होगा।"
+      },
+      {
+        "id": "hi-178",
+        "fr": "À peine le nouveau système avait-il été mis en place que les premiers problèmes de compatibilité ont commencé à apparaître.",
+        "hi": "नई प्रणाली लागू किए जाने के तुरंत बाद ही संगतता से जुड़ी पहली समस्याएँ सामने आने लगीं।"
+      },
+      {
+        "id": "hi-179",
+        "fr": "Il ne faudrait pas, sous prétexte de vouloir accélérer le processus, que nous négligions des vérifications dont dépend pourtant la fiabilité du résultat final.",
+        "hi": "प्रक्रिया को तेज़ करने के नाम पर हमें उन जाँचों की उपेक्षा नहीं करनी चाहिए जिन पर अंतिम परिणाम की विश्वसनीयता निर्भर करती है।"
+      },
+      {
+        "id": "hi-180",
+        "fr": "Pour peu que les différents acteurs parviennent à dépasser leurs intérêts particuliers, un compromis acceptable pourrait encore être trouvé.",
+        "hi": "यदि विभिन्न पक्ष अपने व्यक्तिगत हितों से ऊपर उठने में सफल हों, तो अभी भी एक स्वीकार्य समझौता खोजा जा सकता है।"
+      },
+      {
+        "id": "hi-181",
+        "fr": "Bien lui en ait pris de ne pas se fier uniquement aux premières impressions, lesquelles se sont révélées trompeuses après un examen plus approfondi.",
+        "hi": "उसका केवल पहली छाप पर भरोसा न करना सही साबित हुआ, क्योंकि अधिक गहन जाँच के बाद वे धारणाएँ भ्रामक निकलीं।"
+      },
+      {
+        "id": "hi-182",
+        "fr": "Quand bien même cette solution présenterait certains inconvénients, ceux-ci paraissent moins importants que les conséquences qu'entraînerait l'absence de décision.",
+        "hi": "भले ही इस समाधान में कुछ कमियाँ हों, फिर भी वे निर्णय न लेने से होने वाले परिणामों की तुलना में कम महत्वपूर्ण लगती हैं।"
+      },
+      {
+        "id": "hi-183",
+        "fr": "Ce n'est qu'après plusieurs mois de fonctionnement que nous avons découvert que certaines fonctionnalités, pourtant considérées comme essentielles, étaient très peu utilisées.",
+        "hi": "कई महीनों तक प्रणाली के चलने के बाद ही हमें पता चला कि कुछ ऐसी सुविधाएँ जिन्हें आवश्यक माना जाता था, उनका उपयोग बहुत कम किया जाता था।"
+      },
+      {
+        "id": "hi-184",
+        "fr": "Encore faudrait-il, pour que cette comparaison soit pertinente, que les deux situations aient été évaluées selon des critères strictement identiques.",
+        "hi": "इस तुलना को सार्थक बनाने के लिए यह भी आवश्यक होगा कि दोनों स्थितियों का मूल्यांकन बिल्कुल समान मानदंडों के आधार पर किया गया हो।"
+      },
+      {
+        "id": "hi-185",
+        "fr": "À bien y réfléchir, la véritable difficulté n'était peut-être pas de convaincre les autres, mais de déterminer nous-mêmes ce que nous voulions réellement obtenir.",
+        "hi": "अच्छी तरह सोचने पर शायद असली कठिनाई दूसरों को समझाने में नहीं, बल्कि स्वयं यह तय करने में थी कि हम वास्तव में क्या हासिल करना चाहते थे।"
+      },
+      {
+        "id": "hi-186",
+        "fr": "Il aurait été pour le moins imprudent de modifier aussi profondément le système sans avoir préalablement mesuré les risques liés à une telle transformation.",
+        "hi": "ऐसे परिवर्तन से जुड़े जोखिमों का पहले आकलन किए बिना प्रणाली में इतना गहरा बदलाव करना कम से कम अविवेकपूर्ण होता।"
+      },
+      {
+        "id": "hi-187",
+        "fr": "Quelles que fussent les intentions initiales, les conséquences de cette décision ont finalement dépassé largement ce que ses auteurs avaient envisagé.",
+        "hi": "शुरुआती इरादे चाहे जो भी रहे हों, इस निर्णय के परिणाम अंततः उसके निर्माताओं की कल्पना से कहीं अधिक व्यापक निकले।"
+      },
+      {
+        "id": "hi-188",
+        "fr": "Si tant est que cette tendance se poursuive, il deviendra nécessaire de repenser en profondeur la manière dont les ressources sont actuellement réparties.",
+        "hi": "यदि यह प्रवृत्ति जारी रहती है, तो वर्तमान में संसाधनों के वितरण के तरीके पर गहराई से पुनर्विचार करना आवश्यक हो जाएगा।"
+      },
+      {
+        "id": "hi-189",
+        "fr": "À supposer même que nous trouvions aujourd'hui une solution satisfaisante, rien ne nous dit qu'elle restera adaptée aux besoins qui apparaîtront dans quelques années.",
+        "hi": "मान लें कि आज हमें एक संतोषजनक समाधान मिल भी जाए, फिर भी कोई गारंटी नहीं है कि वह कुछ वर्षों बाद उभरने वाली आवश्यकताओं के लिए उपयुक्त रहेगा।"
+      },
+      {
+        "id": "hi-190",
+        "fr": "Bien qu'elle eût conscience que sa décision susciterait probablement des critiques, elle estimait qu'il aurait été plus irresponsable encore de ne rien faire.",
+        "hi": "हालाँकि उसे पता था कि उसके निर्णय की आलोचना होने की संभावना है, फिर भी उसका मानना था कि कुछ न करना उससे भी अधिक गैर-जिम्मेदाराना होता।"
+      },
+      {
+        "id": "hi-191",
+        "fr": "Encore eût-il fallu que l'on disposât, à ce moment-là, de suffisamment d'éléments pour comprendre la portée réelle de ce qui était en train de se produire.",
+        "hi": "उस समय यह समझने के लिए पर्याप्त जानकारी उपलब्ध होना भी आवश्यक था कि वास्तव में जो हो रहा था उसका वास्तविक प्रभाव क्या होगा।"
+      },
+      {
+        "id": "hi-192",
+        "fr": "Ce qui, rétrospectivement, semble avoir été une erreur évidente ne l'était nullement au moment où la décision avait été prise, compte tenu des informations alors disponibles.",
+        "hi": "पीछे मुड़कर देखने पर जो बात स्पष्ट गलती लगती है, वह निर्णय लिए जाने के समय उपलब्ध जानकारी को देखते हुए बिल्कुल भी स्पष्ट नहीं थी।"
+      },
+      {
+        "id": "hi-193",
+        "fr": "Quand bien même les critiques seraient en partie fondées, elles ne sauraient suffire à effacer les progrès considérables accomplis depuis le début du projet.",
+        "hi": "भले ही आलोचनाएँ आंशिक रूप से उचित हों, फिर भी वे परियोजना की शुरुआत से अब तक हुई महत्वपूर्ण प्रगति को नकारने के लिए पर्याप्त नहीं होंगी।"
+      },
+      {
+        "id": "hi-194",
+        "fr": "Pour peu que chacun accepte de reconnaître ce qui n'a pas fonctionné, cette expérience pourrait finalement se révéler plus instructive qu'un succès obtenu sans difficulté.",
+        "hi": "यदि हर कोई यह स्वीकार करने को तैयार हो कि क्या काम नहीं किया, तो यह अनुभव अंततः बिना किसी कठिनाई के मिली सफलता से भी अधिक शिक्षाप्रद साबित हो सकता है।"
+      },
+      {
+        "id": "hi-195",
+        "fr": "Il ne s'agissait pas tant de savoir si la proposition était parfaite que de déterminer si elle constituait, dans les circonstances présentes, la meilleure option disponible.",
+        "hi": "मुद्दा यह जानना नहीं था कि प्रस्ताव पूर्ण था या नहीं, बल्कि यह निर्धारित करना था कि वर्तमान परिस्थितियों में उपलब्ध विकल्पों में वह सबसे अच्छा था या नहीं।"
+      },
+      {
+        "id": "hi-196",
+        "fr": "À peine les résultats définitifs avaient-ils été communiqués que plusieurs experts ont souligné que leur interprétation nécessitait davantage de prudence.",
+        "hi": "जैसे ही अंतिम परिणाम साझा किए गए, कई विशेषज्ञों ने इस बात पर ज़ोर दिया कि उनकी व्याख्या अधिक सावधानी के साथ की जानी चाहिए।"
+      },
+      {
+        "id": "hi-197",
+        "fr": "Bien lui en aurait pris de suivre les recommandations qui lui avaient été faites, car les événements survenus par la suite ont confirmé les inquiétudes exprimées à l'époque.",
+        "hi": "उसके लिए बेहतर होता अगर उसने दी गई सलाह का पालन किया होता, क्योंकि बाद की घटनाओं ने उस समय व्यक्त की गई चिंताओं की पुष्टि कर दी।"
+      },
+      {
+        "id": "hi-198",
+        "fr": "Quoi qu'il advienne désormais, il serait vain de chercher à revenir exactement à la situation antérieure, tant les changements intervenus ont profondément transformé le contexte.",
+        "hi": "अब चाहे जो भी हो, पहले जैसी स्थिति में बिल्कुल वापस लौटने की कोशिश व्यर्थ होगी, क्योंकि हुए बदलावों ने पूरे संदर्भ को गहराई से बदल दिया है।"
+      },
+      {
+        "id": "hi-199",
+        "fr": "Si tant est que l'on puisse tirer une conclusion définitive de cette expérience, c'est sans doute que les solutions les plus simples ne sont pas toujours celles qui produisent les effets les plus durables.",
+        "hi": "यदि इस अनुभव से कोई अंतिम निष्कर्ष निकाला जा सकता है, तो शायद यही है कि सबसे सरल समाधान हमेशा सबसे टिकाऊ परिणाम देने वाले नहीं होते।"
+      },
+      {
+        "id": "hi-200",
+        "fr": "À bien y réfléchir, ce n'est peut-être qu'en acceptant l'incertitude inhérente à toute décision importante que nous pouvons espérer faire des choix réellement pertinents.",
+        "hi": "अच्छी तरह विचार करने पर शायद महत्वपूर्ण निर्णयों में निहित अनिश्चितता को स्वीकार करके ही हम वास्तव में उचित विकल्प चुनने की उम्मीद कर सकते हैं।"
+      }],
     "frenchrussian": [],
     "frenchpolish": []
   }
