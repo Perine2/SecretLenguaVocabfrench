@@ -6986,7 +6986,1004 @@
         "fr": "À bien y réfléchir, ce que cette expérience nous aura surtout appris, c'est qu'une solution véritablement durable suppose non seulement de traiter les conséquences visibles d'un problème, mais également de comprendre les mécanismes qui l'ont rendu possible.",
         "ar": "عند التفكير في الأمر جيدًا، فإن أهم ما علمتنا إياه هذه التجربة هو أن الحل المستدام حقًا لا يقتصر على معالجة النتائج الظاهرة للمشكلة، بل يتطلب أيضًا فهم الآليات التي جعلت حدوثها ممكنًا."
       }],
-    "frenchturkish": [],
+    "frenchturkish": [ {
+        "id": "tr-001",
+        "fr": "Même si la journée avait commencé sous une pluie abondante, nous avons décidé de maintenir notre rendez-vous afin de ne pas repousser une nouvelle fois notre projet.",
+        "tr": "Gün yoğun bir yağmurla başlamış olsa da projemizi bir kez daha ertelememek için buluşmamızı gerçekleştirmeye karar verdik."
+      },
+      {
+        "id": "tr-002",
+        "fr": "Après avoir terminé son travail plus tôt que prévu, elle est passée au marché pour acheter les quelques ingrédients qui manquaient encore pour préparer le dîner.",
+        "tr": "İşini planlanandan daha erken bitirdikten sonra akşam yemeğini hazırlamak için eksik olan birkaç malzemeyi almak üzere pazara uğradı."
+      },
+      {
+        "id": "tr-003",
+        "fr": "Comme personne ne connaissait exactement la route, nous avons préféré demander notre chemin plutôt que de continuer à avancer au hasard.",
+        "tr": "Kimse yolu tam olarak bilmediği için rastgele ilerlemek yerine yol sormayı tercih ettik."
+      },
+      {
+        "id": "tr-004",
+        "fr": "Il a accepté de nous aider, à condition que nous lui expliquions clairement ce que nous attendions de lui et dans quel délai.",
+        "tr": "Ondan ne beklediğimizi ve bunu ne kadar sürede yapması gerektiğini açıkça anlatmamız şartıyla bize yardım etmeyi kabul etti."
+      },
+      {
+        "id": "tr-005",
+        "fr": "Bien qu'elle soit habituée à travailler sous pression, elle a reconnu que cette semaine avait été particulièrement difficile.",
+        "tr": "Baskı altında çalışmaya alışkın olmasına rağmen bu haftanın özellikle zor geçtiğini kabul etti."
+      },
+      {
+        "id": "tr-006",
+        "fr": "Nous avons finalement choisi le petit restaurant du quartier parce qu'il proposait des plats simples, frais et beaucoup moins chers que ceux du centre-ville.",
+        "tr": "Sonunda mahalledeki küçük restoranı seçtik, çünkü şehir merkezindekilere göre daha sade, taze ve çok daha ucuz yemekler sunuyordu."
+      },
+      {
+        "id": "tr-007",
+        "fr": "Elle a décidé de prendre quelques jours de repos après avoir constaté qu'elle travaillait depuis plusieurs semaines sans véritable pause.",
+        "tr": "Birkaç haftadır doğru düzgün ara vermeden çalıştığını fark ettikten sonra birkaç gün dinlenmeye karar verdi."
+      },
+      {
+        "id": "tr-008",
+        "fr": "Si tu veux terminer ce travail aujourd'hui, il faudra probablement commencer plus tôt que d'habitude et éviter les distractions.",
+        "tr": "Bu işi bugün bitirmek istiyorsan muhtemelen her zamankinden daha erken başlaman ve dikkatini dağıtan şeylerden uzak durman gerekecek."
+      },
+      {
+        "id": "tr-009",
+        "fr": "Il a expliqué qu'il ne pouvait pas venir immédiatement parce qu'il devait d'abord terminer une tâche urgente qu'on lui avait confiée.",
+        "tr": "Hemen gelemeyeceğini, çünkü önce kendisine verilen acil bir işi tamamlaması gerektiğini açıkladı."
+      },
+      {
+        "id": "tr-010",
+        "fr": "Après plusieurs heures de discussion, les deux équipes sont finalement parvenues à un accord qui semblait acceptable pour tout le monde.",
+        "tr": "Birkaç saat süren görüşmelerin ardından iki ekip sonunda herkes için kabul edilebilir görünen bir anlaşmaya vardı."
+      },
+      {
+        "id": "tr-011",
+        "fr": "Même lorsque les choses ne se passent pas comme prévu, il essaie de rester calme afin de trouver une solution plutôt que de chercher un responsable.",
+        "tr": "İşler planlandığı gibi gitmediğinde bile suçlayacak birini aramak yerine çözüm bulmak için sakin kalmaya çalışıyor."
+      },
+      {
+        "id": "tr-012",
+        "fr": "Elle a acheté un nouvel ordinateur parce que l'ancien devenait tellement lent qu'il lui fallait parfois plusieurs minutes pour ouvrir un simple document.",
+        "tr": "Eski bilgisayarı o kadar yavaşlamıştı ki basit bir belgeyi açması bazen birkaç dakika sürüyordu; bu yüzden yeni bir bilgisayar aldı."
+      },
+      {
+        "id": "tr-013",
+        "fr": "Comme le train avait déjà quitté la gare lorsque nous sommes arrivés, nous avons dû attendre près d'une heure avant de pouvoir prendre le suivant.",
+        "tr": "Biz vardığımızda tren istasyondan çoktan ayrılmış olduğu için bir sonraki trene binebilmek için yaklaşık bir saat beklemek zorunda kaldık."
+      },
+      {
+        "id": "tr-014",
+        "fr": "Il préfère travailler le matin, lorsqu'il est encore concentré, plutôt que le soir, quand il commence généralement à ressentir la fatigue.",
+        "tr": "Henüz dikkatini tam olarak toplayabildiği sabahları çalışmayı, genellikle yorgun hissetmeye başladığı akşamlara tercih ediyor."
+      },
+      {
+        "id": "tr-015",
+        "fr": "Nous avons reporté la réunion jusqu'à la semaine prochaine afin de laisser à chacun suffisamment de temps pour préparer les documents nécessaires.",
+        "tr": "Herkese gerekli belgeleri hazırlaması için yeterli zaman tanımak amacıyla toplantıyı gelecek haftaya erteledik."
+      },
+      {
+        "id": "tr-016",
+        "fr": "Elle ne savait pas si elle devait accepter cette proposition, car elle était intéressante financièrement mais risquait de lui prendre beaucoup plus de temps.",
+        "tr": "Bu teklifi kabul edip etmemesi gerektiğini bilmiyordu; çünkü maddi açıdan cazipti ama çok daha fazla zamanını alabilirdi."
+      },
+      {
+        "id": "tr-017",
+        "fr": "Après avoir lu attentivement le contrat, il a demandé quelques modifications avant de le signer définitivement.",
+        "tr": "Sözleşmeyi dikkatlice okuduktan sonra kesin olarak imzalamadan önce birkaç değişiklik yapılmasını istedi."
+      },
+      {
+        "id": "tr-018",
+        "fr": "Même si le prix était légèrement plus élevé, nous avons choisi ce produit parce qu'il était garanti pendant plusieurs années.",
+        "tr": "Fiyatı biraz daha yüksek olsa da birkaç yıl garantisi olduğu için bu ürünü seçtik."
+      },
+      {
+        "id": "tr-019",
+        "fr": "Elle a appelé son frère pour lui demander s'il pouvait venir la chercher, puisqu'elle avait raté le dernier bus.",
+        "tr": "Son otobüsü kaçırdığı için kardeşini arayıp gelip onu alıp alamayacağını sordu."
+      },
+      {
+        "id": "tr-020",
+        "fr": "Nous avons décidé de ne pas acheter immédiatement, car nous voulions comparer plusieurs modèles avant de faire notre choix.",
+        "tr": "Karar vermeden önce birkaç modeli karşılaştırmak istediğimiz için hemen satın almamaya karar verdik."
+      },
+      {
+        "id": "tr-021",
+        "fr": "Il était tellement concentré sur son travail qu'il n'a même pas remarqué que ses collègues avaient déjà quitté le bureau.",
+        "tr": "İşine o kadar dalmıştı ki iş arkadaşlarının ofisten çoktan ayrıldığını bile fark etmedi."
+      },
+      {
+        "id": "tr-022",
+        "fr": "Bien qu'il connaisse bien la ville, il a utilisé une application de navigation afin d'éviter les rues particulièrement encombrées.",
+        "tr": "Şehri iyi tanımasına rağmen özellikle yoğun olan caddelerden kaçınmak için bir navigasyon uygulaması kullandı."
+      },
+      {
+        "id": "tr-023",
+        "fr": "Si nous voulons respecter le délai prévu, chacun devra terminer sa partie du travail avant vendredi soir.",
+        "tr": "Belirlenen süreye uymak istiyorsak herkesin kendi işini cuma akşamından önce tamamlaması gerekecek."
+      },
+      {
+        "id": "tr-024",
+        "fr": "Elle a refusé de répondre immédiatement parce qu'elle voulait prendre le temps de réfléchir aux conséquences de sa décision.",
+        "tr": "Kararının sonuçlarını düşünmek için kendine zaman tanımak istediğinden hemen cevap vermeyi reddetti."
+      },
+      {
+        "id": "tr-025",
+        "fr": "Après plusieurs tentatives infructueuses, nous avons finalement compris que le problème venait d'un simple réglage du système.",
+        "tr": "Birkaç başarısız denemeden sonra sorunun sistemdeki basit bir ayardan kaynaklandığını sonunda anladık."
+      },
+      {
+        "id": "tr-026",
+        "fr": "Il a promis qu'il nous préviendrait dès qu'il aurait reçu les informations dont nous avions besoin.",
+        "tr": "İhtiyacımız olan bilgileri alır almaz bize haber vereceğine söz verdi."
+      },
+      {
+        "id": "tr-027",
+        "fr": "Comme elle avait oublié son portefeuille à la maison, son amie a proposé de payer pour elle et de récupérer l'argent plus tard.",
+        "tr": "Cüzdanını evde unuttuğu için arkadaşı onun yerine ödeme yapmayı ve parasını daha sonra almayı teklif etti."
+      },
+      {
+        "id": "tr-028",
+        "fr": "Nous avons choisi de rester à la maison parce que la météo annonçait de fortes pluies pendant toute l'après-midi.",
+        "tr": "Hava tahmini bütün öğleden sonra şiddetli yağmur beklediği için evde kalmayı tercih ettik."
+      },
+      {
+        "id": "tr-029",
+        "fr": "Elle travaille beaucoup, mais elle essaie malgré tout de consacrer du temps à sa famille chaque week-end.",
+        "tr": "Çok çalışıyor, ancak buna rağmen her hafta sonu ailesine zaman ayırmaya çalışıyor."
+      },
+      {
+        "id": "tr-030",
+        "fr": "Il a expliqué que cette décision devait être prise rapidement, car plusieurs personnes attendaient déjà une réponse.",
+        "tr": "Birkaç kişi zaten cevap beklediği için bu kararın hızlı bir şekilde alınması gerektiğini açıkladı."
+      },
+      {
+        "id": "tr-031",
+        "fr": "Même si nous n'étions pas entièrement d'accord, nous avons décidé de respecter la décision prise collectivement.",
+        "tr": "Tamamen aynı fikirde olmasak da ortaklaşa alınan karara saygı göstermeye karar verdik."
+      },
+      {
+        "id": "tr-032",
+        "fr": "Après avoir vérifié toutes les informations, elle a découvert qu'une erreur s'était glissée dans le document envoyé la veille.",
+        "tr": "Tüm bilgileri kontrol ettikten sonra bir gün önce gönderilen belgeye bir hata girdiğini fark etti."
+      },
+      {
+        "id": "tr-033",
+        "fr": "Il est parti plus tôt afin d'être certain d'arriver à l'aéroport avant le début de l'enregistrement.",
+        "tr": "Check-in işlemleri başlamadan önce havaalanına vardığından emin olmak için daha erken yola çıktı."
+      },
+      {
+        "id": "tr-034",
+        "fr": "Nous avons attendu que tout le monde soit présent avant de commencer la réunion, afin que personne ne manque les informations importantes.",
+        "tr": "Kimsenin önemli bilgileri kaçırmaması için toplantıya başlamadan önce herkesin gelmesini bekledik."
+      },
+      {
+        "id": "tr-035",
+        "fr": "Elle a accepté le poste parce qu'il lui permettait d'acquérir de l'expérience tout en continuant à se former.",
+        "tr": "Eğitimine devam ederken deneyim kazanmasına olanak sağladığı için bu işi kabul etti."
+      },
+      {
+        "id": "tr-036",
+        "fr": "Il n'a pas pu terminer le rapport à temps, non pas parce qu'il manquait de compétences, mais parce qu'il avait reçu plusieurs demandes urgentes.",
+        "tr": "Raporu zamanında tamamlayamadı; bunun nedeni becerilerinin yetersiz olması değil, birkaç acil talep almış olmasıydı."
+      },
+      {
+        "id": "tr-037",
+        "fr": "Si tu rencontres une difficulté, n'hésite pas à me contacter avant de prendre une décision définitive.",
+        "tr": "Bir zorlukla karşılaşırsan kesin bir karar vermeden önce benimle iletişime geçmekten çekinme."
+      },
+      {
+        "id": "tr-038",
+        "fr": "Elle a commencé à économiser de l'argent parce qu'elle envisageait de voyager dans plusieurs pays l'année suivante.",
+        "tr": "Ertesi yıl birkaç ülkeye seyahat etmeyi düşündüğü için para biriktirmeye başladı."
+      },
+      {
+        "id": "tr-039",
+        "fr": "Nous avons dû changer nos plans lorsque nous avons appris que la route principale était temporairement fermée.",
+        "tr": "Ana yolun geçici olarak kapatıldığını öğrendiğimizde planlarımızı değiştirmek zorunda kaldık."
+      },
+      {
+        "id": "tr-040",
+        "fr": "Il a pris des notes pendant la présentation afin de pouvoir relire plus tard les informations qu'il jugeait importantes.",
+        "tr": "Önemli olduğunu düşündüğü bilgileri daha sonra tekrar okuyabilmek için sunum sırasında not aldı."
+      },
+      {
+        "id": "tr-041",
+        "fr": "Bien qu'elle ait peu d'expérience dans ce domaine, elle a réussi à convaincre l'équipe grâce à la clarté de son projet.",
+        "tr": "Bu alanda az deneyimi olmasına rağmen projesinin açık ve anlaşılır olması sayesinde ekibi ikna etmeyi başardı."
+      },
+      {
+        "id": "tr-042",
+        "fr": "Nous avons décidé de vérifier les chiffres une dernière fois avant d'envoyer le rapport au responsable.",
+        "tr": "Raporu sorumlu kişiye göndermeden önce rakamları son bir kez kontrol etmeye karar verdik."
+      },
+      {
+        "id": "tr-043",
+        "fr": "Elle n'a pas compris pourquoi son collègue était contrarié, puisqu'elle pensait avoir simplement posé une question.",
+        "tr": "Sadece bir soru sorduğunu düşündüğü için çalışma arkadaşının neden kızdığını anlayamadı."
+      },
+      {
+        "id": "tr-044",
+        "fr": "Après avoir discuté avec plusieurs personnes, il a réalisé que le problème était beaucoup plus complexe qu'il ne l'avait imaginé.",
+        "tr": "Birkaç kişiyle konuştuktan sonra sorunun hayal ettiğinden çok daha karmaşık olduğunu fark etti."
+      },
+      {
+        "id": "tr-045",
+        "fr": "Nous avons réservé une chambre suffisamment grande pour que chacun puisse avoir un peu d'espace personnel.",
+        "tr": "Herkesin biraz kişisel alanı olabilmesi için yeterince büyük bir oda ayırttık."
+      },
+      {
+        "id": "tr-046",
+        "fr": "Elle a décidé de reprendre ses études tout en continuant à travailler à temps partiel pour financer sa formation.",
+        "tr": "Eğitim masraflarını karşılamak için yarı zamanlı çalışmaya devam ederken eğitimine yeniden başlamaya karar verdi."
+      },
+      {
+        "id": "tr-047",
+        "fr": "Il est important que chacun comprenne les règles avant de commencer, surtout lorsque l'activité nécessite de travailler en équipe.",
+        "tr": "Özellikle etkinlik ekip çalışması gerektiriyorsa başlamadan önce herkesin kuralları anlaması önemlidir."
+      },
+      {
+        "id": "tr-048",
+        "fr": "Même après plusieurs explications, certains participants avaient encore du mal à comprendre la différence entre les deux propositions.",
+        "tr": "Birkaç açıklamadan sonra bile bazı katılımcılar iki teklif arasındaki farkı anlamakta hâlâ zorlanıyordu."
+      },
+      {
+        "id": "tr-049",
+        "fr": "Comme il faisait très chaud, nous avons décidé de reporter la promenade jusqu'à la fin de l'après-midi.",
+        "tr": "Hava çok sıcak olduğu için yürüyüşü öğleden sonranın sonuna kadar ertelemeye karar verdik."
+      },
+      {
+        "id": "tr-050",
+        "fr": "Elle a demandé à son responsable de lui accorder quelques jours supplémentaires afin de terminer correctement le projet.",
+        "tr": "Projeyi düzgün bir şekilde tamamlayabilmek için yöneticisinden kendisine birkaç gün daha vermesini istedi."
+      },
+      {
+        "id": "tr-051",
+        "fr": "Il savait qu'il devait changer certaines habitudes s'il voulait améliorer son organisation quotidienne.",
+        "tr": "Günlük düzenini geliştirmek istiyorsa bazı alışkanlıklarını değiştirmesi gerektiğini biliyordu."
+      },
+      {
+        "id": "tr-052",
+        "fr": "Nous avons choisi cette solution parce qu'elle était simple à mettre en œuvre et qu'elle ne nécessitait pas beaucoup de ressources.",
+        "tr": "Bu çözümü seçtik, çünkü uygulanması kolaydı ve fazla kaynak gerektirmiyordu."
+      },
+      {
+        "id": "tr-053",
+        "fr": "Elle a attendu plusieurs jours avant de répondre, car elle voulait être certaine de ne pas prendre une décision sous le coup de l'émotion.",
+        "tr": "Duygularının etkisi altında karar vermediğinden emin olmak istediği için cevap vermeden önce birkaç gün bekledi."
+      },
+      {
+        "id": "tr-054",
+        "fr": "Il a accepté de modifier son programme afin de pouvoir accompagner ses parents à l'hôpital.",
+        "tr": "Anne ve babasına hastaneye eşlik edebilmek için programını değiştirmeyi kabul etti."
+      },
+      {
+        "id": "tr-055",
+        "fr": "Après plusieurs mois de préparation, l'équipe était enfin prête à présenter son projet au public.",
+        "tr": "Birkaç aylık hazırlığın ardından ekip nihayet projesini halka sunmaya hazırdı."
+      },
+      {
+        "id": "tr-056",
+        "fr": "Même si le trajet était long, nous avons préféré prendre le bus parce qu'il était moins cher que le train.",
+        "tr": "Yolculuk uzun olsa da tren보다 daha ucuz olduğu için otobüse binmeyi tercih ettik."
+      },
+      {
+        "id": "tr-057",
+        "fr": "Elle a découvert que plusieurs informations qu'elle avait reçues sur Internet étaient inexactes.",
+        "tr": "İnternetten aldığı bazı bilgilerin yanlış olduğunu fark etti."
+      },
+      {
+        "id": "tr-058",
+        "fr": "Il a proposé une solution intermédiaire qui permettrait aux deux parties de parvenir à un compromis.",
+        "tr": "İki tarafın uzlaşmaya varmasını sağlayabilecek bir ara çözüm önerdi."
+      },
+      {
+        "id": "tr-059",
+        "fr": "Nous devons agir rapidement si nous voulons éviter que la situation ne devienne encore plus compliquée.",
+        "tr": "Durumun daha da karmaşık hale gelmesini önlemek istiyorsak hızlı hareket etmeliyiz."
+      },
+      {
+        "id": "tr-060",
+        "fr": "Elle a décidé de ne plus utiliser cette application parce qu'elle consommait trop de données mobiles.",
+        "tr": "Çok fazla mobil veri tükettiği için bu uygulamayı artık kullanmamaya karar verdi."
+      },
+      {
+        "id": "tr-061",
+        "fr": "Il a finalement accepté de venir, à condition que la réunion ne dure pas plus d'une heure.",
+        "tr": "Toplantının bir saatten fazla sürmemesi şartıyla sonunda gelmeyi kabul etti."
+      },
+      {
+        "id": "tr-062",
+        "fr": "Après avoir comparé plusieurs offres, nous avons choisi celle qui correspondait le mieux à nos besoins.",
+        "tr": "Birkaç teklifi karşılaştırdıktan sonra ihtiyaçlarımıza en uygun olanı seçtik."
+      },
+      {
+        "id": "tr-063",
+        "fr": "Bien qu'il soit encore tôt, elle a préféré rentrer chez elle parce qu'elle devait se lever avant l'aube le lendemain.",
+        "tr": "Henüz erken olmasına rağmen ertesi gün şafaktan önce kalkması gerektiği için eve dönmeyi tercih etti."
+      },
+      {
+        "id": "tr-064",
+        "fr": "Nous avons demandé aux participants de lire attentivement les instructions avant de commencer l'exercice.",
+        "tr": "Katılımcılardan egzersize başlamadan önce talimatları dikkatlice okumalarını istedik."
+      },
+      {
+        "id": "tr-065",
+        "fr": "Elle a compris qu'elle devait mieux organiser son temps si elle voulait terminer toutes ses tâches sans travailler tard chaque soir.",
+        "tr": "Her akşam geç saatlere kadar çalışmadan bütün görevlerini tamamlamak istiyorsa zamanını daha iyi organize etmesi gerektiğini anladı."
+      },
+      {
+        "id": "tr-066",
+        "fr": "Il a choisi de rester silencieux parce qu'il ne voulait pas aggraver une situation qui était déjà suffisamment tendue.",
+        "tr": "Zaten yeterince gergin olan bir durumu daha da kötüleştirmek istemediği için sessiz kalmayı tercih etti."
+      },
+      {
+        "id": "tr-067",
+        "fr": "Même lorsque les résultats sont décevants, il faut parfois continuer à travailler avant de pouvoir constater une véritable amélioration.",
+        "tr": "Sonuçlar hayal kırıklığı yaratsa bile gerçek bir gelişme görebilmek için bazen çalışmaya devam etmek gerekir."
+      },
+      {
+        "id": "tr-068",
+        "fr": "Elle a accepté cette responsabilité parce qu'elle pensait pouvoir apprendre beaucoup de choses en travaillant avec une équipe expérimentée.",
+        "tr": "Deneyimli bir ekiple çalışarak çok şey öğrenebileceğini düşündüğü için bu sorumluluğu kabul etti."
+      },
+      {
+        "id": "tr-069",
+        "fr": "Nous avons dû attendre plusieurs semaines avant de recevoir les documents nécessaires pour poursuivre la procédure.",
+        "tr": "İşlemlere devam etmek için gerekli belgeleri almadan önce birkaç hafta beklemek zorunda kaldık."
+      },
+      {
+        "id": "tr-070",
+        "fr": "Il a finalement reconnu qu'il aurait dû demander de l'aide plus tôt au lieu d'essayer de résoudre seul un problème aussi complexe.",
+        "tr": "Sonunda bu kadar karmaşık bir sorunu tek başına çözmeye çalışmak yerine daha erken yardım istemesi gerektiğini kabul etti."
+      },{
+        "id": "tr-071",
+        "fr": "Même s'il avait déjà été averti à plusieurs reprises, il a continué à utiliser la même méthode, au risque de provoquer de nouveaux problèmes.",
+        "tr": "Daha önce defalarca uyarılmış olmasına rağmen yeni sorunlara yol açma riskini göze alarak aynı yöntemi kullanmaya devam etti."
+      },
+      {
+        "id": "tr-072",
+        "fr": "Elle a beau avoir beaucoup d'expérience, elle reconnaît volontiers qu'il existe encore des situations dans lesquelles elle hésite avant de prendre une décision.",
+        "tr": "Çok fazla deneyime sahip olsa da karar vermeden önce hâlâ tereddüt ettiği durumlar olduğunu açıkça kabul ediyor."
+      },
+      {
+        "id": "tr-073",
+        "fr": "À moins que les conditions ne changent de manière significative, nous ne pourrons probablement pas respecter le calendrier initialement prévu.",
+        "tr": "Koşullar önemli ölçüde değişmedikçe başlangıçta belirlenen takvime muhtemelen uyamayacağız."
+      },
+      {
+        "id": "tr-074",
+        "fr": "Ce qui l'a surtout surpris, ce n'est pas la décision elle-même, mais la manière dont elle lui a été annoncée.",
+        "tr": "Onu asıl şaşırtan kararın kendisi değil, kararın kendisine bildirilme şekliydi."
+      },
+      {
+        "id": "tr-075",
+        "fr": "À force de vouloir tout contrôler, elle avait fini par perdre beaucoup de temps sur des détails qui n'avaient finalement que peu d'importance.",
+        "tr": "Her şeyi kontrol etmeye çalışmaktan, sonunda aslında pek de önemli olmayan ayrıntılar üzerinde çok fazla zaman harcamıştı."
+      },
+      {
+        "id": "tr-076",
+        "fr": "Quoi qu'il en soit, nous devons maintenant trouver une solution qui puisse être appliquée sans provoquer de nouvelles difficultés.",
+        "tr": "Her ne olursa olsun, şimdi yeni zorluklara yol açmadan uygulanabilecek bir çözüm bulmalıyız."
+      },
+      {
+        "id": "tr-077",
+        "fr": "Ce n'est qu'en comparant attentivement les différentes propositions que nous avons compris laquelle répondait réellement à nos besoins.",
+        "tr": "İhtiyaçlarımıza gerçekten hangisinin cevap verdiğini ancak farklı teklifleri dikkatlice karşılaştırdıktan sonra anladık."
+      },
+      {
+        "id": "tr-078",
+        "fr": "Bien qu'il ait reconnu que les critiques étaient parfois justifiées, il estimait qu'elles ne tenaient pas suffisamment compte des contraintes auxquelles son équipe était confrontée.",
+        "tr": "Eleştirilerin bazen haklı olduğunu kabul etmesine rağmen bunların ekibinin karşılaştığı kısıtlamaları yeterince dikkate almadığını düşünüyordu."
+      },
+      {
+        "id": "tr-079",
+        "fr": "Elle aurait préféré attendre quelques jours supplémentaires, mais la situation exigeait qu'une décision soit prise sans trop tarder.",
+        "tr": "Birkaç gün daha beklemeyi tercih ederdi, ancak durum fazla gecikmeden bir karar alınmasını gerektiriyordu."
+      },
+      {
+        "id": "tr-080",
+        "fr": "Il ne s'agit pas simplement de résoudre le problème actuel, mais de mettre en place une organisation qui empêchera qu'il ne se reproduise.",
+        "tr": "Mesele yalnızca mevcut sorunu çözmek değil, aynı sorunun tekrar ortaya çıkmasını önleyecek bir düzen kurmaktır."
+      },
+      {
+        "id": "tr-081",
+        "fr": "Même si personne ne l'avait explicitement demandé, elle a pris l'initiative de vérifier les données avant que le rapport ne soit envoyé.",
+        "tr": "Kimse ondan bunu açıkça istememiş olsa da rapor gönderilmeden önce verileri kontrol etme girişiminde bulundu."
+      },
+      {
+        "id": "tr-082",
+        "fr": "Il est peu probable que la situation s'améliore tant que les principaux acteurs ne seront pas disposés à revoir leurs positions respectives.",
+        "tr": "Başlıca taraflar kendi tutumlarını yeniden değerlendirmeye hazır olmadıkça durumun düzelmesi pek olası görünmüyor."
+      },
+      {
+        "id": "tr-083",
+        "fr": "Elle a beau essayer de rester objective, son expérience personnelle influence forcément la manière dont elle interprète certains événements.",
+        "tr": "Tarafsız kalmaya ne kadar çalışsa da kişisel deneyimi bazı olayları yorumlama biçimini ister istemez etkiliyor."
+      },
+      {
+        "id": "tr-084",
+        "fr": "Pour peu que chacun accepte de faire un effort, il devrait être possible de parvenir à un accord qui satisfasse les deux parties.",
+        "tr": "Herkes biraz çaba göstermeyi kabul ederse iki tarafı da memnun edecek bir anlaşmaya varmak mümkün olmalıdır."
+      },
+      {
+        "id": "tr-085",
+        "fr": "Ce qui rend cette situation particulièrement difficile, c'est que plusieurs problèmes apparemment indépendants se sont développés en même temps.",
+        "tr": "Bu durumu özellikle zorlaştıran şey, görünüşte birbirinden bağımsız birkaç sorunun aynı anda ortaya çıkmış olmasıdır."
+      },
+      {
+        "id": "tr-086",
+        "fr": "Après avoir examiné les différentes possibilités, nous avons conclu que la solution la moins coûteuse n'était pas nécessairement la plus avantageuse à long terme.",
+        "tr": "Farklı seçenekleri inceledikten sonra en ucuz çözümün uzun vadede mutlaka en avantajlı çözüm olmadığı sonucuna vardık."
+      },
+      {
+        "id": "tr-087",
+        "fr": "Il aurait été plus prudent de vérifier les informations avant de les transmettre, surtout compte tenu de leur importance.",
+        "tr": "Özellikle bilgilerin önemi göz önüne alındığında, onları aktarmadan önce kontrol etmek daha ihtiyatlı olurdu."
+      },
+      {
+        "id": "tr-088",
+        "fr": "Elle ne voulait pas donner l'impression de remettre en question son autorité, alors qu'elle cherchait simplement à comprendre les raisons de cette décision.",
+        "tr": "Bu kararın nedenlerini anlamaya çalışırken onun otoritesini sorguluyormuş gibi görünmek istemiyordu."
+      },
+      {
+        "id": "tr-089",
+        "fr": "À mesure que le projet avançait, il devenait évident que certaines hypothèses formulées au départ devaient être réévaluées.",
+        "tr": "Proje ilerledikçe başlangıçta ortaya konan bazı varsayımların yeniden değerlendirilmesi gerektiği açıkça ortaya çıkıyordu."
+      },
+      {
+        "id": "tr-090",
+        "fr": "Même si cette proposition semble intéressante à première vue, elle pourrait entraîner des conséquences que nous n'avons pas encore suffisamment étudiées.",
+        "tr": "Bu teklif ilk bakışta ilginç görünse de henüz yeterince incelemediğimiz sonuçlara yol açabilir."
+      },
+      {
+        "id": "tr-091",
+        "fr": "Il a insisté sur le fait que la réussite du projet dépendrait moins des ressources disponibles que de la manière dont elles seraient utilisées.",
+        "tr": "Projenin başarısının mevcut kaynaklardan çok bu kaynakların nasıl kullanılacağına bağlı olacağını vurguladı."
+      },
+      {
+        "id": "tr-092",
+        "fr": "Elle a finalement compris que ce n'était pas le manque de temps qui l'empêchait d'avancer, mais la difficulté à déterminer quelles tâches étaient réellement prioritaires.",
+        "tr": "Sonunda ilerlemesini engelleyen şeyin zaman eksikliği değil, hangi görevlerin gerçekten öncelikli olduğunu belirlemenin zorluğu olduğunu anladı."
+      },
+      {
+        "id": "tr-093",
+        "fr": "À moins de revoir complètement notre stratégie, nous risquons de consacrer beaucoup d'énergie à une solution qui ne répondra pas au problème de fond.",
+        "tr": "Stratejimizi tamamen gözden geçirmediğimiz takdirde asıl soruna çözüm getirmeyecek bir yönteme çok fazla enerji harcama riskiyle karşı karşıyayız."
+      },
+      {
+        "id": "tr-094",
+        "fr": "Bien qu'elle ait été informée des risques, elle a estimé qu'ils restaient acceptables au regard des bénéfices potentiels.",
+        "tr": "Riskler hakkında bilgilendirilmiş olmasına rağmen, olası faydalar göz önüne alındığında bunların kabul edilebilir olduğunu düşündü."
+      },
+      {
+        "id": "tr-095",
+        "fr": "Ce n'est qu'après plusieurs semaines que nous avons découvert pourquoi les résultats obtenus ne correspondaient pas aux prévisions initiales.",
+        "tr": "Elde edilen sonuçların başlangıçtaki tahminlerle neden uyuşmadığını ancak birkaç hafta sonra keşfettik."
+      },
+      {
+        "id": "tr-096",
+        "fr": "Il a beau connaître parfaitement le fonctionnement du système, il lui arrive encore de rencontrer des problèmes qu'il ne parvient pas à résoudre immédiatement.",
+        "tr": "Sistemin nasıl çalıştığını çok iyi bilmesine rağmen hemen çözemediği sorunlarla hâlâ karşılaşabiliyor."
+      },
+      {
+        "id": "tr-097",
+        "fr": "Elle a préféré ne pas intervenir tant qu'elle n'était pas certaine de disposer de suffisamment d'informations pour comprendre ce qui s'était réellement passé.",
+        "tr": "Gerçekte ne olduğunu anlamak için yeterli bilgiye sahip olduğundan emin olana kadar müdahale etmemeyi tercih etti."
+      },
+      {
+        "id": "tr-098",
+        "fr": "Quelles que soient les difficultés rencontrées, l'équipe a toujours essayé de respecter les engagements pris au début du projet.",
+        "tr": "Karşılaşılan zorluklar ne olursa olsun ekip projenin başında verilen taahhütlere uymaya her zaman çalıştı."
+      },
+      {
+        "id": "tr-099",
+        "fr": "Il est difficile de savoir si cette décision produira les effets attendus avant d'avoir observé son fonctionnement pendant plusieurs mois.",
+        "tr": "Birkaç ay boyunca nasıl işlediğini gözlemlemeden bu kararın beklenen sonuçları doğurup doğurmayacağını bilmek zordur."
+      },
+      {
+        "id": "tr-100",
+        "fr": "Elle a expliqué que, même si le projet avait pris du retard, cela ne signifiait pas pour autant qu'il était voué à l'échec.",
+        "tr": "Projenin gecikmiş olmasının onun başarısızlığa mahkûm olduğu anlamına gelmediğini açıkladı."
+      },
+      {
+        "id": "tr-101",
+        "fr": "Plus les discussions avançaient, plus il devenait difficile de distinguer les véritables désaccords des simples différences de formulation.",
+        "tr": "Görüşmeler ilerledikçe gerçek anlaşmazlıkları yalnızca ifade biçimindeki farklılıklardan ayırmak giderek zorlaşıyordu."
+      },
+      {
+        "id": "tr-102",
+        "fr": "Il a accepté de revoir sa position, à condition que les nouvelles informations apportées soient suffisamment convaincantes.",
+        "tr": "Sunulan yeni bilgilerin yeterince ikna edici olması şartıyla tutumunu yeniden değerlendirmeyi kabul etti."
+      },
+      {
+        "id": "tr-103",
+        "fr": "Elle savait que certaines critiques étaient difficiles à entendre, mais elle considérait qu'elles pouvaient l'aider à améliorer son travail.",
+        "tr": "Bazı eleştirileri duymanın zor olduğunu biliyordu, ancak bunların işini geliştirmesine yardımcı olabileceğini düşünüyordu."
+      },
+      {
+        "id": "tr-104",
+        "fr": "Ce qui semblait au départ être une erreur mineure s'est progressivement transformé en un problème beaucoup plus important.",
+        "tr": "Başlangıçta küçük bir hata gibi görünen şey zamanla çok daha büyük bir soruna dönüştü."
+      },
+      {
+        "id": "tr-105",
+        "fr": "Il aurait été préférable que nous prenions davantage de temps pour analyser les données avant de tirer une conclusion définitive.",
+        "tr": "Kesin bir sonuca varmadan önce verileri analiz etmek için daha fazla zaman ayırmamız daha iyi olurdu."
+      },
+      {
+        "id": "tr-106",
+        "fr": "Même si les deux propositions poursuivent le même objectif, elles reposent sur des approches suffisamment différentes pour produire des résultats très différents.",
+        "tr": "İki teklif aynı amacı taşısa da çok farklı sonuçlar doğurabilecek kadar farklı yaklaşımlara dayanıyor."
+      },
+      {
+        "id": "tr-107",
+        "fr": "À force de repousser la décision, nous avons fini par nous retrouver dans une situation où aucune option ne semblait réellement satisfaisante.",
+        "tr": "Kararı sürekli ertelemekten sonunda hiçbir seçeneğin gerçekten tatmin edici görünmediği bir durumda kaldık."
+      },
+      {
+        "id": "tr-108",
+        "fr": "Il n'est pas certain que les mesures annoncées suffisent à résoudre un problème qui s'est construit progressivement au fil des années.",
+        "tr": "Açıklanan önlemlerin yıllar içinde yavaş yavaş oluşmuş bir sorunu çözmeye yetip yetmeyeceği kesin değil."
+      },
+      {
+        "id": "tr-109",
+        "fr": "Elle a reconnu que son premier jugement avait été trop rapide, puisqu'elle ne disposait pas encore de tous les éléments nécessaires pour se prononcer.",
+        "tr": "İlk değerlendirmesinin fazla aceleci olduğunu kabul etti, çünkü henüz karar vermek için gerekli tüm bilgilere sahip değildi."
+      },
+      {
+        "id": "tr-110",
+        "fr": "Pour éviter que le même problème ne se reproduise, nous avons décidé de modifier la procédure plutôt que de chercher simplement à corriger ses conséquences.",
+        "tr": "Aynı sorunun tekrar yaşanmasını önlemek için yalnızca sonuçlarını düzeltmeye çalışmak yerine prosedürü değiştirmeye karar verdik."
+      },
+      {
+        "id": "tr-111",
+        "fr": "Il a refusé de promettre un résultat précis, estimant qu'il serait malhonnête de garantir quelque chose qui dépendait de plusieurs facteurs indépendants de sa volonté.",
+        "tr": "Kendi kontrolü dışındaki birçok faktöre bağlı olan bir şeyi garanti etmenin dürüst olmayacağını düşünerek belirli bir sonuç vaat etmeyi reddetti."
+      },
+      {
+        "id": "tr-112",
+        "fr": "Bien qu'elle ait reçu plusieurs propositions, elle a préféré attendre avant de choisir, afin de vérifier si une possibilité plus intéressante ne se présenterait pas.",
+        "tr": "Birkaç teklif almış olmasına rağmen daha ilginç bir fırsat ortaya çıkıp çıkmayacağını görmek için seçim yapmadan önce beklemeyi tercih etti."
+      },
+      {
+        "id": "tr-113",
+        "fr": "Ce n'est pas tant le coût de la solution qui nous inquiète que les difficultés qu'elle pourrait créer dans les mois à venir.",
+        "tr": "Bizi endişelendiren çözümün maliyetinden çok önümüzdeki aylarda yaratabileceği zorluklardır."
+      },
+      {
+        "id": "tr-114",
+        "fr": "Quoi qu'en pensent certains, cette décision a été prise après une analyse approfondie des informations disponibles.",
+        "tr": "Bazıları ne düşünürse düşünsün, bu karar mevcut bilgilerin ayrıntılı bir şekilde incelenmesinden sonra alındı."
+      },
+      {
+        "id": "tr-115",
+        "fr": "Elle aurait aimé pouvoir répondre immédiatement, mais certaines questions nécessitaient une vérification avant qu'elle puisse donner une réponse fiable.",
+        "tr": "Hemen cevap verebilmeyi isterdi, ancak bazı sorular güvenilir bir yanıt verebilmesi için doğrulama gerektiriyordu."
+      },
+      {
+        "id": "tr-116",
+        "fr": "Il devient de plus en plus difficile de maintenir cette organisation sans revoir la répartition des responsabilités au sein de l'équipe.",
+        "tr": "Ekip içindeki sorumluluk dağılımını yeniden gözden geçirmeden bu düzeni sürdürmek giderek zorlaşıyor."
+      },
+      {
+        "id": "tr-117",
+        "fr": "Même lorsqu'une solution paraît évidente, il est parfois nécessaire d'examiner ses conséquences avant de la mettre en œuvre.",
+        "tr": "Bir çözüm açıkça ortada görünse bile uygulamaya koymadan önce sonuçlarını incelemek bazen gerekir."
+      },
+      {
+        "id": "tr-118",
+        "fr": "Elle a insisté sur le fait qu'il ne fallait pas confondre une absence de résultats immédiats avec une absence totale de progrès.",
+        "tr": "Hemen sonuç alınmamasını ilerlemenin tamamen yokluğuyla karıştırmamak gerektiğini vurguladı."
+      },
+      {
+        "id": "tr-119",
+        "fr": "À mesure que nous obtenions de nouvelles informations, certaines conclusions que nous avions considérées comme définitives devenaient moins certaines.",
+        "tr": "Yeni bilgiler elde ettikçe kesin olarak kabul ettiğimiz bazı sonuçlar daha az kesin hale geliyordu."
+      },
+      {
+        "id": "tr-120",
+        "fr": "Il a finalement admis qu'il avait sous-estimé le temps nécessaire pour mener correctement cette tâche à bien.",
+        "tr": "Sonunda bu görevi gerektiği gibi tamamlamak için gereken zamanı olduğundan az tahmin ettiğini kabul etti."
+      },
+      {
+        "id": "tr-121",
+        "fr": "Si l'objectif est réellement d'améliorer la situation, il faudra accepter de remettre en question certaines habitudes qui paraissaient pourtant bien établies.",
+        "tr": "Amaç gerçekten durumu iyileştirmekse, yerleşmiş gibi görünen bazı alışkanlıkları sorgulamayı kabul etmek gerekecek."
+      },
+      {
+        "id": "tr-122",
+        "fr": "Elle ne contestait pas le principe de la décision, mais estimait que sa mise en œuvre aurait dû être préparée différemment.",
+        "tr": "Kararın ilkesine karşı çıkmıyordu, ancak uygulanmasının farklı şekilde hazırlanması gerektiğini düşünüyordu."
+      },
+      {
+        "id": "tr-123",
+        "fr": "Bien qu'il ait tenté de rester discret, son absence prolongée avait fini par attirer l'attention de plusieurs collègues.",
+        "tr": "Gözlerden uzak kalmaya çalışmasına rağmen uzun süreli yokluğu sonunda birkaç meslektaşının dikkatini çekmişti."
+      },
+      {
+        "id": "tr-124",
+        "fr": "Il serait imprudent de prendre une décision définitive tant que toutes les informations disponibles n'ont pas été examinées.",
+        "tr": "Mevcut tüm bilgiler incelenmeden kesin bir karar vermek ihtiyatsızlık olur."
+      },
+      {
+        "id": "tr-125",
+        "fr": "Elle a compris que la difficulté ne résidait pas dans la quantité de travail, mais dans l'absence d'une méthode suffisamment claire pour l'organiser.",
+        "tr": "Zorluğun iş miktarında değil, işi düzenlemek için yeterince açık bir yöntemin bulunmamasında olduğunu anladı."
+      },
+      {
+        "id": "tr-126",
+        "fr": "Même si nous parvenons à résoudre le problème actuel, rien ne garantit qu'une difficulté similaire ne réapparaîtra pas plus tard.",
+        "tr": "Mevcut sorunu çözmeyi başarsak bile benzer bir zorluğun daha sonra yeniden ortaya çıkmayacağının hiçbir garantisi yok."
+      },
+      {
+        "id": "tr-127",
+        "fr": "Il a choisi de ne pas répondre aux critiques immédiatement, préférant attendre que les esprits se calment avant de poursuivre la discussion.",
+        "tr": "Eleştirilere hemen cevap vermek yerine tartışmaya devam etmeden önce ortamın sakinleşmesini beklemeyi tercih etti."
+      },
+      {
+        "id": "tr-128",
+        "fr": "À bien y réfléchir, la décision qui nous semblait la plus simple au départ était probablement celle qui comportait le plus de risques.",
+        "tr": "İyice düşündüğümüzde, başlangıçta bize en basit görünen karar muhtemelen en fazla riski taşıyan karardı."
+      },
+      {
+        "id": "tr-129",
+        "fr": "Elle a beau disposer de toutes les informations nécessaires, elle estime qu'il serait prématuré de tirer une conclusion définitive.",
+        "tr": "Gerekli tüm bilgilere sahip olsa da kesin bir sonuca varmanın henüz erken olduğunu düşünüyor."
+      },
+      {
+        "id": "tr-130",
+        "fr": "Ce n'est qu'après avoir entendu les différents témoignages que nous avons commencé à comprendre pourquoi les versions du problème étaient si différentes.",
+        "tr": "Soruna ilişkin anlatımların neden bu kadar farklı olduğunu ancak farklı tanıklıkları dinledikten sonra anlamaya başladık."
+      },
+      {
+        "id": "tr-131",
+        "fr": "Quelles que soient les intentions initiales, les décisions prises auront nécessairement des conséquences sur les personnes concernées.",
+        "tr": "Başlangıçtaki niyetler ne olursa olsun alınan kararların ilgili kişiler üzerinde mutlaka sonuçları olacaktır."
+      },
+      {
+        "id": "tr-132",
+        "fr": "Il a expliqué que l'objectif n'était pas de supprimer toutes les difficultés, ce qui serait irréaliste, mais de les rendre plus faciles à gérer.",
+        "tr": "Amacın bütün zorlukları ortadan kaldırmak olmadığını, bunun gerçekçi olmayacağını, asıl amacın onları yönetmeyi kolaylaştırmak olduğunu açıkladı."
+      },
+      {
+        "id": "tr-133",
+        "fr": "Elle aurait préféré que les changements soient annoncés plus progressivement, afin de laisser aux personnes concernées le temps de s'y adapter.",
+        "tr": "İlgili kişilerin değişikliklere alışabilmesi için değişikliklerin daha aşamalı bir şekilde duyurulmasını tercih ederdi."
+      },
+      {
+        "id": "tr-134",
+        "fr": "Plus nous avancions dans l'analyse, plus nous découvrions que le problème avait des causes multiples qu'il serait impossible de traiter séparément.",
+        "tr": "Analizde ilerledikçe sorunun ayrı ayrı ele alınması mümkün olmayan birçok nedeni olduğunu keşfediyorduk."
+      },
+      {
+        "id": "tr-135",
+        "fr": "Il n'est pas exclu que les résultats soient meilleurs que prévu, mais il serait imprudent de compter sur cette possibilité avant d'avoir des preuves suffisantes.",
+        "tr": "Sonuçların beklenenden daha iyi olması mümkündür, ancak yeterli kanıt elde edilmeden bu ihtimale güvenmek ihtiyatsızlık olur."
+      },
+      {
+        "id": "tr-136",
+        "fr": "Elle a reconnu que certaines décisions prises dans l'urgence pouvaient être corrigées, à condition que l'on accepte de reconnaître rapidement les erreurs commises.",
+        "tr": "Acil durumda alınan bazı kararların düzeltilebileceğini, ancak yapılan hataların hızlı bir şekilde kabul edilmesi gerektiğini söyledi."
+      },
+      {
+        "id": "tr-137",
+        "fr": "Même si les chiffres semblent encourageants, ils doivent être interprétés avec prudence, car ils ne reflètent qu'une partie de la réalité.",
+        "tr": "Rakamlar umut verici görünse bile yalnızca gerçeğin bir bölümünü yansıttıkları için dikkatli yorumlanmaları gerekir."
+      },
+      {
+        "id": "tr-138",
+        "fr": "Il a refusé de considérer l'échec de cette tentative comme une preuve que l'ensemble du projet était irréalisable.",
+        "tr": "Bu girişimin başarısızlığını bütün projenin gerçekleştirilemez olduğunun kanıtı olarak kabul etmeyi reddetti."
+      },
+      {
+        "id": "tr-139",
+        "fr": "Ce qui compte désormais, c'est moins de chercher à savoir qui est responsable que de comprendre comment éviter que la situation ne se reproduise.",
+        "tr": "Bundan sonra önemli olanın kimin sorumlu olduğunu bulmaktan çok durumun tekrar yaşanmasını nasıl önleyeceğimizi anlamak olduğunu düşünüyor."
+      },
+      {
+        "id": "tr-140",
+        "fr": "En définitive, nous avons compris qu'une bonne décision n'est pas nécessairement celle qui produit les meilleurs résultats immédiatement, mais celle qui reste pertinente dans la durée.",
+        "tr": "Sonuç olarak iyi bir kararın mutlaka hemen en iyi sonuçları veren karar değil, uzun vadede geçerliliğini koruyan karar olduğunu anladık."
+      }, {
+        "id": "tr-141",
+        "fr": "Quand bien même toutes les conditions seraient réunies, il resterait à démontrer que la solution proposée peut être appliquée durablement sans produire d'effets indésirables.",
+        "tr": "Bütün koşullar yerine getirilmiş olsa bile önerilen çözümün istenmeyen sonuçlar doğurmadan sürdürülebilir biçimde uygulanabileceğinin hâlâ kanıtlanması gerekir."
+      },
+      {
+        "id": "tr-142",
+        "fr": "Bien qu'elle eût anticipé plusieurs difficultés, elle n'avait pas prévu que leur enchaînement finirait par remettre en cause l'organisation initialement prévue.",
+        "tr": "Birkaç zorluğu öngörmüş olmasına rağmen bunların art arda gelerek başlangıçta planlanan düzeni sonunda sorgulanır hâle getireceğini öngörmemişti."
+      },
+      {
+        "id": "tr-143",
+        "fr": "Pour peu que l'on accepte d'examiner le problème sous un angle différent, certaines contradictions qui semblaient insurmontables deviennent soudainement beaucoup moins difficiles à expliquer.",
+        "tr": "Sorunu farklı bir açıdan incelemeyi kabul ettiğimiz takdirde aşılmaz görünen bazı çelişkileri açıklamak birdenbire çok daha kolay hâle gelir."
+      },
+      {
+        "id": "tr-144",
+        "fr": "À supposer même que cette hypothèse soit exacte, elle ne suffirait pas à expliquer l'ensemble des phénomènes que nous avons observés.",
+        "tr": "Bu varsayımın doğru olduğunu kabul etsek bile gözlemlediğimiz bütün olguları açıklamaya yetmez."
+      },
+      {
+        "id": "tr-145",
+        "fr": "Ce n'est qu'une fois l'ensemble des données confrontées les unes aux autres que nous avons pu mesurer l'ampleur réelle de l'écart entre les prévisions et les résultats.",
+        "tr": "Tahminlerle sonuçlar arasındaki gerçek farkın boyutunu ancak tüm verileri birbiriyle karşılaştırdıktan sonra ölçebildik."
+      },
+      {
+        "id": "tr-146",
+        "fr": "Encore eût-il fallu que les informations dont nous disposions fussent suffisamment fiables pour que cette conclusion puisse être considérée comme définitive.",
+        "tr": "Bu sonucun kesin kabul edilebilmesi için öncelikle elimizdeki bilgilerin yeterince güvenilir olması gerekirdi."
+      },
+      {
+        "id": "tr-147",
+        "fr": "Si tant est que l'on puisse parler d'une véritable erreur, celle-ci réside moins dans la décision elle-même que dans l'absence de mesures permettant d'en limiter les conséquences.",
+        "tr": "Gerçek bir hatadan söz etmek mümkünse, bu hata kararın kendisinden çok sonuçlarını sınırlayacak önlemlerin alınmamış olmasında yatmaktadır."
+      },
+      {
+        "id": "tr-148",
+        "fr": "Bien lui en ait pris de vérifier une dernière fois les documents, car une incohérence à peine visible aurait pu compromettre l'ensemble de la procédure.",
+        "tr": "Belgeleri son kez kontrol etmekle çok iyi etmişti; çünkü neredeyse fark edilmeyen bir tutarsızlık tüm süreci tehlikeye atabilirdi."
+      },
+      {
+        "id": "tr-149",
+        "fr": "À bien y réfléchir, ce qui paraissait être une simple question de méthode révélait en réalité une divergence beaucoup plus profonde quant aux objectifs poursuivis.",
+        "tr": "İyice düşünüldüğünde, basit bir yöntem meselesi gibi görünen şeyin aslında ulaşılmak istenen amaçlar konusunda çok daha derin bir görüş ayrılığını ortaya koyduğu anlaşılıyordu."
+      },
+      {
+        "id": "tr-150",
+        "fr": "À peine avait-elle commencé à présenter son argument que plusieurs objections, jusque-là restées implicites, furent formulées ouvertement.",
+        "tr": "Argümanını sunmaya başlar başlamaz o zamana kadar örtük kalmış olan birkaç itiraz açıkça dile getirildi."
+      },
+      {
+        "id": "tr-151",
+        "fr": "Quand bien même nous parviendrions à réduire les coûts, cela ne résoudrait pas nécessairement les difficultés liées à la qualité du service.",
+        "tr": "Maliyetleri azaltmayı başarsak bile bu, hizmetin kalitesiyle ilgili sorunları mutlaka çözmez."
+      },
+      {
+        "id": "tr-152",
+        "fr": "Bien qu'il eût été possible de réagir plus tôt, personne ne pouvait alors mesurer avec précision les conséquences que cette décision entraînerait.",
+        "tr": "Daha erken tepki vermek mümkün olsa da o sırada hiç kimse bu kararın doğuracağı sonuçları tam olarak ölçemezdi."
+      },
+      {
+        "id": "tr-153",
+        "fr": "Pour peu que les différentes parties acceptent de renoncer à certaines exigences, un compromis durable pourrait encore être trouvé.",
+        "tr": "Farklı taraflar bazı taleplerinden vazgeçmeyi kabul ettiği takdirde hâlâ kalıcı bir uzlaşmaya varılabilir."
+      },
+      {
+        "id": "tr-154",
+        "fr": "À supposer que les résultats soient confirmés, il faudrait encore déterminer dans quelle mesure ils pourraient être généralisés à d'autres situations.",
+        "tr": "Sonuçların doğrulandığını varsaysak bile bunların başka durumlara ne ölçüde genellenebileceğinin hâlâ belirlenmesi gerekir."
+      },
+      {
+        "id": "tr-155",
+        "fr": "Ce n'est qu'après avoir reconstitué l'ensemble de la chronologie que nous avons compris que plusieurs décisions avaient été prises simultanément sans que leurs responsables en aient pleinement conscience.",
+        "tr": "Ancak tüm zaman çizelgesini yeniden oluşturduktan sonra birkaç kararın sorumlularının bunun tam olarak farkında olmadan aynı anda alındığını anladık."
+      },
+      {
+        "id": "tr-156",
+        "fr": "Encore eût-il fallu que chacun disposât des mêmes informations pour que les désaccords puissent être interprétés comme de véritables divergences de fond.",
+        "tr": "Anlaşmazlıkların gerçekten temel görüş ayrılıkları olarak değerlendirilebilmesi için öncelikle herkesin aynı bilgilere sahip olması gerekirdi."
+      },
+      {
+        "id": "tr-157",
+        "fr": "Si tant est que cette explication soit correcte, elle soulève davantage de questions qu'elle n'en résout.",
+        "tr": "Bu açıklama doğruysa bile çözdüğünden daha fazla soru ortaya çıkarıyor."
+      },
+      {
+        "id": "tr-158",
+        "fr": "Bien lui en ait pris de ne pas se fier aux premières apparences, lesquelles se révélèrent trompeuses dès que de nouvelles informations furent disponibles.",
+        "tr": "İlk izlenimlere güvenmemekle iyi etmişti; çünkü yeni bilgiler ortaya çıkar çıkmaz bu izlenimlerin yanıltıcı olduğu anlaşıldı."
+      },
+      {
+        "id": "tr-159",
+        "fr": "À peine le projet avait-il été lancé que plusieurs contraintes imprévues vinrent modifier les conditions dans lesquelles il devait être réalisé.",
+        "tr": "Proje başlatılır başlatılmaz, nasıl yürütülmesi gerektiğini belirleyen koşulları değiştiren birçok beklenmedik kısıtlama ortaya çıktı."
+      },
+      {
+        "id": "tr-160",
+        "fr": "Il serait pour le moins imprudent d'affirmer que cette stratégie est efficace tant que les résultats observés ne permettent pas encore de distinguer une tendance durable d'un simple effet temporaire.",
+        "tr": "Gözlemlenen sonuçlar kalıcı bir eğilim ile geçici bir etkiyi ayırt etmeye henüz izin vermiyorken bu stratejinin etkili olduğunu söylemek en azından ihtiyatsızlık olur."
+      },
+      {
+        "id": "tr-161",
+        "fr": "Quand bien même son intention aurait été parfaitement légitime, la manière dont la décision a été mise en œuvre n'en demeure pas moins contestable.",
+        "tr": "Niyeti tamamen meşru olsa bile kararın uygulanma biçimi yine de tartışmaya açıktır."
+      },
+      {
+        "id": "tr-162",
+        "fr": "Bien qu'elle eût soigneusement préparé son intervention, elle s'est aperçue au dernier moment que certains chiffres reposaient sur des données qui n'avaient pas été actualisées.",
+        "tr": "Konuşmasını dikkatlice hazırlamış olmasına rağmen son anda bazı rakamların güncellenmemiş verilere dayandığını fark etti."
+      },
+      {
+        "id": "tr-163",
+        "fr": "Pour peu que l'on dépasse les apparences immédiates, on découvre que les positions des deux groupes sont en réalité moins éloignées qu'elles ne le laissent penser.",
+        "tr": "İlk bakışta görünenlerin ötesine geçildiğinde iki grubun tutumlarının aslında göründüğü kadar farklı olmadığı anlaşılır."
+      },
+      {
+        "id": "tr-164",
+        "fr": "À supposer même que toutes les objections soient levées, il resterait à convaincre ceux qui ont déjà perdu confiance dans le projet.",
+        "tr": "Tüm itirazların ortadan kaldırıldığını varsaysak bile projeye olan güvenini zaten kaybetmiş kişileri ikna etmek yine de gerekecektir."
+      },
+      {
+        "id": "tr-165",
+        "fr": "Ce n'est qu'une fois la décision annoncée que certains ont réalisé qu'ils avaient interprété les discussions préparatoires de manière excessivement optimiste.",
+        "tr": "Bazıları hazırlık görüşmelerini aşırı iyimser bir şekilde yorumladıklarını ancak karar açıklandıktan sonra fark etti."
+      },
+      {
+        "id": "tr-166",
+        "fr": "Encore eût-il fallu que les responsables disposent du temps nécessaire pour examiner les alternatives avant de retenir celle qui paraissait la plus évidente.",
+        "tr": "Sorumluların en açık görünen seçeneği tercih etmeden önce alternatifleri incelemek için gerekli zamana sahip olmaları gerekirdi."
+      },
+      {
+        "id": "tr-167",
+        "fr": "Si tant est qu'une solution définitive existe, elle ne pourra probablement être trouvée qu'en acceptant de remettre en cause plusieurs principes considérés jusqu'ici comme acquis.",
+        "tr": "Kesin bir çözüm gerçekten varsa, muhtemelen ancak şimdiye kadar sorgulanmadan kabul edilen birkaç ilkenin yeniden değerlendirilmesiyle bulunabilir."
+      },
+      {
+        "id": "tr-168",
+        "fr": "Bien lui en ait pris de conserver une copie des anciens documents, car certaines informations qui avaient disparu des versions récentes se sont révélées indispensables.",
+        "tr": "Eski belgelerin bir kopyasını saklamakla iyi etmişti; çünkü yeni sürümlerde kaybolan bazı bilgilerin vazgeçilmez olduğu ortaya çıktı."
+      },
+      {
+        "id": "tr-169",
+        "fr": "À peine avait-il terminé son explication que la discussion s'est déplacée vers une question beaucoup plus fondamentale, à laquelle personne ne semblait préparé à répondre.",
+        "tr": "Açıklamasını bitirir bitirmez tartışma, hiç kimsenin cevap vermeye hazırlıklı görünmediği çok daha temel bir soruya yöneldi."
+      },
+      {
+        "id": "tr-170",
+        "fr": "À bien y réfléchir, le véritable problème n'était peut-être pas l'absence de ressources, mais la difficulté à déterminer comment les utiliser de manière cohérente.",
+        "tr": "İyice düşünüldüğünde asıl sorun belki de kaynakların yokluğu değil, bunların tutarlı bir şekilde nasıl kullanılacağını belirlemenin zorluğuydu."
+      },
+      {
+        "id": "tr-171",
+        "fr": "Quand bien même les résultats obtenus seraient meilleurs que prévu, il faudrait encore s'assurer qu'ils ne résultent pas de circonstances exceptionnelles impossibles à reproduire.",
+        "tr": "Elde edilen sonuçlar beklenenden daha iyi olsa bile bunların tekrarlanması mümkün olmayan olağanüstü koşulların sonucu olmadığından emin olmak gerekir."
+      },
+      {
+        "id": "tr-172",
+        "fr": "Bien qu'elle eût accepté le principe de la réforme, elle estimait que son application précipitée risquait d'en compromettre les objectifs initiaux.",
+        "tr": "Reformun ilkesini kabul etmiş olmasına rağmen aceleyle uygulanmasının başlangıçtaki amaçlarını tehlikeye atabileceğini düşünüyordu."
+      },
+      {
+        "id": "tr-173",
+        "fr": "Pour peu que les responsables prennent le temps d'écouter les objections formulées sur le terrain, ils pourraient découvrir des difficultés qui ne sont pas visibles dans les rapports officiels.",
+        "tr": "Sorumlular sahada dile getirilen itirazları dinlemeye zaman ayırırsa resmi raporlarda görünmeyen zorlukları keşfedebilirler."
+      },
+      {
+        "id": "tr-174",
+        "fr": "À supposer que cette mesure soit effectivement nécessaire, rien ne permet encore d'affirmer qu'elle soit la plus appropriée dans le contexte actuel.",
+        "tr": "Bu önlemin gerçekten gerekli olduğunu varsaysak bile mevcut koşullarda en uygun seçenek olduğunu söylemek için henüz yeterli dayanak yok."
+      },
+      {
+        "id": "tr-175",
+        "fr": "Ce n'est qu'en confrontant les témoignages contradictoires aux documents disponibles que l'enquête a pu établir une chronologie relativement cohérente des événements.",
+        "tr": "Soruşturma, ancak çelişkili ifadeleri mevcut belgelerle karşılaştırarak olayların nispeten tutarlı bir zaman çizelgesini oluşturabildi."
+      },
+      {
+        "id": "tr-176",
+        "fr": "Encore eût-il fallu que les personnes chargées de l'analyse aient accès à toutes les données pertinentes, ce qui était loin d'être le cas.",
+        "tr": "Analizden sorumlu kişilerin ilgili tüm verilere erişebilmesi gerekirdi; oysa durum bundan çok uzaktı."
+      },
+      {
+        "id": "tr-177",
+        "fr": "Si tant est que l'on puisse isoler une cause unique, celle-ci ne saurait expliquer à elle seule la complexité de la situation observée.",
+        "tr": "Tek bir neden belirlemek mümkün olsa bile bu neden gözlemlenen durumun karmaşıklığını tek başına açıklayamaz."
+      },
+      {
+        "id": "tr-178",
+        "fr": "Bien lui en ait pris de suspendre la procédure à temps, car la poursuite des opérations dans ces conditions aurait pu entraîner des conséquences difficilement réversibles.",
+        "tr": "İşlemleri zamanında durdurmakla iyi etmişti; çünkü bu koşullarda devam edilmesi geri dönüşü zor sonuçlara yol açabilirdi."
+      },
+      {
+        "id": "tr-179",
+        "fr": "À peine les premières mesures avaient-elles été annoncées que plusieurs organisations ont commencé à demander des précisions sur leur portée réelle.",
+        "tr": "İlk önlemler açıklanır açıklanmaz birkaç kuruluş bunların gerçek kapsamı hakkında açıklama istemeye başladı."
+      },
+      {
+        "id": "tr-180",
+        "fr": "À bien y regarder, la différence entre les deux approches tient moins aux objectifs qu'aux moyens envisagés pour les atteindre.",
+        "tr": "Dikkatle bakıldığında iki yaklaşım arasındaki fark amaçlardan çok bu amaçlara ulaşmak için öngörülen araçlarla ilgilidir."
+      },
+      {
+        "id": "tr-181",
+        "fr": "Quand bien même cette décision pourrait être défendue sur le plan théorique, sa mise en pratique soulève des difficultés qu'il serait difficile d'ignorer.",
+        "tr": "Bu karar teorik açıdan savunulabilse bile pratikte uygulanması göz ardı edilmesi zor sorunlar ortaya çıkarıyor."
+      },
+      {
+        "id": "tr-182",
+        "fr": "Bien qu'il eût longtemps considéré cette possibilité comme improbable, il a fini par reconnaître qu'elle devait désormais être sérieusement envisagée.",
+        "tr": "Uzun süre bu ihtimali düşük görmüş olsa da sonunda artık bunun ciddi şekilde değerlendirilmesi gerektiğini kabul etti."
+      },
+      {
+        "id": "tr-183",
+        "fr": "Pour peu que les conditions économiques restent stables, le projet pourrait atteindre ses objectifs plus rapidement que ce que les premières estimations laissaient prévoir.",
+        "tr": "Ekonomik koşullar istikrarlı kaldığı takdirde proje hedeflerine ilk tahminlerin öngördüğünden daha hızlı ulaşabilir."
+      },
+      {
+        "id": "tr-184",
+        "fr": "À supposer même que l'on parvienne à identifier précisément les responsables, cela ne suffirait pas à réparer les dommages déjà causés.",
+        "tr": "Sorumluları kesin olarak belirlemeyi başarsak bile bu, zaten meydana gelmiş zararları gidermeye yetmez."
+      },
+      {
+        "id": "tr-185",
+        "fr": "Ce n'est qu'une fois les premières conséquences apparues que certains ont compris à quel point les hypothèses de départ avaient été fragiles.",
+        "tr": "Bazıları başlangıçtaki varsayımların ne kadar kırılgan olduğunu ancak ilk sonuçlar ortaya çıktıktan sonra anladı."
+      },
+      {
+        "id": "tr-186",
+        "fr": "Encore eût-il fallu que les informations transmises fussent suffisamment précises pour permettre aux personnes concernées de prendre une décision véritablement éclairée.",
+        "tr": "İlgili kişilerin gerçekten bilinçli bir karar verebilmesi için aktarılan bilgilerin yeterince kesin olması gerekirdi."
+      },
+      {
+        "id": "tr-187",
+        "fr": "Si tant est que les chiffres puissent être comparés directement, l'écart observé demeure suffisamment important pour mériter une analyse approfondie.",
+        "tr": "Rakamların doğrudan karşılaştırılması mümkünse gözlemlenen fark derinlemesine bir incelemeyi gerektirecek kadar önemlidir."
+      },
+      {
+        "id": "tr-188",
+        "fr": "Bien lui en ait pris de ne pas annoncer les résultats trop tôt, car plusieurs vérifications supplémentaires ont permis de corriger des erreurs qui auraient pu être embarrassantes.",
+        "tr": "Sonuçları çok erken açıklamamakla iyi etmişti; çünkü yapılan birkaç ek kontrol, utanç verici olabilecek bazı hataların düzeltilmesini sağladı."
+      },
+      {
+        "id": "tr-189",
+        "fr": "À peine avait-elle pris connaissance des nouvelles données qu'elle a compris que l'interprétation proposée jusque-là devait être entièrement revue.",
+        "tr": "Yeni verilerden haberdar olur olmaz o zamana kadar öne sürülen yorumun tamamen yeniden ele alınması gerektiğini anladı."
+      },
+      {
+        "id": "tr-190",
+        "fr": "À bien y réfléchir, l'absence de conflit apparent ne signifiait pas nécessairement qu'un véritable accord existait entre les différentes parties.",
+        "tr": "İyice düşünüldüğünde görünürde bir çatışmanın olmaması farklı taraflar arasında gerçek bir anlaşmanın bulunduğu anlamına gelmiyordu."
+      },
+      {
+        "id": "tr-191",
+        "fr": "Quand bien même le principe serait accepté par tous, il resterait à déterminer quelles concessions chacun serait réellement disposé à faire.",
+        "tr": "İlke herkes tarafından kabul edilse bile herkesin gerçekte hangi tavizleri vermeye hazır olduğunun belirlenmesi gerekecekti."
+      },
+      {
+        "id": "tr-192",
+        "fr": "Bien qu'elle eût initialement défendu cette approche avec conviction, elle a finalement reconnu que certaines de ses limites étaient devenues impossibles à ignorer.",
+        "tr": "Başlangıçta bu yaklaşımı büyük bir inançla savunmuş olsa da sonunda bazı sınırlarının artık göz ardı edilemeyeceğini kabul etti."
+      },
+      {
+        "id": "tr-193",
+        "fr": "Pour peu que les différents acteurs coordonnent leurs efforts, les résultats pourraient être nettement supérieurs à ceux obtenus par des initiatives isolées.",
+        "tr": "Farklı aktörler çabalarını koordine ettiği takdirde sonuçlar tek başına yürütülen girişimlerle elde edilenlerden çok daha iyi olabilir."
+      },
+      {
+        "id": "tr-194",
+        "fr": "À supposer que les ressources nécessaires soient effectivement disponibles, leur mobilisation demanderait néanmoins une organisation suffisamment rigoureuse pour éviter leur dispersion.",
+        "tr": "Gerekli kaynakların gerçekten mevcut olduğunu varsaysak bile bunların dağılmasını önlemek için yeterince sıkı bir organizasyon gerekecektir."
+      },
+      {
+        "id": "tr-195",
+        "fr": "Ce n'est qu'après avoir pris en compte les objections les plus sérieuses que nous avons pu défendre la proposition sans donner l'impression d'ignorer ses faiblesses.",
+        "tr": "En ciddi itirazları dikkate aldıktan sonra ancak teklifin zayıf yönlerini görmezden geliyormuşuz izlenimi vermeden onu savunabildik."
+      },
+      {
+        "id": "tr-196",
+        "fr": "Encore eût-il fallu que les différents responsables se mettent d'accord sur les critères permettant d'évaluer objectivement les résultats obtenus.",
+        "tr": "Farklı sorumluların elde edilen sonuçları nesnel olarak değerlendirmeye yarayacak ölçütler üzerinde anlaşmaları gerekirdi."
+      },
+      {
+        "id": "tr-197",
+        "fr": "Si tant est qu'une telle comparaison soit pertinente, elle montre surtout que les résultats dépendent fortement du contexte dans lequel chaque méthode est appliquée.",
+        "tr": "Böyle bir karşılaştırma gerçekten anlamlıysa, her yöntemin uygulandığı bağlama bağlı olarak sonuçların büyük ölçüde değiştiğini her şeyden önce gösterir."
+      },
+      {
+        "id": "tr-198",
+        "fr": "Bien lui en ait pris de conserver une certaine prudence, car les informations qui semblaient définitives au début se sont révélées incomplètes quelques jours plus tard.",
+        "tr": "Başlangıçta kesin görünen bilgilerin birkaç gün sonra eksik olduğu ortaya çıktığından temkinli davranmakla iyi etmişti."
+      },
+      {
+        "id": "tr-199",
+        "fr": "À peine la situation semblait-elle stabilisée qu'un nouvel événement est venu rappeler que les équilibres obtenus restaient particulièrement fragiles.",
+        "tr": "Durum istikrara kavuşmuş gibi görünür görünmez yeni bir olay, elde edilen dengenin hâlâ son derece kırılgan olduğunu hatırlattı."
+      },
+      {
+        "id": "tr-200",
+        "fr": "À bien y réfléchir, ce que cette expérience nous aura surtout appris, c'est qu'une solution véritablement durable suppose non seulement de traiter les conséquences visibles d'un problème, mais également de comprendre les mécanismes qui l'ont rendu possible.",
+        "tr": "İyice düşünüldüğünde, bu deneyimin bize özellikle öğrettiği şey, gerçekten sürdürülebilir bir çözümün yalnızca bir sorunun görünür sonuçlarını ele almakla kalmayıp aynı zamanda onu mümkün kılan mekanizmaları da anlamayı gerektirdiğidir."
+      }],
     "frenchhindi": [],
     "frenchrussian": [],
     "frenchpolish": []
