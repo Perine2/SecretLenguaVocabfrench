@@ -1,9 +1,1012 @@
 {
-"vocabulary": 100,
-  "dictation": 33,
-  "grammar": 108,
-  "reading": 254,
-  "listening": 256,
-  "business": 100,
-  "advanced": 9
+  "french": {
+    "frenchenglish": [ {
+      "id": "en-001",
+      "fr": "Comme le magasin était déjà fermé lorsque je suis arrivé, j'ai dû attendre le lendemain pour retourner la veste que j'avais achetée la veille.",
+      "en": "Since the store was already closed when I arrived, I had to wait until the next day to return the jacket I had bought the day before."
+    },
+    {
+      "id": "en-002",
+      "fr": "Bien qu'il ait promis de rentrer avant la tombée de la nuit, il a finalement décidé de rester chez son frère parce que les fortes pluies avaient rendu la route presque impraticable.",
+      "en": "Although he had promised to come home before nightfall, he eventually decided to stay at his brother's house because the heavy rain had made the road almost impassable."
+    },
+    {
+      "id": "en-003",
+      "fr": "Ce n'est qu'après être rentré chez lui qu'il s'est aperçu qu'il avait laissé son portefeuille dans le taxi qu'il avait pris quelques minutes auparavant.",
+      "en": "It was only after he got home that he realized he had left his wallet in the taxi he had taken a few minutes earlier."
+    },
+    {
+      "id": "en-004",
+      "fr": "Comme personne ne répondait au téléphone, j'ai supposé qu'ils étaient déjà partis et j'ai décidé de prendre le prochain bus plutôt que d'attendre davantage.",
+      "en": "Since no one was answering the phone, I assumed they had already left and decided to take the next bus rather than wait any longer."
+    },
+    {
+      "id": "en-005",
+      "fr": "Même si je n'avais pas prévu de sortir ce soir-là, j'ai accepté l'invitation de mes amis parce que je ne les avais pas vus depuis plusieurs semaines.",
+      "en": "Even though I had not planned to go out that evening, I accepted my friends' invitation because I had not seen them for several weeks."
+    },
+    {
+      "id": "en-006",
+      "fr": "Après avoir vérifié plusieurs fois son sac, elle a finalement compris qu'elle avait laissé ses clés sur la table de la cuisine avant de partir.",
+      "en": "After checking her bag several times, she finally realized that she had left her keys on the kitchen table before leaving."
+    },
+    {
+      "id": "en-007",
+      "fr": "Si tu avais vérifié les horaires avant de quitter la maison, tu aurais évité de traverser toute la ville pour découvrir que le rendez-vous avait été déplacé.",
+      "en": "If you had checked the schedule before leaving home, you would have avoided crossing the whole city only to discover that the appointment had been rescheduled."
+    },
+    {
+      "id": "en-008",
+      "fr": "Ma sœur m'a demandé de lui envoyer l'adresse du restaurant dès que j'aurais confirmé l'heure à laquelle nous allions nous retrouver.",
+      "en": "My sister asked me to send her the restaurant's address as soon as I had confirmed the time when we were going to meet."
+    },
+    {
+      "id": "en-009",
+      "fr": "Le voisin qui habite au troisième étage s'est plaint du bruit que les enfants faisaient chaque soir lorsqu'ils jouaient dans le couloir.",
+      "en": "The neighbor who lives on the third floor complained about the noise the children made every evening when they played in the hallway."
+    },
+    {
+      "id": "en-010",
+      "fr": "J'avais tellement faim en rentrant du travail que j'ai mangé le repas que ma mère avait préparé pour le lendemain sans même m'en rendre compte.",
+      "en": "I was so hungry when I got home from work that I ate the meal my mother had prepared for the next day without even realizing it."
+    },
+    {
+      "id": "en-011",
+      "fr": "Bien que le téléphone soit encore sous garantie, le vendeur m'a expliqué que la réparation pourrait prendre plusieurs semaines parce qu'une pièce devait être commandée à l'étranger.",
+      "en": "Although the phone was still under warranty, the salesperson explained that the repair could take several weeks because a part had to be ordered from abroad."
+    },
+    {
+      "id": "en-012",
+      "fr": "Lorsque nous sommes arrivés au restaurant, la table que nous avions réservée avait déjà été donnée à d'autres clients, ce qui nous a obligés à attendre près d'une heure.",
+      "en": "When we arrived at the restaurant, the table we had reserved had already been given to other customers, which forced us to wait for nearly an hour."
+    },
+    {
+      "id": "en-013",
+      "fr": "Je pensais avoir suffisamment d'argent pour payer les courses, mais j'ai réalisé à la caisse que j'avais oublié de prendre en compte plusieurs produits que j'avais ajoutés au dernier moment.",
+      "en": "I thought I had enough money to pay for the groceries, but I realized at the checkout that I had forgotten to take into account several items I had added at the last minute."
+    },
+    {
+      "id": "en-014",
+      "fr": "Comme le médecin avait beaucoup de retard, plusieurs patients qui attendaient depuis plus d'une heure ont commencé à demander quand ils pourraient enfin être reçus.",
+      "en": "Since the doctor was running very late, several patients who had been waiting for more than an hour began asking when they would finally be seen."
+    },
+    {
+      "id": "en-015",
+      "fr": "Elle m'a expliqué qu'elle ne pouvait pas venir dîner avec nous parce qu'elle devait terminer un travail qu'elle avait promis de remettre le lendemain matin.",
+      "en": "She explained that she could not come to dinner with us because she had to finish some work that she had promised to hand in the following morning."
+    },
+    {
+      "id": "en-016",
+      "fr": "Au moment où je suis descendu du bus, j'ai remarqué que j'avais laissé mon sac sur le siège et j'ai dû courir après le véhicule pour le récupérer.",
+      "en": "As I got off the bus, I noticed that I had left my bag on the seat and had to run after the vehicle to get it back."
+    },
+    {
+      "id": "en-017",
+      "fr": "Même si nous avions prévu de passer toute la journée à la plage, nous avons dû rentrer plus tôt parce que le temps s'était brusquement dégradé.",
+      "en": "Even though we had planned to spend the whole day at the beach, we had to go home earlier because the weather had suddenly deteriorated."
+    },
+    {
+      "id": "en-018",
+      "fr": "Il était tellement occupé qu'il n'a pas remarqué les nombreux appels que sa mère lui avait laissés avant qu'il ne rentre chez lui.",
+      "en": "He was so busy that he did not notice the many calls his mother had made before he got home."
+    },
+    {
+      "id": "en-019",
+      "fr": "Si le propriétaire accepte de réparer la fuite rapidement, nous pourrons probablement éviter que l'eau n'endommage davantage le plafond de la chambre.",
+      "en": "If the landlord agrees to fix the leak quickly, we will probably be able to prevent the water from causing further damage to the bedroom ceiling."
+    },
+    {
+      "id": "en-020",
+      "fr": "Après avoir attendu près de trente minutes dans la file, j'ai découvert que le guichet auquel je me trouvais n'acceptait que les paiements en espèces.",
+      "en": "After waiting in line for nearly thirty minutes, I discovered that the counter I was at only accepted cash payments."
+    },
+    {
+      "id": "en-021",
+      "fr": "Ma collègue m'a demandé de lui rappeler la réunion dès que je recevrais le message confirmant l'heure et le lieu du rendez-vous.",
+      "en": "My colleague asked me to remind her about the meeting as soon as I received the message confirming the time and place of the appointment."
+    },
+    {
+      "id": "en-022",
+      "fr": "Comme je ne savais pas combien de temps le trajet allait prendre à cause des embouteillages, j'ai préféré partir une heure plus tôt que prévu.",
+      "en": "Since I did not know how long the journey would take because of the traffic, I preferred to leave an hour earlier than planned."
+    },
+    {
+      "id": "en-023",
+      "fr": "Le serveur nous a expliqué que le plat que nous avions commandé n'était plus disponible, mais il nous a proposé une autre spécialité qui était préparée de la même manière.",
+      "en": "The waiter explained that the dish we had ordered was no longer available, but he offered us another specialty that was prepared in the same way."
+    },
+    {
+      "id": "en-024",
+      "fr": "Elle aurait acheté cette robe si elle avait été disponible dans sa taille, mais il ne restait malheureusement que des modèles beaucoup trop grands.",
+      "en": "She would have bought this dress if it had been available in her size, but unfortunately only models that were much too large were left."
+    },
+    {
+      "id": "en-025",
+      "fr": "Bien qu'il connaisse déjà le quartier, il m'a demandé de lui envoyer ma position parce qu'il ne savait pas exactement dans quelle rue je me trouvais.",
+      "en": "Although he already knew the neighborhood, he asked me to send him my location because he did not know exactly which street I was on."
+    },
+    {
+      "id": "en-026",
+      "fr": "Lorsque mon téléphone s'est éteint, je venais justement de recevoir le message que j'attendais depuis le matin et je n'ai pas pu le lire.",
+      "en": "When my phone died, I had just received the message I had been waiting for since the morning and could not read it."
+    },
+    {
+      "id": "en-027",
+      "fr": "Le propriétaire a accepté de réduire légèrement le loyer à condition que nous prenions nous-mêmes en charge les petites réparations de l'appartement.",
+      "en": "The landlord agreed to reduce the rent slightly on the condition that we took care of the small repairs in the apartment ourselves."
+    },
+    {
+      "id": "en-028",
+      "fr": "Je ne savais pas que le rendez-vous avait été annulé, puisque personne ne m'avait prévenu et que j'avais reçu une confirmation la veille.",
+      "en": "I did not know that the appointment had been canceled, since no one had informed me and I had received a confirmation the day before."
+    },
+    {
+      "id": "en-029",
+      "fr": "Après plusieurs tentatives, elle a enfin réussi à effectuer le paiement en ligne, alors que le système refusait sa carte depuis près d'une heure.",
+      "en": "After several attempts, she finally managed to make the online payment, even though the system had been rejecting her card for nearly an hour."
+    },
+    {
+      "id": "en-030",
+      "fr": "Mon frère m'a demandé de garder son chien pendant quelques jours parce qu'il devait se déplacer dans une autre ville pour des raisons professionnelles.",
+      "en": "My brother asked me to look after his dog for a few days because he had to travel to another city for work."
+    },
+    {
+      "id": "en-031",
+      "fr": "Comme les enfants s'étaient endormis beaucoup plus tard que prévu, ils ont eu du mal à se lever le lendemain matin pour aller à l'école.",
+      "en": "Since the children had fallen asleep much later than expected, they had difficulty getting up the next morning to go to school."
+    },
+    {
+      "id": "en-032",
+      "fr": "J'ai laissé les fenêtres ouvertes pendant quelques minutes afin d'aérer la maison, mais je les ai rapidement refermées lorsque j'ai commencé à sentir la pluie arriver.",
+      "en": "I left the windows open for a few minutes to air out the house, but I quickly closed them when I started to feel the rain coming."
+    },
+    {
+      "id": "en-033",
+      "fr": "Même si elle avait déjà préparé le dîner, elle a accepté de commander quelque chose parce que ses invités préféraient manger dans le restaurant situé près de chez elle.",
+      "en": "Even though she had already prepared dinner, she agreed to order something because her guests preferred to eat at the restaurant near her home."
+    },
+    {
+      "id": "en-034",
+      "fr": "Si tu continues à laisser tes affaires partout dans le salon, il ne faudra pas t'étonner si quelqu'un finit par trébucher dessus.",
+      "en": "If you keep leaving your things all over the living room, you should not be surprised if someone eventually trips over them."
+    },
+    {
+      "id": "en-035",
+      "fr": "Le chauffeur nous a prévenus qu'il risquait d'y avoir beaucoup de circulation sur cette route, raison pour laquelle il nous a conseillé de partir plus tôt.",
+      "en": "The driver warned us that there might be heavy traffic on that road, which was why he advised us to leave earlier."
+    },
+    {
+      "id": "en-036",
+      "fr": "Je pensais que le colis serait livré dans la matinée, mais le livreur m'a appelé pour m'informer qu'il ne pourrait passer qu'en fin d'après-midi.",
+      "en": "I thought the package would be delivered in the morning, but the delivery driver called to tell me that he could only come in the late afternoon."
+    },
+    {
+      "id": "en-037",
+      "fr": "Elle m'a demandé pourquoi je n'avais pas répondu à son message alors que je l'avais lu plusieurs heures auparavant.",
+      "en": "She asked me why I had not replied to her message even though I had read it several hours earlier."
+    },
+    {
+      "id": "en-038",
+      "fr": "Le restaurant était tellement rempli que nous avons dû attendre dehors jusqu'à ce qu'une table se libère.",
+      "en": "The restaurant was so crowded that we had to wait outside until a table became available."
+    },
+    {
+      "id": "en-039",
+      "fr": "Après avoir comparé plusieurs offres, ils ont choisi celle qui leur permettait de voyager à moindre coût tout en conservant des horaires raisonnables.",
+      "en": "After comparing several offers, they chose the one that allowed them to travel at a lower cost while still keeping reasonable schedules."
+    },
+    {
+      "id": "en-040",
+      "fr": "Bien que le trajet ne soit pas particulièrement long, nous avons mis presque deux heures pour arriver à destination à cause des nombreux arrêts et des embouteillages.",
+      "en": "Although the journey is not particularly long, it took us almost two hours to reach our destination because of the many stops and traffic jams."
+    },
+    {
+      "id": "en-041",
+      "fr": "J'aurais aimé t'accompagner au marché, mais je dois terminer quelques tâches avant que mes invités n'arrivent ce soir.",
+      "en": "I would have liked to go to the market with you, but I have to finish a few tasks before my guests arrive tonight."
+    },
+    {
+      "id": "en-042",
+      "fr": "Le médecin lui a conseillé de revenir si les douleurs persistaient malgré le traitement qu'il lui avait prescrit quelques jours auparavant.",
+      "en": "The doctor advised her to come back if the pain persisted despite the treatment he had prescribed a few days earlier."
+    },
+    {
+      "id": "en-043",
+      "fr": "Comme je n'avais pas assez de monnaie, le vendeur m'a proposé de me rendre la différence lorsque je repasserais acheter quelque chose le lendemain.",
+      "en": "Since I did not have enough change, the seller offered to give me the difference when I came back to buy something the next day."
+    },
+    {
+      "id": "en-044",
+      "fr": "Il a fallu plusieurs jours avant que les voisins comprennent que le bruit qu'ils entendaient chaque nuit venait de l'appartement situé juste au-dessus du leur.",
+      "en": "It took several days for the neighbors to realize that the noise they heard every night was coming from the apartment directly above theirs."
+    },
+    {
+      "id": "en-045",
+      "fr": "Lorsque j'ai finalement trouvé une place pour me garer, quelqu'un était déjà en train d'essayer d'y entrer avec sa voiture.",
+      "en": "When I finally found a parking space, someone was already trying to get into it with their car."
+    },
+    {
+      "id": "en-046",
+      "fr": "Elle a décidé de reporter son voyage jusqu'à ce qu'elle soit certaine que la situation dans la région se soit suffisamment améliorée.",
+      "en": "She decided to postpone her trip until she was certain that the situation in the region had improved enough."
+    },
+    {
+      "id": "en-047",
+      "fr": "Je n'aurais jamais imaginé que la petite boutique près de chez moi proposerait autant de produits différents à des prix aussi raisonnables.",
+      "en": "I would never have imagined that the small shop near my home would offer so many different products at such reasonable prices."
+    },
+    {
+      "id": "en-048",
+      "fr": "Même après avoir expliqué plusieurs fois le problème au service client, je n'ai obtenu aucune réponse qui puisse réellement résoudre ma situation.",
+      "en": "Even after explaining the problem several times to customer service, I did not receive any response that could actually solve my situation."
+    },
+    {
+      "id": "en-049",
+      "fr": "Ma mère m'a demandé de vérifier si la porte était bien fermée avant que nous quittions la maison, car elle avait oublié de le faire elle-même.",
+      "en": "My mother asked me to check whether the door was properly locked before we left the house because she had forgotten to do it herself."
+    },
+    {
+      "id": "en-050",
+      "fr": "Si le train n'avait pas eu autant de retard, nous serions arrivés suffisamment tôt pour prendre le bus qui devait nous conduire directement à l'hôtel.",
+      "en": "If the train had not been so delayed, we would have arrived early enough to take the bus that was supposed to take us directly to the hotel."
+    },
+    {
+      "id": "en-051",
+      "fr": "Le serveur s'est excusé parce qu'il avait oublié d'apporter la boisson que nous avions commandée au début du repas.",
+      "en": "The waiter apologized because he had forgotten to bring the drink we had ordered at the beginning of the meal."
+    },
+    {
+      "id": "en-052",
+      "fr": "Comme elle travaillait depuis la maison ce jour-là, elle a pu accueillir le technicien qui devait venir vérifier pourquoi Internet ne fonctionnait plus correctement.",
+      "en": "Since she was working from home that day, she was able to let in the technician who was supposed to check why the Internet was no longer working properly."
+    },
+    {
+      "id": "en-053",
+      "fr": "Après avoir discuté avec son patron, il a compris qu'il devrait modifier son emploi du temps s'il voulait pouvoir passer davantage de temps avec ses enfants.",
+      "en": "After talking to his boss, he understood that he would have to change his schedule if he wanted to be able to spend more time with his children."
+    },
+    {
+      "id": "en-054",
+      "fr": "Bien qu'ils habitent dans le même quartier depuis plusieurs années, ils ne s'étaient jamais parlé avant de se retrouver par hasard dans la même file d'attente.",
+      "en": "Although they had lived in the same neighborhood for several years, they had never spoken to each other before they happened to meet in the same line."
+    },
+    {
+      "id": "en-055",
+      "fr": "Je me suis rendu compte que j'avais pris le mauvais chemin seulement lorsque les bâtiments autour de moi ne ressemblaient plus du tout à ceux que je connaissais.",
+      "en": "I realized that I had taken the wrong route only when the buildings around me no longer looked anything like the ones I knew."
+    },
+    {
+      "id": "en-056",
+      "fr": "Elle aurait préféré rester chez elle, mais ses amis avaient déjà acheté les billets et elle ne voulait pas les laisser partir seuls.",
+      "en": "She would have preferred to stay at home, but her friends had already bought the tickets and she did not want to let them go alone."
+    },
+    {
+      "id": "en-057",
+      "fr": "Le commerçant m'a expliqué que le prix avait augmenté parce que le produit était devenu beaucoup plus difficile à trouver ces dernières semaines.",
+      "en": "The shopkeeper explained that the price had increased because the product had become much harder to find in recent weeks."
+    },
+    {
+      "id": "en-058",
+      "fr": "Lorsque les invités sont enfin arrivés, nous avions déjà terminé presque toute la préparation et il ne restait plus qu'à servir le repas.",
+      "en": "When the guests finally arrived, we had already finished almost all the preparation, and all that remained was to serve the meal."
+    },
+    {
+      "id": "en-059",
+      "fr": "Si vous avez besoin d'aide pour remplir le formulaire, demandez au personnel de l'accueil de vous expliquer les informations qui doivent obligatoirement y figurer.",
+      "en": "If you need help filling out the form, ask the reception staff to explain the information that must be included."
+    },
+    {
+      "id": "en-060",
+      "fr": "Comme il avait oublié son chargeur à la maison, il a dû demander à son collègue de lui prêter le sien jusqu'à la fin de la journée.",
+      "en": "Since he had forgotten his charger at home, he had to ask his colleague to lend him theirs until the end of the day."
+    },
+    {
+      "id": "en-061",
+      "fr": "Elle m'a raconté qu'elle avait failli rater son avion parce que le taxi qui devait venir la chercher était arrivé avec près d'une heure de retard.",
+      "en": "She told me that she had almost missed her flight because the taxi that was supposed to pick her up had arrived nearly an hour late."
+    },
+    {
+      "id": "en-062",
+      "fr": "Même si la chambre était plus petite que celle qu'ils avaient réservée initialement, ils ont décidé de la garder parce qu'ils n'avaient aucune autre solution à ce moment-là.",
+      "en": "Even though the room was smaller than the one they had originally booked, they decided to keep it because they had no other option at that point."
+    },
+    {
+      "id": "en-063",
+      "fr": "Je pensais que tu avais déjà envoyé les documents dont nous avions parlé hier, mais je viens de vérifier et ils sont toujours dans le dossier partagé.",
+      "en": "I thought you had already sent the documents we talked about yesterday, but I have just checked and they are still in the shared folder."
+    },
+    {
+      "id": "en-064",
+      "fr": "Après avoir attendu suffisamment longtemps, nous avons décidé de partir parce que personne ne semblait savoir quand le responsable allait finalement arriver.",
+      "en": "After waiting long enough, we decided to leave because no one seemed to know when the person in charge would finally arrive."
+    },
+    {
+      "id": "en-065",
+      "fr": "Le vendeur m'a proposé un autre modèle qui était légèrement plus cher, mais qui bénéficiait d'une garantie beaucoup plus longue.",
+      "en": "The salesperson offered me another model that was slightly more expensive but came with a much longer warranty."
+    },
+    {
+      "id": "en-066",
+      "fr": "Quand elle a appris que son amie avait déménagé dans une autre ville, elle a promis de lui rendre visite dès qu'elle aurait suffisamment de temps libre.",
+      "en": "When she learned that her friend had moved to another city, she promised to visit her as soon as she had enough free time."
+    },
+    {
+      "id": "en-067",
+      "fr": "Il n'a pas pu participer à la réunion parce qu'il était encore dans les transports et que la connexion Internet de son téléphone ne fonctionnait presque pas.",
+      "en": "He could not take part in the meeting because he was still on public transport and the Internet connection on his phone was barely working."
+    },
+    {
+      "id": "en-068",
+      "fr": "Bien qu'il ait essayé de réparer la machine lui-même, il a finalement dû appeler un professionnel lorsqu'il a compris que le problème était plus sérieux qu'il ne le pensait.",
+      "en": "Although he tried to repair the machine himself, he eventually had to call a professional when he realized that the problem was more serious than he had thought."
+    },
+    {
+      "id": "en-069",
+      "fr": "Je t'aurais prévenu plus tôt si j'avais su que le rendez-vous avait été avancé, mais je n'ai reçu le message qu'au moment où je quittais le travail.",
+      "en": "I would have told you earlier if I had known that the appointment had been moved forward, but I did not receive the message until I was leaving work."
+    },
+    {
+      "id": "en-070",
+      "fr": "Après avoir discuté pendant plusieurs minutes avec le chauffeur, nous avons finalement trouvé un prix qui convenait aux deux parties et avons pu poursuivre notre trajet.",
+      "en": "After talking with the driver for several minutes, we finally agreed on a price that suited both parties and were able to continue our journey."
+    },{
+  "id": "en-071",
+  "fr": "Même si je comprends pourquoi elle a réagi de cette manière, je trouve qu'elle aurait pu attendre d'avoir tous les éléments avant de tirer une conclusion aussi définitive.",
+  "en": "Even though I understand why she reacted that way, I think she could have waited until she had all the facts before drawing such a definite conclusion."
+},
+{
+  "id": "en-072",
+  "fr": "Il prétend ne pas avoir vu le message, alors qu'il m'a répondu quelques minutes après que je le lui avais envoyé.",
+  "en": "He claims he did not see the message, even though he replied to me a few minutes after I sent it to him."
+},
+{
+  "id": "en-073",
+  "fr": "Ce qui m'a le plus surpris, ce n'est pas qu'elle ait refusé de venir, mais qu'elle ne nous ait prévenus qu'au dernier moment alors qu'elle le savait depuis plusieurs jours.",
+  "en": "What surprised me most was not that she refused to come, but that she only told us at the last minute even though she had known for several days."
+},
+{
+  "id": "en-074",
+  "fr": "À moins que le propriétaire accepte de prendre en charge les réparations, je ne vois pas pourquoi nous devrions continuer à payer le même loyer pour un appartement qui présente autant de problèmes.",
+  "en": "Unless the landlord agrees to pay for the repairs, I do not see why we should continue paying the same rent for an apartment that has so many problems."
+},
+{
+  "id": "en-075",
+  "fr": "Elle aurait pu prendre le premier train, mais elle a préféré attendre celui de l'après-midi parce qu'elle savait qu'elle aurait davantage de temps pour se préparer.",
+  "en": "She could have taken the first train, but she preferred to wait for the afternoon one because she knew she would have more time to get ready."
+},
+{
+  "id": "en-076",
+  "fr": "Je ne suis pas certain que le restaurant soit aussi bon qu'on le prétend, même si plusieurs personnes de mon entourage m'en ont dit beaucoup de bien.",
+  "en": "I am not sure the restaurant is as good as people claim, even though several people I know have spoken very highly of it."
+},
+{
+  "id": "en-077",
+  "fr": "Depuis qu'il a commencé à travailler de chez lui, il affirme qu'il gagne du temps, mais il reconnaît qu'il lui est devenu beaucoup plus difficile de séparer sa vie professionnelle de sa vie personnelle.",
+  "en": "Since he started working from home, he says he saves time, but he admits that it has become much harder for him to separate his professional life from his personal life."
+},
+{
+  "id": "en-078",
+  "fr": "J'aurais préféré que tu me dises directement que tu n'étais pas disponible plutôt que de me laisser attendre pendant des heures sans savoir ce qui se passait.",
+  "en": "I would have preferred you to tell me directly that you were unavailable rather than leave me waiting for hours without knowing what was going on."
+},
+{
+  "id": "en-079",
+  "fr": "Bien qu'ils se soient rencontrés plusieurs fois, elle avait l'impression qu'il ne faisait jamais vraiment attention à ce qu'elle lui disait.",
+  "en": "Although they had met several times, she felt that he never really paid attention to what she was telling him."
+},
+{
+  "id": "en-080",
+  "fr": "Il m'a assuré qu'il s'occuperait du problème dès qu'il aurait terminé ce qu'il était en train de faire, mais deux jours plus tard, rien n'avait encore été fait.",
+  "en": "He assured me that he would take care of the problem as soon as he had finished what he was doing, but two days later, nothing had been done."
+},
+{
+  "id": "en-081",
+  "fr": "Quoi qu'elle puisse en penser, je crois qu'il serait préférable qu'elle attende avant de prendre une décision qu'elle pourrait regretter par la suite.",
+  "en": "Whatever she may think about it, I believe it would be better for her to wait before making a decision she might regret later."
+},
+{
+  "id": "en-082",
+  "fr": "Le problème, c'est que personne ne semble savoir exactement qui est responsable de cette partie du projet, si bien que chacun renvoie les autres vers quelqu'un d'autre.",
+  "en": "The problem is that no one seems to know exactly who is responsible for this part of the project, so everyone keeps referring the matter to someone else."
+},
+{
+  "id": "en-083",
+  "fr": "Elle m'a demandé de ne rien dire à son frère jusqu'à ce qu'elle ait eu l'occasion de lui expliquer elle-même ce qui s'était passé.",
+  "en": "She asked me not to tell her brother anything until she had had a chance to explain what had happened to him herself."
+},
+{
+  "id": "en-084",
+  "fr": "Je pensais que le problème venait de l'application, mais après avoir essayé de me connecter depuis un autre appareil, je me suis rendu compte que cela venait probablement de ma connexion Internet.",
+  "en": "I thought the problem was with the app, but after trying to log in from another device, I realized that it was probably my Internet connection."
+},
+{
+  "id": "en-085",
+  "fr": "Il a beau dire qu'il n'est pas inquiet, le fait qu'il vérifie son téléphone toutes les deux minutes laisse penser qu'il attend une réponse importante.",
+  "en": "He may say that he is not worried, but the fact that he checks his phone every two minutes suggests that he is waiting for an important reply."
+},
+{
+  "id": "en-086",
+  "fr": "À force de remettre cette décision à plus tard, elle risque de se retrouver dans une situation où elle n'aura plus suffisamment de temps pour choisir ce qui lui convient réellement.",
+  "en": "By continually putting off this decision, she risks finding herself in a situation where she will no longer have enough time to choose what really suits her."
+},
+{
+  "id": "en-087",
+  "fr": "Il était tellement convaincu d'avoir raison qu'il n'a même pas envisagé la possibilité que les informations qu'on lui avait données soient incomplètes.",
+  "en": "He was so convinced that he was right that he did not even consider the possibility that the information he had been given might be incomplete."
+},
+{
+  "id": "en-088",
+  "fr": "Je ne comprends pas pourquoi tu t'es excusé alors que, d'après ce que tu viens de me raconter, c'est plutôt lui qui aurait dû reconnaître qu'il avait dépassé les limites.",
+  "en": "I do not understand why you apologized when, from what you have just told me, he is the one who should have admitted that he had gone too far."
+},
+{
+  "id": "en-089",
+  "fr": "Si j'avais su que la réunion durerait aussi longtemps, j'aurais évité de prendre un rendez-vous juste après, car je savais qu'il me serait impossible d'arriver à l'heure.",
+  "en": "If I had known the meeting would last that long, I would have avoided making an appointment right afterward, because I knew it would be impossible for me to arrive on time."
+},
+{
+  "id": "en-090",
+  "fr": "Elle m'a dit qu'elle viendrait probablement nous rejoindre plus tard, à condition que son travail lui laisse suffisamment de temps pour terminer ce qu'elle avait commencé.",
+  "en": "She told me that she would probably join us later, provided that her work left her enough time to finish what she had started."
+},
+{
+  "id": "en-091",
+  "fr": "Ce n'est pas parce que quelqu'un parle avec assurance qu'il sait nécessairement de quoi il parle, même si son opinion semble convaincante au premier abord.",
+  "en": "Just because someone speaks confidently does not necessarily mean they know what they are talking about, even if their opinion seems convincing at first."
+},
+{
+  "id": "en-092",
+  "fr": "Il aurait probablement évité toute cette discussion s'il avait simplement reconnu dès le départ qu'il avait oublié de faire ce qu'on lui avait demandé.",
+  "en": "He probably would have avoided this whole discussion if he had simply admitted from the start that he had forgotten to do what he had been asked to do."
+},
+{
+  "id": "en-093",
+  "fr": "Lorsque je lui ai demandé pourquoi elle avait changé d'avis, elle m'a répondu qu'elle avait finalement compris que ce choix ne correspondait pas vraiment à ce qu'elle voulait.",
+  "en": "When I asked her why she had changed her mind, she told me that she had eventually realized that this choice did not really match what she wanted."
+},
+{
+  "id": "en-094",
+  "fr": "À première vue, la maison semblait parfaite, mais plus nous visitions les différentes pièces, plus nous remarquions des détails qui nous faisaient hésiter.",
+  "en": "At first glance, the house seemed perfect, but the more rooms we visited, the more details we noticed that made us hesitate."
+},
+{
+  "id": "en-095",
+  "fr": "Il n'est pas question que je paie pour quelque chose que je n'ai jamais commandé, surtout après avoir déjà signalé l'erreur à plusieurs reprises.",
+  "en": "There is no way I am going to pay for something I never ordered, especially after having already reported the mistake several times."
+},
+{
+  "id": "en-096",
+  "fr": "Elle s'est arrangée pour que quelqu'un récupère les enfants à l'école au cas où elle ne pourrait pas quitter son travail à temps.",
+  "en": "She arranged for someone to pick up the children from school in case she could not leave work on time."
+},
+{
+  "id": "en-097",
+  "fr": "Même si cela peut paraître exagéré, je préfère vérifier deux fois les informations plutôt que de prendre une décision fondée sur quelque chose qui pourrait être faux.",
+  "en": "Even though it may seem excessive, I prefer to check the information twice rather than make a decision based on something that might be wrong."
+},
+{
+  "id": "en-098",
+  "fr": "Il m'a fallu quelques jours pour comprendre que la personne à laquelle je pensais avoir parlé au téléphone n'était pas celle que je croyais.",
+  "en": "It took me a few days to realize that the person I thought I had spoken to on the phone was not who I thought they were."
+},
+{
+  "id": "en-099",
+  "fr": "Elle a beau connaître parfaitement le quartier, elle s'est perdue parce que plusieurs rues avaient été fermées temporairement pour des travaux.",
+  "en": "Even though she knows the neighborhood perfectly well, she got lost because several streets had been temporarily closed for construction."
+},
+{
+  "id": "en-100",
+  "fr": "Je ne serais pas aussi inquiet si nous avions reçu une confirmation officielle, mais pour l'instant, nous n'avons qu'un message dont nous ne pouvons pas vérifier l'origine.",
+  "en": "I would not be so worried if we had received an official confirmation, but for now, all we have is a message whose origin we cannot verify."
+},
+{
+  "id": "en-101",
+  "fr": "Le propriétaire a finalement accepté de faire les travaux, à condition que nous lui laissions suffisamment de temps pour trouver quelqu'un capable de les réaliser correctement.",
+  "en": "The landlord finally agreed to have the work done, provided that we gave him enough time to find someone capable of doing it properly."
+},
+{
+  "id": "en-102",
+  "fr": "Elle aurait aimé pouvoir rester plus longtemps, mais elle savait que si elle retardait encore son départ, elle risquait de rater le dernier bus.",
+  "en": "She would have liked to stay longer, but she knew that if she delayed her departure any further, she might miss the last bus."
+},
+{
+  "id": "en-103",
+  "fr": "Ce qui est particulièrement frustrant, c'est qu'on nous avait assuré que le problème serait réglé rapidement alors que, plusieurs semaines plus tard, la situation n'a pratiquement pas changé.",
+  "en": "What is particularly frustrating is that we were assured the problem would be resolved quickly, whereas several weeks later, the situation has hardly changed."
+},
+{
+  "id": "en-104",
+  "fr": "Je comprends que tu sois déçu, mais il faut reconnaître qu'il t'avait prévenu dès le début qu'il ne pourrait probablement pas tenir sa promesse.",
+  "en": "I understand that you are disappointed, but it has to be acknowledged that he warned you from the beginning that he probably would not be able to keep his promise."
+},
+{
+  "id": "en-105",
+  "fr": "Après tout ce qui s'est passé, je préfère que nous attendions quelques jours avant de décider si nous voulons vraiment poursuivre cette discussion.",
+  "en": "After everything that has happened, I would rather we waited a few days before deciding whether we really want to continue this discussion."
+},
+{
+  "id": "en-106",
+  "fr": "Il prétend qu'il aurait fait les choses différemment s'il avait été à ma place, mais il oublie qu'il ne disposait pas des mêmes informations que moi à ce moment-là.",
+  "en": "He claims he would have done things differently if he had been in my position, but he forgets that he did not have the same information I had at the time."
+},
+{
+  "id": "en-107",
+  "fr": "À moins que quelque chose ne change d'ici demain, nous devrons probablement chercher une autre solution qui nous permettra de respecter les délais.",
+  "en": "Unless something changes by tomorrow, we will probably have to look for another solution that will allow us to meet the deadline."
+},
+{
+  "id": "en-108",
+  "fr": "Je me demande comment elle a réussi à garder son calme alors que tout le monde autour d'elle commençait à paniquer.",
+  "en": "I wonder how she managed to remain calm while everyone around her was starting to panic."
+},
+{
+  "id": "en-109",
+  "fr": "Il aurait été beaucoup plus simple de nous prévenir immédiatement plutôt que de nous laisser découvrir le problème par nous-mêmes plusieurs heures plus tard.",
+  "en": "It would have been much simpler to inform us immediately rather than let us discover the problem ourselves several hours later."
+},
+{
+  "id": "en-110",
+  "fr": "Elle a décidé de ne pas répondre tout de suite, de peur que sa colère ne l'amène à dire quelque chose qu'elle regretterait ensuite.",
+  "en": "She decided not to reply immediately, for fear that her anger might lead her to say something she would later regret."
+},
+{
+  "id": "en-111",
+  "fr": "Je n'avais aucune raison de penser qu'il mentait, mais certains détails de son histoire ne correspondaient pas exactement à ce que j'avais entendu auparavant.",
+  "en": "I had no reason to think he was lying, but some details of his story did not quite match what I had heard before."
+},
+{
+  "id": "en-112",
+  "fr": "Bien qu'il soit généralement très ponctuel, il est arrivé en retard ce matin parce qu'un accident avait bloqué la circulation sur l'une des principales routes.",
+  "en": "Although he is usually very punctual, he was late this morning because an accident had blocked traffic on one of the main roads."
+},
+{
+  "id": "en-113",
+  "fr": "Elle ne s'attendait pas à ce que son ancienne collègue lui propose de l'aider après la manière dont leur dernière collaboration s'était terminée.",
+  "en": "She did not expect her former colleague to offer to help her after the way their last collaboration had ended."
+},
+{
+  "id": "en-114",
+  "fr": "Pour peu que la météo reste favorable, nous devrions pouvoir terminer les travaux extérieurs avant la fin de la semaine.",
+  "en": "Provided the weather remains favorable, we should be able to finish the outdoor work before the end of the week."
+},
+{
+  "id": "en-115",
+  "fr": "Il a finalement reconnu qu'il avait mal compris ce qu'on lui avait demandé, ce qui expliquait pourquoi le résultat était complètement différent de celui qu'on attendait.",
+  "en": "He eventually admitted that he had misunderstood what he had been asked to do, which explained why the result was completely different from what had been expected."
+},
+{
+  "id": "en-116",
+  "fr": "Je ne vois pas comment nous pourrions terminer avant vendredi, à moins que chacun accepte de consacrer quelques heures supplémentaires au projet.",
+  "en": "I do not see how we could finish before Friday unless everyone agrees to devote a few extra hours to the project."
+},
+{
+  "id": "en-117",
+  "fr": "Même s'il affirme que cette décision ne le dérange pas, son attitude depuis hier laisse clairement entendre qu'il n'est pas aussi indifférent qu'il veut le faire croire.",
+  "en": "Even though he claims that this decision does not bother him, his attitude since yesterday clearly suggests that he is not as indifferent as he wants to appear."
+},
+{
+  "id": "en-118",
+  "fr": "Elle m'a demandé si je pouvais garder un œil sur sa maison pendant son absence, au cas où quelque chose d'imprévu se produirait.",
+  "en": "She asked me if I could keep an eye on her house while she was away, in case anything unexpected happened."
+},
+{
+  "id": "en-119",
+  "fr": "J'aurais dû vérifier les conditions avant de signer, car je viens seulement de découvrir que certaines dépenses supplémentaires n'étaient pas comprises dans le prix annoncé.",
+  "en": "I should have checked the terms before signing, because I have only just discovered that some additional expenses were not included in the advertised price."
+},
+{
+  "id": "en-120",
+  "fr": "Il n'empêche que, malgré toutes les difficultés rencontrées au cours du voyage, nous avons finalement passé un excellent séjour.",
+  "en": "Nevertheless, despite all the difficulties we encountered during the trip, we ultimately had a wonderful stay."
+},
+{
+  "id": "en-121",
+  "fr": "Elle a refusé de reconnaître qu'elle avait tort, même lorsque je lui ai montré les documents qui prouvaient clairement que les informations qu'elle avait données étaient incorrectes.",
+  "en": "She refused to admit that she was wrong, even when I showed her the documents that clearly proved the information she had given was incorrect."
+},
+{
+  "id": "en-122",
+  "fr": "Je pensais que nous étions d'accord sur ce point, mais il semble que nous n'ayons pas du tout compris la même chose lors de notre dernière conversation.",
+  "en": "I thought we agreed on this point, but it seems that we did not understand the same thing at all during our last conversation."
+},
+{
+  "id": "en-123",
+  "fr": "Quoi qu'il arrive demain, je veux que tu saches que nous ferons tout notre possible pour trouver une solution qui convienne à tout le monde.",
+  "en": "Whatever happens tomorrow, I want you to know that we will do everything we can to find a solution that works for everyone."
+},
+{
+  "id": "en-124",
+  "fr": "Il a fallu attendre que les choses se calment pour qu'elle réalise à quel point cette situation l'avait affectée.",
+  "en": "It was only after things had calmed down that she realized how much the situation had affected her."
+},
+{
+  "id": "en-125",
+  "fr": "Je ne pense pas qu'il soit raisonnable de prendre une décision aussi importante alors que nous ne savons toujours pas ce qui s'est réellement passé.",
+  "en": "I do not think it is reasonable to make such an important decision when we still do not know what really happened."
+},
+{
+  "id": "en-126",
+  "fr": "Elle avait beau essayer de lui expliquer calmement la situation, il continuait à l'interrompre avant même qu'elle ait terminé sa phrase.",
+  "en": "No matter how hard she tried to explain the situation calmly, he kept interrupting her before she had even finished her sentence."
+},
+{
+  "id": "en-127",
+  "fr": "Si les informations que tu m'as données sont exactes, il n'y a aucune raison pour que nous changions nos plans à ce stade.",
+  "en": "If the information you gave me is accurate, there is no reason for us to change our plans at this stage."
+},
+{
+  "id": "en-128",
+  "fr": "Ce n'est qu'en relisant attentivement le contrat que j'ai compris que certaines conditions dont nous avions parlé oralement n'y figuraient absolument pas.",
+  "en": "It was only by carefully rereading the contract that I realized that some of the conditions we had discussed verbally were not included in it at all."
+},
+{
+  "id": "en-129",
+  "fr": "Elle s'est montrée beaucoup plus compréhensive que je ne l'aurais imaginé, compte tenu de la manière dont je lui avais annoncé la nouvelle.",
+  "en": "She was much more understanding than I would have expected, considering the way I had told her the news."
+},
+{
+  "id": "en-130",
+  "fr": "Il m'a fallu du temps pour accepter que certaines choses ne se passeraient pas comme je l'avais prévu, même si j'avais fait tout ce qui était en mon pouvoir pour les organiser correctement.",
+  "en": "It took me time to accept that some things would not happen as I had planned, even though I had done everything in my power to organize them properly."
+},
+{
+  "id": "en-131",
+  "fr": "À en croire les voisins, le problème existait depuis longtemps, mais personne n'avait vraiment pris la peine de s'en occuper avant que la situation ne devienne impossible à ignorer.",
+  "en": "According to the neighbors, the problem had existed for a long time, but no one had really bothered to deal with it until the situation became impossible to ignore."
+},
+{
+  "id": "en-132",
+  "fr": "Elle aurait pu se contenter de refuser l'offre, mais elle a préféré expliquer les raisons pour lesquelles elle pensait qu'une autre proposition serait plus adaptée.",
+  "en": "She could have simply refused the offer, but she preferred to explain why she thought another proposal would be more suitable."
+},
+{
+  "id": "en-133",
+  "fr": "Je ne dis pas qu'il a entièrement tort, mais il faudrait tout de même tenir compte du fait que les circonstances ont considérablement changé depuis qu'il a pris cette décision.",
+  "en": "I am not saying that he is completely wrong, but we should nevertheless take into account the fact that circumstances have changed considerably since he made that decision."
+},
+{
+  "id": "en-134",
+  "fr": "Après ce qui s'est passé la dernière fois, il n'est pas étonnant qu'elle hésite à lui faire à nouveau confiance, même s'il semble sincèrement regretter son comportement.",
+  "en": "After what happened last time, it is not surprising that she is reluctant to trust him again, even though he seems genuinely sorry about his behavior."
+},
+{
+  "id": "en-135",
+  "fr": "Il ne faudrait pas croire que tout est réglé simplement parce que le problème principal a été temporairement résolu.",
+  "en": "We should not assume that everything is settled simply because the main problem has been temporarily resolved."
+},
+{
+  "id": "en-136",
+  "fr": "Elle m'a dit qu'elle se serait probablement inquiétée beaucoup plus si personne ne l'avait appelée pour lui expliquer ce qui s'était passé.",
+  "en": "She told me that she would probably have been much more worried if no one had called her to explain what had happened."
+},
+{
+  "id": "en-137",
+  "fr": "Même si je reconnais que son idée pourrait fonctionner, je ne suis pas convaincu qu'elle soit suffisamment réaliste pour être mise en œuvre immédiatement.",
+  "en": "Even though I acknowledge that his idea could work, I am not convinced that it is realistic enough to be implemented immediately."
+},
+{
+  "id": "en-138",
+  "fr": "Ce qui m'étonne le plus, c'est qu'après avoir vécu une situation similaire l'année dernière, il ait quand même commis exactement la même erreur.",
+  "en": "What surprises me most is that, after experiencing a similar situation last year, he still made exactly the same mistake."
+},
+{
+  "id": "en-139",
+  "fr": "Je préférerais que nous ne nous engagions pas dans quelque chose dont nous ne savons pas encore si nous serons capables d'assumer toutes les conséquences.",
+  "en": "I would rather we did not commit ourselves to something whose consequences we are not yet sure we will be able to handle."
+},
+{
+  "id": "en-140",
+  "fr": "Quoi qu'on puisse penser de sa décision, il faut reconnaître qu'il avait suffisamment réfléchi aux conséquences avant de finalement décider d'agir de cette manière.",
+  "en": "Whatever one may think of his decision, it must be acknowledged that he had thought carefully about the consequences before finally deciding to act in this way."
+},{
+  "id": "en-141",
+  "fr": "Quand bien même il aurait les moyens de s'offrir une voiture neuve, il préfère conserver celle qu'il possède déjà, dont il connaît parfaitement les défauts et qu'il sait encore pouvoir utiliser pendant plusieurs années.",
+  "en": "Even if he could afford a new car, he prefers to keep the one he already has, whose faults he knows perfectly well and which he knows he can still use for several years."
+},
+{
+  "id": "en-142",
+  "fr": "Ce qui m'a véritablement dérangé, ce n'est pas tant qu'il ait changé d'avis que le fait qu'il ait attendu que tout soit organisé avant de nous annoncer qu'il ne comptait finalement plus venir.",
+  "en": "What really bothered me was not so much that he changed his mind as the fact that he waited until everything had been arranged before telling us that he was no longer planning to come."
+},
+{
+  "id": "en-143",
+  "fr": "À supposer même que nous trouvions quelqu'un disposé à reprendre l'appartement immédiatement, il resterait encore à régler la question du dépôt de garantie que le propriétaire refuse pour l'instant de nous restituer.",
+  "en": "Even assuming that we found someone willing to take over the apartment immediately, we would still have to deal with the issue of the security deposit, which the landlord is refusing to return to us for the time being."
+},
+{
+  "id": "en-144",
+  "fr": "Elle a beau prétendre que cette remarque ne l'a pas touchée, la manière dont elle a brusquement changé de sujet dès que quelqu'un l'a évoquée laisse entendre le contraire.",
+  "en": "She may claim that the remark did not affect her, but the way she suddenly changed the subject as soon as someone mentioned it suggests otherwise."
+},
+{
+  "id": "en-145",
+  "fr": "Il n'est pas exclu que le retard soit dû à un problème dont personne ne nous a encore parlé, auquel cas il serait inutile de continuer à attendre une explication qui ne viendra probablement pas.",
+  "en": "It is possible that the delay is due to a problem that no one has told us about yet, in which case there would be little point in continuing to wait for an explanation that will probably never come."
+},
+{
+  "id": "en-146",
+  "fr": "Pour autant que je sache, personne ne lui avait demandé de prendre cette décision, mais il semble avoir considéré qu'il valait mieux agir immédiatement plutôt que de laisser la situation empirer.",
+  "en": "As far as I know, no one had asked him to make that decision, but he seems to have thought it better to act immediately rather than let the situation get worse."
+},
+{
+  "id": "en-147",
+  "fr": "Il aurait beau essayer de nous convaincre qu'il n'avait aucune idée de ce qui allait se passer, certains détails de son comportement donnent plutôt l'impression qu'il s'y attendait depuis longtemps.",
+  "en": "He could try as much as he likes to convince us that he had no idea what was going to happen, but certain details of his behavior rather suggest that he had been expecting it for a long time."
+},
+{
+  "id": "en-148",
+  "fr": "Ce n'est qu'une fois que tout le monde eut quitté la maison qu'elle s'aperçut que la porte d'entrée, qu'elle croyait avoir soigneusement verrouillée, était restée entrouverte.",
+  "en": "It was only once everyone had left the house that she realized the front door, which she thought she had carefully locked, had been left slightly open."
+},
+{
+  "id": "en-149",
+  "fr": "À moins d'un changement de dernière minute, auquel personne ne semble réellement s'attendre, le vol devrait décoller à l'heure prévue malgré les conditions météorologiques difficiles.",
+  "en": "Unless there is a last-minute change, which no one really seems to expect, the flight should depart at the scheduled time despite the difficult weather conditions."
+},
+{
+  "id": "en-150",
+  "fr": "Je ne serais pas allé jusqu'à dire qu'il a volontairement ignoré notre demande, mais force est de constater qu'il n'a rien fait alors qu'il avait parfaitement compris ce que nous attendions de lui.",
+  "en": "I would not go so far as to say that he deliberately ignored our request, but it has to be acknowledged that he did nothing even though he fully understood what we expected from him."
+},
+{
+  "id": "en-151",
+  "fr": "Elle aurait pu se contenter de lui dire qu'elle n'était pas d'accord, mais elle a pris le temps de lui expliquer, sans le mettre mal à l'aise, ce qui lui posait précisément problème.",
+  "en": "She could have simply told him that she disagreed, but she took the time to explain, without making him uncomfortable, exactly what she had a problem with."
+},
+{
+  "id": "en-152",
+  "fr": "Quoi qu'il en soit, je trouve assez surprenant qu'après avoir été prévenu à plusieurs reprises, il puisse encore prétendre qu'il ne savait pas que cette règle s'appliquait également à lui.",
+  "en": "In any case, I find it rather surprising that, after being warned several times, he can still claim that he did not know that this rule applied to him as well."
+},
+{
+  "id": "en-153",
+  "fr": "Il va sans dire que personne n'aurait accepté de payer une telle somme s'il avait été précisé dès le départ que les frais supplémentaires n'étaient pas compris dans le prix annoncé.",
+  "en": "It goes without saying that no one would have agreed to pay such an amount if it had been made clear from the outset that the additional charges were not included in the advertised price."
+},
+{
+  "id": "en-154",
+  "fr": "Elle n'en revenait pas que son voisin, qu'elle considérait pourtant comme quelqu'un de particulièrement discret, ait raconté à tout le quartier ce qu'elle lui avait confié en privé.",
+  "en": "She could hardly believe that her neighbor, whom she had considered to be particularly discreet, had told the whole neighborhood what she had confided to him in private."
+},
+{
+  "id": "en-155",
+  "fr": "Si tant est que son explication soit exacte, ce qui reste à démontrer, cela ne justifierait de toute façon pas la manière dont il s'est comporté avec les autres.",
+  "en": "Even if his explanation is accurate, which remains to be established, that would not justify the way he behaved toward the others anyway."
+},
+{
+  "id": "en-156",
+  "fr": "À force de vouloir tout régler elle-même, elle en est arrivée à ne plus demander d'aide, même lorsqu'elle savait parfaitement qu'elle ne pourrait pas tout gérer seule.",
+  "en": "By insisting on handling everything herself, she eventually stopped asking for help, even when she knew perfectly well that she could not manage everything on her own."
+},
+{
+  "id": "en-157",
+  "fr": "Il n'empêche que, même si les circonstances peuvent expliquer en partie sa réaction, elles ne suffisent pas à excuser complètement la façon dont il a parlé à sa mère.",
+  "en": "Nevertheless, even though the circumstances may partly explain his reaction, they are not enough to completely excuse the way he spoke to his mother."
+},
+{
+  "id": "en-158",
+  "fr": "Ce qui est pour le moins étonnant, c'est qu'une personne aussi prudente ait pu laisser son téléphone sans surveillance dans un endroit où elle savait pourtant que beaucoup de gens circulaient.",
+  "en": "What is rather surprising is that someone so cautious could have left their phone unattended in a place where they knew a lot of people were passing through."
+},
+{
+  "id": "en-159",
+  "fr": "Je veux bien admettre que nous aurions pu mieux nous organiser, encore faudrait-il reconnaître que certaines informations essentielles ne nous ont été communiquées qu'au dernier moment.",
+  "en": "I am willing to admit that we could have organized ourselves better, but it would also be fair to acknowledge that some essential information was only given to us at the last minute."
+},
+{
+  "id": "en-160",
+  "fr": "Il n'aurait probablement pas réagi de la sorte s'il avait compris que la personne à laquelle il s'adressait n'était pas responsable du problème dont il se plaignait.",
+  "en": "He probably would not have reacted that way if he had understood that the person he was speaking to was not responsible for the problem he was complaining about."
+},
+{
+  "id": "en-161",
+  "fr": "Bien lui en ait pris d'emporter un parapluie, car à peine avait-il quitté la maison que la pluie, qui menaçait depuis le matin, s'est mise à tomber à verse.",
+  "en": "It was just as well that he took an umbrella with him, because hardly had he left the house when the rain, which had been threatening since morning, began pouring down."
+},
+{
+  "id": "en-162",
+  "fr": "À peine étions-nous arrivés au restaurant que nous avons compris que la réservation, pourtant confirmée la veille, n'avait manifestement pas été enregistrée correctement.",
+  "en": "We had barely arrived at the restaurant when we realized that the reservation, which had nevertheless been confirmed the day before, had apparently not been recorded properly."
+},
+{
+  "id": "en-163",
+  "fr": "Loin de se montrer reconnaissante, elle a donné l'impression de considérer comme allant de soi que nous nous occupions de tout pendant qu'elle se préparait tranquillement.",
+  "en": "Far from being grateful, she seemed to take it for granted that we would take care of everything while she calmly got ready."
+},
+{
+  "id": "en-164",
+  "fr": "Pour peu qu'on prenne le temps d'observer la situation attentivement, on se rend compte que le problème est beaucoup moins simple qu'il n'y paraît au premier abord.",
+  "en": "If one takes the time to look carefully at the situation, one realizes that the problem is far less simple than it may seem at first glance."
+},
+{
+  "id": "en-165",
+  "fr": "Il n'est pas tant question de savoir qui a raison que de comprendre pourquoi une situation aussi banale a fini par provoquer un désaccord aussi profond entre eux.",
+  "en": "It is less a matter of knowing who is right than of understanding why such an ordinary situation ended up causing such a deep disagreement between them."
+},
+{
+  "id": "en-166",
+  "fr": "Quand bien même elle accepterait de revenir sur sa décision, je doute qu'elle puisse oublier aussi facilement ce qui s'est passé entre eux au cours des dernières semaines.",
+  "en": "Even if she agreed to reconsider her decision, I doubt she could so easily forget what had happened between them over the past few weeks."
+},
+{
+  "id": "en-167",
+  "fr": "Ce n'est pas faute de lui avoir expliqué plusieurs fois le problème qu'il continue à agir comme s'il n'en comprenait toujours pas les conséquences.",
+  "en": "It is not for lack of explaining the problem to him several times that he continues to act as though he still does not understand its consequences."
+},
+{
+  "id": "en-168",
+  "fr": "Elle n'a pas tardé à se rendre compte que, quoi qu'en dise son vendeur, le modèle qu'elle venait d'acheter ne correspondait pas exactement à ce qui lui avait été présenté en magasin.",
+  "en": "She soon realized that, whatever the salesperson might say, the model she had just bought did not exactly match what had been shown to her in the store."
+},
+{
+  "id": "en-169",
+  "fr": "Encore aurait-il fallu que quelqu'un pense à prévenir les passagers du changement d'itinéraire avant qu'ils ne se retrouvent bloqués à plusieurs kilomètres de leur destination.",
+  "en": "Someone should at least have thought to inform the passengers about the change of route before they found themselves stranded several kilometers from their destination."
+},
+{
+  "id": "en-170",
+  "fr": "Il avait beau multiplier les explications, plus il essayait de justifier son retard, moins son histoire paraissait crédible aux personnes qui l'attendaient.",
+  "en": "No matter how many explanations he gave, the more he tried to justify his lateness, the less credible his story seemed to the people waiting for him."
+},
+{
+  "id": "en-171",
+  "fr": "Ce qui m'échappe encore, c'est la raison pour laquelle elle a préféré garder le silence alors qu'elle aurait très facilement pu éviter tout ce malentendu en nous parlant dès le début.",
+  "en": "What I still cannot understand is why she chose to remain silent when she could so easily have avoided the whole misunderstanding by talking to us from the beginning."
+},
+{
+  "id": "en-172",
+  "fr": "Il serait pour le moins imprudent de supposer que tout va rentrer dans l'ordre simplement parce que le principal problème semble, pour l'instant, avoir disparu.",
+  "en": "It would be rather unwise to assume that everything will return to normal simply because the main problem seems, for now, to have disappeared."
+},
+{
+  "id": "en-173",
+  "fr": "Elle s'est arrangée pour que les enfants soient accompagnés à l'école, de sorte qu'elle puisse rester au travail aussi longtemps que nécessaire sans avoir à s'inquiéter de leur retour.",
+  "en": "She arranged for the children to be accompanied to school so that she could stay at work as long as necessary without having to worry about their journey home."
+},
+{
+  "id": "en-174",
+  "fr": "Il ne faudrait pas pour autant en déduire que tout le monde partage son opinion, simplement parce que personne n'a jugé utile de le contredire à ce moment-là.",
+  "en": "That should not, however, lead us to conclude that everyone shares his opinion simply because no one thought it necessary to contradict him at the time."
+},
+{
+  "id": "en-175",
+  "fr": "À bien y réfléchir, je crois que ce qui nous a surtout poussés à accepter cette proposition, c'est la peur de regretter plus tard de ne pas avoir essayé.",
+  "en": "Come to think of it, I believe what mainly pushed us to accept the proposal was the fear of regretting later that we had not tried."
+},
+{
+  "id": "en-176",
+  "fr": "Il va de soi que j'aurais préféré être informé plus tôt, ne serait-ce que pour pouvoir m'organiser en conséquence et éviter de devoir tout changer au dernier moment.",
+  "en": "It goes without saying that I would have preferred to be informed earlier, if only so that I could have organized myself accordingly and avoided having to change everything at the last minute."
+},
+{
+  "id": "en-177",
+  "fr": "Elle avait beau savoir qu'il n'était pas raisonnable de partir aussi tard, quelque chose lui disait qu'elle regretterait davantage de ne pas y aller que de rentrer très tard.",
+  "en": "Even though she knew it was not sensible to leave so late, something told her that she would regret not going more than she would regret coming home very late."
+},
+{
+  "id": "en-178",
+  "fr": "Si ce n'était le fait que nous avons déjà payé une partie du séjour, je serais tenté de tout annuler plutôt que de continuer à accepter des changements qui n'étaient pas prévus au départ.",
+  "en": "If it were not for the fact that we have already paid for part of the trip, I would be tempted to cancel everything rather than continue accepting changes that were not originally planned."
+},
+{
+  "id": "en-179",
+  "fr": "Il n'en demeure pas moins que, malgré les précautions prises par chacun, personne n'avait prévu que le système tomberait en panne au moment où nous en avions le plus besoin.",
+  "en": "Nevertheless, despite the precautions everyone had taken, no one had expected the system to fail at the very moment when we needed it most."
+},
+{
+  "id": "en-180",
+  "fr": "Elle ne s'est pas fait prier pour accepter l'invitation, d'autant qu'elle savait que plusieurs personnes qu'elle n'avait pas vues depuis longtemps seraient présentes.",
+  "en": "She did not hesitate to accept the invitation, especially since she knew that several people she had not seen for a long time would be there."
+},
+{
+  "id": "en-181",
+  "fr": "Qu'il le veuille ou non, il devra tôt ou tard admettre que certaines décisions qu'il a prises à l'époque étaient fondées sur des informations qui se sont révélées inexactes par la suite.",
+  "en": "Whether he likes it or not, sooner or later he will have to admit that some of the decisions he made at the time were based on information that later turned out to be inaccurate."
+},
+{
+  "id": "en-182",
+  "fr": "Ce n'est pas que je refuse de t'aider, mais si je m'en charge également, il ne restera plus personne pour s'occuper des autres tâches que nous avons déjà en retard.",
+  "en": "It is not that I refuse to help you, but if I take care of that as well, there will be no one left to deal with the other tasks that we are already behind on."
+},
+{
+  "id": "en-183",
+  "fr": "À supposer qu'il accepte finalement de nous rembourser, encore faudra-t-il qu'il reconnaisse que la somme qu'il nous propose ne couvre même pas la moitié des dépenses que nous avons engagées.",
+  "en": "Even assuming that he finally agrees to reimburse us, he will still have to acknowledge that the amount he is offering does not even cover half of the expenses we have incurred."
+},
+{
+  "id": "en-184",
+  "fr": "Elle aurait beau consulter toutes les prévisions météorologiques disponibles, rien ne pourrait lui garantir que le temps resterait suffisamment stable pour maintenir la sortie prévue.",
+  "en": "She could check every available weather forecast, but nothing could guarantee that the weather would remain stable enough for the planned outing to go ahead."
+},
+{
+  "id": "en-185",
+  "fr": "Il n'aura pas fallu longtemps pour que les voisins se rendent compte que les travaux annoncés comme temporaires étaient en réalité beaucoup plus importants qu'on ne leur avait laissé entendre.",
+  "en": "It did not take long for the neighbors to realize that the work described as temporary was actually much more extensive than they had been led to believe."
+},
+{
+  "id": "en-186",
+  "fr": "À peine avait-elle raccroché qu'elle s'est demandé si elle n'aurait pas mieux fait de garder pour elle ce qu'elle venait de dire sous le coup de la colère.",
+  "en": "She had barely hung up when she wondered whether she would have been better off keeping to herself what she had just said in anger."
+},
+{
+  "id": "en-187",
+  "fr": "Il serait difficile de lui reprocher son hésitation, dans la mesure où personne ne lui avait donné suffisamment d'informations pour qu'elle puisse prendre une décision en connaissance de cause.",
+  "en": "It would be difficult to blame her for hesitating, given that no one had given her enough information to make an informed decision."
+},
+{
+  "id": "en-188",
+  "fr": "Loin de régler le problème, la décision prise hier risque au contraire de compliquer davantage une situation qui était déjà suffisamment délicate.",
+  "en": "Far from solving the problem, the decision made yesterday may instead make an already delicate situation even more complicated."
+},
+{
+  "id": "en-189",
+  "fr": "Pour autant que je puisse en juger, il n'a jamais réellement voulu partir, mais il s'est retrouvé dans une situation où rester lui paraissait finalement encore plus difficile.",
+  "en": "As far as I can tell, he never really wanted to leave, but he found himself in a situation where staying ultimately seemed even more difficult."
+},
+{
+  "id": "en-190",
+  "fr": "Ce n'est qu'après coup que j'ai compris pourquoi elle avait insisté pour que nous emportions suffisamment d'eau, alors qu'à ce moment-là je trouvais sa précaution quelque peu excessive.",
+  "en": "It was only afterward that I understood why she had insisted that we take enough water, whereas at the time I thought her precaution was somewhat excessive."
+},
+{
+  "id": "en-191",
+  "fr": "À moins que quelqu'un ne trouve une solution d'ici là, nous n'aurons d'autre choix que de reporter la réunion, ce qui risque de poser problème à ceux qui avaient déjà organisé leur journée en conséquence.",
+  "en": "Unless someone finds a solution by then, we will have no choice but to postpone the meeting, which may cause problems for those who had already arranged their day accordingly."
+},
+{
+  "id": "en-192",
+  "fr": "Il n'en reste pas moins que, quelle que soit la manière dont on présente les choses, nous aurions probablement dû nous assurer que tout le monde avait bien compris avant de commencer.",
+  "en": "Nevertheless, however the situation is presented, we probably should have made sure that everyone had understood before we started."
+},
+{
+  "id": "en-193",
+  "fr": "Elle s'est retrouvée à devoir expliquer à plusieurs reprises quelque chose qu'elle pensait pourtant avoir clairement précisé dès le début, sans parvenir à comprendre pourquoi personne ne semblait l'avoir retenu.",
+  "en": "She found herself having to explain several times something she thought she had made perfectly clear from the beginning, without being able to understand why no one seemed to have remembered it."
+},
+{
+  "id": "en-194",
+  "fr": "Il n'est pas tant question de savoir si cette solution est parfaite que de déterminer si, compte tenu du peu de temps dont nous disposons, nous avons réellement une meilleure option.",
+  "en": "It is not so much a question of whether this solution is perfect as of determining whether, given how little time we have, we actually have a better option."
+},
+{
+  "id": "en-195",
+  "fr": "Quand bien même nous parviendrions à convaincre le propriétaire de réduire le loyer, cela ne changerait rien au fait que l'appartement nécessite encore des réparations importantes.",
+  "en": "Even if we managed to convince the landlord to reduce the rent, that would not change the fact that the apartment still needs major repairs."
+},
+{
+  "id": "en-196",
+  "fr": "Elle a fini par reconnaître qu'elle avait peut-être réagi de manière excessive, non pas parce qu'elle avait changé d'avis sur le fond, mais parce qu'elle regrettait la façon dont elle avait exprimé son désaccord.",
+  "en": "She eventually admitted that she might have overreacted, not because she had changed her mind about the issue itself, but because she regretted the way she had expressed her disagreement."
+},
+{
+  "id": "en-197",
+  "fr": "Si seulement nous avions su à quel point la circulation serait dense, nous aurions probablement choisi un autre itinéraire, quitte à faire un détour beaucoup plus long.",
+  "en": "If only we had known how heavy the traffic would be, we probably would have chosen another route, even if it meant taking a much longer detour."
+},
+{
+  "id": "en-198",
+  "fr": "Il n'aurait servi à rien de continuer à discuter, puisque chacun était désormais tellement convaincu d'avoir raison qu'aucun des deux ne semblait encore disposé à écouter l'autre.",
+  "en": "There would have been no point in continuing the discussion, since both of them were now so convinced that they were right that neither seemed willing to listen to the other anymore."
+},
+{
+  "id": "en-199",
+  "fr": "Avec le recul, je me demande si nous n'aurions pas mieux fait d'attendre quelques jours avant d'agir, car certaines informations que nous pensions fiables se sont révélées beaucoup moins précises qu'on ne l'avait imaginé.",
+  "en": "In hindsight, I wonder whether we would have been better off waiting a few days before acting, because some of the information we thought was reliable turned out to be far less accurate than we had imagined."
+},
+{
+  "id": "en-200",
+  "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, il serait dommage de ne pas tirer les leçons de cette expérience afin d'éviter, autant que possible, de nous retrouver dans la même situation à l'avenir.",
+  "en": "In any case, even though we can no longer change what happened, it would be a shame not to learn from this experience in order to avoid, as far as possible, finding ourselves in the same situation in the future."
+}],
+    "frenchgerman": [],
+    "frenchitalian": [],
+    "frenchspanish": [],
+    "frenchchinese": [],
+    "frenchportuguese": [],
+    "frencharabic": [],
+    "frenchturkish": [],
+    "frenchhindi": [],
+    "frenchrussian": [],
+    "frenchpolish": []
+  }
 }
