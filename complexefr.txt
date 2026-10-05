@@ -3992,7 +3992,1004 @@
         "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, rien ne nous empêche de tirer les leçons nécessaires afin d'éviter qu'une situation comparable ne se reproduise à l'avenir.",
         "es": "En cualquier caso, aunque ya no podamos cambiar lo ocurrido, nada nos impide extraer las lecciones necesarias para evitar que una situación similar vuelva a producirse en el futuro."
       }],
-    "frenchchinese": [],
+    "frenchchinese": [{
+        "id": "zh-001",
+        "fr": "Comme le magasin était déjà fermé lorsque je suis arrivé, j'ai dû attendre le lendemain pour retourner la veste que j'avais achetée la veille.",
+        "zh": "我到达时商店已经关门了，所以我只能等到第二天才能退回前一天买的那件外套。"
+      },
+      {
+        "id": "zh-002",
+        "fr": "Si tu veux être sûr de ne pas oublier ton rendez-vous, je te conseille de noter l'heure et l'adresse quelque part avant de partir.",
+        "zh": "如果你不想忘记预约，我建议你在出发前把时间和地址记在某个地方。"
+      },
+      {
+        "id": "zh-003",
+        "fr": "Bien qu'il ait beaucoup plu pendant la nuit, les rues étaient déjà presque sèches lorsque nous sommes sortis le matin.",
+        "zh": "虽然夜里下了很大的雨，但我们早上出门时街道已经差不多干了。"
+      },
+      {
+        "id": "zh-004",
+        "fr": "Avant de prendre le bus, vérifie bien les horaires, car celui que nous devons prendre ne passe qu'une fois toutes les trente minutes.",
+        "zh": "上公交车之前，一定要仔细确认时间，因为我们要乘坐的那辆车每三十分钟才来一班。"
+      },
+      {
+        "id": "zh-005",
+        "fr": "Elle avait tellement de choses à faire qu'elle a décidé de préparer le dîner plus tôt afin d'avoir suffisamment de temps pour terminer son travail.",
+        "zh": "她有太多事情要做，所以决定早点准备晚饭，以便有足够的时间完成工作。"
+      },
+      {
+        "id": "zh-006",
+        "fr": "Même si le restaurant était plus cher que celui que nous avions choisi la semaine précédente, nous avons décidé d'y dîner parce que le menu nous semblait plus intéressant.",
+        "zh": "虽然这家餐厅比我们上周选择的那家更贵，但我们还是决定在那里吃饭，因为菜单看起来更有吸引力。"
+      },
+      {
+        "id": "zh-007",
+        "fr": "Lorsque je suis rentré chez moi, j'ai constaté que j'avais laissé mon téléphone au bureau, alors que je pensais l'avoir emporté avec moi.",
+        "zh": "回到家后，我发现自己把手机落在办公室了，而我原本以为已经把它带回来了。"
+      },
+      {
+        "id": "zh-008",
+        "fr": "Si le temps s'améliore demain, nous pourrons enfin faire la promenade que nous avions prévue le week-end dernier.",
+        "zh": "如果明天天气好转，我们终于可以去散步了，这是我们上周末原本计划好的活动。"
+      },
+      {
+        "id": "zh-009",
+        "fr": "Il a oublié de fermer la fenêtre avant de partir, si bien que toute la pièce était humide lorsqu'il est revenu.",
+        "zh": "他出门前忘了关窗户，所以回来时整个房间都很潮湿。"
+      },
+      {
+        "id": "zh-010",
+        "fr": "Je préfère acheter les billets à l'avance, surtout lorsque je sais que le train risque d'être complet pendant les périodes de vacances.",
+        "zh": "我更喜欢提前买票，尤其是在我知道假期期间火车可能会满员的时候。"
+      },
+      {
+        "id": "zh-011",
+        "fr": "Comme personne ne connaissait l'adresse exacte, nous avons dû demander plusieurs fois notre chemin avant de trouver la maison.",
+        "zh": "因为没有人知道确切的地址，我们问了好几次路才找到那栋房子。"
+      },
+      {
+        "id": "zh-012",
+        "fr": "Elle a acheté une nouvelle table parce que l'ancienne était devenue trop petite depuis que ses deux enfants avaient commencé à manger avec elle.",
+        "zh": "她买了一张新桌子，因为自从两个孩子开始和她一起吃饭以后，旧桌子已经变得太小了。"
+      },
+      {
+        "id": "zh-013",
+        "fr": "Après avoir vérifié plusieurs fois la facture, il s'est rendu compte que le restaurant lui avait facturé deux boissons qu'il n'avait jamais commandées.",
+        "zh": "他仔细检查了几遍账单后，发现餐厅多收了两杯他从未点过的饮料的钱。"
+      },
+      {
+        "id": "zh-014",
+        "fr": "Nous avons dû reporter notre voyage parce que l'un de nos amis est tombé malade quelques jours avant notre départ.",
+        "zh": "我们不得不推迟旅行，因为其中一位朋友在出发前几天生病了。"
+      },
+      {
+        "id": "zh-015",
+        "fr": "Elle avait beau chercher ses lunettes partout dans la maison, elle ne les a retrouvées que lorsqu'elle a décidé de vérifier son sac.",
+        "zh": "她虽然在家里到处寻找眼镜，却直到检查自己的包时才找到它们。"
+      },
+      {
+        "id": "zh-016",
+        "fr": "Le vendeur m'a expliqué que le modèle que je cherchais n'était plus disponible, mais qu'il pouvait me proposer une version légèrement plus récente.",
+        "zh": "售货员向我解释说，我正在寻找的型号已经没有了，但他可以给我推荐一个稍微更新的版本。"
+      },
+      {
+        "id": "zh-017",
+        "fr": "Comme nous avions oublié de réserver une chambre, nous avons passé presque une heure à chercher un hôtel qui avait encore des disponibilités.",
+        "zh": "因为我们忘记预订房间，所以花了将近一个小时寻找还有空房的酒店。"
+      },
+      {
+        "id": "zh-018",
+        "fr": "Même si elle était très fatiguée après sa journée de travail, elle a pris le temps de préparer quelque chose à manger pour toute la famille.",
+        "zh": "虽然工作了一整天后她非常疲惫，但她还是抽出时间为全家准备了吃的。"
+      },
+      {
+        "id": "zh-019",
+        "fr": "Le médecin m'a demandé depuis combien de temps je ressentais cette douleur et si elle devenait plus forte lorsque je faisais certains mouvements.",
+        "zh": "医生问我这种疼痛已经持续了多长时间，以及做某些动作时疼痛是否会加重。"
+      },
+      {
+        "id": "zh-020",
+        "fr": "Nous avons choisi cet appartement parce qu'il était proche des transports en commun et qu'il disposait également d'une petite terrasse.",
+        "zh": "我们选择这套公寓，是因为它靠近公共交通，而且还有一个小露台。"
+      },
+      {
+        "id": "zh-021",
+        "fr": "Si tu avais vérifié ton courrier plus tôt, tu aurais vu que la banque t'avait envoyé un message important concernant ton compte.",
+        "zh": "如果你早点查看邮件，就会发现银行给你发了一条关于账户的重要信息。"
+      },
+      {
+        "id": "zh-022",
+        "fr": "Après avoir discuté avec ses voisins, elle a finalement compris pourquoi l'eau était coupée dans tout le quartier depuis le matin.",
+        "zh": "和邻居们交谈之后，她终于明白为什么整个街区从早上开始就停水了。"
+      },
+      {
+        "id": "zh-023",
+        "fr": "Le colis devait arriver lundi, mais comme personne n'était présent à la maison, le livreur l'a laissé dans un point de retrait proche.",
+        "zh": "包裹本应星期一到达，但由于家里没有人，快递员把它放在了附近的取件点。"
+      },
+      {
+        "id": "zh-024",
+        "fr": "Je pensais que le trajet serait rapide, mais les embouteillages étaient tellement importants que nous avons mis presque deux heures pour arriver.",
+        "zh": "我原以为路程会很快，但交通堵塞非常严重，我们花了将近两个小时才到达。"
+      },
+      {
+        "id": "zh-025",
+        "fr": "Elle a décidé de changer de travail parce qu'elle ne trouvait plus suffisamment de temps pour sa famille.",
+        "zh": "她决定换工作，因为她已经没有足够的时间陪伴家人了。"
+      },
+      {
+        "id": "zh-026",
+        "fr": "Lorsque nous sommes arrivés à la gare, le train venait de partir, ce qui nous a obligés à attendre le suivant pendant près d'une heure.",
+        "zh": "我们到达车站时火车刚刚开走，这迫使我们等了将近一个小时的下一班车。"
+      },
+      {
+        "id": "zh-027",
+        "fr": "Il m'a promis qu'il réparerait l'ordinateur dès qu'il aurait terminé le travail urgent qu'il devait rendre le lendemain.",
+        "zh": "他答应我，一完成第二天必须交的紧急工作，就会修电脑。"
+      },
+      {
+        "id": "zh-028",
+        "fr": "Bien qu'il connaisse déjà la ville, il a utilisé une application de navigation afin d'éviter les routes qui étaient habituellement très encombrées.",
+        "zh": "虽然他已经很熟悉这座城市，但还是使用了导航应用，以避开通常非常拥堵的道路。"
+      },
+      {
+        "id": "zh-029",
+        "fr": "Nous avons acheté davantage de nourriture que nécessaire parce que nous ne savions pas combien de personnes allaient finalement venir au dîner.",
+        "zh": "我们买了比需要更多的食物，因为不知道最后会有多少人来吃晚饭。"
+      },
+      {
+        "id": "zh-030",
+        "fr": "Si l'hôtel avait confirmé notre réservation plus tôt, nous n'aurions pas eu besoin de chercher une autre chambre à la dernière minute.",
+        "zh": "如果酒店早点确认我们的预订，我们就不需要在最后一刻寻找另一间房了。"
+      },
+      {
+        "id": "zh-031",
+        "fr": "Elle m'a expliqué qu'elle n'avait pas répondu à mon message parce qu'elle avait passé toute la journée sans connexion Internet.",
+        "zh": "她向我解释说没有回复我的消息，因为她一整天都没有网络。"
+      },
+      {
+        "id": "zh-032",
+        "fr": "Le propriétaire a accepté de remplacer la serrure à condition que nous prenions en charge les frais de déplacement du serrurier.",
+        "zh": "房东同意更换门锁，条件是我们承担锁匠的上门费用。"
+      },
+      {
+        "id": "zh-033",
+        "fr": "Comme le prix avait augmenté depuis notre dernière visite, nous avons finalement choisi un autre restaurant qui proposait un menu similaire.",
+        "zh": "由于价格比我们上次来时上涨了，我们最后选择了另一家提供类似菜单的餐厅。"
+      },
+      {
+        "id": "zh-034",
+        "fr": "Il a fallu plusieurs jours pour résoudre le problème, car personne ne savait exactement quelle partie de la machine était responsable de la panne.",
+        "zh": "这个问题花了好几天才解决，因为没有人确切知道机器的哪一部分导致了故障。"
+      },
+      {
+        "id": "zh-035",
+        "fr": "Je préfère attendre que tout le monde soit arrivé avant de commencer la réunion, afin que personne ne manque les informations importantes.",
+        "zh": "我更愿意等所有人到齐后再开始会议，以免有人错过重要信息。"
+      },
+      {
+        "id": "zh-036",
+        "fr": "Même si le trajet est plus long, nous avons choisi cette route parce qu'elle est généralement plus sûre la nuit.",
+        "zh": "虽然这条路更远，但我们还是选择了它，因为晚上通常更安全。"
+      },
+      {
+        "id": "zh-037",
+        "fr": "Elle n'a pas pu acheter le médicament parce que la pharmacie n'avait plus le produit que le médecin lui avait prescrit.",
+        "zh": "她没能买到药，因为药店已经没有医生给她开的那种药了。"
+      },
+      {
+        "id": "zh-038",
+        "fr": "Après avoir comparé plusieurs offres, nous avons choisi celle qui semblait la plus avantageuse pour notre budget.",
+        "zh": "比较了几个报价之后，我们选择了看起来最符合预算的那个。"
+      },
+      {
+        "id": "zh-039",
+        "fr": "Le téléphone s'est éteint juste au moment où je voulais appeler un taxi, si bien que j'ai dû demander de l'aide à quelqu'un dans la rue.",
+        "zh": "就在我准备叫出租车的时候，手机突然关机了，所以我不得不向街上的一个人求助。"
+      },
+      {
+        "id": "zh-040",
+        "fr": "Comme elle devait se lever très tôt le lendemain, elle a refusé l'invitation même si elle aurait aimé rester plus longtemps avec ses amis.",
+        "zh": "因为第二天必须很早起床，她拒绝了邀请，尽管她很想和朋友们多待一会儿。"
+      },
+      {
+        "id": "zh-041",
+        "fr": "Nous avons attendu devant la porte pendant quelques minutes avant de réaliser que nous avions oublié les clés à l'intérieur.",
+        "zh": "我们在门外等了几分钟才意识到钥匙忘在里面了。"
+      },
+      {
+        "id": "zh-042",
+        "fr": "Le serveur nous a conseillé ce plat parce qu'il était préparé avec des produits frais qui venaient du marché voisin.",
+        "zh": "服务员向我们推荐了这道菜，因为它使用附近市场的新鲜食材制作。"
+      },
+      {
+        "id": "zh-043",
+        "fr": "Si tu comptes voyager pendant cette période, je te conseille de réserver ton billet suffisamment tôt pour éviter les prix élevés.",
+        "zh": "如果你打算在这个时期旅行，我建议你早点订票，以避免高昂的价格。"
+      },
+      {
+        "id": "zh-044",
+        "fr": "Elle a dû appeler son frère pour lui demander de venir l'aider, car elle n'arrivait pas à déplacer seule le meuble.",
+        "zh": "她不得不给哥哥打电话，请他过来帮忙，因为她一个人无法移动那件家具。"
+      },
+      {
+        "id": "zh-045",
+        "fr": "Bien que la maison soit ancienne, les propriétaires l'ont entièrement rénovée afin qu'elle soit plus confortable et plus facile à entretenir.",
+        "zh": "虽然房子很旧，但房主对它进行了全面翻修，使其更加舒适，也更容易维护。"
+      },
+      {
+        "id": "zh-046",
+        "fr": "Je ne savais pas que le magasin fermait aussi tôt, sinon je serais venu directement après le travail.",
+        "zh": "我不知道这家商店这么早关门，否则我下班后就会直接过来。"
+      },
+      {
+        "id": "zh-047",
+        "fr": "Comme le paiement avait été refusé, nous avons dû utiliser une autre carte pour pouvoir terminer la réservation.",
+        "zh": "由于付款被拒绝，我们不得不使用另一张银行卡才能完成预订。"
+      },
+      {
+        "id": "zh-048",
+        "fr": "Après avoir reçu le message du propriétaire, elle est retournée dans l'appartement pour vérifier si elle avait bien fermé toutes les fenêtres.",
+        "zh": "收到房东的信息后，她回到公寓检查自己是否已经关好了所有窗户。"
+      },
+      {
+        "id": "zh-049",
+        "fr": "Il a accepté de venir avec nous, à condition que nous rentrions avant la tombée de la nuit.",
+        "zh": "他同意和我们一起去，条件是我们必须在天黑之前回来。"
+      },
+      {
+        "id": "zh-050",
+        "fr": "Nous pensions que la réunion durerait seulement une heure, mais elle s'est prolongée parce que plusieurs problèmes importants ont été soulevés.",
+        "zh": "我们原以为会议只会持续一个小时，但由于提出了几个重要问题，会议延长了。"
+      },
+      {
+        "id": "zh-051",
+        "fr": "Elle a acheté des chaussures plus confortables parce que celles qu'elle portait habituellement lui faisaient mal aux pieds après plusieurs heures.",
+        "zh": "她买了更舒适的鞋，因为她平时穿的鞋穿几个小时后会让脚疼。"
+      },
+      {
+        "id": "zh-052",
+        "fr": "Lorsque j'ai enfin retrouvé mon portefeuille, je me suis aperçu que je l'avais laissé dans la poche de la veste que je portais la veille.",
+        "zh": "当我终于找到钱包时，才发现它就在我前一天穿的外套口袋里。"
+      },
+      {
+        "id": "zh-053",
+        "fr": "Même si nous avions déjà mangé, nous avons accepté de goûter le dessert qu'elle avait préparé spécialement pour nous.",
+        "zh": "虽然我们已经吃过饭了，但还是答应品尝她特意为我们准备的甜点。"
+      },
+      {
+        "id": "zh-054",
+        "fr": "Le chauffeur nous a prévenus qu'il faudrait probablement changer de route parce qu'un accident venait de bloquer la circulation.",
+        "zh": "司机提醒我们可能需要改道，因为刚刚发生的一起事故堵塞了交通。"
+      },
+      {
+        "id": "zh-055",
+        "fr": "Si tu ne trouves pas ce que tu cherches dans ce magasin, nous pouvons aller dans celui qui se trouve de l'autre côté de la rue.",
+        "zh": "如果你在这家商店找不到想要的东西，我们可以去街对面的那家。"
+      },
+      {
+        "id": "zh-056",
+        "fr": "Comme elle avait oublié son parapluie, elle a attendu près d'une heure que la pluie diminue avant de rentrer chez elle.",
+        "zh": "因为她忘了带雨伞，所以等了将近一个小时，直到雨小一些才回家。"
+      },
+      {
+        "id": "zh-057",
+        "fr": "Nous avons choisi de rester à la maison parce que la météo annonçait de fortes pluies pendant toute la journée.",
+        "zh": "我们决定待在家里，因为天气预报说一整天都会有大雨。"
+      },
+      {
+        "id": "zh-058",
+        "fr": "Il m'a demandé de lui envoyer les documents dès que j'aurais terminé de les vérifier.",
+        "zh": "他让我一检查完文件就把它们发给他。"
+      },
+      {
+        "id": "zh-059",
+        "fr": "Après plusieurs tentatives, elle a finalement réussi à contacter le service client qui devait résoudre son problème.",
+        "zh": "尝试了几次之后，她终于联系上了应该解决她问题的客服部门。"
+      },
+      {
+        "id": "zh-060",
+        "fr": "Bien qu'il ait promis de venir tôt, il est arrivé suffisamment tard pour que nous ayons déjà commencé le repas.",
+        "zh": "虽然他答应早点来，但他到得太晚了，以至于我们已经开始吃饭了。"
+      },
+      {
+        "id": "zh-061",
+        "fr": "Je pensais que cette réparation serait coûteuse, mais le technicien m'a expliqué qu'il suffisait de remplacer une petite pièce.",
+        "zh": "我原以为这次维修会很贵，但技术人员告诉我只需要更换一个小零件。"
+      },
+      {
+        "id": "zh-062",
+        "fr": "Comme le premier hôtel était complet, nous avons réservé une chambre dans un établissement situé un peu plus loin du centre.",
+        "zh": "因为第一家酒店已经客满，我们在一家离市中心稍远的酒店预订了房间。"
+      },
+      {
+        "id": "zh-063",
+        "fr": "Elle a décidé de prendre un taxi afin d'arriver à l'aéroport à temps malgré les embouteillages.",
+        "zh": "她决定乘出租车，以便尽管遇到堵车也能准时到达机场。"
+      },
+      {
+        "id": "zh-064",
+        "fr": "Nous avons attendu que les enfants terminent leurs devoirs avant de sortir dîner tous ensemble.",
+        "zh": "我们等孩子们完成作业后，才一起出去吃晚饭。"
+      },
+      {
+        "id": "zh-065",
+        "fr": "Le vendeur m'a proposé une réduction parce que j'achetais plusieurs articles en même temps.",
+        "zh": "因为我同时购买了好几件商品，售货员给了我一个折扣。"
+      },
+      {
+        "id": "zh-066",
+        "fr": "Si nous partons maintenant, nous devrions arriver avant la fermeture, à condition qu'il n'y ait pas trop de circulation.",
+        "zh": "如果我们现在出发，只要路上不是太堵，应该能在关门前到达。"
+      },
+      {
+        "id": "zh-067",
+        "fr": "Elle ne voulait pas changer de téléphone, mais celui qu'elle utilisait depuis plusieurs années commençait à avoir de nombreux problèmes.",
+        "zh": "她不想换手机，但用了好几年的那部手机开始出现很多问题。"
+      },
+      {
+        "id": "zh-068",
+        "fr": "Après avoir rangé toute la maison, il s'est rendu compte qu'il avait oublié de nettoyer la pièce où les invités allaient dormir.",
+        "zh": "整理完整个房子后，他才发现忘了打扫客人要睡的房间。"
+      },
+      {
+        "id": "zh-069",
+        "fr": "Même si le billet était moins cher, nous avons choisi celui qui permettait de voyager directement sans changer de train.",
+        "zh": "虽然那张票更便宜，但我们选择了可以直达、不需要换车的那张票。"
+      },
+      {
+        "id": "zh-070",
+        "fr": "En comparant les différentes offres, nous avons découvert que celle qui semblait la moins chère nous revenait finalement plus cher à cause des frais supplémentaires.",
+        "zh": "比较不同的报价后，我们发现看起来最便宜的那个，最后因为额外费用反而花费更多。"
+      },{
+        "id": "zh-071",
+        "fr": "Même si je comprends pourquoi elle a réagi de cette manière, je trouve qu'elle aurait pu attendre d'avoir toutes les informations avant de prendre une décision aussi importante.",
+        "zh": "即使我理解她为什么会这样反应，我还是认为她本可以等掌握全部信息后再做这么重要的决定。"
+      },
+      {
+        "id": "zh-072",
+        "fr": "À force de repousser les petites réparations, nous avons fini par devoir remplacer une partie entière du système qui aurait pu être facilement réparée au départ.",
+        "zh": "由于一再推迟小型维修，我们最后不得不更换整个系统的一部分，而这部分原本很容易修好。"
+      },
+      {
+        "id": "zh-073",
+        "fr": "Elle avait beau expliquer qu'elle n'avait rien oublié, elle a finalement découvert que le document qu'elle cherchait se trouvait dans son ancien ordinateur.",
+        "zh": "她尽管一直解释自己没有忘记任何事情，但最后还是发现她寻找的文件就在旧电脑里。"
+      },
+      {
+        "id": "zh-074",
+        "fr": "Si nous avions su que les travaux commenceraient aussi tôt, nous aurions organisé notre déménagement différemment afin d'éviter tous ces problèmes.",
+        "zh": "如果我们早知道工程会这么早开始，就会以不同的方式安排搬家，以避免这些问题。"
+      },
+      {
+        "id": "zh-075",
+        "fr": "Quoi qu'il arrive, je préfère que nous vérifiions encore une fois les informations avant de transmettre le dossier, même si cela nous fait perdre un peu de temps.",
+        "zh": "无论发生什么，我都希望我们再核对一次信息后再提交材料，即使这样会浪费一点时间。"
+      },
+      {
+        "id": "zh-076",
+        "fr": "Ce qui m'a le plus surpris, ce n'est pas qu'il ait refusé l'offre, mais qu'il l'ait fait sans même demander quelles seraient les conditions proposées.",
+        "zh": "最让我感到惊讶的并不是他拒绝了这个提议，而是他甚至没有询问具体条件就拒绝了。"
+      },
+      {
+        "id": "zh-077",
+        "fr": "À moins que le propriétaire accepte de réduire le loyer, nous devrons probablement chercher un autre appartement avant la fin du mois.",
+        "zh": "除非房东同意降低房租，否则我们可能必须在月底之前寻找另一套公寓。"
+      },
+      {
+        "id": "zh-078",
+        "fr": "Bien qu'il soit parfaitement capable de résoudre le problème seul, il préfère généralement demander conseil avant de prendre une décision définitive.",
+        "zh": "虽然他完全有能力独自解决这个问题，但他通常更喜欢在做最终决定之前征求意见。"
+      },
+      {
+        "id": "zh-079",
+        "fr": "Elle a beau dire qu'elle n'est pas inquiète, son comportement montre clairement qu'elle se pose beaucoup de questions sur ce qui pourrait se passer.",
+        "zh": "她虽然说自己并不担心，但她的行为明显表明她对可能发生的事情有很多疑问。"
+      },
+      {
+        "id": "zh-080",
+        "fr": "Ce n'est qu'après avoir relu attentivement le contrat qu'il s'est aperçu que certaines conditions étaient très différentes de ce qu'on lui avait expliqué oralement.",
+        "zh": "直到仔细重新阅读合同后，他才发现其中一些条件与别人当初口头向他解释的完全不同。"
+      },
+      {
+        "id": "zh-081",
+        "fr": "Même si la solution paraît simple à première vue, elle pourrait entraîner des conséquences auxquelles nous n'avons pas encore pensé.",
+        "zh": "即使这个解决方案乍看起来很简单，它也可能带来一些我们尚未考虑到的后果。"
+      },
+      {
+        "id": "zh-082",
+        "fr": "Il a refusé de signer le document tant qu'il n'aurait pas obtenu la confirmation écrite que toutes les informations avaient été correctement vérifiées.",
+        "zh": "在获得所有信息都已正确核实的书面确认之前，他拒绝签署文件。"
+      },
+      {
+        "id": "zh-083",
+        "fr": "À force de vouloir tout faire rapidement, elle a commis plusieurs petites erreurs qui lui ont finalement fait perdre beaucoup plus de temps.",
+        "zh": "由于一味追求快速完成所有事情，她犯了几个小错误，最后反而浪费了更多时间。"
+      },
+      {
+        "id": "zh-084",
+        "fr": "Quoi qu'on puisse penser de sa décision, il faut reconnaître qu'elle a été prise après plusieurs semaines de réflexion.",
+        "zh": "无论人们如何看待他的决定，都必须承认这个决定是在经过数周思考之后做出的。"
+      },
+      {
+        "id": "zh-085",
+        "fr": "Il a beau dire qu'il n'est pas inquiet, il vérifie son téléphone toutes les cinq minutes depuis qu'il attend cette réponse.",
+        "zh": "他虽然说自己并不担心，但自从等待这个答复以来，他每五分钟就查看一次手机。"
+      },
+      {
+        "id": "zh-086",
+        "fr": "Si tu veux éviter que la situation ne se complique davantage, mieux vaut clarifier maintenant ce qui s'est réellement passé.",
+        "zh": "如果你不想让情况进一步复杂化，最好现在就澄清到底发生了什么。"
+      },
+      {
+        "id": "zh-087",
+        "fr": "Elle n'a accepté de participer au projet qu'à condition que les responsabilités de chacun soient clairement définies dès le début.",
+        "zh": "她只有在一开始就明确规定每个人的责任的条件下，才同意参加这个项目。"
+      },
+      {
+        "id": "zh-088",
+        "fr": "Ce qui rend la situation particulièrement difficile, c'est que personne ne semble savoir exactement qui doit prendre la décision finale.",
+        "zh": "使情况尤其困难的是，似乎没有人确切知道谁应该做最终决定。"
+      },
+      {
+        "id": "zh-089",
+        "fr": "Même si nous parvenons à résoudre le problème aujourd'hui, il faudra encore comprendre pourquoi il s'est produit afin d'éviter qu'il ne se reproduise.",
+        "zh": "即使我们今天能够解决这个问题，我们仍然需要弄清楚它为什么发生，以避免再次出现。"
+      },
+      {
+        "id": "zh-090",
+        "fr": "Il aurait pu accepter immédiatement, mais il a préféré prendre quelques jours pour réfléchir avant de donner sa réponse.",
+        "zh": "他本可以立即接受，但还是选择花几天时间考虑后再给答复。"
+      },
+      {
+        "id": "zh-091",
+        "fr": "À moins que quelque chose d'imprévu ne survienne, nous devrions pouvoir terminer les travaux avant la fin de la semaine.",
+        "zh": "除非发生意外情况，否则我们应该能够在本周结束前完成工作。"
+      },
+      {
+        "id": "zh-092",
+        "fr": "Elle s'est rendu compte trop tard que le message qu'elle avait envoyé pouvait être interprété d'une manière très différente de ce qu'elle voulait dire.",
+        "zh": "她太晚才意识到自己发送的消息可能会被理解成与原意完全不同的意思。"
+      },
+      {
+        "id": "zh-093",
+        "fr": "Bien qu'il comprenne parfaitement les raisons de cette décision, il aurait préféré qu'on lui explique plus clairement les conséquences à long terme.",
+        "zh": "虽然他完全理解这个决定的原因，但他还是希望有人更清楚地向他解释长期后果。"
+      },
+      {
+        "id": "zh-094",
+        "fr": "Ce n'est qu'en comparant les deux documents ligne par ligne que nous avons découvert plusieurs différences importantes.",
+        "zh": "只有逐行比较两份文件，我们才发现了几个重要的差异。"
+      },
+      {
+        "id": "zh-095",
+        "fr": "Elle avait beau essayer de rester calme, la manière dont son interlocuteur lui répondait commençait sérieusement à l'agacer.",
+        "zh": "她虽然努力保持冷静，但对方回答她的方式开始让她非常恼火。"
+      },
+      {
+        "id": "zh-096",
+        "fr": "Si personne ne prend la responsabilité de vérifier les informations, nous risquons de découvrir trop tard qu'une erreur s'est glissée dans le dossier.",
+        "zh": "如果没有人负责核实信息，我们可能会太晚才发现文件中出现了错误。"
+      },
+      {
+        "id": "zh-097",
+        "fr": "Il a finalement accepté de changer de fournisseur, non pas parce que l'ancien était mauvais, mais parce que les nouvelles conditions étaient nettement plus intéressantes.",
+        "zh": "他最后同意更换供应商，并不是因为原来的供应商不好，而是因为新的条件明显更有利。"
+      },
+      {
+        "id": "zh-098",
+        "fr": "Même si elle avait prévu de partir tôt, elle a dû rester plus longtemps parce qu'un problème inattendu avait retardé la réunion.",
+        "zh": "虽然她原计划早点离开，但由于一个意外问题导致会议推迟，她不得不多待了一会儿。"
+      },
+      {
+        "id": "zh-099",
+        "fr": "Il est difficile de savoir ce qui aurait pu se passer si nous avions pris une autre décision à ce moment-là.",
+        "zh": "很难知道如果当时我们做出了另一个决定，事情会怎样发展。"
+      },
+      {
+        "id": "zh-100",
+        "fr": "À force d'entendre des versions différentes de la même histoire, je ne savais plus laquelle correspondait réellement aux faits.",
+        "zh": "由于不断听到同一个故事的不同版本，我已经不知道哪个版本才真正符合事实。"
+      },
+      {
+        "id": "zh-101",
+        "fr": "Quoi qu'il en soit, nous devons trouver une solution qui puisse fonctionner même si les circonstances changent au cours des prochaines semaines.",
+        "zh": "无论如何，我们必须找到一个即使未来几周情况发生变化也能够奏效的解决方案。"
+      },
+      {
+        "id": "zh-102",
+        "fr": "Elle n'aurait jamais imaginé que la décision qu'elle avait prise presque spontanément aurait autant de conséquences quelques mois plus tard.",
+        "zh": "她从未想到自己几乎凭一时冲动做出的决定，几个月后会产生如此多的后果。"
+      },
+      {
+        "id": "zh-103",
+        "fr": "Ce qui est particulièrement frustrant, c'est que le problème aurait probablement pu être évité si quelqu'un avait vérifié les informations plus tôt.",
+        "zh": "尤其令人沮丧的是，如果有人早点核实信息，这个问题很可能本来是可以避免的。"
+      },
+      {
+        "id": "zh-104",
+        "fr": "Même si personne ne lui reproche directement son erreur, elle sait très bien qu'elle aurait pu agir autrement.",
+        "zh": "虽然没有人直接责怪她犯的错误，但她很清楚自己本可以采取不同的做法。"
+      },
+      {
+        "id": "zh-105",
+        "fr": "Il a décidé de reporter la réunion afin que chacun puisse prendre connaissance des documents avant que la discussion ne commence.",
+        "zh": "他决定推迟会议，以便每个人都能在讨论开始前了解文件内容。"
+      },
+      {
+        "id": "zh-106",
+        "fr": "Elle a refusé de confirmer la réservation tant qu'elle n'aurait pas reçu toutes les informations concernant les frais supplémentaires.",
+        "zh": "在收到关于额外费用的全部信息之前，她拒绝确认预订。"
+      },
+      {
+        "id": "zh-107",
+        "fr": "Bien qu'il soit habitué aux imprévus, il ne s'attendait pas à devoir modifier complètement son programme à la dernière minute.",
+        "zh": "虽然他已经习惯了意外情况，但没想到最后一刻不得不彻底改变自己的计划。"
+      },
+      {
+        "id": "zh-108",
+        "fr": "Si elle avait pris le temps de lire les instructions jusqu'au bout, elle aurait probablement évité les difficultés qu'elle rencontre maintenant.",
+        "zh": "如果她当时花时间把说明读完，很可能就不会遇到现在这些困难。"
+      },
+      {
+        "id": "zh-109",
+        "fr": "Il prétend ne pas avoir été informé, alors que plusieurs personnes affirment lui avoir envoyé les mêmes documents à plusieurs reprises.",
+        "zh": "他声称自己没有被告知，而几个人却表示已经多次把同样的文件发给他。"
+      },
+      {
+        "id": "zh-110",
+        "fr": "Ce qui m'inquiète le plus, ce n'est pas le retard actuel, mais le fait que personne ne puisse nous garantir qu'il ne se reproduira pas.",
+        "zh": "最让我担心的不是目前的延误，而是没有人能保证这种情况不会再次发生。"
+      },
+      {
+        "id": "zh-111",
+        "fr": "À moins que les conditions ne changent considérablement, nous n'avons aucune raison de modifier l'organisation prévue.",
+        "zh": "除非条件发生重大变化，否则我们没有理由改变原定的安排。"
+      },
+      {
+        "id": "zh-112",
+        "fr": "Elle avait beau avoir préparé son intervention pendant plusieurs jours, elle a perdu ses moyens lorsque toutes les personnes ont commencé à la regarder.",
+        "zh": "尽管她准备了好几天的发言，但当所有人开始看着她时，她还是紧张得不知所措。"
+      },
+      {
+        "id": "zh-113",
+        "fr": "Il ne s'est rendu compte de l'importance de cette information qu'après avoir découvert que plusieurs décisions avaient été prises sur la base de données incomplètes.",
+        "zh": "直到发现几个决定都是基于不完整的数据做出的，他才意识到这条信息的重要性。"
+      },
+      {
+        "id": "zh-114",
+        "fr": "Même si le problème semble désormais réglé, nous devrions conserver les documents au cas où nous aurions besoin de vérifier les détails plus tard.",
+        "zh": "即使问题现在似乎已经解决，我们也应该保留这些文件，以防以后需要核对细节。"
+      },
+      {
+        "id": "zh-115",
+        "fr": "Il aurait été préférable de nous prévenir plus tôt, car nous aurions alors pu adapter notre organisation sans devoir tout modifier au dernier moment.",
+        "zh": "如果能早点通知我们就更好了，因为那样我们就可以调整安排，而不必在最后一刻全部修改。"
+      },
+      {
+        "id": "zh-116",
+        "fr": "Elle ne voulait pas reconnaître qu'elle avait changé d'avis, alors qu'elle savait depuis plusieurs jours que la première solution ne fonctionnerait pas.",
+        "zh": "她不愿承认自己改变了主意，尽管她几天前就知道第一个方案行不通。"
+      },
+      {
+        "id": "zh-117",
+        "fr": "Ce n'est pas parce qu'une solution paraît plus simple qu'elle sera nécessairement plus efficace à long terme.",
+        "zh": "一个解决方案看起来更简单，并不意味着它长期来看一定更有效。"
+      },
+      {
+        "id": "zh-118",
+        "fr": "Quoi qu'on lui ait conseillé, il a préféré prendre le temps de vérifier lui-même les informations avant de se prononcer.",
+        "zh": "无论别人给了他什么建议，他都选择先亲自核实信息，然后再发表意见。"
+      },
+      {
+        "id": "zh-119",
+        "fr": "À force de vouloir satisfaire tout le monde, elle a fini par accepter des conditions qui ne lui convenaient réellement pas.",
+        "zh": "由于总想满足所有人的要求，她最后接受了一些实际上并不适合自己的条件。"
+      },
+      {
+        "id": "zh-120",
+        "fr": "Même si nous trouvons rapidement une solution, il faudra probablement plusieurs semaines pour que la situation revienne complètement à la normale.",
+        "zh": "即使我们很快找到解决方案，也可能需要几周时间才能让情况完全恢复正常。"
+      },
+      {
+        "id": "zh-121",
+        "fr": "Elle a expliqué qu'elle n'avait pas refusé par principe, mais qu'elle voulait simplement s'assurer que toutes les conditions étaient clairement définies.",
+        "zh": "她解释说自己并不是原则上拒绝，而只是想确保所有条件都被明确规定。"
+      },
+      {
+        "id": "zh-122",
+        "fr": "Il est possible que nous ayons mal compris certaines informations, auquel cas il serait préférable de reprendre le dossier depuis le début.",
+        "zh": "我们有可能误解了一些信息，在这种情况下，最好从头重新检查整个文件。"
+      },
+      {
+        "id": "zh-123",
+        "fr": "Bien qu'il ait reçu plusieurs avertissements, il a continué à utiliser l'appareil de la même manière, jusqu'au jour où celui-ci est finalement tombé en panne.",
+        "zh": "尽管他收到了几次警告，他仍然继续以同样的方式使用设备，直到有一天设备最终坏了。"
+      },
+      {
+        "id": "zh-124",
+        "fr": "Ce qui m'a vraiment dérangé, c'est qu'il ait pris une décision concernant tout le groupe sans même nous demander notre avis.",
+        "zh": "真正让我感到不满的是，他在没有征求我们意见的情况下，就替整个团队做了决定。"
+      },
+      {
+        "id": "zh-125",
+        "fr": "Si nous voulons éviter une nouvelle erreur, il faudrait mettre en place une procédure qui permette de vérifier les informations avant chaque étape importante.",
+        "zh": "如果我们想避免再次犯错，就应该建立一个程序，在每个重要阶段之前核实信息。"
+      },
+      {
+        "id": "zh-126",
+        "fr": "Elle n'a compris pourquoi son collègue était contrarié qu'après avoir relu le message qu'elle lui avait envoyé le matin.",
+        "zh": "直到重新读了早上发给同事的消息，她才明白对方为什么不高兴。"
+      },
+      {
+        "id": "zh-127",
+        "fr": "Même si cette décision ne plaît pas à tout le monde, elle a été prise après avoir examiné toutes les alternatives disponibles.",
+        "zh": "虽然这个决定并不让所有人满意，但它是在研究了所有可行方案后做出的。"
+      },
+      {
+        "id": "zh-128",
+        "fr": "Ce n'est qu'en relisant attentivement le contrat que nous avons compris que certaines obligations concernaient également les membres de notre équipe.",
+        "zh": "只有仔细重新阅读合同，我们才明白其中一些义务也适用于我们的团队成员。"
+      },
+      {
+        "id": "zh-129",
+        "fr": "Il aurait préféré que le problème soit réglé directement, plutôt que de devoir expliquer plusieurs fois la même situation à des personnes différentes.",
+        "zh": "他本希望问题能够直接解决，而不是必须向不同的人多次解释同一件事情。"
+      },
+      {
+        "id": "zh-130",
+        "fr": "À condition que chacun respecte les règles établies, nous devrions pouvoir terminer le travail sans rencontrer de nouvelles difficultés.",
+        "zh": "只要每个人遵守已经制定的规则，我们应该能够完成工作，而不会遇到新的困难。"
+      },
+      {
+        "id": "zh-131",
+        "fr": "Elle avait beau avoir toutes les raisons de se plaindre, elle a choisi de rester calme afin de ne pas aggraver la situation.",
+        "zh": "尽管她完全有理由抱怨，但她选择保持冷静，以免让情况更加严重。"
+      },
+      {
+        "id": "zh-132",
+        "fr": "Il ne faudrait pas conclure trop rapidement que le problème vient de cette personne simplement parce qu'elle était responsable du dossier.",
+        "zh": "不能仅仅因为这个人负责这个文件，就过早断定问题是由她造成的。"
+      },
+      {
+        "id": "zh-133",
+        "fr": "Quoi qu'il en soit, nous devons tenir compte du fait que les informations dont nous disposons actuellement pourraient encore évoluer.",
+        "zh": "无论如何，我们必须考虑到，目前掌握的信息仍然可能发生变化。"
+      },
+      {
+        "id": "zh-134",
+        "fr": "Même si elle savait que la réponse serait probablement négative, elle a préféré poser la question plutôt que de rester dans le doute.",
+        "zh": "即使她知道答案很可能是否定的，她还是选择提出问题，而不是一直处于疑惑之中。"
+      },
+      {
+        "id": "zh-135",
+        "fr": "Il a finalement reconnu qu'il aurait dû vérifier les informations avant de transmettre le document à toutes les personnes concernées.",
+        "zh": "他最后承认，本应该在把文件发送给所有相关人员之前核实信息。"
+      },
+      {
+        "id": "zh-136",
+        "fr": "Si les circonstances le permettent, nous pourrions envisager une autre solution qui serait moins coûteuse tout en restant suffisamment efficace.",
+        "zh": "如果情况允许，我们可以考虑另一种成本更低、同时又足够有效的解决方案。"
+      },
+      {
+        "id": "zh-137",
+        "fr": "Elle s'est montrée particulièrement prudente, sachant que la moindre erreur pourrait entraîner des conséquences difficiles à corriger par la suite.",
+        "zh": "她表现得格外谨慎，因为她知道哪怕最小的错误也可能带来以后难以纠正的后果。"
+      },
+      {
+        "id": "zh-138",
+        "fr": "Il ne suffit pas de trouver une solution temporaire ; encore faut-il s'assurer qu'elle pourra réellement fonctionner dans les mois qui viennent.",
+        "zh": "找到一个临时解决方案还不够；还必须确保它在未来几个月里确实能够发挥作用。"
+      },
+      {
+        "id": "zh-139",
+        "fr": "Même si nous ne sommes pas entièrement d'accord avec sa manière de procéder, nous devons reconnaître qu'elle a permis de résoudre rapidement une situation assez complexe.",
+        "zh": "即使我们并不完全赞同她的处理方式，也必须承认她迅速解决了一个相当复杂的问题。"
+      },
+      {
+        "id": "zh-140",
+        "fr": "Quoi qu'on puisse penser de sa décision, il serait injuste de juger ses intentions sans connaître toutes les circonstances qui l'ont amenée à agir ainsi.",
+        "zh": "无论人们如何看待他的决定，如果不了解促使他这样做的全部情况，就判断他的动机是不公平的。"
+      },{
+        "id": "zh-141",
+        "fr": "Quand bien même il aurait les moyens de s'offrir une voiture neuve, il ne serait pas forcément disposé à consacrer une telle somme à un bien dont la valeur diminue rapidement.",
+        "zh": "即便他有能力买一辆新车，也未必愿意把这么多钱花在一件价值会迅速下降的东西上。"
+      },
+      {
+        "id": "zh-142",
+        "fr": "Bien qu'elle eût initialement prévu de rester quelques jours seulement, les circonstances l'ont finalement conduite à prolonger son séjour beaucoup plus longtemps que prévu.",
+        "zh": "尽管她原本只打算待几天，但最终的情况使她不得不比原计划多停留很长时间。"
+      },
+      {
+        "id": "zh-143",
+        "fr": "Pour peu que la circulation soit aussi dense demain qu'elle l'était aujourd'hui, il serait imprudent de prévoir un rendez-vous à une heure aussi précise.",
+        "zh": "只要明天的交通像今天一样拥堵，在这么精确的时间安排会面就未免不够明智。"
+      },
+      {
+        "id": "zh-144",
+        "fr": "Encore faudrait-il, avant de tirer une conclusion aussi catégorique, que nous disposions d'éléments suffisamment fiables pour écarter les autres explications possibles.",
+        "zh": "不过，在得出如此绝对的结论之前，我们还必须拥有足够可靠的证据，才能排除其他可能的解释。"
+      },
+      {
+        "id": "zh-145",
+        "fr": "À supposer même que le propriétaire accepte de réduire le loyer, rien ne garantit que l'appartement resterait financièrement intéressant compte tenu des autres charges.",
+        "zh": "即便房东同意降低房租，也无法保证考虑到其他费用后，这套公寓在经济上仍然划算。"
+      },
+      {
+        "id": "zh-146",
+        "fr": "Si tant est que son explication soit exacte, il n'en demeure pas moins étonnant qu'aucune des personnes présentes n'ait remarqué ce détail au moment des faits.",
+        "zh": "即便他的解释确实准确，令人惊讶的是，当时在场的人竟没有一个注意到这个细节。"
+      },
+      {
+        "id": "zh-147",
+        "fr": "Bien qu'il eût toutes les raisons de se montrer méfiant, il choisit de donner à son interlocuteur le bénéfice du doute jusqu'à ce que les faits permettent d'en savoir davantage.",
+        "zh": "尽管他完全有理由保持警惕，但他还是决定暂且相信对方，直到事实能够提供更多信息。"
+      },
+      {
+        "id": "zh-148",
+        "fr": "Ce n'est qu'une fois que tout le monde eut quitté la maison qu'elle osa enfin évoquer ce qu'elle avait réellement pensé de la situation.",
+        "zh": "直到所有人都离开房子后，她才终于敢说出自己对当时情况真正的看法。"
+      },
+      {
+        "id": "zh-149",
+        "fr": "Quand bien même nous parviendrions à résoudre le problème dans les délais, il resterait à déterminer comment éviter qu'une situation comparable ne se reproduise.",
+        "zh": "即便我们能够按时解决问题，仍然需要确定如何避免类似情况再次发生。"
+      },
+      {
+        "id": "zh-150",
+        "fr": "À moins que quelque circonstance imprévisible ne vienne bouleverser nos plans, nous devrions pouvoir maintenir l'organisation telle qu'elle avait été initialement prévue.",
+        "zh": "除非发生某种不可预见的情况打乱我们的计划，否则我们应该能够按照最初的安排继续进行。"
+      },
+      {
+        "id": "zh-151",
+        "fr": "Encore eût-il fallu que nous soyons informés suffisamment tôt pour pouvoir modifier les réservations sans avoir à supporter des frais supplémentaires.",
+        "zh": "不过，我们还得足够早地得到通知，才能修改预订而不必承担额外费用。"
+      },
+      {
+        "id": "zh-152",
+        "fr": "Bien qu'elle n'en eût rien laissé paraître, elle avait compris depuis longtemps que la décision qui se préparait risquait de modifier profondément l'organisation de toute l'équipe.",
+        "zh": "尽管她没有表现出来，但她早就明白，正在酝酿的决定可能会彻底改变整个团队的组织方式。"
+      },
+      {
+        "id": "zh-153",
+        "fr": "Pour peu que chacun fasse preuve d'un minimum de souplesse, nous pourrions parvenir à un compromis qui, sans satisfaire pleinement personne, resterait acceptable pour tous.",
+        "zh": "只要每个人表现出最基本的灵活性，我们就有可能达成一个虽然不能完全满足任何人、却能被所有人接受的妥协方案。"
+      },
+      {
+        "id": "zh-154",
+        "fr": "À bien y réfléchir, ce qui semblait n'être au départ qu'un simple contretemps aura finalement permis de découvrir un problème beaucoup plus important.",
+        "zh": "仔细想来，最初看起来只是一场小小的耽搁，最终却让我们发现了一个更加重要的问题。"
+      },
+      {
+        "id": "zh-155",
+        "fr": "Si tant est qu'une solution véritablement satisfaisante existe, elle ne pourra probablement être trouvée qu'au prix de concessions que chacun devra accepter.",
+        "zh": "即便确实存在一个真正令人满意的解决方案，它也可能只有在每个人都接受一定让步的情况下才能找到。"
+      },
+      {
+        "id": "zh-156",
+        "fr": "Quand bien même elle aurait voulu revenir sur sa décision, les engagements qu'elle avait déjà pris ne lui auraient guère laissé la possibilité de le faire.",
+        "zh": "即使她想收回决定，她已经作出的承诺也几乎不会给她留下这样做的余地。"
+      },
+      {
+        "id": "zh-157",
+        "fr": "Ce n'est qu'après avoir confronté les différents témoignages qu'il est devenu évident que plusieurs personnes avaient, sans le vouloir, omis une partie essentielle des faits.",
+        "zh": "只有将不同人的证词进行对照之后，才明显看出有几个人无意中遗漏了事实中一个重要部分。"
+      },
+      {
+        "id": "zh-158",
+        "fr": "Bien qu'il eût été plus simple de suivre la procédure habituelle, elle préféra prendre le risque d'essayer une autre méthode, dont les résultats s'avérèrent finalement convaincants.",
+        "zh": "虽然遵循通常的程序会更简单，但她还是选择冒险尝试另一种方法，而最终结果证明这种方法很有说服力。"
+      },
+      {
+        "id": "zh-159",
+        "fr": "À supposer que les informations que nous avons reçues soient exactes, il resterait encore à comprendre pourquoi personne ne nous en a informés plus tôt.",
+        "zh": "假设我们收到的信息是准确的，那么仍然需要弄清楚为什么之前没有人通知我们。"
+      },
+      {
+        "id": "zh-160",
+        "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, nous pouvons au moins veiller à ce que les mêmes erreurs ne soient pas commises à nouveau.",
+        "zh": "无论如何，即使我们无法改变已经发生的事情，至少可以确保不再犯同样的错误。"
+      },
+      {
+        "id": "zh-161",
+        "fr": "Bien lui en ait pris d'emporter un parapluie, car à peine avait-il quitté la maison que la pluie s'était mise à tomber avec une telle intensité qu'il aurait été impossible de continuer sans s'abriter.",
+        "zh": "幸亏他带了雨伞，因为他刚离开家，雨就下得如此猛烈，不找地方躲雨几乎不可能继续前进。"
+      },
+      {
+        "id": "zh-162",
+        "fr": "Encore faudrait-il savoir si les personnes concernées seraient réellement disposées à modifier leurs habitudes, ce qui est loin d'être acquis malgré les bonnes intentions affichées.",
+        "zh": "不过，还需要知道相关人员是否真的愿意改变自己的习惯，尽管他们表现出了良好的意愿，这一点远未得到保证。"
+      },
+      {
+        "id": "zh-163",
+        "fr": "À peine avait-elle raccroché qu'elle s'est rendu compte qu'elle avait oublié de poser précisément la question qui aurait permis de comprendre toute la situation.",
+        "zh": "她刚挂断电话，就意识到自己忘了准确提出那个本可以帮助她了解整个情况的问题。"
+      },
+      {
+        "id": "zh-164",
+        "fr": "Quand bien même son intention aurait été parfaitement légitime, la manière dont il a choisi de procéder risque de susciter des réactions qu'il n'avait manifestement pas anticipées.",
+        "zh": "即使他的意图完全合理，他选择的处理方式也可能引发一些显然没有预料到的反应。"
+      },
+      {
+        "id": "zh-165",
+        "fr": "Bien qu'elle sache pertinemment que le délai était trop court, elle accepta néanmoins de relever le défi, ne serait-ce que pour vérifier jusqu'où elle pouvait aller.",
+        "zh": "尽管她非常清楚时间太短，但她仍然接受了挑战，哪怕只是为了看看自己究竟能做到什么程度。"
+      },
+      {
+        "id": "zh-166",
+        "fr": "Pour peu que les informations soient correctement vérifiées en amont, une grande partie des difficultés qui apparaissent ensuite pourrait être évitée sans effort particulier.",
+        "zh": "只要事先正确核实信息，之后出现的大部分困难都可以在不付出特别努力的情况下避免。"
+      },
+      {
+        "id": "zh-167",
+        "fr": "À supposer même que nous obtenions l'autorisation nécessaire, encore faudrait-il disposer du temps et des ressources indispensables pour mener le projet à son terme.",
+        "zh": "即便我们获得了必要的许可，也还需要拥有完成项目所必需的时间和资源。"
+      },
+      {
+        "id": "zh-168",
+        "fr": "Ce qui mérite surtout d'être souligné, c'est que personne ne s'est opposé à la décision lorsqu'elle a été annoncée, alors que plusieurs personnes l'ont critiquée par la suite.",
+        "zh": "尤其值得指出的是，在决定宣布时没有人反对，而后来却有几个人对它提出了批评。"
+      },
+      {
+        "id": "zh-169",
+        "fr": "Il aurait été pour le moins imprudent de considérer cette première réussite comme une garantie que les étapes suivantes se dérouleraient nécessairement sans difficulté.",
+        "zh": "把这次初步成功视为后续阶段必然顺利进行的保证，至少是不够谨慎的。"
+      },
+      {
+        "id": "zh-170",
+        "fr": "Bien qu'il n'en eût pas immédiatement conscience, la remarque qu'elle venait de faire allait profondément modifier la manière dont il envisageait désormais le problème.",
+        "zh": "尽管他当时没有立即意识到，她刚才说的话将彻底改变他以后看待这个问题的方式。"
+      },
+      {
+        "id": "zh-171",
+        "fr": "À bien y regarder, la difficulté ne réside pas tant dans l'absence de solutions que dans le fait qu'aucune de celles qui sont actuellement disponibles ne semble réellement satisfaisante.",
+        "zh": "仔细观察就会发现，困难并不在于没有解决方案，而在于目前可用的方案似乎没有一个真正令人满意。"
+      },
+      {
+        "id": "zh-172",
+        "fr": "Quoi qu'on puisse en penser, il serait excessif de prétendre que cette décision a été prise à la légère, compte tenu des nombreuses discussions qui l'ont précédée.",
+        "zh": "无论人们怎么看，都不能说这个决定是草率作出的，因为此前已经进行了多次讨论。"
+      },
+      {
+        "id": "zh-173",
+        "fr": "Quand bien même les chiffres annoncés seraient exacts, ils ne permettraient pas à eux seuls de tirer les conclusions que certains semblent déjà vouloir en tirer.",
+        "zh": "即便公布的数字准确无误，仅凭这些数字也无法得出一些人似乎已经想要得出的结论。"
+      },
+      {
+        "id": "zh-174",
+        "fr": "Encore eût-il fallu que chacun ait compris dès le départ que les règles auxquelles tout le monde avait accepté de se soumettre n'étaient pas négociables.",
+        "zh": "不过，首先还必须确保每个人从一开始就明白，所有人同意遵守的规则是不可协商的。"
+      },
+      {
+        "id": "zh-175",
+        "fr": "À bien y réfléchir, ce qui nous a fait perdre le plus de temps n'était pas la difficulté du problème lui-même, mais notre incapacité initiale à identifier correctement sa cause.",
+        "zh": "仔细想来，真正让我们浪费最多时间的并不是问题本身的难度，而是我们一开始没能正确找出它的原因。"
+      },
+      {
+        "id": "zh-176",
+        "fr": "Si tant est qu'il soit encore possible de modifier l'organisation prévue, il faudrait le faire rapidement, faute de quoi les changements risqueraient de devenir beaucoup plus coûteux.",
+        "zh": "如果现在仍然可以修改原定安排，就应该尽快进行，否则这些改变可能会变得昂贵得多。"
+      },
+      {
+        "id": "zh-177",
+        "fr": "Bien qu'elle eût conscience des risques, elle estima que ne rien tenter reviendrait finalement à accepter une situation qu'elle jugeait depuis longtemps insatisfaisante.",
+        "zh": "尽管她意识到风险，但她认为什么都不做最终等于接受一个她已经长期认为不令人满意的局面。"
+      },
+      {
+        "id": "zh-178",
+        "fr": "Pour peu que les circonstances s'y prêtent, il ne serait pas impossible que cette solution, initialement considérée comme provisoire, devienne finalement la plus durable.",
+        "zh": "只要情况合适，这个最初被视为临时方案的解决办法最终成为最持久的方案也并非不可能。"
+      },
+      {
+        "id": "zh-179",
+        "fr": "À supposer que personne ne remette en cause les nouvelles conditions, nous pourrions commencer à les appliquer dès la semaine prochaine, sous réserve des dernières vérifications.",
+        "zh": "假设没有人对新条件提出异议，我们就可以在完成最后核查后，从下周开始实施。"
+      },
+      {
+        "id": "zh-180",
+        "fr": "Ce n'est qu'une fois la décision officiellement annoncée que plusieurs personnes ont reconnu qu'elles avaient, jusque-là, sous-estimé l'ampleur des changements à venir.",
+        "zh": "直到决定正式公布后，几个人才承认自己此前低估了即将发生的变化规模。"
+      },
+      {
+        "id": "zh-181",
+        "fr": "Quand bien même il aurait été possible de prévoir cette difficulté, il n'en aurait pas été plus facile de trouver immédiatement une solution adaptée.",
+        "zh": "即便能够预见这个困难，也并不意味着可以立即找到合适的解决办法。"
+      },
+      {
+        "id": "zh-182",
+        "fr": "Bien lui en a pris de conserver les anciens documents, car ceux-ci se sont révélés indispensables lorsque nous avons dû vérifier certains détails plusieurs mois plus tard.",
+        "zh": "幸亏他保留了旧文件，因为几个月后我们需要核对一些细节时，这些文件证明是必不可少的。"
+      },
+      {
+        "id": "zh-183",
+        "fr": "À peine avions-nous commencé à examiner le dossier que nous avons découvert plusieurs incohérences qui auraient probablement échappé à une vérification plus superficielle.",
+        "zh": "我们刚开始检查文件，就发现了几个矛盾之处，如果只是进行表面的核查，很可能会被忽略。"
+      },
+      {
+        "id": "zh-184",
+        "fr": "Si tant est que cette hypothèse puisse être confirmée, elle remettrait en question plusieurs conclusions que nous considérions jusqu'ici comme relativement solides.",
+        "zh": "如果这一假设确实能够得到证实，那么它将使我们此前认为相当可靠的几个结论受到质疑。"
+      },
+      {
+        "id": "zh-185",
+        "fr": "Encore faudrait-il que les personnes chargées de l'appliquer disposent des moyens nécessaires, sans quoi la meilleure des décisions resterait lettre morte.",
+        "zh": "不过，负责执行它的人还必须拥有必要的手段，否则再好的决定也只会停留在纸面上。"
+      },
+      {
+        "id": "zh-186",
+        "fr": "À peine avait-elle raccroché qu'elle s'est demandé si elle n'aurait pas dû formuler sa demande autrement, sachant que son interlocuteur pouvait facilement mal interpréter ses propos.",
+        "zh": "她刚挂断电话，就开始怀疑自己是否应该换一种方式提出要求，因为她知道对方很容易误解她的话。"
+      },
+      {
+        "id": "zh-187",
+        "fr": "Bien qu'il soit difficile de savoir ce qui se serait passé autrement, il est certain que cette expérience a modifié durablement la manière dont il prend désormais ses décisions.",
+        "zh": "虽然很难知道如果采取其他做法会发生什么，但可以肯定的是，这次经历永久改变了他现在做决定的方式。"
+      },
+      {
+        "id": "zh-188",
+        "fr": "À supposer même que toutes les personnes concernées soient de bonne foi, leurs intérêts respectifs pourraient néanmoins les conduire à défendre des positions difficilement conciliables.",
+        "zh": "即便所有相关人员都是真诚的，他们各自的利益仍可能使他们坚持难以调和的立场。"
+      },
+      {
+        "id": "zh-189",
+        "fr": "Quoi qu'il en soit, il serait préférable de ne pas prendre une décision définitive tant que nous ne disposerons pas de tous les éléments nécessaires pour en mesurer les conséquences.",
+        "zh": "无论如何，在掌握所有必要的信息并能够评估其后果之前，最好不要做出最终决定。"
+      },
+      {
+        "id": "zh-190",
+        "fr": "Pour peu que chacun accepte de reconnaître sa part de responsabilité, il devrait être possible de résoudre le conflit sans avoir à chercher un responsable unique.",
+        "zh": "只要每个人都愿意承认自己应承担的责任，就应该能够解决冲突，而不必寻找唯一的责任人。"
+      },
+      {
+        "id": "zh-191",
+        "fr": "Ce qui, rétrospectivement, paraît évident ne l'était nullement au moment où nous avons dû prendre la décision, compte tenu des informations dont nous disposions alors.",
+        "zh": "从事后看来显而易见的事情，在我们当时必须做出决定的时候却一点也不明显，因为我们掌握的信息有限。"
+      },
+      {
+        "id": "zh-192",
+        "fr": "Quand bien même nous parviendrions à convaincre tout le monde du bien-fondé de cette proposition, encore faudrait-il que nous soyons capables de la mettre en œuvre dans les délais prévus.",
+        "zh": "即便我们能够说服所有人相信这个提议的合理性，我们还必须有能力在规定的期限内实施它。"
+      },
+      {
+        "id": "zh-193",
+        "fr": "Bien qu'elle eût préféré éviter toute confrontation, elle finit par dire clairement ce qu'elle pensait, estimant qu'un silence prolongé ne ferait qu'aggraver les malentendus.",
+        "zh": "虽然她原本希望避免任何冲突，但最终还是明确说出了自己的想法，因为她认为继续沉默只会加深误解。"
+      },
+      {
+        "id": "zh-194",
+        "fr": "Si tant est qu'il existe une manière de concilier les deux points de vue, elle ne pourra probablement être trouvée qu'en acceptant de remettre en question certaines habitudes profondément ancrées.",
+        "zh": "如果确实存在调和这两种观点的方法，那么很可能只有接受改变一些根深蒂固的习惯，才能找到这种方法。"
+      },
+      {
+        "id": "zh-195",
+        "fr": "À bien considérer les choses, le véritable problème n'était peut-être pas celui que nous cherchions à résoudre depuis le début, mais celui que nous n'avions jamais pris le temps de définir correctement.",
+        "zh": "仔细考虑之后，真正的问题也许并不是我们从一开始就试图解决的问题，而是那个我们从未花时间正确界定的问题。"
+      },
+      {
+        "id": "zh-196",
+        "fr": "Encore eût-il fallu que nous sachions à l'époque ce que nous savons aujourd'hui pour comprendre à quel point certaines décisions apparemment anodines allaient se révéler déterminantes.",
+        "zh": "不过，当时我们必须知道今天所知道的事情，才能明白一些看似无关紧要的决定后来会变得多么关键。"
+      },
+      {
+        "id": "zh-197",
+        "fr": "Bien qu'il n'en eût pas immédiatement mesuré la portée, le simple fait d'avoir conservé cette information allait, quelques années plus tard, permettre de résoudre une situation qui paraissait jusque-là insoluble.",
+        "zh": "尽管他当时没有立即意识到它的重要性，但仅仅因为保留了这条信息，几年后就得以解决一个此前看似无法解决的问题。"
+      },
+      {
+        "id": "zh-198",
+        "fr": "À supposer que les circonstances restent favorables, rien ne s'opposerait en principe à ce que nous poursuivions le projet selon les grandes lignes qui avaient été définies au départ.",
+        "zh": "假设情况继续有利，原则上没有什么可以阻止我们按照最初确定的大致方向继续推进这个项目。"
+      },
+      {
+        "id": "zh-199",
+        "fr": "Quand bien même certains éléments viendraient encore modifier notre analyse, ils ne suffiraient probablement pas à remettre entièrement en cause les conclusions auxquelles nous sommes parvenus jusqu'à présent.",
+        "zh": "即使还有一些因素改变我们的分析，它们可能也不足以完全推翻我们目前得出的结论。"
+      },
+      {
+        "id": "zh-200",
+        "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, il nous appartient désormais d'en tirer les conséquences et de faire en sorte que les erreurs commises ne se reproduisent pas.",
+        "zh": "无论如何，即使我们已经无法改变发生过的事情，现在仍然应该从中吸取教训，并确保犯过的错误不再重演。"
+      }],
     "frenchportuguese": [],
     "frencharabic": [],
     "frenchturkish": [],
