@@ -2994,7 +2994,1004 @@
         "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, rien ne nous empêche de tirer les leçons nécessaires afin d'éviter qu'une situation comparable ne se reproduise à l'avenir.",
         "it": "In ogni caso, anche se non possiamo più cambiare ciò che è successo, nulla ci impedisce di trarre le necessarie lezioni per evitare che in futuro si ripeta una situazione analoga."
       }],
-    "frenchspanish": [],
+    "frenchspanish": [ {
+        "id": "es-001",
+        "fr": "Comme le magasin était déjà fermé lorsque je suis arrivé, j'ai dû attendre le lendemain pour retourner la veste que j'avais achetée la veille.",
+        "es": "Como la tienda ya estaba cerrada cuando llegué, tuve que esperar hasta el día siguiente para devolver la chaqueta que había comprado el día anterior."
+      },
+      {
+        "id": "es-002",
+        "fr": "Même s'il faisait très froid dehors, elle a décidé de sortir à pied parce qu'elle avait besoin de prendre l'air après être restée toute la journée à la maison.",
+        "es": "Aunque hacía mucho frío afuera, decidió salir a pie porque necesitaba tomar un poco de aire después de haber pasado todo el día en casa."
+      },
+      {
+        "id": "es-003",
+        "fr": "J'avais prévu de préparer le dîner avant l'arrivée des invités, mais le retard du train m'a obligé à tout faire beaucoup plus rapidement que prévu.",
+        "es": "Tenía previsto preparar la cena antes de que llegaran los invitados, pero el retraso del tren me obligó a hacerlo todo mucho más rápido de lo previsto."
+      },
+      {
+        "id": "es-004",
+        "fr": "Si tu avais vérifié les horaires avant de quitter la maison, tu aurais évité de traverser toute la ville pour découvrir que le rendez-vous avait été déplacé.",
+        "es": "Si hubieras comprobado los horarios antes de salir de casa, habrías evitado cruzar toda la ciudad para descubrir que habían cambiado la hora de la cita."
+      },
+      {
+        "id": "es-005",
+        "fr": "Après avoir attendu presque une heure devant le restaurant, nous avons finalement compris que nos amis étaient entrés par une autre porte.",
+        "es": "Después de esperar casi una hora delante del restaurante, finalmente comprendimos que nuestros amigos habían entrado por otra puerta."
+      },
+      {
+        "id": "es-006",
+        "fr": "Elle m'a demandé de lui envoyer l'adresse par message parce qu'elle ne connaissait pas le quartier et craignait de se perdre en venant chez moi.",
+        "es": "Me pidió que le enviara la dirección por mensaje porque no conocía el barrio y temía perderse al venir a mi casa."
+      },
+      {
+        "id": "es-007",
+        "fr": "Bien qu'il ait oublié son portefeuille à la maison, il a réussi à payer son repas grâce à l'argent que son frère lui avait envoyé sur son téléphone.",
+        "es": "Aunque se había olvidado la cartera en casa, consiguió pagar la comida gracias al dinero que su hermano le había enviado al teléfono."
+      },
+      {
+        "id": "es-008",
+        "fr": "Nous pensions que le trajet serait rapide, mais les travaux sur la route ont provoqué un embouteillage qui nous a fait arriver avec plus d'une heure de retard.",
+        "es": "Pensábamos que el trayecto sería rápido, pero las obras en la carretera provocaron un atasco que hizo que llegáramos con más de una hora de retraso."
+      },
+      {
+        "id": "es-009",
+        "fr": "Comme personne ne savait exactement à quelle heure le plombier allait arriver, nous avons dû rester à la maison toute la matinée.",
+        "es": "Como nadie sabía exactamente a qué hora iba a llegar el fontanero, tuvimos que quedarnos en casa toda la mañana."
+      },
+      {
+        "id": "es-010",
+        "fr": "Il avait tellement plu pendant la nuit que plusieurs rues étaient encore complètement inondées lorsque nous sommes partis travailler.",
+        "es": "Había llovido tanto durante la noche que varias calles seguían completamente inundadas cuando salimos para ir a trabajar."
+      },
+      {
+        "id": "es-011",
+        "fr": "Je pensais avoir laissé mes clés sur la table, mais après avoir cherché dans toute la maison, je les ai finalement retrouvées dans la poche de mon manteau.",
+        "es": "Pensaba que había dejado las llaves sobre la mesa, pero después de buscarlas por toda la casa, finalmente las encontré en el bolsillo de mi abrigo."
+      },
+      {
+        "id": "es-012",
+        "fr": "Même si elle avait déjà acheté suffisamment de nourriture, elle a insisté pour passer au marché afin de prendre quelques produits frais supplémentaires.",
+        "es": "Aunque ya había comprado suficiente comida, insistió en pasar por el mercado para comprar algunos productos frescos más."
+      },
+      {
+        "id": "es-013",
+        "fr": "Le voisin m'a expliqué que le bruit venait probablement de l'appartement du dessus, qui était resté vide pendant plusieurs semaines.",
+        "es": "El vecino me explicó que el ruido probablemente venía del piso de arriba, que había estado vacío durante varias semanas."
+      },
+      {
+        "id": "es-014",
+        "fr": "Comme mon téléphone n'avait presque plus de batterie, j'ai dû demander à une inconnue de me prêter son chargeur pendant quelques minutes.",
+        "es": "Como mi teléfono casi no tenía batería, tuve que pedirle a una desconocida que me prestara su cargador durante unos minutos."
+      },
+      {
+        "id": "es-015",
+        "fr": "Elle avait beau chercher ses lunettes partout dans la maison, elle ne les retrouvait pas parce qu'elle les avait laissées dans la voiture.",
+        "es": "Por más que buscaba sus gafas por toda la casa, no conseguía encontrarlas porque las había dejado en el coche."
+      },
+      {
+        "id": "es-016",
+        "fr": "Après avoir comparé plusieurs appartements pendant des semaines, ils ont finalement choisi celui qui était un peu plus cher mais beaucoup mieux situé.",
+        "es": "Después de comparar varios pisos durante semanas, finalmente eligieron el que era un poco más caro, pero estaba mucho mejor situado."
+      },
+      {
+        "id": "es-017",
+        "fr": "Je voulais acheter cette table parce qu'elle était moins chère que les autres, mais j'ai changé d'avis après avoir constaté qu'elle était beaucoup trop grande pour ma cuisine.",
+        "es": "Quería comprar esta mesa porque era más barata que las otras, pero cambié de opinión después de comprobar que era demasiado grande para mi cocina."
+      },
+      {
+        "id": "es-018",
+        "fr": "Si nous ne trouvons pas rapidement une solution, nous risquons de devoir annuler le voyage que nous préparons depuis plusieurs mois.",
+        "es": "Si no encontramos rápidamente una solución, corremos el riesgo de tener que cancelar el viaje que llevamos varios meses preparando."
+      },
+      {
+        "id": "es-019",
+        "fr": "Elle m'a raconté que son fils avait commencé à travailler dans une entreprise située près de chez lui, ce qui lui permettait de rentrer beaucoup plus tôt le soir.",
+        "es": "Me contó que su hijo había empezado a trabajar en una empresa situada cerca de su casa, lo que le permitía volver mucho antes por la noche."
+      },
+      {
+        "id": "es-020",
+        "fr": "Bien qu'il connaisse déjà la ville, il a préféré utiliser une application de navigation parce qu'il devait arriver à l'aéroport avant midi.",
+        "es": "Aunque ya conocía la ciudad, prefirió utilizar una aplicación de navegación porque tenía que llegar al aeropuerto antes del mediodía."
+      },
+      {
+        "id": "es-021",
+        "fr": "Nous avions réservé une chambre avec vue sur la mer, mais lorsque nous sommes arrivés, l'hôtel nous a proposé une chambre différente à cause d'un problème de réservation.",
+        "es": "Habíamos reservado una habitación con vistas al mar, pero cuando llegamos, el hotel nos ofreció una habitación diferente debido a un problema con la reserva."
+      },
+      {
+        "id": "es-022",
+        "fr": "Il est rentré beaucoup plus tard que prévu parce que le bus qu'il devait prendre est tombé en panne au milieu du trajet.",
+        "es": "Volvió mucho más tarde de lo previsto porque el autobús que tenía que coger se averió a mitad del trayecto."
+      },
+      {
+        "id": "es-023",
+        "fr": "Comme elle ne se sentait pas très bien depuis plusieurs jours, sa sœur lui a conseillé de prendre rendez-vous chez le médecin.",
+        "es": "Como llevaba varios días sin sentirse muy bien, su hermana le aconsejó que pidiera cita con el médico."
+      },
+      {
+        "id": "es-024",
+        "fr": "Je ne savais pas que le supermarché fermait aussi tôt le dimanche, alors j'ai dû acheter ce dont j'avais besoin dans une petite épicerie du quartier.",
+        "es": "No sabía que el supermercado cerraba tan temprano los domingos, así que tuve que comprar lo que necesitaba en una pequeña tienda del barrio."
+      },
+      {
+        "id": "es-025",
+        "fr": "Après avoir discuté avec ses parents, elle a décidé de rester quelques mois de plus dans leur maison avant de chercher un appartement.",
+        "es": "Después de hablar con sus padres, decidió quedarse unos meses más en su casa antes de buscar un piso."
+      },
+      {
+        "id": "es-026",
+        "fr": "Même si le repas était déjà prêt, nous avons attendu que tout le monde soit arrivé avant de commencer à manger.",
+        "es": "Aunque la comida ya estaba preparada, esperamos a que todos hubieran llegado antes de empezar a comer."
+      },
+      {
+        "id": "es-027",
+        "fr": "Il m'a promis qu'il passerait chez moi après son travail, à condition qu'il termine suffisamment tôt pour ne pas rater le dernier bus.",
+        "es": "Me prometió que pasaría por mi casa después del trabajo, siempre que terminara lo bastante temprano como para no perder el último autobús."
+      },
+      {
+        "id": "es-028",
+        "fr": "Comme nous avions oublié de vérifier la météo, nous sommes partis sans parapluie alors qu'une forte pluie était annoncée pour l'après-midi.",
+        "es": "Como habíamos olvidado consultar el tiempo, salimos sin paraguas aunque se había anunciado una fuerte lluvia para la tarde."
+      },
+      {
+        "id": "es-029",
+        "fr": "Elle a accepté de garder les enfants pendant quelques heures parce que sa sœur devait se rendre à un rendez-vous important en ville.",
+        "es": "Aceptó cuidar de los niños durante unas horas porque su hermana tenía que acudir a una cita importante en la ciudad."
+      },
+      {
+        "id": "es-030",
+        "fr": "Si tu avais réservé l'hôtel plus tôt, tu aurais probablement payé beaucoup moins cher pour la même chambre.",
+        "es": "Si hubieras reservado el hotel antes, probablemente habrías pagado mucho menos por la misma habitación."
+      },
+      {
+        "id": "es-031",
+        "fr": "Je pensais que la réparation prendrait seulement quelques minutes, mais le technicien m'a expliqué qu'il devait remplacer plusieurs pièces.",
+        "es": "Pensaba que la reparación tardaría solo unos minutos, pero el técnico me explicó que tenía que sustituir varias piezas."
+      },
+      {
+        "id": "es-032",
+        "fr": "Bien qu'il soit déjà tard, elle a décidé de préparer quelque chose à manger pour son frère qui venait de rentrer du travail.",
+        "es": "Aunque ya era tarde, decidió preparar algo de comer para su hermano, que acababa de volver del trabajo."
+      },
+      {
+        "id": "es-033",
+        "fr": "Le serveur nous a expliqué que le plat que nous avions choisi n'était plus disponible, mais il nous a proposé une autre spécialité de la maison.",
+        "es": "El camarero nos explicó que el plato que habíamos elegido ya no estaba disponible, pero nos propuso otra especialidad de la casa."
+      },
+      {
+        "id": "es-034",
+        "fr": "Après avoir reçu le colis, j'ai immédiatement remarqué que la boîte avait été ouverte avant d'être refermée avec du ruban adhésif.",
+        "es": "Después de recibir el paquete, noté inmediatamente que la caja había sido abierta antes de volver a cerrarla con cinta adhesiva."
+      },
+      {
+        "id": "es-035",
+        "fr": "Comme personne ne voulait prendre la responsabilité de contacter le propriétaire, j'ai finalement décidé de lui expliquer moi-même le problème.",
+        "es": "Como nadie quería asumir la responsabilidad de ponerse en contacto con el propietario, finalmente decidí explicarle yo mismo el problema."
+      },
+      {
+        "id": "es-036",
+        "fr": "Même si elle avait très peu de temps, elle a pris le soin de vérifier que toutes les fenêtres étaient bien fermées avant de partir.",
+        "es": "Aunque tenía muy poco tiempo, se aseguró de comprobar que todas las ventanas estuvieran bien cerradas antes de irse."
+      },
+      {
+        "id": "es-037",
+        "fr": "Nous avons dû changer nos plans parce que le vol avait été retardé de plusieurs heures à cause des mauvaises conditions météorologiques.",
+        "es": "Tuvimos que cambiar nuestros planes porque el vuelo se había retrasado varias horas debido a las malas condiciones meteorológicas."
+      },
+      {
+        "id": "es-038",
+        "fr": "Il m'a demandé si je pouvais lui prêter ma voiture pendant le week-end, puisqu'il devait transporter plusieurs meubles dans sa nouvelle maison.",
+        "es": "Me preguntó si podía prestarle mi coche durante el fin de semana, ya que tenía que transportar varios muebles a su nueva casa."
+      },
+      {
+        "id": "es-039",
+        "fr": "Je n'aurais jamais imaginé que cette petite réparation coûterait aussi cher, surtout après avoir acheté moi-même les pièces nécessaires.",
+        "es": "Nunca habría imaginado que esta pequeña reparación costaría tanto, sobre todo después de haber comprado yo mismo las piezas necesarias."
+      },
+      {
+        "id": "es-040",
+        "fr": "Elle a finalement retrouvé le document qu'elle cherchait depuis plusieurs jours dans un vieux dossier qu'elle n'avait pas ouvert depuis longtemps.",
+        "es": "Finalmente encontró el documento que llevaba varios días buscando en una carpeta vieja que no había abierto desde hacía mucho tiempo."
+      },
+      {
+        "id": "es-041",
+        "fr": "Si le temps s'améliore demain, nous irons probablement faire une promenade au bord du lac comme nous l'avions prévu.",
+        "es": "Si mañana mejora el tiempo, probablemente iremos a dar un paseo junto al lago, tal como habíamos previsto."
+      },
+      {
+        "id": "es-042",
+        "fr": "Comme son train arrivait très tôt le matin, elle a préféré dormir chez une amie qui habitait beaucoup plus près de la gare.",
+        "es": "Como su tren llegaba muy temprano por la mañana, prefirió dormir en casa de una amiga que vivía mucho más cerca de la estación."
+      },
+      {
+        "id": "es-043",
+        "fr": "Après avoir essayé plusieurs fois de réparer l'ordinateur, il a compris qu'il valait mieux demander l'aide d'un professionnel.",
+        "es": "Después de intentar varias veces reparar el ordenador, comprendió que era mejor pedir ayuda a un profesional."
+      },
+      {
+        "id": "es-044",
+        "fr": "Bien qu'elle n'ait jamais conduit dans cette ville auparavant, elle a accepté de prendre le volant parce que son mari était trop fatigué.",
+        "es": "Aunque nunca había conducido en esa ciudad, aceptó ponerse al volante porque su marido estaba demasiado cansado."
+      },
+      {
+        "id": "es-045",
+        "fr": "Nous avions prévu de dîner dehors, mais nous sommes finalement restés à la maison parce que les enfants étaient trop fatigués pour sortir.",
+        "es": "Habíamos planeado cenar fuera, pero finalmente nos quedamos en casa porque los niños estaban demasiado cansados para salir."
+      },
+      {
+        "id": "es-046",
+        "fr": "Il a dû annuler son rendez-vous parce qu'il avait oublié qu'il devait accompagner sa mère à l'hôpital ce jour-là.",
+        "es": "Tuvo que cancelar su cita porque había olvidado que ese día tenía que acompañar a su madre al hospital."
+      },
+      {
+        "id": "es-047",
+        "fr": "Même si le produit semblait intéressant au premier abord, j'ai préféré ne pas l'acheter après avoir lu attentivement les commentaires des autres clients.",
+        "es": "Aunque el producto parecía interesante a primera vista, preferí no comprarlo después de leer atentamente los comentarios de los demás clientes."
+      },
+      {
+        "id": "es-048",
+        "fr": "Elle m'a expliqué qu'elle ne pouvait pas venir ce soir parce qu'elle devait terminer plusieurs tâches avant de partir en vacances.",
+        "es": "Me explicó que no podía venir esta noche porque tenía que terminar varias tareas antes de irse de vacaciones."
+      },
+      {
+        "id": "es-049",
+        "fr": "Comme le magasin était beaucoup plus fréquenté que d'habitude, nous avons attendu près de trente minutes avant de pouvoir payer.",
+        "es": "Como la tienda estaba mucho más concurrida de lo habitual, esperamos casi treinta minutos antes de poder pagar."
+      },
+      {
+        "id": "es-050",
+        "fr": "Je lui ai conseillé de garder le reçu au cas où il aurait besoin de retourner le produit plus tard.",
+        "es": "Le aconsejé que guardara el recibo por si necesitaba devolver el producto más adelante."
+      },
+      {
+        "id": "es-051",
+        "fr": "Après avoir parlé avec le propriétaire, nous avons finalement obtenu l'autorisation de peindre les murs de l'appartement comme nous le souhaitions.",
+        "es": "Después de hablar con el propietario, finalmente obtuvimos permiso para pintar las paredes del piso como queríamos."
+      },
+      {
+        "id": "es-052",
+        "fr": "Il faisait tellement chaud dans la chambre que nous avons dû ouvrir toutes les fenêtres avant de pouvoir nous endormir.",
+        "es": "Hacía tanto calor en la habitación que tuvimos que abrir todas las ventanas antes de poder dormirnos."
+      },
+      {
+        "id": "es-053",
+        "fr": "Elle ne savait pas comment expliquer la situation à ses parents sans les inquiéter davantage, alors elle a demandé conseil à sa sœur.",
+        "es": "No sabía cómo explicarles la situación a sus padres sin preocuparlos aún más, así que pidió consejo a su hermana."
+      },
+      {
+        "id": "es-054",
+        "fr": "Si vous avez besoin de quelque chose pendant votre absence, n'hésitez pas à m'appeler, même si c'est seulement pour une petite chose.",
+        "es": "Si necesitan algo durante su ausencia, no duden en llamarme, aunque sea solo por una pequeña cosa."
+      },
+      {
+        "id": "es-055",
+        "fr": "Nous avons choisi ce restaurant parce que plusieurs personnes nous l'avaient recommandé, même si les prix étaient légèrement plus élevés que prévu.",
+        "es": "Elegimos este restaurante porque varias personas nos lo habían recomendado, aunque los precios eran ligeramente más altos de lo previsto."
+      },
+      {
+        "id": "es-056",
+        "fr": "Il m'a assuré qu'il ferait attention à ne pas oublier les documents importants avant de partir pour son voyage.",
+        "es": "Me aseguró que tendría cuidado de no olvidar los documentos importantes antes de emprender el viaje."
+      },
+      {
+        "id": "es-057",
+        "fr": "Comme elle avait déjà payé en ligne, elle n'a pas compris pourquoi le vendeur lui demandait encore de régler la même somme.",
+        "es": "Como ya había pagado por internet, no entendió por qué el vendedor le pedía que volviera a pagar la misma cantidad."
+      },
+      {
+        "id": "es-058",
+        "fr": "Après plusieurs heures de voyage, nous étions tellement fatigués que nous avons décidé de nous arrêter dans un petit hôtel avant de continuer le lendemain.",
+        "es": "Después de varias horas de viaje, estábamos tan cansados que decidimos parar en un pequeño hotel antes de continuar al día siguiente."
+      },
+      {
+        "id": "es-059",
+        "fr": "Elle a accepté de venir avec nous à condition que nous rentrions suffisamment tôt pour qu'elle puisse se lever tôt le lendemain matin.",
+        "es": "Aceptó venir con nosotros con la condición de que regresáramos lo bastante temprano para que pudiera levantarse pronto a la mañana siguiente."
+      },
+      {
+        "id": "es-060",
+        "fr": "Je pensais qu'il plaisantait lorsqu'il m'a dit qu'il avait oublié son propre anniversaire, mais il était effectivement sérieux.",
+        "es": "Pensaba que estaba bromeando cuando me dijo que había olvidado su propio cumpleaños, pero hablaba en serio."
+      },
+      {
+        "id": "es-061",
+        "fr": "Même si nous avions vérifié plusieurs fois l'adresse, nous nous sommes retrouvés dans une rue complètement différente de celle où nous devions aller.",
+        "es": "Aunque habíamos comprobado la dirección varias veces, acabamos en una calle completamente diferente de aquella a la que teníamos que ir."
+      },
+      {
+        "id": "es-062",
+        "fr": "Comme le médecin avait beaucoup de patients ce jour-là, nous avons attendu plus longtemps que prévu avant d'être reçus.",
+        "es": "Como el médico tenía muchos pacientes ese día, esperamos más de lo previsto antes de ser atendidos."
+      },
+      {
+        "id": "es-063",
+        "fr": "Il a décidé de réparer lui-même la porte, bien que son voisin lui ait conseillé de faire appel à un professionnel.",
+        "es": "Decidió reparar él mismo la puerta, aunque su vecino le había aconsejado que recurriera a un profesional."
+      },
+      {
+        "id": "es-064",
+        "fr": "Après avoir constaté que le premier appartement était trop petit pour toute la famille, ils ont décidé de visiter les deux autres logements proposés par l'agence.",
+        "es": "Después de comprobar que el primer piso era demasiado pequeño para toda la familia, decidieron visitar las otras dos viviendas que ofrecía la agencia."
+      },
+      {
+        "id": "es-065",
+        "fr": "Je n'ai pas pu répondre à ton appel parce que j'étais dans une réunion, mais je t'ai rappelé dès que j'ai eu quelques minutes de libre.",
+        "es": "No pude contestar a tu llamada porque estaba en una reunión, pero te devolví la llamada en cuanto tuve unos minutos libres."
+      },
+      {
+        "id": "es-066",
+        "fr": "Elle voulait acheter une nouvelle robe pour la cérémonie, mais elle a finalement choisi de porter celle qu'elle avait déjà parce qu'elle était encore en excellent état.",
+        "es": "Quería comprar un vestido nuevo para la ceremonia, pero finalmente decidió ponerse el que ya tenía porque todavía estaba en excelente estado."
+      },
+      {
+        "id": "es-067",
+        "fr": "Si vous partez maintenant, vous devriez arriver avant la tombée de la nuit, à moins que la circulation ne soit particulièrement difficile.",
+        "es": "Si salen ahora, deberían llegar antes de que anochezca, a menos que el tráfico sea especialmente intenso."
+      },
+      {
+        "id": "es-068",
+        "fr": "Nous avons décidé de reporter la réunion jusqu'à la semaine prochaine afin que tout le monde puisse être présent.",
+        "es": "Decidimos aplazar la reunión hasta la próxima semana para que todos pudieran estar presentes."
+      },
+      {
+        "id": "es-069",
+        "fr": "Il m'a expliqué qu'il avait choisi cette solution parce qu'elle était plus simple à mettre en place et qu'elle ne nécessitait pas beaucoup d'argent.",
+        "es": "Me explicó que había elegido esta solución porque era más fácil de poner en práctica y no requería mucho dinero."
+      },
+      {
+        "id": "es-070",
+        "fr": "Après avoir comparé plusieurs offres, nous avons découvert que celle qui semblait la moins chère nous coûterait finalement beaucoup plus cher à long terme.",
+        "es": "Después de comparar varias ofertas, descubrimos que la que parecía más barata acabaría costándonos mucho más a largo plazo."
+      },{
+        "id": "es-071",
+        "fr": "Même si je comprends pourquoi elle a réagi de cette manière, je trouve qu'elle aurait pu attendre que nous soyons seuls avant de lui parler aussi franchement.",
+        "es": "Aunque entiendo por qué reaccionó de esa manera, creo que podría haber esperado a que estuviéramos solos antes de hablarle con tanta franqueza."
+      },
+      {
+        "id": "es-072",
+        "fr": "Il a refusé de changer ses plans, bien qu'il soit parfaitement conscient que les conditions météorologiques risquaient de rendre le trajet particulièrement difficile.",
+        "es": "Se negó a cambiar sus planes, aunque era perfectamente consciente de que las condiciones meteorológicas podían hacer que el trayecto fuera especialmente difícil."
+      },
+      {
+        "id": "es-073",
+        "fr": "Ce qui m'a le plus surpris, c'est qu'elle ait réussi à garder son calme alors que tout semblait se compliquer autour d'elle.",
+        "es": "Lo que más me sorprendió fue que consiguiera mantener la calma cuando todo parecía complicarse a su alrededor."
+      },
+      {
+        "id": "es-074",
+        "fr": "À force de repousser les petites réparations, nous avons fini par devoir remplacer une partie entière de la maison qui aurait pu être sauvée beaucoup plus tôt.",
+        "es": "De tanto posponer las pequeñas reparaciones, acabamos teniendo que sustituir una parte entera de la casa que podría haberse salvado mucho antes."
+      },
+      {
+        "id": "es-075",
+        "fr": "Elle avait beau expliquer qu'elle n'était pas responsable du retard, personne ne semblait vraiment convaincu par ses explications.",
+        "es": "Por más que explicaba que no era responsable del retraso, nadie parecía realmente convencido por sus explicaciones."
+      },
+      {
+        "id": "es-076",
+        "fr": "Quoi qu'il puisse en penser, je préfère vérifier une dernière fois les informations avant de prendre une décision qui pourrait être difficile à modifier ensuite.",
+        "es": "Piense lo que piense, prefiero comprobar una última vez la información antes de tomar una decisión que después podría ser difícil de modificar."
+      },
+      {
+        "id": "es-077",
+        "fr": "À moins que le propriétaire n'accepte de réduire le loyer, nous serons probablement obligés de chercher un autre appartement dans les prochaines semaines.",
+        "es": "A menos que el propietario acepte reducir el alquiler, probablemente nos veremos obligados a buscar otro piso en las próximas semanas."
+      },
+      {
+        "id": "es-078",
+        "fr": "Il aurait pu prendre un taxi, mais il a préféré marcher pendant près d'une heure, ce qui lui a finalement permis de découvrir une partie de la ville qu'il ne connaissait pas.",
+        "es": "Podría haber tomado un taxi, pero prefirió caminar durante casi una hora, lo que finalmente le permitió descubrir una parte de la ciudad que no conocía."
+      },
+      {
+        "id": "es-079",
+        "fr": "Même après que je lui ai expliqué plusieurs fois la situation, elle continuait à penser que le problème pouvait être réglé en quelques minutes.",
+        "es": "Incluso después de que le explicara la situación varias veces, seguía pensando que el problema podía resolverse en unos minutos."
+      },
+      {
+        "id": "es-080",
+        "fr": "Il est possible que nous ayons mal compris ce que le propriétaire voulait dire, auquel cas il serait préférable de lui demander directement des explications.",
+        "es": "Es posible que hayamos entendido mal lo que quería decir el propietario, en cuyo caso sería mejor pedirle directamente explicaciones."
+      },
+      {
+        "id": "es-081",
+        "fr": "Bien qu'il ait promis de revenir dès qu'il aurait terminé son travail, il n'est finalement rentré qu'au milieu de la nuit.",
+        "es": "Aunque había prometido volver en cuanto terminara su trabajo, finalmente no regresó hasta medianoche."
+      },
+      {
+        "id": "es-082",
+        "fr": "Je me suis rendu compte trop tard que le document que j'avais envoyé contenait une erreur importante, alors que personne ne m'avait signalé le problème.",
+        "es": "Me di cuenta demasiado tarde de que el documento que había enviado contenía un error importante, aunque nadie me había señalado el problema."
+      },
+      {
+        "id": "es-083",
+        "fr": "Elle a décidé de ne pas répondre immédiatement au message, de peur de dire quelque chose qu'elle pourrait regretter une fois qu'elle serait moins énervée.",
+        "es": "Decidió no responder inmediatamente al mensaje, por miedo a decir algo de lo que pudiera arrepentirse una vez que estuviera menos enfadada."
+      },
+      {
+        "id": "es-084",
+        "fr": "Ce n'est qu'après avoir parlé directement avec le responsable que nous avons compris pourquoi notre demande avait été refusée malgré les documents fournis.",
+        "es": "No fue hasta después de hablar directamente con el responsable cuando comprendimos por qué habían rechazado nuestra solicitud a pesar de los documentos presentados."
+      },
+      {
+        "id": "es-085",
+        "fr": "Il a beau dire qu'il n'est pas inquiet, je vois bien qu'il vérifie son téléphone toutes les cinq minutes en attendant la réponse du médecin.",
+        "es": "Por más que diga que no está preocupado, se nota que mira el teléfono cada cinco minutos mientras espera la respuesta del médico."
+      },
+      {
+        "id": "es-086",
+        "fr": "Si elle n'avait pas insisté pour vérifier le contenu du colis avant de signer, elle aurait probablement découvert trop tard qu'il manquait plusieurs articles.",
+        "es": "Si no hubiera insistido en comprobar el contenido del paquete antes de firmar, probablemente habría descubierto demasiado tarde que faltaban varios artículos."
+      },
+      {
+        "id": "es-087",
+        "fr": "Nous avons fini par accepter sa proposition, non pas parce qu'elle était parfaite, mais parce qu'elle représentait le meilleur compromis dans les circonstances.",
+        "es": "Al final aceptamos su propuesta, no porque fuera perfecta, sino porque representaba el mejor compromiso dadas las circunstancias."
+      },
+      {
+        "id": "es-088",
+        "fr": "Quoi qu'on puisse penser de sa façon de gérer les choses, il faut reconnaître qu'il a réussi à résoudre un problème que personne d'autre ne voulait prendre en charge.",
+        "es": "Se piense lo que se piense de su manera de gestionar las cosas, hay que reconocer que consiguió resolver un problema del que nadie más quería hacerse cargo."
+      },
+      {
+        "id": "es-089",
+        "fr": "Elle m'a dit qu'elle aurait préféré rester chez elle, mais qu'elle était venue malgré tout parce qu'elle ne voulait pas décevoir ses amis.",
+        "es": "Me dijo que habría preferido quedarse en casa, pero que había venido de todos modos porque no quería decepcionar a sus amigos."
+      },
+      {
+        "id": "es-090",
+        "fr": "À mesure que la soirée avançait, il devenait de plus en plus évident que personne n'avait réellement prévu ce qui allait se passer ensuite.",
+        "es": "A medida que avanzaba la noche, resultaba cada vez más evidente que nadie había previsto realmente lo que iba a suceder después."
+      },
+      {
+        "id": "es-091",
+        "fr": "Il aurait été préférable que tu me préviennes plus tôt, surtout puisque tu savais déjà que la situation risquait de changer au dernier moment.",
+        "es": "Habría sido mejor que me avisaras antes, sobre todo porque ya sabías que la situación podía cambiar en el último momento."
+      },
+      {
+        "id": "es-092",
+        "fr": "Même si personne ne lui avait demandé de venir, elle a insisté pour rester jusqu'à la fin afin de s'assurer que tout se passerait correctement.",
+        "es": "Aunque nadie le había pedido que viniera, insistió en quedarse hasta el final para asegurarse de que todo saliera bien."
+      },
+      {
+        "id": "es-093",
+        "fr": "Il a tellement pris l'habitude de travailler tard qu'il ne remarquait même plus à quel point cela affectait son sommeil et sa vie familiale.",
+        "es": "Se había acostumbrado tanto a trabajar hasta tarde que ya ni siquiera se daba cuenta de hasta qué punto eso afectaba a su sueño y a su vida familiar."
+      },
+      {
+        "id": "es-094",
+        "fr": "À condition que tout se passe comme prévu, nous devrions pouvoir terminer les travaux avant que la saison des pluies ne commence.",
+        "es": "Siempre que todo salga según lo previsto, deberíamos poder terminar las obras antes de que comience la temporada de lluvias."
+      },
+      {
+        "id": "es-095",
+        "fr": "Elle a refusé de vendre la maison, même si plusieurs acheteurs lui avaient proposé beaucoup plus que ce qu'elle avait payé quelques années auparavant.",
+        "es": "Se negó a vender la casa, aunque varios compradores le habían ofrecido mucho más de lo que había pagado unos años antes."
+      },
+      {
+        "id": "es-096",
+        "fr": "Il m'a expliqué que, dans la mesure où personne ne pouvait garantir que le problème ne se reproduirait pas, il préférait attendre avant d'investir davantage d'argent.",
+        "es": "Me explicó que, dado que nadie podía garantizar que el problema no volviera a producirse, prefería esperar antes de invertir más dinero."
+      },
+      {
+        "id": "es-097",
+        "fr": "Je ne pensais pas qu'elle accepterait aussi facilement, compte tenu de tout ce qu'elle avait déjà fait pour essayer de trouver une autre solution.",
+        "es": "No pensaba que aceptaría tan fácilmente, teniendo en cuenta todo lo que ya había hecho para intentar encontrar otra solución."
+      },
+      {
+        "id": "es-098",
+        "fr": "Bien qu'il ait été prévenu plusieurs jours à l'avance, il a prétendu ne pas être au courant du changement d'horaire.",
+        "es": "Aunque había sido avisado varios días antes, afirmó no estar al tanto del cambio de horario."
+      },
+      {
+        "id": "es-099",
+        "fr": "Ce qui rend la situation particulièrement compliquée, c'est que nous ne savons pas encore si le problème vient de l'appareil ou de l'installation électrique.",
+        "es": "Lo que hace que la situación sea especialmente complicada es que todavía no sabemos si el problema procede del aparato o de la instalación eléctrica."
+      },
+      {
+        "id": "es-100",
+        "fr": "Il aurait pu nous prévenir qu'il était en retard, au lieu de nous laisser attendre dehors sans savoir s'il allait finalement venir.",
+        "es": "Podría habernos avisado de que llegaba tarde, en lugar de dejarnos esperando fuera sin saber si finalmente iba a venir."
+      },
+      {
+        "id": "es-101",
+        "fr": "Elle a beau connaître parfaitement le quartier, elle s'est retrouvée incapable de retrouver l'adresse parce que plusieurs rues avaient récemment changé de nom.",
+        "es": "Por mucho que conozca perfectamente el barrio, se encontró incapaz de localizar la dirección porque varias calles habían cambiado de nombre recientemente."
+      },
+      {
+        "id": "es-102",
+        "fr": "Si j'avais su à quel point la réparation serait coûteuse, j'aurais probablement cherché une autre solution avant d'accepter le devis.",
+        "es": "Si hubiera sabido lo cara que sería la reparación, probablemente habría buscado otra solución antes de aceptar el presupuesto."
+      },
+      {
+        "id": "es-103",
+        "fr": "Ce qui est particulièrement frustrant, c'est que nous avions pris toutes les précautions nécessaires pour éviter précisément le problème qui vient de se produire.",
+        "es": "Lo especialmente frustrante es que habíamos tomado todas las precauciones necesarias precisamente para evitar el problema que acaba de producirse."
+      },
+      {
+        "id": "es-104",
+        "fr": "À force de vouloir tout contrôler, elle a fini par s'épuiser sans pour autant réussir à empêcher les choses de se dérouler autrement que prévu.",
+        "es": "De tanto querer controlarlo todo, acabó agotándose sin conseguir impedir que las cosas sucedieran de una manera distinta a la prevista."
+      },
+      {
+        "id": "es-105",
+        "fr": "Même si le prix nous semblait raisonnable au départ, nous avons découvert par la suite que plusieurs frais supplémentaires n'avaient pas été mentionnés.",
+        "es": "Aunque al principio el precio nos parecía razonable, después descubrimos que no se habían mencionado varios gastos adicionales."
+      },
+      {
+        "id": "es-106",
+        "fr": "Il m'a demandé de ne rien dire à sa sœur jusqu'à ce qu'il ait lui-même l'occasion de lui expliquer ce qui s'était passé.",
+        "es": "Me pidió que no le dijera nada a su hermana hasta que él mismo tuviera la oportunidad de explicarle lo que había ocurrido."
+      },
+      {
+        "id": "es-107",
+        "fr": "Quoi qu'elle puisse penser de cette décision, elle devra reconnaître qu'il n'était plus possible de continuer comme si rien ne s'était passé.",
+        "es": "Piense lo que piense de esta decisión, tendrá que reconocer que ya no era posible seguir como si no hubiera pasado nada."
+      },
+      {
+        "id": "es-108",
+        "fr": "Nous aurions aimé rester plus longtemps, mais nous avons dû partir avant que la circulation ne devienne trop importante sur la route principale.",
+        "es": "Nos habría gustado quedarnos más tiempo, pero tuvimos que irnos antes de que el tráfico aumentara demasiado en la carretera principal."
+      },
+      {
+        "id": "es-109",
+        "fr": "Elle a finalement accepté de changer d'appartement, pour peu que le propriétaire accepte de lui laisser suffisamment de temps pour organiser son déménagement.",
+        "es": "Finalmente aceptó cambiar de piso, siempre y cuando el propietario aceptara darle suficiente tiempo para organizar la mudanza."
+      },
+      {
+        "id": "es-110",
+        "fr": "Il était tellement concentré sur son téléphone qu'il n'a même pas remarqué que le bus dans lequel il se trouvait avait dépassé son arrêt.",
+        "es": "Estaba tan concentrado en su teléfono que ni siquiera se dio cuenta de que el autobús en el que iba había pasado su parada."
+      },
+      {
+        "id": "es-111",
+        "fr": "Après avoir réfléchi aux conséquences possibles, nous avons estimé qu'il valait mieux attendre encore quelques jours avant de prendre une décision définitive.",
+        "es": "Después de reflexionar sobre las posibles consecuencias, consideramos que era mejor esperar unos días más antes de tomar una decisión definitiva."
+      },
+      {
+        "id": "es-112",
+        "fr": "Même s'il prétend ne pas être intéressé par l'offre, il continue de poser des questions qui montrent clairement qu'il envisage sérieusement de l'accepter.",
+        "es": "Aunque afirma no estar interesado en la oferta, sigue haciendo preguntas que demuestran claramente que está considerando seriamente aceptarla."
+      },
+      {
+        "id": "es-113",
+        "fr": "Il a décidé de garder le vieux meuble, non qu'il en ait réellement besoin, mais parce qu'il appartenait autrefois à ses grands-parents.",
+        "es": "Decidió conservar el mueble viejo, no porque realmente lo necesitara, sino porque perteneció a sus abuelos."
+      },
+      {
+        "id": "es-114",
+        "fr": "Si nous n'avions pas vérifié les informations une seconde fois, nous aurions probablement pris une décision fondée sur des données qui n'étaient plus à jour.",
+        "es": "Si no hubiéramos comprobado la información por segunda vez, probablemente habríamos tomado una decisión basada en datos que ya no estaban actualizados."
+      },
+      {
+        "id": "es-115",
+        "fr": "Elle m'a assuré qu'elle ferait tout son possible pour être présente, quand bien même son emploi du temps serait particulièrement chargé cette semaine-là.",
+        "es": "Me aseguró que haría todo lo posible por estar presente, aunque aquella semana tuviera una agenda especialmente apretada."
+      },
+      {
+        "id": "es-116",
+        "fr": "Ce n'est qu'en arrivant sur place que nous avons compris pourquoi tout le monde nous avait conseillé de partir beaucoup plus tôt.",
+        "es": "No fue hasta llegar al lugar cuando comprendimos por qué todo el mundo nos había aconsejado salir mucho antes."
+      },
+      {
+        "id": "es-117",
+        "fr": "Bien qu'elle ait essayé de rester objective, il était évident que son opinion était influencée par ce qui s'était passé quelques années auparavant.",
+        "es": "Aunque había intentado mantenerse objetiva, era evidente que su opinión estaba influida por lo que había ocurrido unos años antes."
+      },
+      {
+        "id": "es-118",
+        "fr": "Il aurait été beaucoup plus simple de régler le problème immédiatement, mais personne ne voulait prendre la responsabilité de décider quoi faire.",
+        "es": "Habría sido mucho más sencillo resolver el problema inmediatamente, pero nadie quería asumir la responsabilidad de decidir qué hacer."
+      },
+      {
+        "id": "es-119",
+        "fr": "À bien y réfléchir, je crois que nous avons accepté cette proposition surtout parce que nous étions trop fatigués pour chercher une meilleure alternative.",
+        "es": "Pensándolo bien, creo que aceptamos esta propuesta sobre todo porque estábamos demasiado cansados para buscar una alternativa mejor."
+      },
+      {
+        "id": "es-120",
+        "fr": "Même si la situation semble aujourd'hui relativement calme, personne ne peut garantir qu'elle ne changera pas complètement dans les prochains jours.",
+        "es": "Aunque hoy la situación parece relativamente tranquila, nadie puede garantizar que no cambie por completo en los próximos días."
+      },
+      {
+        "id": "es-121",
+        "fr": "Elle a préféré ne pas répondre à la question, de crainte que sa réponse ne soit interprétée d'une manière qu'elle n'aurait pas souhaitée.",
+        "es": "Prefirió no responder a la pregunta, por temor a que su respuesta pudiera interpretarse de una manera que ella no habría querido."
+      },
+      {
+        "id": "es-122",
+        "fr": "Il ne suffit pas de réparer le problème actuel ; encore faut-il comprendre ce qui l'a provoqué afin d'éviter qu'il ne se reproduise.",
+        "es": "No basta con reparar el problema actual; también hay que entender qué lo provocó para evitar que vuelva a ocurrir."
+      },
+      {
+        "id": "es-123",
+        "fr": "Nous avons accepté de l'aider, à condition qu'il nous prévienne suffisamment tôt s'il devait finalement changer ses plans.",
+        "es": "Aceptamos ayudarlo, con la condición de que nos avisara con suficiente antelación si finalmente tenía que cambiar sus planes."
+      },
+      {
+        "id": "es-124",
+        "fr": "Il est peu probable qu'elle accepte de revenir sur sa décision maintenant qu'elle a déjà expliqué publiquement les raisons qui l'ont poussée à agir ainsi.",
+        "es": "Es poco probable que acepte cambiar de opinión ahora que ya ha explicado públicamente las razones que la llevaron a actuar de esa manera."
+      },
+      {
+        "id": "es-125",
+        "fr": "Quoi qu'il arrive demain, nous devrons faire avec les conséquences de la décision que nous avons prise aujourd'hui.",
+        "es": "Pase lo que pase mañana, tendremos que afrontar las consecuencias de la decisión que hemos tomado hoy."
+      },
+      {
+        "id": "es-126",
+        "fr": "Elle aurait préféré que son frère lui dise la vérité immédiatement, plutôt que de découvrir plusieurs semaines plus tard qu'il lui avait caché une partie de l'histoire.",
+        "es": "Habría preferido que su hermano le dijera la verdad inmediatamente, en lugar de descubrir varias semanas después que le había ocultado una parte de la historia."
+      },
+      {
+        "id": "es-127",
+        "fr": "Même après avoir reçu toutes les explications nécessaires, il continuait à penser que quelque chose d'important lui échappait.",
+        "es": "Incluso después de recibir todas las explicaciones necesarias, seguía pensando que se le escapaba algo importante."
+      },
+      {
+        "id": "es-128",
+        "fr": "Ce n'est qu'en relisant attentivement le contrat que j'ai remarqué une clause qui pouvait nous obliger à payer des frais supplémentaires.",
+        "es": "No fue hasta que volví a leer atentamente el contrato cuando descubrí una cláusula que podía obligarnos a pagar gastos adicionales."
+      },
+      {
+        "id": "es-129",
+        "fr": "À supposer même que nous trouvions une solution aujourd'hui, il faudrait encore vérifier qu'elle puisse réellement fonctionner sur le long terme.",
+        "es": "Incluso suponiendo que encontremos una solución hoy, todavía habría que comprobar que realmente pueda funcionar a largo plazo."
+      },
+      {
+        "id": "es-130",
+        "fr": "Elle a fini par reconnaître qu'elle avait peut-être réagi trop rapidement, même si elle continuait à penser que sa colère était compréhensible.",
+        "es": "Al final reconoció que quizá había reaccionado demasiado rápido, aunque seguía pensando que su enfado era comprensible."
+      },
+      {
+        "id": "es-131",
+        "fr": "Il a beau connaître toutes les règles, il lui arrive encore de prendre des décisions qui montrent qu'il n'a pas toujours conscience de leurs conséquences.",
+        "es": "Por mucho que conozca todas las reglas, todavía toma decisiones que demuestran que no siempre es consciente de sus consecuencias."
+      },
+      {
+        "id": "es-132",
+        "fr": "Si le propriétaire avait accepté notre première proposition, nous n'aurions probablement pas eu besoin de chercher un autre logement aussi rapidement.",
+        "es": "Si el propietario hubiera aceptado nuestra primera propuesta, probablemente no habríamos tenido que buscar otra vivienda tan rápidamente."
+      },
+      {
+        "id": "es-133",
+        "fr": "Elle m'a demandé de garder le silence jusqu'à ce qu'elle soit certaine que toutes les personnes concernées avaient été correctement informées.",
+        "es": "Me pidió que guardara silencio hasta estar segura de que todas las personas implicadas habían sido informadas correctamente."
+      },
+      {
+        "id": "es-134",
+        "fr": "Il serait injuste de lui reprocher entièrement cette situation alors que plusieurs personnes avaient participé à la décision qui l'a provoquée.",
+        "es": "Sería injusto culparlo por completo de esta situación cuando varias personas habían participado en la decisión que la provocó."
+      },
+      {
+        "id": "es-135",
+        "fr": "Nous pensions avoir suffisamment de temps pour tout préparer, jusqu'au moment où nous avons appris que l'heure du départ avait été avancée.",
+        "es": "Pensábamos que teníamos tiempo suficiente para prepararlo todo, hasta que supimos que la hora de salida se había adelantado."
+      },
+      {
+        "id": "es-136",
+        "fr": "Même si elle ne partage pas complètement mon point de vue, elle a reconnu que certains de mes arguments méritaient d'être pris en considération.",
+        "es": "Aunque no comparte completamente mi punto de vista, reconoció que algunos de mis argumentos merecían ser tenidos en cuenta."
+      },
+      {
+        "id": "es-137",
+        "fr": "Il n'aurait probablement pas réagi de la même manière s'il avait su dès le début ce qui s'était réellement passé.",
+        "es": "Probablemente no habría reaccionado de la misma manera si hubiera sabido desde el principio lo que realmente había ocurrido."
+      },
+      {
+        "id": "es-138",
+        "fr": "À moins qu'une nouvelle information ne vienne modifier complètement la situation, nous maintiendrons la décision qui a été prise hier.",
+        "es": "A menos que una nueva información cambie por completo la situación, mantendremos la decisión que se tomó ayer."
+      },
+      {
+        "id": "es-139",
+        "fr": "Elle aurait aimé pouvoir expliquer son choix plus clairement, mais elle craignait que cela ne provoque une discussion encore plus compliquée.",
+        "es": "Le habría gustado poder explicar su elección con mayor claridad, pero temía que eso provocara una discusión todavía más complicada."
+      },
+      {
+        "id": "es-140",
+        "fr": "Quoi qu'on puisse penser de sa décision, il faut admettre qu'il a pris en compte les intérêts de toutes les personnes concernées avant de se prononcer.",
+        "es": "Se piense lo que se piense de su decisión, hay que admitir que tuvo en cuenta los intereses de todas las personas implicadas antes de pronunciarse."
+      }, {
+        "id": "es-141",
+        "fr": "Quand bien même il aurait les moyens de s'offrir une voiture neuve, je doute qu'il accepte de consacrer une somme aussi importante à quelque chose dont il pourrait parfaitement se passer.",
+        "es": "Aunque tuviera medios para permitirse un coche nuevo, dudo que aceptara dedicar una cantidad tan importante a algo de lo que podría perfectamente prescindir."
+      },
+      {
+        "id": "es-142",
+        "fr": "Bien qu'elle eût initialement prévu de rester chez elle, elle finit par accompagner ses amis, ne serait-ce que pour éviter de passer toute la soirée seule.",
+        "es": "Aunque inicialmente había previsto quedarse en casa, terminó acompañando a sus amigos, aunque solo fuera para evitar pasar toda la noche sola."
+      },
+      {
+        "id": "es-143",
+        "fr": "Pour peu que la circulation soit aussi dense demain matin qu'elle l'était aujourd'hui, nous aurons beau partir très tôt, nous risquons malgré tout d'arriver en retard.",
+        "es": "Si el tráfico está mañana por la mañana tan intenso como lo estuvo hoy, por mucho que salgamos muy temprano, corremos el riesgo de llegar tarde."
+      },
+      {
+        "id": "es-144",
+        "fr": "Il n'est pas exclu que, faute d'avoir été suffisamment informés à temps, certains habitants aient pris des décisions qu'ils n'auraient probablement pas prises dans d'autres circonstances.",
+        "es": "No se descarta que, al no haber sido informados suficientemente a tiempo, algunos vecinos hayan tomado decisiones que probablemente no habrían tomado en otras circunstancias."
+      },
+      {
+        "id": "es-145",
+        "fr": "À supposer même que le propriétaire accepte finalement notre proposition, encore faudrait-il que nous soyons en mesure de réunir la somme nécessaire dans les délais impartis.",
+        "es": "Incluso suponiendo que el propietario acepte finalmente nuestra propuesta, todavía tendríamos que ser capaces de reunir la cantidad necesaria dentro del plazo establecido."
+      },
+      {
+        "id": "es-146",
+        "fr": "Ce qui me paraît le plus surprenant, rétrospectivement, c'est que personne n'ait songé à vérifier une information aussi élémentaire avant de prendre une décision aux conséquences aussi importantes.",
+        "es": "Lo que me parece más sorprendente, visto en retrospectiva, es que nadie pensara en comprobar una información tan básica antes de tomar una decisión con consecuencias tan importantes."
+      },
+      {
+        "id": "es-147",
+        "fr": "Encore aurait-il fallu que nous soyons prévenus suffisamment tôt pour pouvoir modifier nos réservations sans perdre l'argent que nous avions déjà versé.",
+        "es": "Habría sido necesario, además, que nos hubieran avisado con suficiente antelación para poder modificar nuestras reservas sin perder el dinero que ya habíamos pagado."
+      },
+      {
+        "id": "es-148",
+        "fr": "Ce n'est qu'une fois que tout le monde eut quitté la maison que nous nous rendîmes compte de l'ampleur des dégâts causés par la fuite d'eau.",
+        "es": "No fue hasta que todos hubieron salido de la casa cuando nos dimos cuenta de la magnitud de los daños causados por la fuga de agua."
+      },
+      {
+        "id": "es-149",
+        "fr": "Si tant est que son explication soit exacte, il resterait encore à comprendre pourquoi personne ne nous en avait informés avant que nous ne découvrions le problème par nous-mêmes.",
+        "es": "Suponiendo que su explicación sea exacta, todavía quedaría por entender por qué nadie nos había informado antes de que descubriéramos el problema por nosotros mismos."
+      },
+      {
+        "id": "es-150",
+        "fr": "Quand bien même elle aurait accepté de revenir sur sa décision, il aurait été difficile de convaincre les autres membres de la famille de lui faire à nouveau confiance.",
+        "es": "Aunque hubiera aceptado reconsiderar su decisión, habría sido difícil convencer a los demás miembros de la familia para que volvieran a confiar en ella."
+      },
+      {
+        "id": "es-151",
+        "fr": "Encore eût-il fallu que nous soyons informés suffisamment tôt pour que nous puissions éviter les frais supplémentaires qui se sont finalement ajoutés à la facture.",
+        "es": "Habría sido necesario, sin embargo, que nos hubieran informado con suficiente antelación para poder evitar los gastos adicionales que finalmente se añadieron a la factura."
+      },
+      {
+        "id": "es-152",
+        "fr": "À peine avait-elle raccroché qu'elle comprit, à la manière dont son interlocuteur avait choisi ses mots, que quelque chose d'important lui avait été volontairement caché.",
+        "es": "Apenas había colgado cuando comprendió, por la manera en que su interlocutor había elegido sus palabras, que alguien le había ocultado deliberadamente algo importante."
+      },
+      {
+        "id": "es-153",
+        "fr": "Il aurait beau multiplier les explications, rien ne permettrait d'effacer le fait qu'il avait pris cette décision sans consulter les personnes directement concernées.",
+        "es": "Por muchas explicaciones que diera, nada podría borrar el hecho de que había tomado esa decisión sin consultar a las personas directamente afectadas."
+      },
+      {
+        "id": "es-154",
+        "fr": "Bien lui en ait pris de conserver les anciens documents, sans lesquels il lui aurait été pratiquement impossible de prouver que le paiement avait déjà été effectué.",
+        "es": "Hizo bien en conservar los documentos antiguos, sin los cuales le habría resultado prácticamente imposible demostrar que el pago ya se había efectuado."
+      },
+      {
+        "id": "es-155",
+        "fr": "Si tant est que l'on puisse considérer son explication comme satisfaisante, elle ne permet en aucun cas de justifier le retard avec lequel nous avons été informés.",
+        "es": "Aun admitiendo que su explicación pueda considerarse satisfactoria, en ningún caso permite justificar el retraso con el que fuimos informados."
+      },
+      {
+        "id": "es-156",
+        "fr": "À quelque moment qu'il décide finalement de partir, il devra tenir compte du fait que certaines routes deviennent particulièrement difficiles à emprunter après la tombée de la nuit.",
+        "es": "Sea cual sea el momento en que finalmente decida salir, tendrá que tener en cuenta que algunas carreteras se vuelven especialmente difíciles de recorrer después de anochecer."
+      },
+      {
+        "id": "es-157",
+        "fr": "Il n'en demeure pas moins que, quelles que soient les circonstances dans lesquelles cette erreur a été commise, ses conséquences devront être assumées par quelqu'un.",
+        "es": "No deja de ser cierto que, cualesquiera que sean las circunstancias en las que se cometió este error, alguien tendrá que asumir sus consecuencias."
+      },
+      {
+        "id": "es-158",
+        "fr": "À bien y regarder, la solution qui semblait la plus simple au premier abord s'est révélée être celle qui comportait le plus de complications imprévues.",
+        "es": "Bien mirado, la solución que a primera vista parecía la más sencilla resultó ser la que implicaba más complicaciones imprevistas."
+      },
+      {
+        "id": "es-159",
+        "fr": "Quand bien même nous parviendrions à obtenir un remboursement, cela ne compenserait pas nécessairement le temps que nous avons perdu à tenter de régler cette affaire.",
+        "es": "Aunque consiguiéramos obtener un reembolso, eso no compensaría necesariamente el tiempo que hemos perdido intentando resolver este asunto."
+      },
+      {
+        "id": "es-160",
+        "fr": "Il n'est pas tant question de savoir qui a commis l'erreur que de comprendre pourquoi personne ne s'est aperçu qu'elle était en train de se produire.",
+        "es": "No se trata tanto de saber quién cometió el error como de entender por qué nadie se dio cuenta de que estaba ocurriendo."
+      },
+      {
+        "id": "es-161",
+        "fr": "Bien lui en ait pris d'emporter un parapluie, car à peine eut-il quitté la maison qu'une pluie torrentielle se mit à tomber sans le moindre signe avant-coureur.",
+        "es": "Hizo bien en llevarse un paraguas, porque apenas había salido de casa cuando empezó a caer una lluvia torrencial sin la menor señal previa."
+      },
+      {
+        "id": "es-162",
+        "fr": "Si difficile qu'ait été la décision à prendre, elle savait qu'il aurait été plus regrettable encore de continuer à faire semblant que tout pouvait revenir à la normale.",
+        "es": "Por difícil que fuera la decisión que debía tomar, sabía que habría sido aún más lamentable seguir fingiendo que todo podía volver a la normalidad."
+      },
+      {
+        "id": "es-163",
+        "fr": "À supposer que nous ayons mal interprété ses propos, il n'en reste pas moins que la manière dont il s'est comporté par la suite ne nous a guère rassurés.",
+        "es": "Suponiendo que hayamos interpretado mal sus palabras, no deja de ser cierto que su manera de comportarse después no nos tranquilizó demasiado."
+      },
+      {
+        "id": "es-164",
+        "fr": "Ce n'est pas tant le prix qui nous a dissuadés d'acheter cette maison que l'incertitude concernant les travaux qui auraient été nécessaires pour la rendre habitable.",
+        "es": "No fue tanto el precio lo que nos disuadió de comprar esta casa como la incertidumbre respecto a las obras que habrían sido necesarias para hacerla habitable."
+      },
+      {
+        "id": "es-165",
+        "fr": "Encore faut-il que le propriétaire soit disposé à reconnaître les défauts du logement, sans quoi nous risquons de nous retrouver dans une situation difficile à régler.",
+        "es": "También es necesario que el propietario esté dispuesto a reconocer los defectos de la vivienda; de lo contrario, corremos el riesgo de encontrarnos en una situación difícil de resolver."
+      },
+      {
+        "id": "es-166",
+        "fr": "Quoi qu'il en soit, il aurait été préférable que chacun prenne le temps de vérifier les informations dont il disposait avant de tirer des conclusions aussi définitives.",
+        "es": "En cualquier caso, habría sido preferible que cada uno se tomara el tiempo de comprobar la información de la que disponía antes de sacar conclusiones tan definitivas."
+      },
+      {
+        "id": "es-167",
+        "fr": "À peine étions-nous arrivés au restaurant que nous avons appris que la réservation, pourtant confirmée la veille, n'avait jamais été enregistrée.",
+        "es": "Apenas habíamos llegado al restaurante cuando nos enteramos de que la reserva, aunque había sido confirmada el día anterior, nunca había sido registrada."
+      },
+      {
+        "id": "es-168",
+        "fr": "Quand bien même il aurait voulu nous aider, il n'aurait guère pu faire davantage sans disposer des informations qui lui manquaient au moment où nous l'avons appelé.",
+        "es": "Aunque hubiera querido ayudarnos, difícilmente habría podido hacer más sin disponer de la información que le faltaba cuando lo llamamos."
+      },
+      {
+        "id": "es-169",
+        "fr": "À force de vouloir éviter toute dépense inutile, ils ont fini par négliger certains travaux indispensables dont le coût est aujourd'hui devenu beaucoup plus élevé.",
+        "es": "De tanto querer evitar cualquier gasto innecesario, acabaron descuidando algunas obras indispensables cuyo coste es hoy mucho más elevado."
+      },
+      {
+        "id": "es-170",
+        "fr": "Il se pourrait que nous ayons sous-estimé la difficulté du trajet, encore que personne ne puisse réellement prévoir l'état des routes après plusieurs jours de pluie.",
+        "es": "Puede que hayamos subestimado la dificultad del trayecto, aunque nadie pueda realmente prever el estado de las carreteras después de varios días de lluvia."
+      },
+      {
+        "id": "es-171",
+        "fr": "Pour peu qu'une seule des correspondances soit retardée, l'ensemble du trajet risque d'être considérablement prolongé, ce qui nous ferait manquer notre rendez-vous.",
+        "es": "Si tan solo una de las conexiones se retrasa, todo el trayecto podría prolongarse considerablemente, lo que nos haría llegar tarde a nuestra cita."
+      },
+      {
+        "id": "es-172",
+        "fr": "Il n'aurait pas été raisonnable de prendre une décision aussi importante sans avoir, au préalable, vérifié les conséquences financières qu'elle pourrait entraîner.",
+        "es": "No habría sido razonable tomar una decisión tan importante sin haber comprobado previamente las consecuencias económicas que podría acarrear."
+      },
+      {
+        "id": "es-173",
+        "fr": "Bien qu'il eût été possible de réparer l'ancien appareil, nous avons estimé que les frais nécessaires ne se justifiaient plus compte tenu de son âge.",
+        "es": "Aunque habría sido posible reparar el viejo aparato, consideramos que los gastos necesarios ya no estaban justificados teniendo en cuenta su antigüedad."
+      },
+      {
+        "id": "es-174",
+        "fr": "Ce qui, à première vue, pouvait passer pour un simple oubli s'est révélé être le résultat d'une série de petites erreurs dont personne n'avait mesuré l'importance.",
+        "es": "Lo que a primera vista podía parecer un simple olvido resultó ser el resultado de una serie de pequeños errores cuya importancia nadie había valorado."
+      },
+      {
+        "id": "es-175",
+        "fr": "À bien y réfléchir, je me demande si nous n'aurions pas mieux fait d'attendre quelques jours supplémentaires avant de nous engager dans une décision aussi difficile à remettre en cause.",
+        "es": "Pensándolo bien, me pregunto si no habría sido mejor esperar unos días más antes de comprometernos con una decisión tan difícil de revocar."
+      },
+      {
+        "id": "es-176",
+        "fr": "Quand bien même elle reconnaîtrait aujourd'hui qu'elle s'est trompée, cela ne suffirait pas à réparer les conséquences de la décision qu'elle a prise plusieurs mois auparavant.",
+        "es": "Aunque hoy reconociera que se equivocó, eso no bastaría para reparar las consecuencias de la decisión que tomó varios meses atrás."
+      },
+      {
+        "id": "es-177",
+        "fr": "À supposer que les travaux commencent comme prévu, rien ne garantit qu'ils seront terminés avant la date à laquelle nous devons emménager.",
+        "es": "Suponiendo que las obras comiencen según lo previsto, nada garantiza que estarán terminadas antes de la fecha en la que tenemos que mudarnos."
+      },
+      {
+        "id": "es-178",
+        "fr": "Il aurait beau prétendre que tout était sous contrôle, les nombreux appels qu'il recevait à intervalles réguliers semblaient indiquer exactement le contraire.",
+        "es": "Por mucho que afirmara que todo estaba bajo control, las numerosas llamadas que recibía a intervalos regulares parecían indicar exactamente lo contrario."
+      },
+      {
+        "id": "es-179",
+        "fr": "Ce n'est qu'après coup que nous avons compris que certaines remarques, que nous avions prises pour de simples plaisanteries, avaient en réalité une tout autre signification.",
+        "es": "Solo después comprendimos que algunos comentarios que habíamos tomado por simples bromas tenían en realidad un significado completamente diferente."
+      },
+      {
+        "id": "es-180",
+        "fr": "Si improbable que cela puisse paraître, il est tout à fait possible que personne n'ait volontairement caché l'information, mais que celle-ci ait simplement été oubliée au fil des discussions.",
+        "es": "Por improbable que pueda parecer, es perfectamente posible que nadie haya ocultado deliberadamente la información, sino que simplemente se haya olvidado a lo largo de las conversaciones."
+      },
+      {
+        "id": "es-181",
+        "fr": "Il n'en reste pas moins que, faute d'avoir conservé les preuves nécessaires, nous ne disposons aujourd'hui d'aucun moyen simple de contester la décision qui a été prise.",
+        "es": "No deja de ser cierto que, al no haber conservado las pruebas necesarias, hoy no disponemos de ningún medio sencillo para impugnar la decisión que se tomó."
+      },
+      {
+        "id": "es-182",
+        "fr": "À quelque moment qu'elle choisisse de lui annoncer la nouvelle, elle devra se préparer à une réaction qui risque de ne pas être celle qu'elle espère.",
+        "es": "Sea cual sea el momento que elija para darle la noticia, tendrá que prepararse para una reacción que podría no ser la que espera."
+      },
+      {
+        "id": "es-183",
+        "fr": "Encore aurait-il fallu que nous sachions que cette possibilité existait pour pouvoir en tenir compte lorsque nous avons organisé notre voyage.",
+        "es": "Habría sido necesario, además, que supiéramos que existía esa posibilidad para poder tenerla en cuenta cuando organizamos nuestro viaje."
+      },
+      {
+        "id": "es-184",
+        "fr": "Quand bien même le restaurant aurait accepté de nous rembourser, cela n'aurait rien changé au fait que nous avions déjà perdu plusieurs heures à cause de cette erreur.",
+        "es": "Aunque el restaurante hubiera aceptado reembolsarnos el dinero, eso no habría cambiado el hecho de que ya habíamos perdido varias horas debido a ese error."
+      },
+      {
+        "id": "es-185",
+        "fr": "Pour autant que je sache, personne ne lui avait demandé de modifier l'organisation prévue, ce qui rend sa décision d'autant plus difficile à comprendre.",
+        "es": "Que yo sepa, nadie le había pedido que modificara la organización prevista, lo que hace que su decisión sea aún más difícil de comprender."
+      },
+      {
+        "id": "es-186",
+        "fr": "À peine avait-elle raccroché qu'elle s'aperçut que la conversation, loin de résoudre le problème, n'avait fait qu'ajouter une nouvelle source de confusion.",
+        "es": "Apenas había colgado cuando se dio cuenta de que la conversación, lejos de resolver el problema, no había hecho más que añadir una nueva fuente de confusión."
+      },
+      {
+        "id": "es-187",
+        "fr": "Il serait pour le moins surprenant que le propriétaire accepte une telle proposition sans demander, en contrepartie, des garanties supplémentaires.",
+        "es": "Sería cuando menos sorprendente que el propietario aceptara una propuesta semejante sin pedir, a cambio, garantías adicionales."
+      },
+      {
+        "id": "es-188",
+        "fr": "Bien qu'il soit difficile de savoir exactement ce qui s'est passé, tout porte à croire que la panne aurait pu être évitée si l'entretien avait été effectué plus tôt.",
+        "es": "Aunque sea difícil saber exactamente qué ocurrió, todo indica que la avería podría haberse evitado si el mantenimiento se hubiera realizado antes."
+      },
+      {
+        "id": "es-189",
+        "fr": "À supposer même que nous puissions récupérer l'argent perdu, il resterait à déterminer qui prendra en charge les frais supplémentaires occasionnés par cette situation.",
+        "es": "Incluso suponiendo que podamos recuperar el dinero perdido, todavía habría que determinar quién se hará cargo de los gastos adicionales ocasionados por esta situación."
+      },
+      {
+        "id": "es-190",
+        "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, rien ne nous empêche de tirer les leçons nécessaires afin d'éviter qu'une situation comparable ne se reproduise à l'avenir.",
+        "es": "En cualquier caso, aunque ya no podamos cambiar lo ocurrido, nada nos impide extraer las lecciones necesarias para evitar que una situación similar vuelva a producirse en el futuro."
+      },
+      {
+        "id": "es-191",
+        "fr": "Ce n'est pas faute d'avoir essayé de les convaincre, mais ils avaient déjà pris leur décision avant même que nous ayons eu l'occasion de leur exposer nos arguments.",
+        "es": "No fue porque no hubiéramos intentado convencerlos, sino porque ya habían tomado su decisión antes incluso de que tuviéramos la oportunidad de exponerles nuestros argumentos."
+      },
+      {
+        "id": "es-192",
+        "fr": "Si tant est qu'il accepte finalement de reconnaître son erreur, il restera néanmoins à savoir s'il sera possible de rétablir la confiance qui existait auparavant.",
+        "es": "Suponiendo que finalmente acepte reconocer su error, quedará por saber si será posible restablecer la confianza que existía anteriormente."
+      },
+      {
+        "id": "es-193",
+        "fr": "Il n'est pas impossible que, sans même s'en rendre compte, elle ait contribué à créer une situation dont elle se plaint aujourd'hui.",
+        "es": "No es imposible que, sin siquiera darse cuenta, haya contribuido a crear una situación de la que hoy se queja."
+      },
+      {
+        "id": "es-194",
+        "fr": "Encore faut-il que les informations dont nous disposons soient suffisamment fiables pour que nous puissions nous permettre d'en tirer une conclusion définitive.",
+        "es": "También es necesario que la información de la que disponemos sea suficientemente fiable para que podamos permitirnos sacar una conclusión definitiva."
+      },
+      {
+        "id": "es-195",
+        "fr": "Quand bien même nous aurions davantage de temps, je ne suis pas certain que cela suffirait à résoudre un problème aussi complexe sans l'aide de quelqu'un qui en maîtrise réellement tous les aspects.",
+        "es": "Aunque tuviéramos más tiempo, no estoy seguro de que eso bastara para resolver un problema tan complejo sin la ayuda de alguien que realmente domine todos sus aspectos."
+      },
+      {
+        "id": "es-196",
+        "fr": "À bien des égards, la décision qui nous semblait la plus risquée s'est finalement révélée moins problématique que celle que nous pensions être la plus sûre.",
+        "es": "En muchos aspectos, la decisión que nos parecía más arriesgada acabó resultando menos problemática que aquella que pensábamos que era la más segura."
+      },
+      {
+        "id": "es-197",
+        "fr": "Pour peu que chacun accepte de faire un effort supplémentaire, il devrait être possible de parvenir à un accord sans que personne ait le sentiment d'avoir réellement perdu.",
+        "es": "Si cada uno acepta hacer un esfuerzo adicional, debería ser posible llegar a un acuerdo sin que nadie tenga la sensación de haber perdido realmente."
+      },
+      {
+        "id": "es-198",
+        "fr": "Ce qui demeure difficile à comprendre, malgré toutes les explications qui nous ont été données, c'est pourquoi personne n'a envisagé cette possibilité avant que le problème ne devienne impossible à ignorer.",
+        "es": "Lo que sigue siendo difícil de comprender, a pesar de todas las explicaciones que nos han dado, es por qué nadie consideró esta posibilidad antes de que el problema se volviera imposible de ignorar."
+      },
+      {
+        "id": "es-199",
+        "fr": "Il aurait fallu que quelqu'un prenne l'initiative beaucoup plus tôt, sans quoi nous n'aurions probablement pas eu le temps de corriger une situation qui semblait pourtant encore maîtrisable.",
+        "es": "Habría sido necesario que alguien tomara la iniciativa mucho antes; de lo contrario, probablemente no habríamos tenido tiempo de corregir una situación que todavía parecía controlable."
+      },
+      {
+        "id": "es-200",
+        "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, rien ne nous empêche de tirer les leçons nécessaires afin d'éviter qu'une situation comparable ne se reproduise à l'avenir.",
+        "es": "En cualquier caso, aunque ya no podamos cambiar lo ocurrido, nada nos impide extraer las lecciones necesarias para evitar que una situación similar vuelva a producirse en el futuro."
+      }],
     "frenchchinese": [],
     "frenchportuguese": [],
     "frencharabic": [],
