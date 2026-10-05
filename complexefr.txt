@@ -8982,7 +8982,1004 @@
         "fr": "À bien y réfléchir, ce n'est peut-être qu'en acceptant l'incertitude inhérente à toute décision importante que nous pouvons espérer faire des choix réellement pertinents.",
         "hi": "अच्छी तरह विचार करने पर शायद महत्वपूर्ण निर्णयों में निहित अनिश्चितता को स्वीकार करके ही हम वास्तव में उचित विकल्प चुनने की उम्मीद कर सकते हैं।"
       }],
-    "frenchrussian": [],
+    "frenchrussian": [ {
+        "id": "ru-001",
+        "fr": "Même si nous avions prévu de partir tôt, nous avons dû attendre que la pluie cesse avant de prendre la route.",
+        "ru": "Хотя мы планировали выехать рано, нам пришлось дождаться окончания дождя, прежде чем отправиться в путь."
+      },
+      {
+        "id": "ru-002",
+        "fr": "Comme le train avait déjà beaucoup de retard, nous avons décidé de prendre le bus, même si le trajet était plus long.",
+        "ru": "Поскольку поезд уже сильно опаздывал, мы решили поехать на автобусе, хотя дорога была дольше."
+      },
+      {
+        "id": "ru-003",
+        "fr": "Après avoir terminé son travail, elle est passée au marché afin d'acheter tout ce dont elle avait besoin pour préparer le dîner.",
+        "ru": "Закончив работу, она зашла на рынок, чтобы купить всё необходимое для приготовления ужина."
+      },
+      {
+        "id": "ru-004",
+        "fr": "Nous avons choisi cet appartement parce qu'il était proche du centre-ville et qu'il disposait également d'un petit balcon.",
+        "ru": "Мы выбрали эту квартиру, потому что она находилась недалеко от центра города и к тому же имела небольшой балкон."
+      },
+      {
+        "id": "ru-005",
+        "fr": "Bien qu'il connaisse déjà la ville, il a préféré utiliser une carte pour éviter de perdre du temps dans les rues qu'il connaissait moins bien.",
+        "ru": "Хотя он уже знал город, он предпочёл воспользоваться картой, чтобы не тратить время на улицы, которые знал хуже."
+      },
+      {
+        "id": "ru-006",
+        "fr": "Si tu veux terminer ce projet avant vendredi, il faudra que tu commences à travailler dès aujourd'hui.",
+        "ru": "Если ты хочешь закончить этот проект до пятницы, тебе придётся начать работать уже сегодня."
+      },
+      {
+        "id": "ru-007",
+        "fr": "Elle a accepté de venir avec nous, à condition que nous rentrions avant la tombée de la nuit.",
+        "ru": "Она согласилась пойти с нами при условии, что мы вернёмся до наступления темноты."
+      },
+      {
+        "id": "ru-008",
+        "fr": "Comme personne ne connaissait la réponse, le professeur a donné quelques indices pour nous permettre de résoudre le problème.",
+        "ru": "Поскольку никто не знал ответа, преподаватель дал нам несколько подсказок, чтобы мы смогли решить задачу."
+      },
+      {
+        "id": "ru-009",
+        "fr": "Il a finalement accepté le poste, même si le salaire était légèrement inférieur à celui qu'il espérait obtenir.",
+        "ru": "В конце концов он согласился на эту работу, хотя зарплата была немного ниже той, на которую он рассчитывал."
+      },
+      {
+        "id": "ru-010",
+        "fr": "Nous avons dû reporter notre voyage parce que plusieurs routes avaient été fermées à cause des fortes pluies.",
+        "ru": "Нам пришлось отложить поездку, потому что из-за сильных дождей несколько дорог были закрыты."
+      },
+      {
+        "id": "ru-011",
+        "fr": "Elle a économisé suffisamment d'argent pour acheter un ordinateur dont elle avait besoin pour ses études.",
+        "ru": "Она накопила достаточно денег, чтобы купить компьютер, который был ей необходим для учёбы."
+      },
+      {
+        "id": "ru-012",
+        "fr": "Même s'il était très fatigué après une longue journée de travail, il a pris le temps d'aider son voisin.",
+        "ru": "Хотя после долгого рабочего дня он очень устал, он нашёл время помочь своему соседу."
+      },
+      {
+        "id": "ru-013",
+        "fr": "Lorsque nous sommes arrivés au restaurant, toutes les tables près de la fenêtre étaient déjà occupées.",
+        "ru": "Когда мы пришли в ресторан, все столики возле окна уже были заняты."
+      },
+      {
+        "id": "ru-014",
+        "fr": "Elle préfère travailler le matin, car elle trouve qu'elle est beaucoup plus concentrée avant le déjeuner.",
+        "ru": "Она предпочитает работать утром, потому что считает, что до обеда может гораздо лучше сосредоточиться."
+      },
+      {
+        "id": "ru-015",
+        "fr": "Nous avons décidé de rester à la maison puisque la météo annonçait de fortes pluies pour toute la journée.",
+        "ru": "Мы решили остаться дома, поскольку прогноз погоды обещал сильные дожди в течение всего дня."
+      },
+      {
+        "id": "ru-016",
+        "fr": "Il faudrait que tu vérifies les informations avant de les partager, afin d'éviter de diffuser une erreur.",
+        "ru": "Тебе следует проверить информацию перед тем, как ею поделиться, чтобы не распространять ошибочные сведения."
+      },
+      {
+        "id": "ru-017",
+        "fr": "Après plusieurs tentatives, elle a réussi à réparer la machine sans avoir besoin d'appeler un technicien.",
+        "ru": "После нескольких попыток ей удалось починить машину, не вызывая техника."
+      },
+      {
+        "id": "ru-018",
+        "fr": "Nous avons choisi de marcher plutôt que de prendre un taxi, puisque la distance n'était pas très grande.",
+        "ru": "Мы решили пойти пешком, а не брать такси, поскольку расстояние было не очень большим."
+      },
+      {
+        "id": "ru-019",
+        "fr": "Bien qu'il ait peu d'expérience, son responsable lui a confié cette tâche parce qu'il avait montré beaucoup de sérieux.",
+        "ru": "Хотя у него было мало опыта, руководитель поручил ему эту задачу, потому что он проявил большую ответственность."
+      },
+      {
+        "id": "ru-020",
+        "fr": "Si vous avez des questions concernant le contrat, n'hésitez pas à nous contacter avant de le signer.",
+        "ru": "Если у вас есть вопросы относительно договора, не стесняйтесь связаться с нами до его подписания."
+      },
+      {
+        "id": "ru-021",
+        "fr": "Elle a acheté une veste plus chaude parce qu'elle savait que les températures allaient fortement baisser pendant son séjour.",
+        "ru": "Она купила более тёплую куртку, потому что знала, что во время её пребывания температура значительно понизится."
+      },
+      {
+        "id": "ru-022",
+        "fr": "Nous avons attendu près d'une heure avant de comprendre que le rendez-vous avait été déplacé à un autre endroit.",
+        "ru": "Мы ждали почти час, прежде чем поняли, что место встречи было изменено."
+      },
+      {
+        "id": "ru-023",
+        "fr": "Il a décidé de changer de travail parce qu'il souhaitait avoir davantage de temps à consacrer à sa famille.",
+        "ru": "Он решил сменить работу, потому что хотел уделять больше времени своей семье."
+      },
+      {
+        "id": "ru-024",
+        "fr": "Même si le produit semblait intéressant, nous avons préféré attendre quelques semaines avant de l'acheter.",
+        "ru": "Хотя товар казался интересным, мы предпочли подождать несколько недель, прежде чем покупать его."
+      },
+      {
+        "id": "ru-025",
+        "fr": "Après avoir lu les instructions attentivement, il a compris pourquoi l'appareil ne fonctionnait pas correctement.",
+        "ru": "Внимательно прочитав инструкцию, он понял, почему устройство работало неправильно."
+      },
+      {
+        "id": "ru-026",
+        "fr": "Nous devons terminer cette partie aujourd'hui pour pouvoir commencer la suivante demain matin.",
+        "ru": "Мы должны закончить эту часть сегодня, чтобы завтра утром начать следующую."
+      },
+      {
+        "id": "ru-027",
+        "fr": "Elle a demandé à son frère de garder les enfants pendant qu'elle allait faire quelques courses.",
+        "ru": "Она попросила брата присмотреть за детьми, пока сама отправится за покупками."
+      },
+      {
+        "id": "ru-028",
+        "fr": "Comme le magasin était déjà fermé, nous avons dû chercher une autre solution pour acheter ce dont nous avions besoin.",
+        "ru": "Поскольку магазин уже был закрыт, нам пришлось найти другой способ купить всё необходимое."
+      },
+      {
+        "id": "ru-029",
+        "fr": "Il est important que chacun respecte les règles afin que le travail puisse être terminé dans de bonnes conditions.",
+        "ru": "Важно, чтобы каждый соблюдал правила, чтобы работу можно было завершить в нормальных условиях."
+      },
+      {
+        "id": "ru-030",
+        "fr": "Elle a choisi cette formation parce qu'elle pensait qu'elle lui permettrait d'améliorer ses compétences professionnelles.",
+        "ru": "Она выбрала этот курс, потому что считала, что он позволит ей улучшить свои профессиональные навыки."
+      },
+      {
+        "id": "ru-031",
+        "fr": "Nous avons pris plusieurs photos afin de garder un souvenir de cette journée passée ensemble.",
+        "ru": "Мы сделали несколько фотографий, чтобы сохранить воспоминание об этом дне, проведённом вместе."
+      },
+      {
+        "id": "ru-032",
+        "fr": "Même si la route était difficile, le conducteur a continué à avancer jusqu'à ce que nous arrivions au village.",
+        "ru": "Хотя дорога была трудной, водитель продолжал ехать, пока мы не добрались до деревни."
+      },
+      {
+        "id": "ru-033",
+        "fr": "Il a promis qu'il nous préviendrait dès qu'il aurait reçu une réponse de l'entreprise.",
+        "ru": "Он пообещал, что сообщит нам, как только получит ответ от компании."
+      },
+      {
+        "id": "ru-034",
+        "fr": "Nous avons préféré réserver à l'avance, car le restaurant est souvent complet le week-end.",
+        "ru": "Мы предпочли забронировать столик заранее, поскольку по выходным в ресторане часто нет свободных мест."
+      },
+      {
+        "id": "ru-035",
+        "fr": "Bien qu'elle soit encore jeune, elle a déjà acquis une expérience importante dans ce domaine.",
+        "ru": "Хотя она ещё молода, она уже приобрела значительный опыт в этой области."
+      },
+      {
+        "id": "ru-036",
+        "fr": "Si le temps le permet, nous irons nous promener après le déjeuner.",
+        "ru": "Если погода позволит, мы пойдём гулять после обеда."
+      },
+      {
+        "id": "ru-037",
+        "fr": "Après plusieurs mois de préparation, l'équipe a enfin présenté le projet auquel elle travaillait depuis longtemps.",
+        "ru": "После нескольких месяцев подготовки команда наконец представила проект, над которым она долго работала."
+      },
+      {
+        "id": "ru-038",
+        "fr": "Il a annulé son voyage parce qu'il devait rester au bureau pour terminer un travail urgent.",
+        "ru": "Он отменил поездку, потому что ему пришлось остаться в офисе, чтобы закончить срочную работу."
+      },
+      {
+        "id": "ru-039",
+        "fr": "Nous avons demandé au propriétaire de réparer la fuite avant de pouvoir emménager dans l'appartement.",
+        "ru": "Мы попросили владельца устранить протечку, прежде чем смогли въехать в квартиру."
+      },
+      {
+        "id": "ru-040",
+        "fr": "Elle a continué à travailler malgré les difficultés qu'elle rencontrait depuis plusieurs semaines.",
+        "ru": "Она продолжала работать, несмотря на трудности, с которыми сталкивалась уже несколько недель."
+      },
+      {
+        "id": "ru-041",
+        "fr": "Comme il ne connaissait pas la région, il a demandé conseil à quelqu'un qui y vivait depuis plusieurs années.",
+        "ru": "Поскольку он не знал этот район, он попросил совета у человека, который жил там уже несколько лет."
+      },
+      {
+        "id": "ru-042",
+        "fr": "Nous avons décidé de modifier le programme afin que tout le monde puisse participer à la réunion.",
+        "ru": "Мы решили изменить программу, чтобы все могли принять участие во встрече."
+      },
+      {
+        "id": "ru-043",
+        "fr": "Elle a refusé de signer le document tant qu'elle n'aurait pas lu toutes les conditions.",
+        "ru": "Она отказалась подписывать документ, пока не прочитает все условия."
+      },
+      {
+        "id": "ru-044",
+        "fr": "Même si nous n'étions pas entièrement d'accord, nous avons accepté de chercher un compromis.",
+        "ru": "Хотя мы не были полностью согласны, мы согласились искать компромисс."
+      },
+      {
+        "id": "ru-045",
+        "fr": "Il faudrait réserver les billets suffisamment tôt si nous voulons être certains d'avoir de bonnes places.",
+        "ru": "Нам следует забронировать билеты достаточно рано, если мы хотим быть уверенными, что получим хорошие места."
+      },
+      {
+        "id": "ru-046",
+        "fr": "Après avoir comparé plusieurs offres, elle a choisi celle qui correspondait le mieux à son budget.",
+        "ru": "Сравнив несколько предложений, она выбрала то, которое лучше всего соответствовало её бюджету."
+      },
+      {
+        "id": "ru-047",
+        "fr": "Nous ne savions pas combien de temps il faudrait attendre avant que le médecin puisse nous recevoir.",
+        "ru": "Мы не знали, сколько времени придётся ждать, прежде чем врач сможет нас принять."
+      },
+      {
+        "id": "ru-048",
+        "fr": "Il a accepté de nous aider à condition que nous terminions notre partie du travail avant lundi.",
+        "ru": "Он согласился помочь нам при условии, что мы закончим свою часть работы до понедельника."
+      },
+      {
+        "id": "ru-049",
+        "fr": "Elle a appris à cuisiner plusieurs plats traditionnels après avoir passé quelques mois dans sa famille d'accueil.",
+        "ru": "Она научилась готовить несколько традиционных блюд после того, как провела несколько месяцев в принимающей семье."
+      },
+      {
+        "id": "ru-050",
+        "fr": "Nous avons attendu que les enfants soient prêts avant de commencer le voyage.",
+        "ru": "Мы дождались, пока дети будут готовы, прежде чем отправиться в поездку."
+      },
+      {
+        "id": "ru-051",
+        "fr": "Même s'il avait peu de temps, il a pris quelques minutes pour répondre à toutes nos questions.",
+        "ru": "Хотя у него было мало времени, он выделил несколько минут, чтобы ответить на все наши вопросы."
+      },
+      {
+        "id": "ru-052",
+        "fr": "Comme les prix avaient augmenté, nous avons dû réduire certaines dépenses pour respecter notre budget.",
+        "ru": "Поскольку цены выросли, нам пришлось сократить некоторые расходы, чтобы уложиться в бюджет."
+      },
+      {
+        "id": "ru-053",
+        "fr": "Elle a décidé de suivre ce conseil parce qu'elle pensait qu'il pourrait lui être utile à long terme.",
+        "ru": "Она решила последовать этому совету, потому что считала, что в долгосрочной перспективе он может ей пригодиться."
+      },
+      {
+        "id": "ru-054",
+        "fr": "Nous avons déplacé la réunion à demain afin que les personnes absentes puissent également y participer.",
+        "ru": "Мы перенесли встречу на завтра, чтобы отсутствующие тоже могли в ней участвовать."
+      },
+      {
+        "id": "ru-055",
+        "fr": "Il est parti plus tôt que prévu parce qu'il craignait de rester bloqué dans les embouteillages.",
+        "ru": "Он выехал раньше, чем планировал, потому что боялся застрять в пробке."
+      },
+      {
+        "id": "ru-056",
+        "fr": "Même si le trajet était long, nous avons préféré prendre le bus parce qu'il était moins cher que le train.",
+        "ru": "Хотя дорога была долгой, мы предпочли поехать на автобусе, потому что он был дешевле поезда."
+      },
+      {
+        "id": "ru-057",
+        "fr": "Après avoir reçu les documents, elle les a immédiatement envoyés au responsable qui les attendait.",
+        "ru": "Получив документы, она сразу же отправила их руководителю, который их ждал."
+      },
+      {
+        "id": "ru-058",
+        "fr": "Nous devons trouver une solution qui soit acceptable pour tout le monde avant de prendre une décision définitive.",
+        "ru": "Нам нужно найти решение, приемлемое для всех, прежде чем принимать окончательное решение."
+      },
+      {
+        "id": "ru-059",
+        "fr": "Elle a gardé son ancien téléphone bien qu'elle en ait acheté un nouveau, car elle voulait conserver certaines données.",
+        "ru": "Она сохранила свой старый телефон, хотя купила новый, потому что хотела сохранить некоторые данные."
+      },
+      {
+        "id": "ru-060",
+        "fr": "Si nous voulons éviter les problèmes, il vaut mieux vérifier chaque détail avant de commencer.",
+        "ru": "Если мы хотим избежать проблем, лучше проверить каждую деталь до начала работы."
+      },
+      {
+        "id": "ru-061",
+        "fr": "Il a accepté de participer au projet après avoir compris les objectifs que l'équipe souhaitait atteindre.",
+        "ru": "Он согласился участвовать в проекте после того, как понял цели, которых команда хотела достичь."
+      },
+      {
+        "id": "ru-062",
+        "fr": "Nous avons dû attendre plusieurs jours avant de recevoir la réponse que nous espérions.",
+        "ru": "Нам пришлось ждать несколько дней, прежде чем мы получили ответ, на который надеялись."
+      },
+      {
+        "id": "ru-063",
+        "fr": "Bien qu'elle ait rencontré plusieurs difficultés, elle n'a jamais abandonné le projet qu'elle avait commencé.",
+        "ru": "Хотя она столкнулась с несколькими трудностями, она никогда не отказывалась от начатого проекта."
+      },
+      {
+        "id": "ru-064",
+        "fr": "Comme nous avions encore quelques heures devant nous, nous avons décidé de visiter le musée avant de rentrer.",
+        "ru": "Поскольку у нас оставалось ещё несколько часов, мы решили посетить музей перед возвращением."
+      },
+      {
+        "id": "ru-065",
+        "fr": "Elle a demandé à son collègue de vérifier le rapport avant de l'envoyer au directeur.",
+        "ru": "Она попросила коллегу проверить отчёт перед тем, как отправить его директору."
+      },
+      {
+        "id": "ru-066",
+        "fr": "Même si les résultats n'étaient pas parfaits, ils étaient suffisamment bons pour nous permettre de continuer.",
+        "ru": "Хотя результаты не были идеальными, они были достаточно хорошими, чтобы мы могли продолжить."
+      },
+      {
+        "id": "ru-067",
+        "fr": "Nous avons choisi de travailler ensemble parce que chacun possédait des compétences différentes mais complémentaires.",
+        "ru": "Мы решили работать вместе, потому что у каждого были разные, но взаимодополняющие навыки."
+      },
+      {
+        "id": "ru-068",
+        "fr": "Il faudra attendre que la situation soit plus claire avant de décider de la prochaine étape.",
+        "ru": "Нужно будет дождаться, пока ситуация станет более ясной, прежде чем решать, каким будет следующий шаг."
+      },
+      {
+        "id": "ru-069",
+        "fr": "Après avoir discuté avec plusieurs personnes, elle a finalement choisi la solution qui lui semblait la plus raisonnable.",
+        "ru": "После разговора с несколькими людьми она наконец выбрала решение, которое показалось ей наиболее разумным."
+      },
+      {
+        "id": "ru-070",
+        "fr": "Même si nous avions quelques réserves au début, nous avons progressivement compris que cette décision pouvait être bénéfique pour tout le groupe.",
+        "ru": "Хотя сначала у нас были некоторые сомнения, постепенно мы поняли, что это решение может быть полезным для всей группы."
+      },{
+        "id": "ru-071",
+        "fr": "Même si personne ne s'y attendait vraiment, la réunion s'est terminée beaucoup plus tôt que prévu, ce qui nous a permis de revoir certains points qui avaient été laissés de côté.",
+        "ru": "Хотя на самом деле никто этого не ожидал, собрание закончилось гораздо раньше запланированного, что позволило нам вернуться к некоторым вопросам, оставшимся без внимания."
+      },
+      {
+        "id": "ru-072",
+        "fr": "À force de repousser cette décision, nous avons fini par nous retrouver dans une situation où les possibilités de changement étaient devenues beaucoup plus limitées.",
+        "ru": "Постоянно откладывая это решение, мы в итоге оказались в ситуации, когда возможности для изменений стали гораздо более ограниченными."
+      },
+      {
+        "id": "ru-073",
+        "fr": "Bien qu'il ait reconnu que les critiques étaient parfois justifiées, il a estimé qu'elles ne tenaient pas suffisamment compte des difficultés auxquelles son équipe avait dû faire face.",
+        "ru": "Хотя он признал, что критика порой была оправданной, он счёл, что она недостаточно учитывала трудности, с которыми пришлось столкнуться его команде."
+      },
+      {
+        "id": "ru-074",
+        "fr": "Ce n'est qu'après avoir relu attentivement le contrat que nous avons compris que certaines conditions importantes n'avaient pas été clairement expliquées lors de la première réunion.",
+        "ru": "Только после внимательного повторного прочтения договора мы поняли, что некоторые важные условия не были чётко объяснены на первой встрече."
+      },
+      {
+        "id": "ru-075",
+        "fr": "Quoi qu'en pensent certaines personnes, il est difficile de nier que cette décision a profondément changé la manière dont l'équipe travaillait.",
+        "ru": "Что бы ни думали некоторые люди, трудно отрицать, что это решение существенно изменило способ работы команды."
+      },
+      {
+        "id": "ru-076",
+        "fr": "À moins que la situation ne s'améliore rapidement, l'entreprise devra probablement revoir les objectifs qu'elle s'était fixés au début de l'année.",
+        "ru": "Если ситуация быстро не улучшится, компании, вероятно, придётся пересмотреть цели, которые она поставила перед собой в начале года."
+      },
+      {
+        "id": "ru-077",
+        "fr": "Il a beau avoir beaucoup d'expérience, il lui arrive encore de sous-estimer le temps nécessaire pour mener certaines tâches à bien.",
+        "ru": "Как бы велик ни был его опыт, он всё ещё иногда недооценивает время, необходимое для успешного выполнения некоторых задач."
+      },
+      {
+        "id": "ru-078",
+        "fr": "Même si nous avions anticipé une partie des difficultés, nous n'avions pas prévu que les retards s'accumuleraient au point de compromettre le calendrier initial.",
+        "ru": "Хотя мы предвидели часть трудностей, мы не ожидали, что задержки накопятся настолько, что поставят под угрозу первоначальный график."
+      },
+      {
+        "id": "ru-079",
+        "fr": "Ce qui nous a surtout surpris, c'est que personne n'ait signalé le problème alors qu'il était déjà visible depuis plusieurs semaines.",
+        "ru": "Больше всего нас удивило то, что никто не сообщил о проблеме, хотя она была заметна уже несколько недель."
+      },
+      {
+        "id": "ru-080",
+        "fr": "Après avoir pris connaissance des nouvelles informations, elle a préféré attendre avant de réagir, de peur de tirer des conclusions trop hâtives.",
+        "ru": "Ознакомившись с новой информацией, она предпочла не спешить с реакцией, опасаясь сделать слишком поспешные выводы."
+      },
+      {
+        "id": "ru-081",
+        "fr": "Quelles que soient les raisons qui l'ont poussé à partir, son départ a laissé une charge de travail considérable à ceux qui sont restés.",
+        "ru": "Каковы бы ни были причины, побудившие его уйти, после его ухода на оставшихся сотрудников легло значительное количество дополнительной работы."
+      },
+      {
+        "id": "ru-082",
+        "fr": "Pour peu que chacun accepte de faire un effort supplémentaire, nous devrions être capables de terminer le projet dans les délais prévus.",
+        "ru": "Если каждый согласится приложить дополнительные усилия, мы должны суметь завершить проект в установленные сроки."
+      },
+      {
+        "id": "ru-083",
+        "fr": "Il ne s'agit pas simplement de trouver une solution rapide, mais de mettre en place une organisation qui puisse fonctionner durablement.",
+        "ru": "Речь идёт не просто о том, чтобы быстро найти решение, а о создании такой организации, которая сможет устойчиво работать в долгосрочной перспективе."
+      },
+      {
+        "id": "ru-084",
+        "fr": "Alors que tout semblait indiquer que le projet allait être abandonné, une nouvelle proposition a permis de relancer les discussions.",
+        "ru": "В то время как всё указывало на то, что от проекта собираются отказаться, новое предложение позволило возобновить обсуждения."
+      },
+      {
+        "id": "ru-085",
+        "fr": "Elle a accepté de reprendre le dossier, à condition que les informations dont elle avait besoin lui soient transmises suffisamment tôt.",
+        "ru": "Она согласилась снова заняться этим вопросом при условии, что необходимая ей информация будет передана достаточно заранее."
+      },
+      {
+        "id": "ru-086",
+        "fr": "Ce n'est pas tant le montant de la dépense qui nous inquiète que le fait que personne n'ait prévu cette charge supplémentaire.",
+        "ru": "Нас беспокоит не столько сама сумма расходов, сколько то, что никто не предусмотрел этих дополнительных затрат."
+      },
+      {
+        "id": "ru-087",
+        "fr": "Même s'il avait été prévenu à plusieurs reprises, il a continué à agir comme si le problème pouvait être réglé de lui-même.",
+        "ru": "Хотя его неоднократно предупреждали, он продолжал действовать так, словно проблема могла решиться сама собой."
+      },
+      {
+        "id": "ru-088",
+        "fr": "À bien y réfléchir, la solution que nous avions rejetée au départ aurait peut-être permis d'éviter une grande partie des difficultés rencontrées par la suite.",
+        "ru": "Если хорошенько подумать, решение, которое мы сначала отвергли, возможно, позволило бы избежать значительной части последующих трудностей."
+      },
+      {
+        "id": "ru-089",
+        "fr": "Il aurait été préférable que nous vérifiions toutes les informations avant de prendre une décision qui allait avoir des conséquences aussi importantes.",
+        "ru": "Было бы лучше, если бы мы проверили всю информацию до принятия решения, которое должно было иметь столь серьёзные последствия."
+      },
+      {
+        "id": "ru-090",
+        "fr": "Bien qu'elle ne partage pas entièrement son opinion, elle reconnaît que certains de ses arguments méritent d'être examinés plus attentivement.",
+        "ru": "Хотя она не полностью разделяет его мнение, она признаёт, что некоторые его аргументы заслуживают более внимательного рассмотрения."
+      },
+      {
+        "id": "ru-091",
+        "fr": "Dès lors que les règles sont les mêmes pour tout le monde, il devient beaucoup plus facile de justifier les décisions prises.",
+        "ru": "Как только правила становятся одинаковыми для всех, становится гораздо легче обосновывать принятые решения."
+      },
+      {
+        "id": "ru-092",
+        "fr": "À force de vouloir tout contrôler, il a fini par consacrer tellement de temps aux détails qu'il en a négligé les priorités.",
+        "ru": "Пытаясь постоянно всё контролировать, он в итоге стал уделять деталям столько времени, что пренебрёг приоритетными задачами."
+      },
+      {
+        "id": "ru-093",
+        "fr": "Ce qui importe désormais, ce n'est pas de chercher qui est responsable, mais de comprendre comment éviter que la même situation ne se reproduise.",
+        "ru": "Теперь важно не искать виноватого, а понять, как предотвратить повторение подобной ситуации."
+      },
+      {
+        "id": "ru-094",
+        "fr": "Quoi qu'il arrive au cours des prochaines semaines, nous devrons rester suffisamment flexibles pour pouvoir adapter notre stratégie.",
+        "ru": "Что бы ни произошло в ближайшие недели, нам придётся сохранять достаточную гибкость, чтобы при необходимости адаптировать нашу стратегию."
+      },
+      {
+        "id": "ru-095",
+        "fr": "Même si les résultats sont encourageants, rien ne permet encore d'affirmer que cette méthode fonctionnera dans toutes les situations.",
+        "ru": "Хотя результаты обнадёживают, пока ничто не позволяет утверждать, что этот метод будет работать во всех ситуациях."
+      },
+      {
+        "id": "ru-096",
+        "fr": "Après plusieurs heures de discussion, les participants sont finalement parvenus à un accord qui, sans satisfaire pleinement tout le monde, restait acceptable pour la majorité.",
+        "ru": "После нескольких часов обсуждений участники наконец достигли соглашения, которое, хотя и не удовлетворяло всех полностью, оставалось приемлемым для большинства."
+      },
+      {
+        "id": "ru-097",
+        "fr": "Il est peu probable que nous puissions modifier le calendrier sans que cela n'entraîne de nouvelles complications.",
+        "ru": "Маловероятно, что мы сможем изменить график, не вызвав при этом новых осложнений."
+      },
+      {
+        "id": "ru-098",
+        "fr": "Elle a beau essayer de rester optimiste, elle sait parfaitement que plusieurs obstacles devront encore être surmontés avant que le projet puisse aboutir.",
+        "ru": "Как бы она ни старалась оставаться оптимистичной, она прекрасно понимает, что прежде чем проект будет успешно завершён, ещё предстоит преодолеть несколько препятствий."
+      },
+      {
+        "id": "ru-099",
+        "fr": "À supposer même que nous obtenions le financement nécessaire, il faudrait encore disposer d'une équipe suffisamment expérimentée pour mettre le projet en œuvre.",
+        "ru": "Даже если предположить, что мы получим необходимое финансирование, всё равно понадобится достаточно опытная команда для реализации проекта."
+      },
+      {
+        "id": "ru-100",
+        "fr": "Ce n'est qu'en comparant les différentes propositions que nous pourrons déterminer laquelle répond réellement à nos besoins.",
+        "ru": "Только сравнив различные предложения, мы сможем определить, какое из них действительно отвечает нашим потребностям."
+      },
+      {
+        "id": "ru-101",
+        "fr": "Il ne faudrait pas confondre le fait d'avoir beaucoup d'informations avec celui de disposer des informations réellement utiles pour prendre une décision.",
+        "ru": "Не следует путать наличие большого количества информации с наличием действительно полезной для принятия решения информации."
+      },
+      {
+        "id": "ru-102",
+        "fr": "Bien qu'il ait accepté les nouvelles responsabilités, il a demandé qu'on lui accorde une période d'adaptation avant d'être évalué.",
+        "ru": "Хотя он согласился с новыми обязанностями, он попросил предоставить ему период адаптации, прежде чем оценивать его работу."
+      },
+      {
+        "id": "ru-103",
+        "fr": "Plus le temps passait, plus il devenait évident que la stratégie initiale ne permettrait pas d'atteindre les objectifs fixés.",
+        "ru": "Чем больше времени проходило, тем очевиднее становилось, что первоначальная стратегия не позволит достичь поставленных целей."
+      },
+      {
+        "id": "ru-104",
+        "fr": "Elle a préféré ne rien promettre tant qu'elle ne disposait pas de suffisamment d'éléments pour être certaine de pouvoir tenir ses engagements.",
+        "ru": "Она предпочла ничего не обещать, пока у неё не будет достаточно оснований быть уверенной в том, что она сможет выполнить свои обязательства."
+      },
+      {
+        "id": "ru-105",
+        "fr": "Même si cette mesure peut sembler contraignante au premier abord, elle devrait permettre d'éviter plusieurs problèmes à l'avenir.",
+        "ru": "Хотя на первый взгляд эта мера может показаться ограничительной, она должна помочь избежать нескольких проблем в будущем."
+      },
+      {
+        "id": "ru-106",
+        "fr": "À moins que de nouvelles informations ne viennent modifier la situation, nous continuerons à suivre le plan qui a été approuvé hier.",
+        "ru": "Если только новые сведения не изменят ситуацию, мы продолжим следовать плану, утверждённому вчера."
+      },
+      {
+        "id": "ru-107",
+        "fr": "Ce qui est particulièrement intéressant dans cette approche, c'est qu'elle permet de résoudre plusieurs problèmes sans nécessiter de ressources supplémentaires.",
+        "ru": "Особенно интересно в этом подходе то, что он позволяет решить несколько проблем без дополнительных ресурсов."
+      },
+      {
+        "id": "ru-108",
+        "fr": "Il a reconnu qu'il aurait dû demander davantage de précisions avant d'accepter une proposition dont il ne mesurait pas encore toutes les implications.",
+        "ru": "Он признал, что должен был попросить более подробные разъяснения, прежде чем принять предложение, всех последствий которого он ещё не осознавал."
+      },
+      {
+        "id": "ru-109",
+        "fr": "Pour peu que les conditions restent favorables, l'équipe devrait pouvoir terminer cette étape sans devoir modifier profondément le projet.",
+        "ru": "Если условия останутся благоприятными, команда должна суметь завершить этот этап, не внося серьёзных изменений в проект."
+      },
+      {
+        "id": "ru-110",
+        "fr": "Quelles que soient les difficultés rencontrées, elle refuse de considérer que les efforts accomplis jusqu'ici ont été inutiles.",
+        "ru": "Какими бы ни были возникшие трудности, она отказывается считать, что приложенные до сих пор усилия были напрасными."
+      },
+      {
+        "id": "ru-111",
+        "fr": "Alors que certains estimaient qu'il était trop tôt pour agir, elle considérait au contraire que tout retard supplémentaire risquait de rendre la situation plus difficile à gérer.",
+        "ru": "В то время как некоторые считали, что действовать ещё слишком рано, она, напротив, полагала, что дальнейшая задержка может ещё больше осложнить ситуацию."
+      },
+      {
+        "id": "ru-112",
+        "fr": "Il serait dommage de renoncer maintenant alors que nous avons déjà consacré autant de temps et d'énergie à ce projet.",
+        "ru": "Было бы жаль отказываться сейчас, когда мы уже потратили столько времени и сил на этот проект."
+      },
+      {
+        "id": "ru-113",
+        "fr": "Même si le problème paraît simple à première vue, son origine est en réalité beaucoup plus complexe qu'on ne pourrait le croire.",
+        "ru": "Хотя на первый взгляд проблема кажется простой, на самом деле её происхождение гораздо сложнее, чем можно было бы предположить."
+      },
+      {
+        "id": "ru-114",
+        "fr": "Ce n'est qu'une fois que toutes les données auront été vérifiées que nous pourrons publier les résultats définitifs.",
+        "ru": "Только после проверки всех данных мы сможем опубликовать окончательные результаты."
+      },
+      {
+        "id": "ru-115",
+        "fr": "Il a beau connaître parfaitement le fonctionnement du système, il ne peut pas prévoir toutes les réactions des utilisateurs.",
+        "ru": "Как бы хорошо он ни знал принцип работы системы, он не может предсказать все реакции пользователей."
+      },
+      {
+        "id": "ru-116",
+        "fr": "À force d'attendre le moment idéal, nous risquons surtout de laisser passer des occasions qui ne se présenteront peut-être plus.",
+        "ru": "Постоянно ожидая идеального момента, мы рискуем прежде всего упустить возможности, которые могут больше не представиться."
+      },
+      {
+        "id": "ru-117",
+        "fr": "Bien qu'elle ait été informée des risques, elle a estimé que les avantages potentiels justifiaient néanmoins de poursuivre l'expérience.",
+        "ru": "Хотя её предупредили о рисках, она сочла, что потенциальные преимущества всё же оправдывают продолжение эксперимента."
+      },
+      {
+        "id": "ru-118",
+        "fr": "Il ne suffit pas que la solution soit techniquement possible ; encore faut-il qu'elle soit accessible aux personnes qui devront l'utiliser.",
+        "ru": "Недостаточно, чтобы решение было технически возможным; необходимо также, чтобы оно было доступно людям, которым предстоит им пользоваться."
+      },
+      {
+        "id": "ru-119",
+        "fr": "Après avoir examiné les différentes options, nous avons retenu celle qui présentait le meilleur équilibre entre coût, qualité et rapidité.",
+        "ru": "Рассмотрев различные варианты, мы выбрали тот, который обеспечивал наилучший баланс между стоимостью, качеством и скоростью."
+      },
+      {
+        "id": "ru-120",
+        "fr": "Quoi qu'on puisse penser de sa méthode, force est de constater qu'elle a obtenu des résultats que peu de personnes avaient anticipés.",
+        "ru": "Что бы ни думали о её методе, нельзя не признать, что она получила результаты, которых мало кто ожидал."
+      },
+      {
+        "id": "ru-121",
+        "fr": "Même si nous parvenons à résoudre ce problème rapidement, il faudra encore déterminer pourquoi il s'est produit afin d'éviter qu'il ne se reproduise.",
+        "ru": "Даже если нам удастся быстро решить эту проблему, всё равно придётся выяснить, почему она возникла, чтобы предотвратить её повторение."
+      },
+      {
+        "id": "ru-122",
+        "fr": "Elle aurait préféré que la discussion ait lieu en personne, car certains malentendus auraient probablement pu être évités de cette manière.",
+        "ru": "Она предпочла бы, чтобы разговор состоялся лично, поскольку таким образом, вероятно, удалось бы избежать некоторых недоразумений."
+      },
+      {
+        "id": "ru-123",
+        "fr": "Dès lors qu'une décision engage plusieurs personnes, il paraît logique que chacune puisse donner son avis avant qu'elle ne soit définitivement adoptée.",
+        "ru": "Если решение затрагивает нескольких людей, логично, чтобы каждый мог высказать своё мнение до его окончательного принятия."
+      },
+      {
+        "id": "ru-124",
+        "fr": "Il a finalement compris que ce n'était pas le manque de ressources qui ralentissait le projet, mais surtout l'absence d'une organisation claire.",
+        "ru": "В конце концов он понял, что проект замедляла не нехватка ресурсов, а прежде всего отсутствие чёткой организации."
+      },
+      {
+        "id": "ru-125",
+        "fr": "À supposer que tout se passe comme prévu, nous pourrions commencer la deuxième phase dès le mois prochain.",
+        "ru": "Если предположить, что всё пойдёт по плану, мы сможем начать второй этап уже в следующем месяце."
+      },
+      {
+        "id": "ru-126",
+        "fr": "Bien qu'il ait reçu plusieurs offres intéressantes, il a choisi de rester dans son entreprise parce qu'il y voyait encore des possibilités d'évolution.",
+        "ru": "Хотя он получил несколько интересных предложений, он решил остаться в своей компании, потому что всё ещё видел там возможности для профессионального роста."
+      },
+      {
+        "id": "ru-127",
+        "fr": "Ce qui rend cette situation particulièrement délicate, c'est que chacune des solutions envisagées comporte des avantages, mais aussi des risques importants.",
+        "ru": "Особенно сложной эту ситуацию делает то, что каждый из рассматриваемых вариантов имеет преимущества, но также несёт значительные риски."
+      },
+      {
+        "id": "ru-128",
+        "fr": "Il serait préférable de prendre quelques jours supplémentaires plutôt que de présenter un travail qui n'a pas été suffisamment vérifié.",
+        "ru": "Было бы лучше взять несколько дополнительных дней, чем представить работу, которая не была достаточно тщательно проверена."
+      },
+      {
+        "id": "ru-129",
+        "fr": "Même si les premières réactions sont positives, nous devons attendre davantage de retours avant de tirer une conclusion définitive.",
+        "ru": "Хотя первые отзывы положительные, нам нужно получить больше откликов, прежде чем делать окончательный вывод."
+      },
+      {
+        "id": "ru-130",
+        "fr": "À peine avait-il commencé à expliquer la situation que plusieurs personnes ont compris qu'un détail important avait été oublié.",
+        "ru": "Едва он начал объяснять ситуацию, как несколько человек поняли, что была упущена важная деталь."
+      },
+      {
+        "id": "ru-131",
+        "fr": "Elle a insisté pour que le document soit modifié, non pas parce qu'il était incorrect, mais parce que certaines formulations pouvaient prêter à confusion.",
+        "ru": "Она настояла на изменении документа не потому, что он был неправильным, а потому, что некоторые формулировки могли привести к недоразумениям."
+      },
+      {
+        "id": "ru-132",
+        "fr": "Quelles que soient les circonstances, il est essentiel que les personnes concernées soient informées suffisamment tôt pour pouvoir s'organiser.",
+        "ru": "Какими бы ни были обстоятельства, крайне важно своевременно информировать заинтересованных лиц, чтобы они могли подготовиться."
+      },
+      {
+        "id": "ru-133",
+        "fr": "À bien y regarder, les deux propositions sont moins différentes qu'elles ne le semblent, puisqu'elles poursuivent finalement le même objectif.",
+        "ru": "Если присмотреться внимательнее, эти два предложения не так уж сильно отличаются, поскольку в конечном счёте преследуют одну и ту же цель."
+      },
+      {
+        "id": "ru-134",
+        "fr": "Il ne faudrait pas que la recherche de la perfection nous empêche de mettre en œuvre une solution qui est déjà suffisamment efficace.",
+        "ru": "Не следует допускать, чтобы стремление к совершенству помешало нам реализовать решение, которое уже является достаточно эффективным."
+      },
+      {
+        "id": "ru-135",
+        "fr": "Même si personne ne peut garantir que cette stratégie fonctionnera, elle semble pour l'instant être l'option la plus raisonnable.",
+        "ru": "Хотя никто не может гарантировать, что эта стратегия сработает, на данный момент она кажется наиболее разумным вариантом."
+      },
+      {
+        "id": "ru-136",
+        "fr": "Après avoir pris le temps d'écouter toutes les parties, le responsable a proposé une solution qui tenait compte des principales préoccupations exprimées.",
+        "ru": "Выслушав все стороны, руководитель предложил решение, учитывавшее основные высказанные опасения."
+      },
+      {
+        "id": "ru-137",
+        "fr": "Il a reconnu que certaines erreurs auraient pu être évitées s'il avait pris le temps de demander conseil avant de commencer.",
+        "ru": "Он признал, что некоторых ошибок можно было бы избежать, если бы он нашёл время посоветоваться до начала работы."
+      },
+      {
+        "id": "ru-138",
+        "fr": "Pour autant que les informations dont nous disposons soient exactes, aucune modification majeure ne devrait être nécessaire.",
+        "ru": "При условии, что имеющаяся у нас информация точна, никаких серьёзных изменений не должно потребоваться."
+      },
+      {
+        "id": "ru-139",
+        "fr": "Ce n'est qu'après plusieurs semaines d'observation que les chercheurs ont commencé à comprendre les causes réelles du phénomène.",
+        "ru": "Только после нескольких недель наблюдений исследователи начали понимать истинные причины этого явления."
+      },
+      {
+        "id": "ru-140",
+        "fr": "Quoi qu'il en soit, nous devons maintenant tirer les leçons de cette expérience et éviter de reproduire les mêmes erreurs.",
+        "ru": "Как бы то ни было, теперь нам нужно извлечь уроки из этого опыта и не повторять те же ошибки."
+      },{
+        "id": "ru-141",
+        "fr": "Quand bien même nous disposerions de davantage de temps, rien ne garantirait que les difficultés auxquelles nous sommes confrontés disparaîtraient d'elles-mêmes.",
+        "ru": "Даже если бы у нас было больше времени, ничто не гарантировало бы, что трудности, с которыми мы сталкиваемся, исчезли бы сами собой."
+      },
+      {
+        "id": "ru-142",
+        "fr": "Encore eût-il fallu que toutes les informations nécessaires fussent disponibles pour que nous puissions prendre une décision véritablement éclairée.",
+        "ru": "Для этого необходимо было бы, чтобы вся необходимая информация была доступна, иначе мы не смогли бы принять действительно обоснованное решение."
+      },
+      {
+        "id": "ru-143",
+        "fr": "Bien qu'il eût été plus simple de renoncer dès les premières difficultés, elle a préféré poursuivre, convaincue que les efforts déjà consentis finiraient par porter leurs fruits.",
+        "ru": "Хотя было бы проще отказаться уже при первых трудностях, она предпочла продолжить, будучи уверенной, что приложенные усилия в конце концов принесут плоды."
+      },
+      {
+        "id": "ru-144",
+        "fr": "À supposer même que toutes les conditions soient réunies, il n'en resterait pas moins que la réussite dépendrait de notre capacité à réagir face aux imprévus.",
+        "ru": "Даже если предположить, что все условия будут выполнены, успех всё равно зависел бы от нашей способности реагировать на непредвиденные обстоятельства."
+      },
+      {
+        "id": "ru-145",
+        "fr": "Si tant est que l'on puisse encore parler de hasard, les événements de ces dernières semaines semblent avoir suivi une logique que personne n'avait véritablement anticipée.",
+        "ru": "Если всё это ещё можно назвать случайностью, то события последних недель, похоже, развивались по логике, которую никто по-настоящему не предвидел."
+      },
+      {
+        "id": "ru-146",
+        "fr": "À peine avait-elle achevé sa présentation que plusieurs participants, jusque-là silencieux, ont commencé à soulever des questions dont la complexité a prolongé considérablement les échanges.",
+        "ru": "Едва она закончила презентацию, как несколько до этого молчавших участников начали задавать вопросы, сложность которых значительно продлила обсуждение."
+      },
+      {
+        "id": "ru-147",
+        "fr": "Bien lui en ait pris d'attendre avant de répondre, car les informations reçues quelques heures plus tard ont profondément modifié la manière dont il envisageait la situation.",
+        "ru": "Хорошо, что он не стал отвечать сразу, поскольку информация, полученная несколько часов спустя, полностью изменила его представление о ситуации."
+      },
+      {
+        "id": "ru-148",
+        "fr": "Encore faudrait-il, pour que cette proposition soit réellement viable, que les personnes chargées de sa mise en œuvre disposent d'une autonomie suffisante.",
+        "ru": "Для того чтобы это предложение действительно было жизнеспособным, необходимо ещё, чтобы ответственные за его реализацию обладали достаточной самостоятельностью."
+      },
+      {
+        "id": "ru-149",
+        "fr": "Quand bien même certains résultats paraîtraient encourageants, il serait prématuré d'en déduire que la méthode peut être généralisée à toutes les situations.",
+        "ru": "Даже если некоторые результаты кажутся обнадёживающими, было бы преждевременно делать вывод, что этот метод можно применять ко всем ситуациям."
+      },
+      {
+        "id": "ru-150",
+        "fr": "Ce n'est qu'à mesure que les données se sont accumulées que les chercheurs ont compris que l'hypothèse initiale reposait sur une interprétation trop simplifiée du phénomène.",
+        "ru": "Лишь по мере накопления данных исследователи поняли, что первоначальная гипотеза основывалась на чрезмерно упрощённом толковании явления."
+      },
+      {
+        "id": "ru-151",
+        "fr": "Pour peu que l'on accepte de remettre en question certaines habitudes profondément ancrées, il devient possible d'envisager des solutions auxquelles personne n'aurait spontanément pensé.",
+        "ru": "Если согласиться поставить под сомнение некоторые глубоко укоренившиеся привычки, становится возможным рассмотреть решения, о которых никто бы не подумал спонтанно."
+      },
+      {
+        "id": "ru-152",
+        "fr": "À supposer que les prévisions actuelles se confirment, encore faudrait-il déterminer dans quelle mesure les conséquences annoncées seraient réellement durables.",
+        "ru": "Даже если нынешние прогнозы подтвердятся, всё равно потребуется определить, насколько устойчивыми окажутся заявленные последствия."
+      },
+      {
+        "id": "ru-153",
+        "fr": "Bien qu'il n'eût jamais remis en cause la compétence de son équipe, il estimait qu'une meilleure répartition des responsabilités aurait permis d'éviter plusieurs erreurs.",
+        "ru": "Хотя он никогда не ставил под сомнение компетентность своей команды, он считал, что более грамотное распределение обязанностей позволило бы избежать нескольких ошибок."
+      },
+      {
+        "id": "ru-154",
+        "fr": "Il ne s'agit plus seulement de corriger les conséquences d'une décision mal préparée, mais de comprendre les mécanismes qui ont rendu cette erreur possible.",
+        "ru": "Теперь речь идёт уже не только об исправлении последствий плохо подготовленного решения, но и о понимании механизмов, сделавших эту ошибку возможной."
+      },
+      {
+        "id": "ru-155",
+        "fr": "Encore aurait-il fallu que chacun mesure pleinement les conséquences de son choix avant de considérer cette décision comme définitive.",
+        "ru": "Прежде чем считать это решение окончательным, каждому следовало бы в полной мере осознать последствия своего выбора."
+      },
+      {
+        "id": "ru-156",
+        "fr": "À bien y réfléchir, ce qui paraissait être un échec n'était peut-être que la conséquence temporaire d'une stratégie qui nécessitait davantage de temps pour produire ses effets.",
+        "ru": "Если хорошенько подумать, то то, что казалось неудачей, возможно, было лишь временным следствием стратегии, которой требовалось больше времени, чтобы дать результат."
+      },
+      {
+        "id": "ru-157",
+        "fr": "Quand bien même cette hypothèse serait confirmée, elle ne suffirait pas à expliquer l'ensemble des observations effectuées au cours de l'expérience.",
+        "ru": "Даже если эта гипотеза подтвердится, её всё равно будет недостаточно, чтобы объяснить все наблюдения, сделанные в ходе эксперимента."
+      },
+      {
+        "id": "ru-158",
+        "fr": "Ce n'est qu'une fois les différentes possibilités examinées que nous avons pris conscience de l'ampleur des conséquences qu'aurait pu entraîner notre première décision.",
+        "ru": "Лишь после рассмотрения различных возможностей мы осознали масштаб последствий, к которым могло привести наше первоначальное решение."
+      },
+      {
+        "id": "ru-159",
+        "fr": "Quoi qu'il en soit, il serait illusoire de croire qu'une réforme aussi profonde puisse être menée à bien sans susciter de résistances.",
+        "ru": "Как бы то ни было, было бы иллюзией полагать, что столь глубокую реформу можно успешно провести, не вызвав сопротивления."
+      },
+      {
+        "id": "ru-160",
+        "fr": "Si tant est que cette interprétation soit correcte, elle remettrait en question plusieurs conclusions auxquelles nous étions parvenus jusqu'à présent.",
+        "ru": "Если эта интерпретация действительно верна, она поставит под сомнение несколько выводов, к которым мы пришли до сих пор."
+      },
+      {
+        "id": "ru-161",
+        "fr": "Bien qu'elle eût parfaitement conscience des risques, elle considérait que ne rien tenter aurait constitué, à terme, un risque plus important encore.",
+        "ru": "Хотя она прекрасно осознавала риски, она считала, что в долгосрочной перспективе бездействие представляло бы собой ещё больший риск."
+      },
+      {
+        "id": "ru-162",
+        "fr": "Encore faudrait-il que les ressources annoncées soient effectivement disponibles au moment où leur utilisation deviendra indispensable.",
+        "ru": "Необходимо также, чтобы заявленные ресурсы действительно были доступны в тот момент, когда их использование станет необходимым."
+      },
+      {
+        "id": "ru-163",
+        "fr": "À peine les premières mesures avaient-elles été annoncées que plusieurs organisations ont commencé à demander des précisions sur leur mise en œuvre.",
+        "ru": "Едва были объявлены первые меры, как несколько организаций начали требовать разъяснений относительно их реализации."
+      },
+      {
+        "id": "ru-164",
+        "fr": "Pour peu que les responsables acceptent de reconnaître les erreurs commises, une amélioration significative de la situation resterait encore possible.",
+        "ru": "Если ответственные лица согласятся признать допущенные ошибки, значительное улучшение ситуации всё ещё будет возможным."
+      },
+      {
+        "id": "ru-165",
+        "fr": "Ce qui semblait n'être au départ qu'un détail administratif s'est progressivement révélé être un problème susceptible d'affecter l'ensemble du projet.",
+        "ru": "То, что первоначально казалось всего лишь административной деталью, постепенно оказалось проблемой, способной повлиять на весь проект."
+      },
+      {
+        "id": "ru-166",
+        "fr": "Quand bien même nous parviendrions à obtenir l'accord de toutes les parties, il resterait à résoudre la question de savoir comment financer la mise en œuvre.",
+        "ru": "Даже если нам удастся получить согласие всех сторон, останется решить вопрос о том, как финансировать реализацию проекта."
+      },
+      {
+        "id": "ru-167",
+        "fr": "Bien lui en a pris de conserver les anciens documents, lesquels se sont révélés indispensables lorsque les informations les plus récentes se sont avérées incomplètes.",
+        "ru": "Хорошо, что он сохранил старые документы: они оказались незаменимыми, когда самые последние сведения оказались неполными."
+      },
+      {
+        "id": "ru-168",
+        "fr": "À supposer même que personne ne conteste désormais la nécessité de cette réforme, encore faudrait-il parvenir à un accord sur les modalités de son application.",
+        "ru": "Даже если теперь никто не оспаривает необходимость этой реформы, всё равно потребуется достичь соглашения относительно способов её реализации."
+      },
+      {
+        "id": "ru-169",
+        "fr": "Il aurait fallu que les responsables anticipassent davantage les conséquences indirectes de la mesure, lesquelles n'ont été pleinement visibles que plusieurs mois plus tard.",
+        "ru": "Ответственным лицам следовало бы лучше предвидеть косвенные последствия этой меры, которые стали полностью заметны лишь несколько месяцев спустя."
+      },
+      {
+        "id": "ru-170",
+        "fr": "À force de vouloir répondre immédiatement à chaque difficulté, l'organisation a fini par multiplier les solutions provisoires sans jamais s'attaquer véritablement aux causes profondes.",
+        "ru": "Постоянно стремясь немедленно реагировать на каждую трудность, организация в итоге лишь множила временные решения, так и не занявшись по-настоящему устранением глубинных причин."
+      },
+      {
+        "id": "ru-171",
+        "fr": "Ce n'est qu'en prenant du recul par rapport aux événements que nous avons pu comprendre à quel point certaines décisions, jugées anodines à l'époque, avaient été déterminantes.",
+        "ru": "Лишь взглянув на события со стороны, мы смогли понять, насколько решающими оказались некоторые решения, которые в то время казались незначительными."
+      },
+      {
+        "id": "ru-172",
+        "fr": "Quand bien même les circonstances auraient été différentes, il n'est pas certain que nous aurions abouti à une conclusion différente.",
+        "ru": "Даже если бы обстоятельства были иными, вовсе не факт, что мы пришли бы к другому выводу."
+      },
+      {
+        "id": "ru-173",
+        "fr": "Encore eût-il fallu que les personnes concernées fussent informées de l'existence de cette possibilité pour qu'elles puissent en tirer parti.",
+        "ru": "Для этого необходимо было бы, чтобы заинтересованные лица знали о существовании такой возможности и могли ею воспользоваться."
+      },
+      {
+        "id": "ru-174",
+        "fr": "Si tant est que l'on puisse établir un lien direct entre les deux phénomènes, celui-ci ne permettrait pas pour autant d'affirmer qu'ils ont la même origine.",
+        "ru": "Даже если удастся установить прямую связь между двумя явлениями, это всё равно не позволит утверждать, что у них один и тот же источник."
+      },
+      {
+        "id": "ru-175",
+        "fr": "Bien qu'il eût souhaité présenter les résultats plus tôt, il a préféré attendre que toutes les vérifications soient achevées afin de ne laisser subsister aucun doute inutile.",
+        "ru": "Хотя он хотел представить результаты раньше, он предпочёл дождаться завершения всех проверок, чтобы не оставлять никаких ненужных сомнений."
+      },
+      {
+        "id": "ru-176",
+        "fr": "À supposer que les hypothèses actuellement retenues soient exactes, il faudrait encore expliquer pourquoi certaines observations semblent les contredire.",
+        "ru": "Даже если нынешние гипотезы верны, всё равно необходимо объяснить, почему некоторые наблюдения, по-видимому, им противоречат."
+      },
+      {
+        "id": "ru-177",
+        "fr": "Quoi qu'on en dise, la difficulté ne réside pas tant dans l'absence de solutions que dans la difficulté à déterminer laquelle serait la moins risquée.",
+        "ru": "Что бы ни говорили, трудность заключается не столько в отсутствии решений, сколько в сложности определить, какое из них сопряжено с наименьшим риском."
+      },
+      {
+        "id": "ru-178",
+        "fr": "À peine le nouveau système avait-il été mis en place que les premiers problèmes de compatibilité ont commencé à apparaître.",
+        "ru": "Едва новая система была введена в действие, как начали появляться первые проблемы совместимости."
+      },
+      {
+        "id": "ru-179",
+        "fr": "Il ne faudrait pas, sous prétexte de vouloir accélérer le processus, que nous négligions des vérifications dont dépend pourtant la fiabilité du résultat final.",
+        "ru": "Не следует под предлогом ускорения процесса пренебрегать проверками, от которых, тем не менее, зависит надёжность конечного результата."
+      },
+      {
+        "id": "ru-180",
+        "fr": "Pour peu que les différents acteurs parviennent à dépasser leurs intérêts particuliers, un compromis acceptable pourrait encore être trouvé.",
+        "ru": "Если различным сторонам удастся выйти за рамки собственных интересов, приемлемый компромисс всё ещё можно будет найти."
+      },
+      {
+        "id": "ru-181",
+        "fr": "Bien lui en ait pris de ne pas se fier uniquement aux premières impressions, lesquelles se sont révélées trompeuses après un examen plus approfondi.",
+        "ru": "Хорошо, что он не стал полагаться исключительно на первые впечатления, которые после более тщательного изучения оказались обманчивыми."
+      },
+      {
+        "id": "ru-182",
+        "fr": "Quand bien même cette solution présenterait certains inconvénients, ceux-ci paraissent moins importants que les conséquences qu'entraînerait l'absence de décision.",
+        "ru": "Даже если у этого решения есть определённые недостатки, они кажутся менее значительными, чем последствия, к которым привело бы отсутствие решения."
+      },
+      {
+        "id": "ru-183",
+        "fr": "Ce n'est qu'après plusieurs mois de fonctionnement que nous avons découvert que certaines fonctionnalités, pourtant considérées comme essentielles, étaient très peu utilisées.",
+        "ru": "Только после нескольких месяцев работы мы обнаружили, что некоторые функции, считавшиеся необходимыми, использовались крайне редко."
+      },
+      {
+        "id": "ru-184",
+        "fr": "Encore faudrait-il, pour que cette comparaison soit pertinente, que les deux situations aient été évaluées selon des critères strictement identiques.",
+        "ru": "Чтобы это сравнение было действительно корректным, необходимо было бы оценивать обе ситуации по абсолютно одинаковым критериям."
+      },
+      {
+        "id": "ru-185",
+        "fr": "À bien y réfléchir, la véritable difficulté n'était peut-être pas de convaincre les autres, mais de déterminer nous-mêmes ce que nous voulions réellement obtenir.",
+        "ru": "Если хорошенько подумать, настоящая трудность, возможно, заключалась не в том, чтобы убедить других, а в том, чтобы самим определить, чего мы действительно хотели добиться."
+      },
+      {
+        "id": "ru-186",
+        "fr": "Il aurait été pour le moins imprudent de modifier aussi profondément le système sans avoir préalablement mesuré les risques liés à une telle transformation.",
+        "ru": "По меньшей мере неосмотрительно было бы настолько глубоко менять систему, предварительно не оценив риски, связанные с подобным преобразованием."
+      },
+      {
+        "id": "ru-187",
+        "fr": "Quelles que fussent les intentions initiales, les conséquences de cette décision ont finalement dépassé largement ce que ses auteurs avaient envisagé.",
+        "ru": "Какими бы ни были первоначальные намерения, последствия этого решения в итоге значительно превзошли то, что предполагали его авторы."
+      },
+      {
+        "id": "ru-188",
+        "fr": "Si tant est que l'on puisse tirer une conclusion définitive de cette expérience, c'est sans doute que les solutions les plus simples ne sont pas toujours celles qui produisent les effets les plus durables.",
+        "ru": "Если из этого опыта вообще можно сделать окончательный вывод, то, вероятно, он заключается в том, что самые простые решения не всегда дают наиболее долговечные результаты."
+      },
+      {
+        "id": "ru-189",
+        "fr": "À supposer même que nous trouvions aujourd'hui une solution satisfaisante, rien ne nous dit qu'elle restera adaptée aux besoins qui apparaîtront dans quelques années.",
+        "ru": "Даже если сегодня нам удастся найти удовлетворительное решение, ничто не гарантирует, что оно останется подходящим для потребностей, которые возникнут через несколько лет."
+      },
+      {
+        "id": "ru-190",
+        "fr": "Bien qu'elle eût conscience que sa décision susciterait probablement des critiques, elle estimait qu'il aurait été plus irresponsable encore de ne rien faire.",
+        "ru": "Хотя она понимала, что её решение, вероятно, вызовет критику, она считала, что ещё более безответственно было бы ничего не делать."
+      },
+      {
+        "id": "ru-191",
+        "fr": "Encore eût-il fallu que l'on disposât, à ce moment-là, de suffisamment d'éléments pour comprendre la portée réelle de ce qui était en train de se produire.",
+        "ru": "Для этого в тот момент необходимо было бы располагать достаточным количеством сведений, чтобы понять истинный масштаб происходящего."
+      },
+      {
+        "id": "ru-192",
+        "fr": "Ce qui, rétrospectivement, semble avoir été une erreur évidente ne l'était nullement au moment où la décision avait été prise, compte tenu des informations alors disponibles.",
+        "ru": "То, что задним числом кажется очевидной ошибкой, вовсе не выглядело так в момент принятия решения, учитывая имевшуюся тогда информацию."
+      },
+      {
+        "id": "ru-193",
+        "fr": "Quand bien même les critiques seraient en partie fondées, elles ne sauraient suffire à effacer les progrès considérables accomplis depuis le début du projet.",
+        "ru": "Даже если критика отчасти обоснована, она не может перечеркнуть значительный прогресс, достигнутый с начала проекта."
+      },
+      {
+        "id": "ru-194",
+        "fr": "Pour peu que chacun accepte de reconnaître ce qui n'a pas fonctionné, cette expérience pourrait finalement se révéler plus instructive qu'un succès obtenu sans difficulté.",
+        "ru": "Если каждый согласится признать то, что не сработало, этот опыт в итоге может оказаться более поучительным, чем успех, достигнутый без каких-либо трудностей."
+      },
+      {
+        "id": "ru-195",
+        "fr": "Il ne s'agissait pas tant de savoir si la proposition était parfaite que de déterminer si elle constituait, dans les circonstances présentes, la meilleure option disponible.",
+        "ru": "Речь шла не столько о том, чтобы определить, было ли предложение идеальным, сколько о том, чтобы понять, являлось ли оно в нынешних обстоятельствах лучшим из доступных вариантов."
+      },
+      {
+        "id": "ru-196",
+        "fr": "À peine les résultats définitifs avaient-ils été communiqués que plusieurs experts ont souligné que leur interprétation nécessitait davantage de prudence.",
+        "ru": "Едва были объявлены окончательные результаты, как несколько экспертов подчеркнули, что их интерпретация требует большей осторожности."
+      },
+      {
+        "id": "ru-197",
+        "fr": "Bien lui en aurait pris de suivre les recommandations qui lui avaient été faites, car les événements survenus par la suite ont confirmé les inquiétudes exprimées à l'époque.",
+        "ru": "Ему стоило последовать данным ему рекомендациям, поскольку последующие события подтвердили высказанные тогда опасения."
+      },
+      {
+        "id": "ru-198",
+        "fr": "Quoi qu'il advienne désormais, il serait vain de chercher à revenir exactement à la situation antérieure, tant les changements intervenus ont profondément transformé le contexte.",
+        "ru": "Что бы теперь ни произошло, было бы бессмысленно пытаться в точности вернуться к прежней ситуации, настолько сильно произошедшие изменения преобразили весь контекст."
+      },
+      {
+        "id": "ru-199",
+        "fr": "Si tant est que l'on puisse tirer une conclusion définitive de cette expérience, c'est sans doute que les solutions les plus simples ne sont pas toujours celles qui produisent les effets les plus durables.",
+        "ru": "Если из этого опыта вообще можно сделать окончательный вывод, то, вероятно, он заключается в том, что самые простые решения не всегда дают наиболее долговечные результаты."
+      },
+      {
+        "id": "ru-200",
+        "fr": "À bien y réfléchir, ce n'est peut-être qu'en acceptant l'incertitude inhérente à toute décision importante que nous pouvons espérer faire des choix réellement pertinents.",
+        "ru": "Если хорошенько подумать, возможно, только принимая неопределённость, неизбежно присущую любому важному решению, мы можем надеяться делать действительно обоснованный выбор."
+      }],
     "frenchpolish": []
   }
 }
