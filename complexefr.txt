@@ -5988,7 +5988,1004 @@
         "fr": "Quoi qu'il en soit, même si nous ne pouvons plus revenir sur ce qui s'est passé, il nous appartient désormais d'en tirer les conséquences et de faire en sorte que les erreurs commises ne se reproduisent pas.",
         "pt": "De qualquer forma, mesmo que já não possamos voltar atrás no que aconteceu, cabe-nos agora tirar daí as devidas consequências e garantir que os erros cometidos não se repitam."
       }],
-    "frencharabic": [],
+    "frencharabic": [{
+        "id": "ar-001",
+        "fr": "Même si la journée avait commencé sous une pluie abondante, nous avons décidé de maintenir notre rendez-vous afin de ne pas repousser une nouvelle fois notre projet.",
+        "ar": "على الرغم من أن اليوم بدأ بأمطار غزيرة، قررنا الحفاظ على موعدنا حتى لا نؤجل مشروعنا مرة أخرى."
+      },
+      {
+        "id": "ar-002",
+        "fr": "Après avoir terminé son travail plus tôt que prévu, elle est passée au marché pour acheter les quelques ingrédients qui manquaient encore pour préparer le dîner.",
+        "ar": "بعد أن أنهت عملها في وقت أبكر مما كان متوقعًا، مرّت بالسوق لشراء المكونات القليلة التي كانت لا تزال ناقصة لإعداد العشاء."
+      },
+      {
+        "id": "ar-003",
+        "fr": "Comme personne ne connaissait exactement la route, nous avons préféré demander notre chemin plutôt que de continuer à avancer au hasard.",
+        "ar": "بما أن أحدًا لم يكن يعرف الطريق بالضبط، فضّلنا أن نسأل عن الاتجاه بدلًا من مواصلة السير بشكل عشوائي."
+      },
+      {
+        "id": "ar-004",
+        "fr": "Il a accepté de nous aider, à condition que nous lui expliquions clairement ce que nous attendions de lui et dans quel délai.",
+        "ar": "وافق على مساعدتنا، بشرط أن نشرح له بوضوح ما الذي ننتظره منه وفي أي مدة زمنية."
+      },
+      {
+        "id": "ar-005",
+        "fr": "Bien qu'elle soit habituée à travailler sous pression, elle a reconnu que cette semaine avait été particulièrement difficile.",
+        "ar": "على الرغم من أنها معتادة على العمل تحت الضغط، فقد اعترفت بأن هذا الأسبوع كان صعبًا بشكل خاص."
+      },
+      {
+        "id": "ar-006",
+        "fr": "Nous avons finalement choisi le petit restaurant du quartier parce qu'il proposait des plats simples, frais et beaucoup moins chers que ceux du centre-ville.",
+        "ar": "اخترنا في النهاية المطعم الصغير في الحي لأنه كان يقدم أطباقًا بسيطة وطازجة وأرخص بكثير من تلك الموجودة في وسط المدينة."
+      },
+      {
+        "id": "ar-007",
+        "fr": "Elle a décidé de prendre quelques jours de repos après avoir constaté qu'elle travaillait depuis plusieurs semaines sans véritable pause.",
+        "ar": "قررت أن تأخذ بضعة أيام للراحة بعدما لاحظت أنها تعمل منذ عدة أسابيع من دون استراحة حقيقية."
+      },
+      {
+        "id": "ar-008",
+        "fr": "Si tu veux terminer ce travail aujourd'hui, il faudra probablement commencer plus tôt que d'habitude et éviter les distractions.",
+        "ar": "إذا كنت تريد إنهاء هذا العمل اليوم، فسيتعين عليك على الأرجح أن تبدأ أبكر من المعتاد وتتجنب المشتتات."
+      },
+      {
+        "id": "ar-009",
+        "fr": "Il a expliqué qu'il ne pouvait pas venir immédiatement parce qu'il devait d'abord terminer une tâche urgente qu'on lui avait confiée.",
+        "ar": "أوضح أنه لا يستطيع المجيء فورًا لأنه كان عليه أولًا إنهاء مهمة عاجلة كُلّف بها."
+      },
+      {
+        "id": "ar-010",
+        "fr": "Après plusieurs heures de discussion, les deux équipes sont finalement parvenues à un accord qui semblait acceptable pour tout le monde.",
+        "ar": "بعد عدة ساعات من النقاش، توصل الفريقان في النهاية إلى اتفاق بدا مقبولًا للجميع."
+      },
+      {
+        "id": "ar-011",
+        "fr": "Même lorsque les choses ne se passent pas comme prévu, il essaie de rester calme afin de trouver une solution plutôt que de chercher un responsable.",
+        "ar": "حتى عندما لا تسير الأمور كما هو مخطط لها، يحاول أن يبقى هادئًا من أجل إيجاد حل بدلًا من البحث عن شخص يلومه."
+      },
+      {
+        "id": "ar-012",
+        "fr": "Elle a acheté un nouvel ordinateur parce que l'ancien devenait tellement lent qu'il lui fallait parfois plusieurs minutes pour ouvrir un simple document.",
+        "ar": "اشترت حاسوبًا جديدًا لأن جهازها القديم أصبح بطيئًا جدًا لدرجة أنها كانت تحتاج أحيانًا إلى عدة دقائق لفتح مستند بسيط."
+      },
+      {
+        "id": "ar-013",
+        "fr": "Comme le train avait déjà quitté la gare lorsque nous sommes arrivés, nous avons dû attendre près d'une heure avant de pouvoir prendre le suivant.",
+        "ar": "بما أن القطار كان قد غادر المحطة بالفعل عندما وصلنا، اضطررنا إلى الانتظار قرابة ساعة قبل أن نتمكن من ركوب القطار التالي."
+      },
+      {
+        "id": "ar-014",
+        "fr": "Il préfère travailler le matin, lorsqu'il est encore concentré, plutôt que le soir, quand il commence généralement à ressentir la fatigue.",
+        "ar": "يفضل العمل في الصباح عندما يكون لا يزال مركزًا، بدلًا من المساء حين يبدأ عادة في الشعور بالتعب."
+      },
+      {
+        "id": "ar-015",
+        "fr": "Nous avons reporté la réunion jusqu'à la semaine prochaine afin de laisser à chacun suffisamment de temps pour préparer les documents nécessaires.",
+        "ar": "أجلنا الاجتماع إلى الأسبوع المقبل حتى نمنح الجميع وقتًا كافيًا لإعداد الوثائق اللازمة."
+      },
+      {
+        "id": "ar-016",
+        "fr": "Elle ne savait pas si elle devait accepter cette proposition, car elle était intéressante financièrement mais risquait de lui prendre beaucoup plus de temps.",
+        "ar": "لم تكن تعرف ما إذا كان عليها قبول هذا العرض، لأنه كان جذابًا من الناحية المالية لكنه قد يستغرق منها وقتًا أطول بكثير."
+      },
+      {
+        "id": "ar-017",
+        "fr": "Après avoir lu attentivement le contrat, il a demandé quelques modifications avant de le signer définitivement.",
+        "ar": "بعد أن قرأ العقد بعناية، طلب بعض التعديلات قبل أن يوقعه نهائيًا."
+      },
+      {
+        "id": "ar-018",
+        "fr": "Même si le prix était légèrement plus élevé, nous avons choisi ce produit parce qu'il était garanti pendant plusieurs années.",
+        "ar": "حتى لو كان السعر أعلى قليلًا، اخترنا هذا المنتج لأنه كان مشمولًا بضمان لعدة سنوات."
+      },
+      {
+        "id": "ar-019",
+        "fr": "Elle a appelé son frère pour lui demander s'il pouvait venir la chercher, puisqu'elle avait raté le dernier bus.",
+        "ar": "اتصلت بأخيها لتسأله إن كان يستطيع المجيء لاصطحابها، لأنها فاتتها الحافلة الأخيرة."
+      },
+      {
+        "id": "ar-020",
+        "fr": "Nous avons décidé de ne pas acheter immédiatement, car nous voulions comparer plusieurs modèles avant de faire notre choix.",
+        "ar": "قررنا ألا نشتري فورًا، لأننا أردنا مقارنة عدة نماذج قبل اتخاذ قرارنا."
+      },
+      {
+        "id": "ar-021",
+        "fr": "Il était tellement concentré sur son travail qu'il n'a même pas remarqué que ses collègues avaient déjà quitté le bureau.",
+        "ar": "كان منشغلًا جدًا بعمله لدرجة أنه لم يلاحظ حتى أن زملاءه كانوا قد غادروا المكتب بالفعل."
+      },
+      {
+        "id": "ar-022",
+        "fr": "Bien qu'il connaisse bien la ville, il a utilisé une application de navigation afin d'éviter les rues particulièrement encombrées.",
+        "ar": "على الرغم من معرفته الجيدة بالمدينة، استخدم تطبيقًا للملاحة لتجنب الشوارع المزدحمة بشكل خاص."
+      },
+      {
+        "id": "ar-023",
+        "fr": "Si nous voulons respecter le délai prévu, chacun devra terminer sa partie du travail avant vendredi soir.",
+        "ar": "إذا أردنا احترام الموعد المحدد، فسيتعين على كل واحد أن ينهي الجزء الخاص به من العمل قبل مساء الجمعة."
+      },
+      {
+        "id": "ar-024",
+        "fr": "Elle a refusé de répondre immédiatement parce qu'elle voulait prendre le temps de réfléchir aux conséquences de sa décision.",
+        "ar": "رفضت أن تجيب فورًا لأنها أرادت أن تأخذ وقتًا للتفكير في عواقب قرارها."
+      },
+      {
+        "id": "ar-025",
+        "fr": "Après plusieurs tentatives infructueuses, nous avons finalement compris que le problème venait d'un simple réglage du système.",
+        "ar": "بعد عدة محاولات فاشلة، فهمنا في النهاية أن المشكلة كانت ناتجة عن إعداد بسيط في النظام."
+      },
+      {
+        "id": "ar-026",
+        "fr": "Il a promis qu'il nous préviendrait dès qu'il aurait reçu les informations dont nous avions besoin.",
+        "ar": "وعد بأنه سيبلغنا بمجرد أن يتلقى المعلومات التي كنا بحاجة إليها."
+      },
+      {
+        "id": "ar-027",
+        "fr": "Comme elle avait oublié son portefeuille à la maison, son amie a proposé de payer pour elle et de récupérer l'argent plus tard.",
+        "ar": "بما أنها نسيت محفظتها في المنزل، عرضت صديقتها أن تدفع عنها وأن تسترد المال لاحقًا."
+      },
+      {
+        "id": "ar-028",
+        "fr": "Nous avons choisi de rester à la maison parce que la météo annonçait de fortes pluies pendant toute l'après-midi.",
+        "ar": "اخترنا البقاء في المنزل لأن توقعات الطقس كانت تشير إلى أمطار غزيرة طوال فترة بعد الظهر."
+      },
+      {
+        "id": "ar-029",
+        "fr": "Elle travaille beaucoup, mais elle essaie malgré tout de consacrer du temps à sa famille chaque week-end.",
+        "ar": "هي تعمل كثيرًا، لكنها تحاول رغم ذلك تخصيص وقت لعائلتها في نهاية كل أسبوع."
+      },
+      {
+        "id": "ar-030",
+        "fr": "Il a expliqué que cette décision devait être prise rapidement, car plusieurs personnes attendaient déjà une réponse.",
+        "ar": "أوضح أن هذا القرار يجب اتخاذه بسرعة، لأن عدة أشخاص كانوا ينتظرون بالفعل ردًا."
+      },
+      {
+        "id": "ar-031",
+        "fr": "Même si nous n'étions pas entièrement d'accord, nous avons décidé de respecter la décision prise collectivement.",
+        "ar": "حتى لو لم نكن متفقين تمامًا، قررنا احترام القرار الذي اتُخذ بشكل جماعي."
+      },
+      {
+        "id": "ar-032",
+        "fr": "Après avoir vérifié toutes les informations, elle a découvert qu'une erreur s'était glissée dans le document envoyé la veille.",
+        "ar": "بعد أن تحققت من جميع المعلومات، اكتشفت أن خطأً قد تسلل إلى الوثيقة التي أُرسلت في اليوم السابق."
+      },
+      {
+        "id": "ar-033",
+        "fr": "Il est parti plus tôt afin d'être certain d'arriver à l'aéroport avant le début de l'enregistrement.",
+        "ar": "غادر مبكرًا لكي يتأكد من وصوله إلى المطار قبل بدء إجراءات تسجيل الوصول."
+      },
+      {
+        "id": "ar-034",
+        "fr": "Nous avons attendu que tout le monde soit présent avant de commencer la réunion, afin que personne ne manque les informations importantes.",
+        "ar": "انتظرنا حتى يحضر الجميع قبل بدء الاجتماع حتى لا يفوّت أحد المعلومات المهمة."
+      },
+      {
+        "id": "ar-035",
+        "fr": "Elle a accepté le poste parce qu'il lui permettait d'acquérir de l'expérience tout en continuant à se former.",
+        "ar": "قبلت الوظيفة لأنها كانت تتيح لها اكتساب الخبرة مع مواصلة تدريبها في الوقت نفسه."
+      },
+      {
+        "id": "ar-036",
+        "fr": "Il n'a pas pu terminer le rapport à temps, non pas parce qu'il manquait de compétences, mais parce qu'il avait reçu plusieurs demandes urgentes.",
+        "ar": "لم يتمكن من إنهاء التقرير في الوقت المحدد، ليس لأنه يفتقر إلى المهارات، بل لأنه تلقى عدة طلبات عاجلة."
+      },
+      {
+        "id": "ar-037",
+        "fr": "Si tu rencontres une difficulté, n'hésite pas à me contacter avant de prendre une décision définitive.",
+        "ar": "إذا واجهت صعوبة، فلا تتردد في الاتصال بي قبل اتخاذ قرار نهائي."
+      },
+      {
+        "id": "ar-038",
+        "fr": "Elle a commencé à économiser de l'argent parce qu'elle envisageait de voyager dans plusieurs pays l'année suivante.",
+        "ar": "بدأت في ادخار المال لأنها كانت تفكر في السفر إلى عدة بلدان في السنة التالية."
+      },
+      {
+        "id": "ar-039",
+        "fr": "Nous avons dû changer nos plans lorsque nous avons appris que la route principale était temporairement fermée.",
+        "ar": "اضطررنا إلى تغيير خططنا عندما علمنا أن الطريق الرئيسي مغلق مؤقتًا."
+      },
+      {
+        "id": "ar-040",
+        "fr": "Il a pris des notes pendant la présentation afin de pouvoir relire plus tard les informations qu'il jugeait importantes.",
+        "ar": "دوّن ملاحظات أثناء العرض حتى يتمكن لاحقًا من مراجعة المعلومات التي اعتبرها مهمة."
+      },
+      {
+        "id": "ar-041",
+        "fr": "Bien qu'elle ait peu d'expérience dans ce domaine, elle a réussi à convaincre l'équipe grâce à la clarté de son projet.",
+        "ar": "على الرغم من أن خبرتها في هذا المجال قليلة، فقد تمكنت من إقناع الفريق بفضل وضوح مشروعها."
+      },
+      {
+        "id": "ar-042",
+        "fr": "Nous avons décidé de vérifier les chiffres une dernière fois avant d'envoyer le rapport au responsable.",
+        "ar": "قررنا التحقق من الأرقام مرة أخيرة قبل إرسال التقرير إلى المسؤول."
+      },
+      {
+        "id": "ar-043",
+        "fr": "Elle n'a pas compris pourquoi son collègue était contrarié, puisqu'elle pensait avoir simplement posé une question.",
+        "ar": "لم تفهم سبب انزعاج زميلها، لأنها كانت تعتقد أنها طرحت مجرد سؤال."
+      },
+      {
+        "id": "ar-044",
+        "fr": "Après avoir discuté avec plusieurs personnes, il a réalisé que le problème était beaucoup plus complexe qu'il ne l'avait imaginé.",
+        "ar": "بعد أن تحدث مع عدة أشخاص، أدرك أن المشكلة كانت أكثر تعقيدًا بكثير مما كان يتخيل."
+      },
+      {
+        "id": "ar-045",
+        "fr": "Nous avons réservé une chambre suffisamment grande pour que chacun puisse avoir un peu d'espace personnel.",
+        "ar": "حجزنا غرفة كبيرة بما يكفي لكي يحصل كل شخص على بعض المساحة الشخصية."
+      },
+      {
+        "id": "ar-046",
+        "fr": "Elle a décidé de reprendre ses études tout en continuant à travailler à temps partiel pour financer sa formation.",
+        "ar": "قررت استئناف دراستها مع مواصلة العمل بدوام جزئي لتمويل تكوينها."
+      },
+      {
+        "id": "ar-047",
+        "fr": "Il est important que chacun comprenne les règles avant de commencer, surtout lorsque l'activité nécessite de travailler en équipe.",
+        "ar": "من المهم أن يفهم الجميع القواعد قبل البدء، خاصة عندما يتطلب النشاط العمل ضمن فريق."
+      },
+      {
+        "id": "ar-048",
+        "fr": "Même après plusieurs explications, certains participants avaient encore du mal à comprendre la différence entre les deux propositions.",
+        "ar": "حتى بعد عدة شروحات، ظل بعض المشاركين يجدون صعوبة في فهم الفرق بين الاقتراحين."
+      },
+      {
+        "id": "ar-049",
+        "fr": "Comme il faisait très chaud, nous avons décidé de reporter la promenade jusqu'à la fin de l'après-midi.",
+        "ar": "بما أن الجو كان حارًا جدًا، قررنا تأجيل النزهة إلى نهاية فترة بعد الظهر."
+      },
+      {
+        "id": "ar-050",
+        "fr": "Elle a demandé à son responsable de lui accorder quelques jours supplémentaires afin de terminer correctement le projet.",
+        "ar": "طلبت من مسؤولها أن يمنحها بضعة أيام إضافية حتى تنهي المشروع بشكل صحيح."
+      },
+      {
+        "id": "ar-051",
+        "fr": "Il savait qu'il devait changer certaines habitudes s'il voulait améliorer son organisation quotidienne.",
+        "ar": "كان يعلم أنه يجب أن يغير بعض عاداته إذا أراد تحسين تنظيمه اليومي."
+      },
+      {
+        "id": "ar-052",
+        "fr": "Nous avons choisi cette solution parce qu'elle était simple à mettre en œuvre et qu'elle ne nécessitait pas beaucoup de ressources.",
+        "ar": "اخترنا هذا الحل لأنه كان سهل التنفيذ ولم يكن يتطلب الكثير من الموارد."
+      },
+      {
+        "id": "ar-053",
+        "fr": "Elle a attendu plusieurs jours avant de répondre, car elle voulait être certaine de ne pas prendre une décision sous le coup de l'émotion.",
+        "ar": "انتظرت عدة أيام قبل أن تجيب، لأنها أرادت أن تتأكد من أنها لا تتخذ قرارًا تحت تأثير العاطفة."
+      },
+      {
+        "id": "ar-054",
+        "fr": "Il a accepté de modifier son programme afin de pouvoir accompagner ses parents à l'hôpital.",
+        "ar": "وافق على تعديل برنامجه حتى يتمكن من مرافقة والديه إلى المستشفى."
+      },
+      {
+        "id": "ar-055",
+        "fr": "Après plusieurs mois de préparation, l'équipe était enfin prête à présenter son projet au public.",
+        "ar": "بعد عدة أشهر من التحضير، أصبح الفريق أخيرًا مستعدًا لعرض مشروعه أمام الجمهور."
+      },
+      {
+        "id": "ar-056",
+        "fr": "Même si le trajet était long, nous avons préféré prendre le bus parce qu'il était moins cher que le train.",
+        "ar": "حتى لو كانت الرحلة طويلة، فضلنا ركوب الحافلة لأنها كانت أرخص من القطار."
+      },
+      {
+        "id": "ar-057",
+        "fr": "Elle a découvert que plusieurs informations qu'elle avait reçues sur Internet étaient inexactes.",
+        "ar": "اكتشفت أن عدة معلومات تلقتها عبر الإنترنت كانت غير دقيقة."
+      },
+      {
+        "id": "ar-058",
+        "fr": "Il a proposé une solution intermédiaire qui permettrait aux deux parties de parvenir à un compromis.",
+        "ar": "اقترح حلًا وسطًا من شأنه أن يسمح للطرفين بالتوصل إلى حل وسط."
+      },
+      {
+        "id": "ar-059",
+        "fr": "Nous devons agir rapidement si nous voulons éviter que la situation ne devienne encore plus compliquée.",
+        "ar": "يجب أن نتصرف بسرعة إذا أردنا تجنب أن تصبح الوضعية أكثر تعقيدًا."
+      },
+      {
+        "id": "ar-060",
+        "fr": "Elle a décidé de ne plus utiliser cette application parce qu'elle consommait trop de données mobiles.",
+        "ar": "قررت ألا تستخدم هذا التطبيق بعد الآن لأنه كان يستهلك الكثير من بيانات الهاتف المحمول."
+      },
+      {
+        "id": "ar-061",
+        "fr": "Il a finalement accepté de venir, à condition que la réunion ne dure pas plus d'une heure.",
+        "ar": "وافق في النهاية على الحضور بشرط ألا يستغرق الاجتماع أكثر من ساعة."
+      },
+      {
+        "id": "ar-062",
+        "fr": "Après avoir comparé plusieurs offres, nous avons choisi celle qui correspondait le mieux à nos besoins.",
+        "ar": "بعد مقارنة عدة عروض، اخترنا العرض الذي يتناسب أكثر مع احتياجاتنا."
+      },
+      {
+        "id": "ar-063",
+        "fr": "Bien qu'il soit encore tôt, elle a préféré rentrer chez elle parce qu'elle devait se lever avant l'aube le lendemain.",
+        "ar": "على الرغم من أن الوقت كان لا يزال مبكرًا، فضّلت العودة إلى منزلها لأنها كانت مضطرة إلى الاستيقاظ قبل الفجر في اليوم التالي."
+      },
+      {
+        "id": "ar-064",
+        "fr": "Nous avons demandé aux participants de lire attentivement les instructions avant de commencer l'exercice.",
+        "ar": "طلبنا من المشاركين قراءة التعليمات بعناية قبل البدء في التمرين."
+      },
+      {
+        "id": "ar-065",
+        "fr": "Elle a compris qu'elle devait mieux organiser son temps si elle voulait terminer toutes ses tâches sans travailler tard chaque soir.",
+        "ar": "أدركت أنها يجب أن تنظم وقتها بشكل أفضل إذا أرادت إنهاء جميع مهامها من دون العمل حتى وقت متأخر كل مساء."
+      },
+      {
+        "id": "ar-066",
+        "fr": "Il a choisi de rester silencieux parce qu'il ne voulait pas aggraver une situation qui était déjà suffisamment tendue.",
+        "ar": "اختار أن يلتزم الصمت لأنه لم يرد أن يزيد من سوء وضع كان متوترًا بما يكفي."
+      },
+      {
+        "id": "ar-067",
+        "fr": "Même lorsque les résultats sont décevants, il faut parfois continuer à travailler avant de pouvoir constater une véritable amélioration.",
+        "ar": "حتى عندما تكون النتائج مخيبة للآمال، يجب أحيانًا مواصلة العمل قبل أن نتمكن من ملاحظة تحسن حقيقي."
+      },
+      {
+        "id": "ar-068",
+        "fr": "Elle a accepté cette responsabilité parce qu'elle pensait pouvoir apprendre beaucoup de choses en travaillant avec une équipe expérimentée.",
+        "ar": "قبلت هذه المسؤولية لأنها كانت تعتقد أنها تستطيع تعلم الكثير من الأمور من خلال العمل مع فريق ذي خبرة."
+      },
+      {
+        "id": "ar-069",
+        "fr": "Nous avons dû attendre plusieurs semaines avant de recevoir les documents nécessaires pour poursuivre la procédure.",
+        "ar": "اضطررنا إلى الانتظار عدة أسابيع قبل أن نتلقى الوثائق اللازمة لمواصلة الإجراءات."
+      },
+      {
+        "id": "ar-070",
+        "fr": "Il a finalement reconnu qu'il aurait dû demander de l'aide plus tôt au lieu d'essayer de résoudre seul un problème aussi complexe.",
+        "ar": "اعترف في النهاية بأنه كان ينبغي له أن يطلب المساعدة في وقت أبكر بدلًا من محاولة حل مشكلة معقدة كهذه بمفرده."
+      },{
+        "id": "ar-071",
+        "fr": "Même s'il avait déjà été averti à plusieurs reprises, il a continué à utiliser la même méthode, au risque de provoquer de nouveaux problèmes.",
+        "ar": "على الرغم من أنه تلقى تحذيرات عدة مرات، فقد واصل استخدام الطريقة نفسها، معرضًا نفسه لخطر التسبب في مشكلات جديدة."
+      },
+      {
+        "id": "ar-072",
+        "fr": "Elle a beau avoir beaucoup d'expérience, elle reconnaît volontiers qu'il existe encore des situations dans lesquelles elle hésite avant de prendre une décision.",
+        "ar": "مهما كانت خبرتها كبيرة، فإنها تعترف بكل صراحة بأنه لا تزال هناك مواقف تتردد فيها قبل اتخاذ قرار."
+      },
+      {
+        "id": "ar-073",
+        "fr": "À moins que les conditions ne changent de manière significative, nous ne pourrons probablement pas respecter le calendrier initialement prévu.",
+        "ar": "ما لم تتغير الظروف بشكل ملحوظ، فمن المحتمل أننا لن نتمكن من احترام الجدول الزمني المحدد في البداية."
+      },
+      {
+        "id": "ar-074",
+        "fr": "Ce qui l'a surtout surpris, ce n'est pas la décision elle-même, mais la manière dont elle lui a été annoncée.",
+        "ar": "ما فاجأه أكثر ليس القرار نفسه، بل الطريقة التي أُبلغ بها به."
+      },
+      {
+        "id": "ar-075",
+        "fr": "À force de vouloir tout contrôler, elle avait fini par perdre beaucoup de temps sur des détails qui n'avaient finalement que peu d'importance.",
+        "ar": "من شدة رغبتها في التحكم في كل شيء، انتهى بها الأمر إلى إضاعة الكثير من الوقت في تفاصيل لم تكن لها في النهاية سوى أهمية قليلة."
+      },
+      {
+        "id": "ar-076",
+        "fr": "Quoi qu'il en soit, nous devons maintenant trouver une solution qui puisse être appliquée sans provoquer de nouvelles difficultés.",
+        "ar": "مهما يكن الأمر، يجب علينا الآن إيجاد حل يمكن تطبيقه من دون التسبب في صعوبات جديدة."
+      },
+      {
+        "id": "ar-077",
+        "fr": "Ce n'est qu'en comparant attentivement les différentes propositions que nous avons compris laquelle répondait réellement à nos besoins.",
+        "ar": "لم نفهم أي من المقترحات يستجيب فعلًا لاحتياجاتنا إلا بعد أن قارنّا بينها بعناية."
+      },
+      {
+        "id": "ar-078",
+        "fr": "Bien qu'il ait reconnu que les critiques étaient parfois justifiées, il estimait qu'elles ne tenaient pas suffisamment compte des contraintes auxquelles son équipe était confrontée.",
+        "ar": "على الرغم من اعترافه بأن الانتقادات كانت مبررة أحيانًا، فإنه كان يرى أنها لا تأخذ بما يكفي في الاعتبار القيود التي كان فريقه يواجهها."
+      },
+      {
+        "id": "ar-079",
+        "fr": "Elle aurait préféré attendre quelques jours supplémentaires, mais la situation exigeait qu'une décision soit prise sans trop tarder.",
+        "ar": "كانت تفضل الانتظار بضعة أيام إضافية، لكن الوضع كان يتطلب اتخاذ قرار من دون تأخير كبير."
+      },
+      {
+        "id": "ar-080",
+        "fr": "Il ne s'agit pas simplement de résoudre le problème actuel, mais de mettre en place une organisation qui empêchera qu'il ne se reproduise.",
+        "ar": "لا يتعلق الأمر ببساطة بحل المشكلة الحالية، بل بوضع تنظيم يمنع تكرارها."
+      },
+      {
+        "id": "ar-081",
+        "fr": "Même si personne ne l'avait explicitement demandé, elle a pris l'initiative de vérifier les données avant que le rapport ne soit envoyé.",
+        "ar": "حتى لو لم يطلب منها أحد ذلك صراحة، بادرت إلى التحقق من البيانات قبل إرسال التقرير."
+      },
+      {
+        "id": "ar-082",
+        "fr": "Il est peu probable que la situation s'améliore tant que les principaux acteurs ne seront pas disposés à revoir leurs positions respectives.",
+        "ar": "من غير المرجح أن يتحسن الوضع ما دام الأطراف الرئيسيون غير مستعدين لإعادة النظر في مواقفهم."
+      },
+      {
+        "id": "ar-083",
+        "fr": "Elle a beau essayer de rester objective, son expérience personnelle influence forcément la manière dont elle interprète certains événements.",
+        "ar": "مهما حاولت أن تبقى موضوعية، فإن تجربتها الشخصية تؤثر حتمًا في الطريقة التي تفسر بها بعض الأحداث."
+      },
+      {
+        "id": "ar-084",
+        "fr": "Pour peu que chacun accepte de faire un effort, il devrait être possible de parvenir à un accord qui satisfasse les deux parties.",
+        "ar": "إذا بذل كل طرف جهدًا ولو قليلًا، فمن المفترض أن يكون من الممكن التوصل إلى اتفاق يرضي الطرفين."
+      },
+      {
+        "id": "ar-085",
+        "fr": "Ce qui rend cette situation particulièrement difficile, c'est que plusieurs problèmes apparemment indépendants se sont développés en même temps.",
+        "ar": "ما يجعل هذا الوضع صعبًا بشكل خاص هو أن عدة مشكلات تبدو مستقلة قد تطورت في الوقت نفسه."
+      },
+      {
+        "id": "ar-086",
+        "fr": "Après avoir examiné les différentes possibilités, nous avons conclu que la solution la moins coûteuse n'était pas nécessairement la plus avantageuse à long terme.",
+        "ar": "بعد دراسة الاحتمالات المختلفة، خلصنا إلى أن الحل الأقل تكلفة لم يكن بالضرورة الأكثر فائدة على المدى الطويل."
+      },
+      {
+        "id": "ar-087",
+        "fr": "Il aurait été plus prudent de vérifier les informations avant de les transmettre, surtout compte tenu de leur importance.",
+        "ar": "كان من الأفضل والأكثر حذرًا التحقق من المعلومات قبل نقلها، خاصة بالنظر إلى أهميتها."
+      },
+      {
+        "id": "ar-088",
+        "fr": "Elle ne voulait pas donner l'impression de remettre en question son autorité, alors qu'elle cherchait simplement à comprendre les raisons de cette décision.",
+        "ar": "لم تكن تريد أن توحي بأنها تشكك في سلطته، بينما كانت تحاول ببساطة فهم أسباب هذا القرار."
+      },
+      {
+        "id": "ar-089",
+        "fr": "À mesure que le projet avançait, il devenait évident que certaines hypothèses formulées au départ devaient être réévaluées.",
+        "ar": "كلما تقدم المشروع، أصبح من الواضح أن بعض الافتراضات التي وُضعت في البداية يجب إعادة تقييمها."
+      },
+      {
+        "id": "ar-090",
+        "fr": "Même si cette proposition semble intéressante à première vue, elle pourrait entraîner des conséquences que nous n'avons pas encore suffisamment étudiées.",
+        "ar": "حتى لو بدا هذا الاقتراح مثيرًا للاهتمام للوهلة الأولى، فقد يؤدي إلى عواقب لم ندرسها بما يكفي بعد."
+      },
+      {
+        "id": "ar-091",
+        "fr": "Il a insisté sur le fait que la réussite du projet dépendrait moins des ressources disponibles que de la manière dont elles seraient utilisées.",
+        "ar": "أصر على أن نجاح المشروع سيعتمد بدرجة أقل على الموارد المتاحة وبدرجة أكبر على الطريقة التي سيتم استخدامها بها."
+      },
+      {
+        "id": "ar-092",
+        "fr": "Elle a finalement compris que ce n'était pas le manque de temps qui l'empêchait d'avancer, mais la difficulté à déterminer quelles tâches étaient réellement prioritaires.",
+        "ar": "أدركت في النهاية أن ما كان يمنعها من التقدم لم يكن نقص الوقت، بل صعوبة تحديد المهام التي كانت ذات أولوية فعلية."
+      },
+      {
+        "id": "ar-093",
+        "fr": "À moins de revoir complètement notre stratégie, nous risquons de consacrer beaucoup d'énergie à une solution qui ne répondra pas au problème de fond.",
+        "ar": "ما لم نُعد النظر بشكل كامل في استراتيجيتنا، فإننا نخاطر بتكريس الكثير من الجهد لحل لن يعالج المشكلة الأساسية."
+      },
+      {
+        "id": "ar-094",
+        "fr": "Bien qu'elle ait été informée des risques, elle a estimé qu'ils restaient acceptables au regard des bénéfices potentiels.",
+        "ar": "على الرغم من إبلاغها بالمخاطر، فقد رأت أنها تظل مقبولة بالنظر إلى الفوائد المحتملة."
+      },
+      {
+        "id": "ar-095",
+        "fr": "Ce n'est qu'après plusieurs semaines que nous avons découvert pourquoi les résultats obtenus ne correspondaient pas aux prévisions initiales.",
+        "ar": "لم نكتشف سبب عدم توافق النتائج التي حصلنا عليها مع التوقعات الأولية إلا بعد عدة أسابيع."
+      },
+      {
+        "id": "ar-096",
+        "fr": "Il a beau connaître parfaitement le fonctionnement du système, il lui arrive encore de rencontrer des problèmes qu'il ne parvient pas à résoudre immédiatement.",
+        "ar": "على الرغم من معرفته التامة بكيفية عمل النظام، فإنه لا يزال يواجه أحيانًا مشكلات لا يستطيع حلها فورًا."
+      },
+      {
+        "id": "ar-097",
+        "fr": "Elle a préféré ne pas intervenir tant qu'elle n'était pas certaine de disposer de suffisamment d'informations pour comprendre ce qui s'était réellement passé.",
+        "ar": "فضّلت ألا تتدخل ما دامت غير متأكدة من امتلاكها معلومات كافية لفهم ما حدث فعلًا."
+      },
+      {
+        "id": "ar-098",
+        "fr": "Quelles que soient les difficultés rencontrées, l'équipe a toujours essayé de respecter les engagements pris au début du projet.",
+        "ar": "مهما كانت الصعوبات التي واجهها الفريق، فقد حاول دائمًا احترام الالتزامات التي تم التعهد بها في بداية المشروع."
+      },
+      {
+        "id": "ar-099",
+        "fr": "Il est difficile de savoir si cette décision produira les effets attendus avant d'avoir observé son fonctionnement pendant plusieurs mois.",
+        "ar": "من الصعب معرفة ما إذا كان هذا القرار سيحقق النتائج المتوقعة قبل ملاحظة كيفية عمله لعدة أشهر."
+      },
+      {
+        "id": "ar-100",
+        "fr": "Elle a expliqué que, même si le projet avait pris du retard, cela ne signifiait pas pour autant qu'il était voué à l'échec.",
+        "ar": "أوضحت أنه حتى لو تأخر المشروع، فهذا لا يعني بالضرورة أنه محكوم عليه بالفشل."
+      },
+      {
+        "id": "ar-101",
+        "fr": "Plus les discussions avançaient, plus il devenait difficile de distinguer les véritables désaccords des simples différences de formulation.",
+        "ar": "كلما تقدمت المناقشات، أصبح من الصعب التمييز بين الخلافات الحقيقية ومجرد الاختلافات في طريقة التعبير."
+      },
+      {
+        "id": "ar-102",
+        "fr": "Il a accepté de revoir sa position, à condition que les nouvelles informations apportées soient suffisamment convaincantes.",
+        "ar": "وافق على إعادة النظر في موقفه، بشرط أن تكون المعلومات الجديدة المقدمة مقنعة بما يكفي."
+      },
+      {
+        "id": "ar-103",
+        "fr": "Elle savait que certaines critiques étaient difficiles à entendre, mais elle considérait qu'elles pouvaient l'aider à améliorer son travail.",
+        "ar": "كانت تعلم أن بعض الانتقادات يصعب سماعها، لكنها كانت ترى أنها يمكن أن تساعدها على تحسين عملها."
+      },
+      {
+        "id": "ar-104",
+        "fr": "Ce qui semblait au départ être une erreur mineure s'est progressivement transformé en un problème beaucoup plus important.",
+        "ar": "ما بدا في البداية خطأً بسيطًا تحول تدريجيًا إلى مشكلة أكبر بكثير."
+      },
+      {
+        "id": "ar-105",
+        "fr": "Il aurait été préférable que nous prenions davantage de temps pour analyser les données avant de tirer une conclusion définitive.",
+        "ar": "كان من الأفضل لو أخذنا وقتًا أطول لتحليل البيانات قبل الوصول إلى استنتاج نهائي."
+      },
+      {
+        "id": "ar-106",
+        "fr": "Même si les deux propositions poursuivent le même objectif, elles reposent sur des approches suffisamment différentes pour produire des résultats très différents.",
+        "ar": "حتى لو كان الاقتراحان يسعيان إلى الهدف نفسه، فإنهما يعتمدان على نهجين مختلفين بما يكفي لإنتاج نتائج مختلفة جدًا."
+      },
+      {
+        "id": "ar-107",
+        "fr": "À force de repousser la décision, nous avons fini par nous retrouver dans une situation où aucune option ne semblait réellement satisfaisante.",
+        "ar": "من كثرة تأجيل القرار، انتهى بنا الأمر إلى وضع لم يعد فيه أي خيار يبدو مرضيًا حقًا."
+      },
+      {
+        "id": "ar-108",
+        "fr": "Il n'est pas certain que les mesures annoncées suffisent à résoudre un problème qui s'est construit progressivement au fil des années.",
+        "ar": "ليس من المؤكد أن الإجراءات المعلنة تكفي لحل مشكلة تشكلت تدريجيًا على مدى سنوات."
+      },
+      {
+        "id": "ar-109",
+        "fr": "Elle a reconnu que son premier jugement avait été trop rapide, puisqu'elle ne disposait pas encore de tous les éléments nécessaires pour se prononcer.",
+        "ar": "اعترفت بأن حكمها الأول كان متسرعًا، لأنها لم تكن تملك بعد جميع العناصر اللازمة لإبداء رأيها."
+      },
+      {
+        "id": "ar-110",
+        "fr": "Pour éviter que le même problème ne se reproduise, nous avons décidé de modifier la procédure plutôt que de chercher simplement à corriger ses conséquences.",
+        "ar": "لتجنب تكرار المشكلة نفسها، قررنا تعديل الإجراء بدلًا من الاكتفاء بمحاولة تصحيح نتائجها."
+      },
+      {
+        "id": "ar-111",
+        "fr": "Il a refusé de promettre un résultat précis, estimant qu'il serait malhonnête de garantir quelque chose qui dépendait de plusieurs facteurs indépendants de sa volonté.",
+        "ar": "رفض أن يعد بنتيجة محددة، معتبرًا أنه سيكون من غير الصادق ضمان شيء يعتمد على عدة عوامل خارجة عن إرادته."
+      },
+      {
+        "id": "ar-112",
+        "fr": "Bien qu'elle ait reçu plusieurs propositions, elle a préféré attendre avant de choisir, afin de vérifier si une possibilité plus intéressante ne se présenterait pas.",
+        "ar": "على الرغم من أنها تلقت عدة عروض، فضّلت الانتظار قبل الاختيار للتأكد مما إذا كانت فرصة أكثر إثارة للاهتمام ستظهر."
+      },
+      {
+        "id": "ar-113",
+        "fr": "Ce n'est pas tant le coût de la solution qui nous inquiète que les difficultés qu'elle pourrait créer dans les mois à venir.",
+        "ar": "ما يقلقنا ليس تكلفة الحل بقدر ما هي الصعوبات التي قد يسببها في الأشهر المقبلة."
+      },
+      {
+        "id": "ar-114",
+        "fr": "Quoi qu'en pensent certains, cette décision a été prise après une analyse approfondie des informations disponibles.",
+        "ar": "مهما كان رأي البعض، فقد اتُخذ هذا القرار بعد تحليل معمق للمعلومات المتاحة."
+      },
+      {
+        "id": "ar-115",
+        "fr": "Elle aurait aimé pouvoir répondre immédiatement, mais certaines questions nécessitaient une vérification avant qu'elle puisse donner une réponse fiable.",
+        "ar": "كانت تتمنى أن تتمكن من الإجابة فورًا، لكن بعض الأسئلة كانت تتطلب التحقق قبل أن تتمكن من تقديم إجابة موثوقة."
+      },
+      {
+        "id": "ar-116",
+        "fr": "Il devient de plus en plus difficile de maintenir cette organisation sans revoir la répartition des responsabilités au sein de l'équipe.",
+        "ar": "أصبح من الصعب أكثر فأكثر الحفاظ على هذا التنظيم من دون إعادة النظر في توزيع المسؤوليات داخل الفريق."
+      },
+      {
+        "id": "ar-117",
+        "fr": "Même lorsqu'une solution paraît évidente, il est parfois nécessaire d'examiner ses conséquences avant de la mettre en œuvre.",
+        "ar": "حتى عندما يبدو الحل واضحًا، يكون من الضروري أحيانًا دراسة عواقبه قبل تطبيقه."
+      },
+      {
+        "id": "ar-118",
+        "fr": "Elle a insisté sur le fait qu'il ne fallait pas confondre une absence de résultats immédiats avec une absence totale de progrès.",
+        "ar": "أصرت على أنه لا ينبغي الخلط بين غياب النتائج الفورية وغياب التقدم بشكل كامل."
+      },
+      {
+        "id": "ar-119",
+        "fr": "À mesure que nous obtenions de nouvelles informations, certaines conclusions que nous avions considérées comme définitives devenaient moins certaines.",
+        "ar": "كلما حصلنا على معلومات جديدة، أصبحت بعض الاستنتاجات التي اعتبرناها نهائية أقل يقينًا."
+      },
+      {
+        "id": "ar-120",
+        "fr": "Il a finalement admis qu'il avait sous-estimé le temps nécessaire pour mener correctement cette tâche à bien.",
+        "ar": "اعترف في النهاية بأنه قلل من تقدير الوقت اللازم لإنجاز هذه المهمة بشكل صحيح."
+      },
+      {
+        "id": "ar-121",
+        "fr": "Si l'objectif est réellement d'améliorer la situation, il faudra accepter de remettre en question certaines habitudes qui paraissaient pourtant bien établies.",
+        "ar": "إذا كان الهدف فعلًا هو تحسين الوضع، فسيتعين علينا قبول إعادة النظر في بعض العادات التي كانت تبدو راسخة."
+      },
+      {
+        "id": "ar-122",
+        "fr": "Elle ne contestait pas le principe de la décision, mais estimait que sa mise en œuvre aurait dû être préparée différemment.",
+        "ar": "لم تكن تعترض على مبدأ القرار، لكنها كانت ترى أن تنفيذه كان ينبغي أن يتم التحضير له بطريقة مختلفة."
+      },
+      {
+        "id": "ar-123",
+        "fr": "Bien qu'il ait tenté de rester discret, son absence prolongée avait fini par attirer l'attention de plusieurs collègues.",
+        "ar": "على الرغم من محاولته البقاء بعيدًا عن الأنظار، فإن غيابه الطويل بدأ في النهاية يلفت انتباه عدة زملاء."
+      },
+      {
+        "id": "ar-124",
+        "fr": "Il serait imprudent de prendre une décision définitive tant que toutes les informations disponibles n'ont pas été examinées.",
+        "ar": "سيكون من غير الحكمة اتخاذ قرار نهائي ما دامت جميع المعلومات المتاحة لم تُدرس بعد."
+      },
+      {
+        "id": "ar-125",
+        "fr": "Elle a compris que la difficulté ne résidait pas dans la quantité de travail, mais dans l'absence d'une méthode suffisamment claire pour l'organiser.",
+        "ar": "أدركت أن الصعوبة لا تكمن في كمية العمل، بل في غياب طريقة واضحة بما يكفي لتنظيمه."
+      },
+      {
+        "id": "ar-126",
+        "fr": "Même si nous parvenons à résoudre le problème actuel, rien ne garantit qu'une difficulté similaire ne réapparaîtra pas plus tard.",
+        "ar": "حتى لو تمكنا من حل المشكلة الحالية، فلا شيء يضمن ألا تظهر صعوبة مشابهة مرة أخرى في وقت لاحق."
+      },
+      {
+        "id": "ar-127",
+        "fr": "Il a choisi de ne pas répondre aux critiques immédiatement, préférant attendre que les esprits se calment avant de poursuivre la discussion.",
+        "ar": "اختار ألا يرد على الانتقادات فورًا، مفضلًا الانتظار حتى تهدأ الأجواء قبل مواصلة النقاش."
+      },
+      {
+        "id": "ar-128",
+        "fr": "À bien y réfléchir, la décision qui nous semblait la plus simple au départ était probablement celle qui comportait le plus de risques.",
+        "ar": "بعد التفكير في الأمر جيدًا، يبدو أن القرار الذي كان يبدو لنا الأسهل في البداية كان على الأرجح الأكثر احتواءً على المخاطر."
+      },
+      {
+        "id": "ar-129",
+        "fr": "Elle a beau disposer de toutes les informations nécessaires, elle estime qu'il serait prématuré de tirer une conclusion définitive.",
+        "ar": "على الرغم من امتلاكها جميع المعلومات اللازمة، فإنها ترى أنه من السابق لأوانه الوصول إلى استنتاج نهائي."
+      },
+      {
+        "id": "ar-130",
+        "fr": "Ce n'est qu'après avoir entendu les différents témoignages que nous avons commencé à comprendre pourquoi les versions du problème étaient si différentes.",
+        "ar": "لم نبدأ في فهم سبب اختلاف روايات المشكلة بهذا الشكل إلا بعد أن استمعنا إلى الشهادات المختلفة."
+      },
+      {
+        "id": "ar-131",
+        "fr": "Quelles que soient les intentions initiales, les décisions prises auront nécessairement des conséquences sur les personnes concernées.",
+        "ar": "مهما كانت النوايا الأولية، فإن القرارات المتخذة ستكون لها بالضرورة عواقب على الأشخاص المعنيين."
+      },
+      {
+        "id": "ar-132",
+        "fr": "Il a expliqué que l'objectif n'était pas de supprimer toutes les difficultés, ce qui serait irréaliste, mais de les rendre plus faciles à gérer.",
+        "ar": "أوضح أن الهدف لم يكن القضاء على جميع الصعوبات، وهو أمر غير واقعي، بل جعل التعامل معها أسهل."
+      },
+      {
+        "id": "ar-133",
+        "fr": "Elle aurait préféré que les changements soient annoncés plus progressivement, afin de laisser aux personnes concernées le temps de s'y adapter.",
+        "ar": "كانت تفضل لو أُعلن عن التغييرات بشكل تدريجي أكثر، حتى يتاح للأشخاص المعنيين الوقت للتكيف معها."
+      },
+      {
+        "id": "ar-134",
+        "fr": "Plus nous avancions dans l'analyse, plus nous découvrions que le problème avait des causes multiples qu'il serait impossible de traiter séparément.",
+        "ar": "كلما تقدمنا في التحليل، اكتشفنا أن المشكلة لها أسباب متعددة سيكون من المستحيل معالجتها بشكل منفصل."
+      },
+      {
+        "id": "ar-135",
+        "fr": "Il n'est pas exclu que les résultats soient meilleurs que prévu, mais il serait imprudent de compter sur cette possibilité avant d'avoir des preuves suffisantes.",
+        "ar": "ليس من المستبعد أن تكون النتائج أفضل من المتوقع، لكن سيكون من غير الحكمة الاعتماد على هذا الاحتمال قبل الحصول على أدلة كافية."
+      },
+      {
+        "id": "ar-136",
+        "fr": "Elle a reconnu que certaines décisions prises dans l'urgence pouvaient être corrigées, à condition que l'on accepte de reconnaître rapidement les erreurs commises.",
+        "ar": "اعترفت بأن بعض القرارات المتخذة على عجل يمكن تصحيحها، بشرط قبول الاعتراف بالأخطاء المرتكبة بسرعة."
+      },
+      {
+        "id": "ar-137",
+        "fr": "Même si les chiffres semblent encourageants, ils doivent être interprétés avec prudence, car ils ne reflètent qu'une partie de la réalité.",
+        "ar": "حتى لو بدت الأرقام مشجعة، يجب تفسيرها بحذر لأنها لا تعكس سوى جزء من الواقع."
+      },
+      {
+        "id": "ar-138",
+        "fr": "Il a refusé de considérer l'échec de cette tentative comme une preuve que l'ensemble du projet était irréalisable.",
+        "ar": "رفض اعتبار فشل هذه المحاولة دليلًا على أن المشروع بأكمله غير قابل للتنفيذ."
+      },
+      {
+        "id": "ar-139",
+        "fr": "Ce qui compte désormais, c'est moins de chercher à savoir qui est responsable que de comprendre comment éviter que la situation ne se reproduise.",
+        "ar": "ما يهم الآن ليس البحث عن المسؤول بقدر ما هو فهم كيفية تجنب تكرار الوضع."
+      },
+      {
+        "id": "ar-140",
+        "fr": "En définitive, nous avons compris qu'une bonne décision n'est pas nécessairement celle qui produit les meilleurs résultats immédiatement, mais celle qui reste pertinente dans la durée.",
+        "ar": "في نهاية المطاف، فهمنا أن القرار الجيد ليس بالضرورة القرار الذي يحقق أفضل النتائج فورًا، بل القرار الذي يظل مناسبًا على المدى الطويل."
+      },{
+        "id": "ar-141",
+        "fr": "Quand bien même toutes les conditions seraient réunies, il resterait à démontrer que la solution proposée peut être appliquée durablement sans produire d'effets indésirables.",
+        "ar": "حتى لو توافرت جميع الشروط، فسيظل من الضروري إثبات أن الحل المقترح يمكن تطبيقه بصورة مستدامة من دون أن يؤدي إلى آثار غير مرغوب فيها."
+      },
+      {
+        "id": "ar-142",
+        "fr": "Bien qu'elle eût anticipé plusieurs difficultés, elle n'avait pas prévu que leur enchaînement finirait par remettre en cause l'organisation initialement prévue.",
+        "ar": "على الرغم من أنها توقعت عدة صعوبات، فإنها لم تتوقع أن يؤدي تتابعها في النهاية إلى التشكيك في التنظيم الذي وُضع في البداية."
+      },
+      {
+        "id": "ar-143",
+        "fr": "Pour peu que l'on accepte d'examiner le problème sous un angle différent, certaines contradictions qui semblaient insurmontables deviennent soudainement beaucoup moins difficiles à expliquer.",
+        "ar": "إذا قبلنا النظر إلى المشكلة من زاوية مختلفة، فإن بعض التناقضات التي بدت مستعصية تصبح فجأة أقل صعوبة بكثير في تفسيرها."
+      },
+      {
+        "id": "ar-144",
+        "fr": "À supposer même que cette hypothèse soit exacte, elle ne suffirait pas à expliquer l'ensemble des phénomènes que nous avons observés.",
+        "ar": "حتى بافتراض أن هذه الفرضية صحيحة، فإنها لن تكون كافية لتفسير جميع الظواهر التي لاحظناها."
+      },
+      {
+        "id": "ar-145",
+        "fr": "Ce n'est qu'une fois l'ensemble des données confrontées les unes aux autres que nous avons pu mesurer l'ampleur réelle de l'écart entre les prévisions et les résultats.",
+        "ar": "لم نتمكن من قياس الحجم الحقيقي للفارق بين التوقعات والنتائج إلا بعد مقارنة جميع البيانات بعضها ببعض."
+      },
+      {
+        "id": "ar-146",
+        "fr": "Encore eût-il fallu que les informations dont nous disposions fussent suffisamment fiables pour que cette conclusion puisse être considérée comme définitive.",
+        "ar": "لكن كان ينبغي أولًا أن تكون المعلومات التي كانت لدينا موثوقة بما يكفي حتى يمكن اعتبار هذا الاستنتاج نهائيًا."
+      },
+      {
+        "id": "ar-147",
+        "fr": "Si tant est que l'on puisse parler d'une véritable erreur, celle-ci réside moins dans la décision elle-même que dans l'absence de mesures permettant d'en limiter les conséquences.",
+        "ar": "إذا صح أصلًا أن نتحدث عن خطأ حقيقي، فإن الخطأ يكمن بدرجة أقل في القرار نفسه وبدرجة أكبر في غياب إجراءات تحد من عواقبه."
+      },
+      {
+        "id": "ar-148",
+        "fr": "Bien lui en ait pris de vérifier une dernière fois les documents, car une incohérence à peine visible aurait pu compromettre l'ensemble de la procédure.",
+        "ar": "لقد أحسن صنعًا عندما تحقق من الوثائق مرة أخيرة، لأن تناقضًا بالكاد يُلاحظ كان يمكن أن يعرّض الإجراء بأكمله للخطر."
+      },
+      {
+        "id": "ar-149",
+        "fr": "À bien y réfléchir, ce qui paraissait être une simple question de méthode révélait en réalité une divergence beaucoup plus profonde quant aux objectifs poursuivis.",
+        "ar": "عند التفكير في الأمر جيدًا، يتضح أن ما بدا مسألة بسيطة تتعلق بالمنهج كان يكشف في الواقع عن اختلاف أعمق بكثير بشأن الأهداف المنشودة."
+      },
+      {
+        "id": "ar-150",
+        "fr": "À peine avait-elle commencé à présenter son argument que plusieurs objections, jusque-là restées implicites, furent formulées ouvertement.",
+        "ar": "ما إن بدأت عرض حجتها حتى طُرحت علنًا عدة اعتراضات كانت قد بقيت حتى ذلك الحين ضمنية."
+      },
+      {
+        "id": "ar-151",
+        "fr": "Quand bien même nous parviendrions à réduire les coûts, cela ne résoudrait pas nécessairement les difficultés liées à la qualité du service.",
+        "ar": "حتى لو تمكنا من خفض التكاليف، فلن يحل ذلك بالضرورة الصعوبات المرتبطة بجودة الخدمة."
+      },
+      {
+        "id": "ar-152",
+        "fr": "Bien qu'il eût été possible de réagir plus tôt, personne ne pouvait alors mesurer avec précision les conséquences que cette décision entraînerait.",
+        "ar": "على الرغم من أنه كان من الممكن التصرف في وقت أبكر، لم يكن أحد قادرًا آنذاك على قياس العواقب التي سيؤدي إليها هذا القرار بدقة."
+      },
+      {
+        "id": "ar-153",
+        "fr": "Pour peu que les différentes parties acceptent de renoncer à certaines exigences, un compromis durable pourrait encore être trouvé.",
+        "ar": "إذا قبلت الأطراف المختلفة التخلي عن بعض المطالب، فقد يكون من الممكن التوصل إلى حل وسط مستدام."
+      },
+      {
+        "id": "ar-154",
+        "fr": "À supposer que les résultats soient confirmés, il faudrait encore déterminer dans quelle mesure ils pourraient être généralisés à d'autres situations.",
+        "ar": "حتى بافتراض تأكيد النتائج، سيظل من الضروري تحديد مدى إمكانية تعميمها على أوضاع أخرى."
+      },
+      {
+        "id": "ar-155",
+        "fr": "Ce n'est qu'après avoir reconstitué l'ensemble de la chronologie que nous avons compris que plusieurs décisions avaient été prises simultanément sans que leurs responsables en aient pleinement conscience.",
+        "ar": "لم نفهم أن عدة قرارات اتُخذت في الوقت نفسه من دون أن يكون المسؤولون عنها مدركين تمامًا لذلك إلا بعد إعادة بناء التسلسل الزمني بأكمله."
+      },
+      {
+        "id": "ar-156",
+        "fr": "Encore eût-il fallu que chacun disposât des mêmes informations pour que les désaccords puissent être interprétés comme de véritables divergences de fond.",
+        "ar": "لكن كان ينبغي أولًا أن يمتلك الجميع المعلومات نفسها حتى يمكن تفسير الخلافات على أنها اختلافات حقيقية في الجوهر."
+      },
+      {
+        "id": "ar-157",
+        "fr": "Si tant est que cette explication soit correcte, elle soulève davantage de questions qu'elle n'en résout.",
+        "ar": "إذا كانت هذه التفسيرات صحيحة أصلًا، فإنها تثير أسئلة أكثر مما تحل من مشكلات."
+      },
+      {
+        "id": "ar-158",
+        "fr": "Bien lui en ait pris de ne pas se fier aux premières apparences, lesquelles se révélèrent trompeuses dès que de nouvelles informations furent disponibles.",
+        "ar": "لقد أحسن صنعًا عندما لم يثق بالمظاهر الأولى، التي اتضح أنها مضللة بمجرد توفر معلومات جديدة."
+      },
+      {
+        "id": "ar-159",
+        "fr": "À peine le projet avait-il été lancé que plusieurs contraintes imprévues vinrent modifier les conditions dans lesquelles il devait être réalisé.",
+        "ar": "ما إن أُطلق المشروع حتى ظهرت عدة قيود غير متوقعة غيّرت الظروف التي كان ينبغي تنفيذه فيها."
+      },
+      {
+        "id": "ar-160",
+        "fr": "Il serait pour le moins imprudent d'affirmer que cette stratégie est efficace tant que les résultats observés ne permettent pas encore de distinguer une tendance durable d'un simple effet temporaire.",
+        "ar": "سيكون من غير الحكمة، على أقل تقدير، القول إن هذه الاستراتيجية فعالة ما دامت النتائج الملحوظة لا تسمح بعد بالتمييز بين اتجاه مستدام وتأثير مؤقت فحسب."
+      },
+      {
+        "id": "ar-161",
+        "fr": "Quand bien même son intention aurait été parfaitement légitime, la manière dont la décision a été mise en œuvre n'en demeure pas moins contestable.",
+        "ar": "حتى لو كانت نيته مشروعة تمامًا، فإن الطريقة التي نُفذ بها القرار تظل مع ذلك قابلة للاعتراض."
+      },
+      {
+        "id": "ar-162",
+        "fr": "Bien qu'elle eût soigneusement préparé son intervention, elle s'est aperçue au dernier moment que certains chiffres reposaient sur des données qui n'avaient pas été actualisées.",
+        "ar": "على الرغم من أنها أعدت مداخلتها بعناية، فقد اكتشفت في اللحظة الأخيرة أن بعض الأرقام تستند إلى بيانات لم يتم تحديثها."
+      },
+      {
+        "id": "ar-163",
+        "fr": "Pour peu que l'on dépasse les apparences immédiates, on découvre que les positions des deux groupes sont en réalité moins éloignées qu'elles ne le laissent penser.",
+        "ar": "إذا تجاوزنا المظاهر المباشرة، سنكتشف أن مواقف المجموعتين في الواقع أقل اختلافًا مما توحي به."
+      },
+      {
+        "id": "ar-164",
+        "fr": "À supposer même que toutes les objections soient levées, il resterait à convaincre ceux qui ont déjà perdu confiance dans le projet.",
+        "ar": "حتى بافتراض إزالة جميع الاعتراضات، سيظل من الضروري إقناع أولئك الذين فقدوا الثقة بالفعل في المشروع."
+      },
+      {
+        "id": "ar-165",
+        "fr": "Ce n'est qu'une fois la décision annoncée que certains ont réalisé qu'ils avaient interprété les discussions préparatoires de manière excessivement optimiste.",
+        "ar": "لم يدرك بعضهم أنهم فسّروا المناقشات التحضيرية بتفاؤل مفرط إلا بعد إعلان القرار."
+      },
+      {
+        "id": "ar-166",
+        "fr": "Encore eût-il fallu que les responsables disposent du temps nécessaire pour examiner les alternatives avant de retenir celle qui paraissait la plus évidente.",
+        "ar": "لكن كان ينبغي أولًا أن يتوفر للمسؤولين الوقت اللازم لدراسة البدائل قبل اختيار البديل الذي بدا الأكثر وضوحًا."
+      },
+      {
+        "id": "ar-167",
+        "fr": "Si tant est qu'une solution définitive existe, elle ne pourra probablement être trouvée qu'en acceptant de remettre en cause plusieurs principes considérés jusqu'ici comme acquis.",
+        "ar": "إذا كان هناك حل نهائي أصلًا، فمن المرجح ألا يتم العثور عليه إلا من خلال قبول إعادة النظر في عدة مبادئ كانت تعتبر حتى الآن من المسلمات."
+      },
+      {
+        "id": "ar-168",
+        "fr": "Bien lui en ait pris de conserver une copie des anciens documents, car certaines informations qui avaient disparu des versions récentes se sont révélées indispensables.",
+        "ar": "لقد أحسن صنعًا عندما احتفظ بنسخة من الوثائق القديمة، لأن بعض المعلومات التي اختفت من الإصدارات الحديثة اتضح أنها ضرورية."
+      },
+      {
+        "id": "ar-169",
+        "fr": "À peine avait-il terminé son explication que la discussion s'est déplacée vers une question beaucoup plus fondamentale, à laquelle personne ne semblait préparé à répondre.",
+        "ar": "ما إن أنهى شرحه حتى انتقل النقاش إلى مسألة أكثر جوهرية بكثير، لم يكن يبدو أن أحدًا مستعد للإجابة عنها."
+      },
+      {
+        "id": "ar-170",
+        "fr": "À bien y réfléchir, le véritable problème n'était peut-être pas l'absence de ressources, mais la difficulté à déterminer comment les utiliser de manière cohérente.",
+        "ar": "عند التفكير في الأمر جيدًا، ربما لم تكن المشكلة الحقيقية هي غياب الموارد، بل صعوبة تحديد كيفية استخدامها بطريقة منسجمة."
+      },
+      {
+        "id": "ar-171",
+        "fr": "Quand bien même les résultats obtenus seraient meilleurs que prévu, il faudrait encore s'assurer qu'ils ne résultent pas de circonstances exceptionnelles impossibles à reproduire.",
+        "ar": "حتى لو كانت النتائج المحققة أفضل من المتوقع، فسيظل من الضروري التأكد من أنها لا تنتج عن ظروف استثنائية يستحيل تكرارها."
+      },
+      {
+        "id": "ar-172",
+        "fr": "Bien qu'elle eût accepté le principe de la réforme, elle estimait que son application précipitée risquait d'en compromettre les objectifs initiaux.",
+        "ar": "على الرغم من قبولها مبدأ الإصلاح، كانت ترى أن تطبيقه على عجل قد يهدد أهدافه الأولية."
+      },
+      {
+        "id": "ar-173",
+        "fr": "Pour peu que les responsables prennent le temps d'écouter les objections formulées sur le terrain, ils pourraient découvrir des difficultés qui ne sont pas visibles dans les rapports officiels.",
+        "ar": "إذا أخذ المسؤولون الوقت الكافي للاستماع إلى الاعتراضات المطروحة على أرض الواقع، فقد يكتشفون صعوبات لا تظهر في التقارير الرسمية."
+      },
+      {
+        "id": "ar-174",
+        "fr": "À supposer que cette mesure soit effectivement nécessaire, rien ne permet encore d'affirmer qu'elle soit la plus appropriée dans le contexte actuel.",
+        "ar": "حتى بافتراض أن هذا الإجراء ضروري فعلًا، فلا يوجد ما يسمح بعد بالقول إنه الأنسب في السياق الحالي."
+      },
+      {
+        "id": "ar-175",
+        "fr": "Ce n'est qu'en confrontant les témoignages contradictoires aux documents disponibles que l'enquête a pu établir une chronologie relativement cohérente des événements.",
+        "ar": "لم يتمكن التحقيق من وضع تسلسل زمني متماسك نسبيًا للأحداث إلا من خلال مقارنة الشهادات المتناقضة بالوثائق المتاحة."
+      },
+      {
+        "id": "ar-176",
+        "fr": "Encore eût-il fallu que les personnes chargées de l'analyse aient accès à toutes les données pertinentes, ce qui était loin d'être le cas.",
+        "ar": "لكن كان ينبغي أولًا أن يتمكن الأشخاص المكلفون بالتحليل من الوصول إلى جميع البيانات ذات الصلة، وهو ما كان بعيدًا كل البعد عن الواقع."
+      },
+      {
+        "id": "ar-177",
+        "fr": "Si tant est que l'on puisse isoler une cause unique, celle-ci ne saurait expliquer à elle seule la complexité de la situation observée.",
+        "ar": "إذا أمكن أصلًا عزل سبب واحد، فلن يكون قادرًا بمفرده على تفسير تعقيد الوضع الذي تمت ملاحظته."
+      },
+      {
+        "id": "ar-178",
+        "fr": "Bien lui en ait pris de suspendre la procédure à temps, car la poursuite des opérations dans ces conditions aurait pu entraîner des conséquences difficilement réversibles.",
+        "ar": "لقد أحسن صنعًا عندما أوقف الإجراء في الوقت المناسب، لأن مواصلة العمليات في تلك الظروف كان يمكن أن تؤدي إلى عواقب يصعب عكسها."
+      },
+      {
+        "id": "ar-179",
+        "fr": "À peine les premières mesures avaient-elles été annoncées que plusieurs organisations ont commencé à demander des précisions sur leur portée réelle.",
+        "ar": "ما إن أُعلن عن الإجراءات الأولى حتى بدأت عدة منظمات تطلب توضيحات بشأن نطاقها الحقيقي."
+      },
+      {
+        "id": "ar-180",
+        "fr": "À bien y regarder, la différence entre les deux approches tient moins aux objectifs qu'aux moyens envisagés pour les atteindre.",
+        "ar": "عند النظر إلى الأمر بعناية، يتبين أن الفرق بين النهجين يتعلق بالوسائل المقترحة لتحقيق الأهداف أكثر مما يتعلق بالأهداف نفسها."
+      },
+      {
+        "id": "ar-181",
+        "fr": "Quand bien même cette décision pourrait être défendue sur le plan théorique, sa mise en pratique soulève des difficultés qu'il serait difficile d'ignorer.",
+        "ar": "حتى لو كان من الممكن الدفاع عن هذا القرار من الناحية النظرية، فإن تطبيقه العملي يثير صعوبات سيكون من الصعب تجاهلها."
+      },
+      {
+        "id": "ar-182",
+        "fr": "Bien qu'il eût longtemps considéré cette possibilité comme improbable, il a fini par reconnaître qu'elle devait désormais être sérieusement envisagée.",
+        "ar": "على الرغم من أنه اعتبر هذا الاحتمال لفترة طويلة غير مرجح، فقد انتهى به الأمر إلى الاعتراف بأنه يجب الآن النظر فيه بجدية."
+      },
+      {
+        "id": "ar-183",
+        "fr": "Pour peu que les conditions économiques restent stables, le projet pourrait atteindre ses objectifs plus rapidement que ce que les premières estimations laissaient prévoir.",
+        "ar": "إذا بقيت الظروف الاقتصادية مستقرة، فقد يحقق المشروع أهدافه بسرعة أكبر مما كانت التقديرات الأولى توحي به."
+      },
+      {
+        "id": "ar-184",
+        "fr": "À supposer même que l'on parvienne à identifier précisément les responsables, cela ne suffirait pas à réparer les dommages déjà causés.",
+        "ar": "حتى لو تمكنا من تحديد المسؤولين بدقة، فلن يكون ذلك كافيًا لإصلاح الأضرار التي حدثت بالفعل."
+      },
+      {
+        "id": "ar-185",
+        "fr": "Ce n'est qu'une fois les premières conséquences apparues que certains ont compris à quel point les hypothèses de départ avaient été fragiles.",
+        "ar": "لم يفهم بعضهم مدى هشاشة الافتراضات الأولية إلا بعد ظهور النتائج الأولى."
+      },
+      {
+        "id": "ar-186",
+        "fr": "Encore eût-il fallu que les informations transmises fussent suffisamment précises pour permettre aux personnes concernées de prendre une décision véritablement éclairée.",
+        "ar": "لكن كان ينبغي أولًا أن تكون المعلومات المنقولة دقيقة بما يكفي لتمكين الأشخاص المعنيين من اتخاذ قرار مبني فعلًا على معرفة كافية."
+      },
+      {
+        "id": "ar-187",
+        "fr": "Si tant est que les chiffres puissent être comparés directement, l'écart observé demeure suffisamment important pour mériter une analyse approfondie.",
+        "ar": "إذا كان من الممكن أصلًا مقارنة الأرقام مباشرة، فإن الفارق الملحوظ يظل كبيرًا بما يكفي ليستحق تحليلًا معمقًا."
+      },
+      {
+        "id": "ar-188",
+        "fr": "Bien lui en ait pris de ne pas annoncer les résultats trop tôt, car plusieurs vérifications supplémentaires ont permis de corriger des erreurs qui auraient pu être embarrassantes.",
+        "ar": "لقد أحسن صنعًا عندما لم يعلن النتائج مبكرًا جدًا، لأن عدة عمليات تحقق إضافية سمحت بتصحيح أخطاء كان من الممكن أن تكون محرجة."
+      },
+      {
+        "id": "ar-189",
+        "fr": "À peine avait-elle pris connaissance des nouvelles données qu'elle a compris que l'interprétation proposée jusque-là devait être entièrement revue.",
+        "ar": "ما إن اطلعت على البيانات الجديدة حتى فهمت أن التفسير المقترح حتى ذلك الحين يجب إعادة النظر فيه بالكامل."
+      },
+      {
+        "id": "ar-190",
+        "fr": "À bien y réfléchir, l'absence de conflit apparent ne signifiait pas nécessairement qu'un véritable accord existait entre les différentes parties.",
+        "ar": "عند التفكير في الأمر جيدًا، فإن غياب الخلاف الظاهر لا يعني بالضرورة وجود اتفاق حقيقي بين الأطراف المختلفة."
+      },
+      {
+        "id": "ar-191",
+        "fr": "Quand bien même le principe serait accepté par tous, il resterait à déterminer quelles concessions chacun serait réellement disposé à faire.",
+        "ar": "حتى لو قبل الجميع المبدأ، فسيظل من الضروري تحديد التنازلات التي سيكون كل طرف مستعدًا فعلًا لتقديمها."
+      },
+      {
+        "id": "ar-192",
+        "fr": "Bien qu'elle eût initialement défendu cette approche avec conviction, elle a finalement reconnu que certaines de ses limites étaient devenues impossibles à ignorer.",
+        "ar": "على الرغم من أنها دافعت في البداية عن هذا النهج بقناعة، فقد اعترفت في النهاية بأن بعض حدوده أصبحت من المستحيل تجاهلها."
+      },
+      {
+        "id": "ar-193",
+        "fr": "Pour peu que les différents acteurs coordonnent leurs efforts, les résultats pourraient être nettement supérieurs à ceux obtenus par des initiatives isolées.",
+        "ar": "إذا نسّق مختلف الأطراف جهودهم، فقد تكون النتائج أفضل بكثير من تلك التي تحققها المبادرات المنفصلة."
+      },
+      {
+        "id": "ar-194",
+        "fr": "À supposer que les ressources nécessaires soient effectivement disponibles, leur mobilisation demanderait néanmoins une organisation suffisamment rigoureuse pour éviter leur dispersion.",
+        "ar": "حتى بافتراض توفر الموارد اللازمة فعلًا، فإن تعبئتها ستتطلب مع ذلك تنظيمًا صارمًا بما يكفي لتجنب تبديدها."
+      },
+      {
+        "id": "ar-195",
+        "fr": "Ce n'est qu'après avoir pris en compte les objections les plus sérieuses que nous avons pu défendre la proposition sans donner l'impression d'ignorer ses faiblesses.",
+        "ar": "لم نتمكن من الدفاع عن الاقتراح من دون أن نبدو وكأننا نتجاهل نقاط ضعفه إلا بعد أخذ أخطر الاعتراضات في الاعتبار."
+      },
+      {
+        "id": "ar-196",
+        "fr": "Encore eût-il fallu que les différents responsables se mettent d'accord sur les critères permettant d'évaluer objectivement les résultats obtenus.",
+        "ar": "لكن كان ينبغي أولًا أن يتفق المسؤولون المختلفون على المعايير التي تسمح بتقييم النتائج المحققة بموضوعية."
+      },
+      {
+        "id": "ar-197",
+        "fr": "Si tant est qu'une telle comparaison soit pertinente, elle montre surtout que les résultats dépendent fortement du contexte dans lequel chaque méthode est appliquée.",
+        "ar": "إذا كانت هذه المقارنة ذات صلة أصلًا، فإنها تظهر قبل كل شيء أن النتائج تعتمد بدرجة كبيرة على السياق الذي تُطبق فيه كل طريقة."
+      },
+      {
+        "id": "ar-198",
+        "fr": "Bien lui en ait pris de conserver une certaine prudence, car les informations qui semblaient définitives au début se sont révélées incomplètes quelques jours plus tard.",
+        "ar": "لقد أحسن صنعًا عندما حافظ على قدر من الحذر، لأن المعلومات التي بدت نهائية في البداية اتضح بعد بضعة أيام أنها غير مكتملة."
+      },
+      {
+        "id": "ar-199",
+        "fr": "À peine la situation semblait-elle stabilisée qu'un nouvel événement est venu rappeler que les équilibres obtenus restaient particulièrement fragiles.",
+        "ar": "ما إن بدا الوضع مستقرًا حتى جاء حدث جديد ليذكّر بأن التوازنات التي تحققت كانت لا تزال هشة للغاية."
+      },
+      {
+        "id": "ar-200",
+        "fr": "À bien y réfléchir, ce que cette expérience nous aura surtout appris, c'est qu'une solution véritablement durable suppose non seulement de traiter les conséquences visibles d'un problème, mais également de comprendre les mécanismes qui l'ont rendu possible.",
+        "ar": "عند التفكير في الأمر جيدًا، فإن أهم ما علمتنا إياه هذه التجربة هو أن الحل المستدام حقًا لا يقتصر على معالجة النتائج الظاهرة للمشكلة، بل يتطلب أيضًا فهم الآليات التي جعلت حدوثها ممكنًا."
+      }],
     "frenchturkish": [],
     "frenchhindi": [],
     "frenchrussian": [],
