@@ -349,7 +349,7 @@
         "id": "de-070",
         "de": "Obwohl niemand mit diesem Ergebnis gerechnet hatte , akzeptierten die meisten Beteiligten schließlich die Entscheidung .",
         "fr": "Bien que personne ne se soit attendu à ce résultat , la plupart des personnes concernées ont finalement accepté la décision ."
-      }, {
+      },{
         "id": "de-071",
         "de": "Obwohl die ursprüngliche Planung mehrere Schwächen aufwies , konnte das Team das Projekt stabilisieren , indem es die wichtigsten Prioritäten neu festlegte .",
         "fr": "Bien que la planification initiale ait présenté plusieurs faiblesses , l'équipe a pu stabiliser le projet en redéfinissant les priorités essentielles ."
