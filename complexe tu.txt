@@ -3992,7 +3992,1004 @@
         "tr": "Bir toplumun geleceğini şekillendiren kararların etkileri hemen görülmeyebileceğinden , bugünkü tercihler değerlendirilirken gelecek kuşakların karşılaşabileceği koşulların da hesaba katılması gerekir .",
         "it": "Poiché gli effetti delle decisioni che plasmano il futuro di una società potrebbero non essere immediatamente visibili , quando si valutano le scelte odierne bisogna tenere conto anche delle condizioni che potrebbero affrontare le generazioni future ."
       }],
-    "turkishspanish": [],
+    "turkishspanish": [  {
+        "id": "tr-001",
+        "tr": "Hava beklenenden daha soğuk olmasına rağmen , arkadaşlarımla birlikte sahilde yürüyüş yapmaya karar verdik .",
+        "es": "Aunque hacía más frío de lo esperado , decidimos dar un paseo por la playa con nuestros amigos ."
+      },
+      {
+        "id": "tr-002",
+        "tr": "Toplantıya geç kaldığım için özür diledim , ancak trafik nedeniyle zamanında gelmemin mümkün olmadığını açıkladım .",
+        "es": "Me disculpé por llegar tarde a la reunión , pero expliqué que debido al tráfico me había sido imposible llegar a tiempo ."
+      },
+      {
+        "id": "tr-003",
+        "tr": "Yeni işime alışmak biraz zaman aldı , çünkü önceki şirketimde çok farklı bir çalışma düzenine sahiptik .",
+        "es": "Tardé un poco en acostumbrarme a mi nuevo trabajo , porque en mi empresa anterior teníamos una forma de trabajar muy diferente ."
+      },
+      {
+        "id": "tr-004",
+        "tr": "Hafta sonu şehir merkezine gitmek yerine , kalabalıktan uzaklaşmak için küçük bir köye gitmeyi tercih ettik .",
+        "es": "En lugar de ir al centro de la ciudad durante el fin de semana , preferimos visitar un pequeño pueblo para alejarnos de las multitudes ."
+      },
+      {
+        "id": "tr-005",
+        "tr": "Projeyi zamanında tamamlayabilmek için herkesin sorumluluklarını dikkatlice yerine getirmesi gerekiyordu .",
+        "es": "Para poder terminar el proyecto a tiempo , todos tenían que cumplir cuidadosamente con sus responsabilidades ."
+      },
+      {
+        "id": "tr-006",
+        "tr": "Doktor bana daha fazla dinlenmemi ve birkaç gün boyunca ağır işler yapmaktan kaçınmamı tavsiye etti .",
+        "es": "El médico me recomendó descansar más y evitar realizar trabajos pesados durante unos días ."
+      },
+      {
+        "id": "tr-007",
+        "tr": "Çocuklar yağmur başlamadan önce eve dönmek istediler , fakat parkta oynarken zamanın nasıl geçtiğini fark etmediler .",
+        "es": "Los niños querían volver a casa antes de que empezara a llover , pero no se dieron cuenta de cómo pasó el tiempo mientras jugaban en el parque ."
+      },
+      {
+        "id": "tr-008",
+        "tr": "Yeni restoranın fiyatları biraz yüksek olmasına rağmen , yemeklerin kalitesinden ve hizmetten oldukça memnun kaldık .",
+        "es": "Aunque los precios del nuevo restaurante eran algo elevados , quedamos bastante satisfechos con la calidad de la comida y el servicio ."
+      },
+      {
+        "id": "tr-009",
+        "tr": "Uzun zamandır görüşmediğimiz arkadaşımızı ziyaret etmek için gelecek ay başka bir şehre gitmeyi planlıyoruz .",
+        "es": "Tenemos previsto viajar a otra ciudad el próximo mes para visitar a un amigo al que no vemos desde hace mucho tiempo ."
+      },
+      {
+        "id": "tr-010",
+        "tr": "Yöneticimiz , müşterilerin şikâyetlerini daha dikkatli dinlememiz ve sorunlara daha hızlı çözüm bulmamız gerektiğini söyledi .",
+        "es": "Nuestro gerente dijo que debíamos escuchar con más atención las quejas de los clientes y encontrar soluciones a los problemas con mayor rapidez ."
+      },
+      {
+        "id": "tr-011",
+        "tr": "Eğer hava yarın da böyle güzel olursa , ailemle birlikte şehir dışına çıkıp piknik yapacağız .",
+        "es": "Si mañana hace tan buen tiempo como hoy , saldremos de la ciudad con mi familia para hacer un pícnic ."
+      },
+      {
+        "id": "tr-012",
+        "tr": "Sınava hazırlanırken sadece kitap okumakla kalmadım , aynı zamanda önceki yıllarda sorulan soruları da çözdüm .",
+        "es": "Mientras me preparaba para el examen , no solo leí libros , sino que también resolví preguntas de años anteriores ."
+      },
+      {
+        "id": "tr-013",
+        "tr": "Yeni bilgisayarı almadan önce farklı modelleri karşılaştırdım ve kullanıcıların yorumlarını dikkatlice inceledim .",
+        "es": "Antes de comprar el nuevo ordenador , comparé diferentes modelos y estudié cuidadosamente las opiniones de los usuarios ."
+      },
+      {
+        "id": "tr-014",
+        "tr": "Toplantı beklediğimizden uzun sürdüğü için öğle yemeğimizi daha geç yemek zorunda kaldık .",
+        "es": "Como la reunión duró más de lo que esperábamos , tuvimos que almorzar más tarde ."
+      },
+      {
+        "id": "tr-015",
+        "tr": "Kardeşim üniversitede okumak istediği bölüme kabul edilince bütün aile büyük bir sevinç yaşadı .",
+        "es": "Toda la familia se alegró mucho cuando mi hermano fue admitido en la carrera que quería estudiar en la universidad ."
+      },
+      {
+        "id": "tr-016",
+        "tr": "Evden çıkmadan önce ışıkları kapattığımdan ve bütün pencereleri kilitlediğimden emin oldum .",
+        "es": "Antes de salir de casa , me aseguré de haber apagado las luces y de haber cerrado todas las ventanas ."
+      },
+      {
+        "id": "tr-017",
+        "tr": "İş arkadaşım bana yardım etmeseydi , raporu tek başıma zamanında bitirmem oldukça zor olurdu .",
+        "es": "Si mi compañero de trabajo no me hubiera ayudado , me habría resultado bastante difícil terminar el informe a tiempo por mi cuenta ."
+      },
+      {
+        "id": "tr-018",
+        "tr": "Tatilde daha fazla yer görmek istediğimiz için otelde uzun süre kalmak yerine farklı şehirlere seyahat ettik .",
+        "es": "Como queríamos conocer más lugares durante las vacaciones , viajamos a distintas ciudades en lugar de quedarnos mucho tiempo en el hotel ."
+      },
+      {
+        "id": "tr-019",
+        "tr": "Öğretmen , öğrencilerin derste daha aktif olmaları için grup çalışmasına daha fazla yer vermeye başladı .",
+        "es": "El profesor empezó a utilizar más el trabajo en grupo para que los estudiantes fueran más activos en clase ."
+      },
+      {
+        "id": "tr-020",
+        "tr": "Dün gece çok geç yattığım için bugün kendimi normalden daha yorgun hissediyorum .",
+        "es": "Hoy me siento más cansado de lo normal porque anoche me acosté muy tarde ."
+      },
+      {
+        "id": "tr-021",
+        "tr": "Yeni evimizin ulaşım açısından uygun bir yerde olması , işe gidip gelmemizi büyük ölçüde kolaylaştırdı .",
+        "es": "El hecho de que nuestra nueva casa esté bien situada en cuanto al transporte facilitó mucho nuestros desplazamientos al trabajo ."
+      },
+      {
+        "id": "tr-022",
+        "tr": "Arkadaşımın tavsiyesi üzerine bu kitabı aldım , ancak hikâyenin bu kadar ilginç olacağını beklemiyordum .",
+        "es": "Compré este libro por recomendación de mi amigo , pero no esperaba que la historia fuera tan interesante ."
+      },
+      {
+        "id": "tr-023",
+        "tr": "Şirket yeni çalışanlar için bir eğitim programı hazırladı ve programa katılımı zorunlu hale getirdi .",
+        "es": "La empresa preparó un programa de formación para los nuevos empleados y convirtió la participación en obligatoria ."
+      },
+      {
+        "id": "tr-024",
+        "tr": "Yağmur nedeniyle uçuşumuz birkaç saat ertelendiği için havaalanında uzun süre beklemek zorunda kaldık .",
+        "es": "Debido a la lluvia , nuestro vuelo se retrasó varias horas , por lo que tuvimos que esperar mucho tiempo en el aeropuerto ."
+      },
+      {
+        "id": "tr-025",
+        "tr": "İnsanlarla daha rahat iletişim kurabilmek için yabancı dil öğrenmenin çok önemli olduğunu düşünüyorum .",
+        "es": "Creo que aprender un idioma extranjero es muy importante para poder comunicarse con la gente con mayor facilidad ."
+      },
+      {
+        "id": "tr-026",
+        "tr": "Projede bazı değişiklikler yapılması gerektiğini fark edince , ekiple tekrar bir toplantı düzenledik .",
+        "es": "Cuando nos dimos cuenta de que era necesario hacer algunos cambios en el proyecto , organizamos otra reunión con el equipo ."
+      },
+      {
+        "id": "tr-027",
+        "tr": "Her ne kadar başlangıçta bu fikre karşı çıksa da , sonunda önerimizin oldukça faydalı olduğunu kabul etti .",
+        "es": "Aunque al principio se oponía a esta idea , finalmente reconoció que nuestra propuesta era bastante útil ."
+      },
+      {
+        "id": "tr-028",
+        "tr": "Çalışanların görüşlerini almak amacıyla şirket yönetimi çevrim içi bir anket hazırladı .",
+        "es": "Con el fin de conocer la opinión de los empleados , la dirección de la empresa preparó una encuesta en línea ."
+      },
+      {
+        "id": "tr-029",
+        "tr": "Akşam eve geldiğimde herkes çoktan yemek yemişti , bu yüzden kendime hızlı bir şeyler hazırladım .",
+        "es": "Cuando llegué a casa por la noche , todos ya habían cenado , así que me preparé algo rápido ."
+      },
+      {
+        "id": "tr-030",
+        "tr": "Bu işi kabul etmeden önce çalışma saatlerinin ve maaşın benim beklentilerime uygun olup olmadığını sordum .",
+        "es": "Antes de aceptar este trabajo , pregunté si el horario y el salario se ajustaban a mis expectativas ."
+      },
+      {
+        "id": "tr-031",
+        "tr": "Şehirdeki trafik son yıllarda o kadar arttı ki , insanlar işe gitmek için daha erken yola çıkmak zorunda kalıyor .",
+        "es": "El tráfico de la ciudad ha aumentado tanto en los últimos años que la gente tiene que salir más temprano para ir al trabajo ."
+      },
+      {
+        "id": "tr-032",
+        "tr": "Çocuğun söylediklerini anlamakta zorlandım , çünkü çok hızlı konuşuyor ve bazı kelimeleri yanlış telaffuz ediyordu .",
+        "es": "Me costaba entender lo que decía el niño porque hablaba muy rápido y pronunciaba mal algunas palabras ."
+      },
+      {
+        "id": "tr-033",
+        "tr": "Toplantıdan sonra yöneticimle konuşarak projeyle ilgili endişelerimi açıkça dile getirdim .",
+        "es": "Después de la reunión , hablé con mi gerente y expresé claramente mis preocupaciones sobre el proyecto ."
+      },
+      {
+        "id": "tr-034",
+        "tr": "Yeni çalışanların şirkete daha kolay uyum sağlamaları için deneyimli personelden destek almaları sağlandı .",
+        "es": "Se permitió que los nuevos empleados recibieran apoyo del personal con experiencia para adaptarse más fácilmente a la empresa ."
+      },
+      {
+        "id": "tr-035",
+        "tr": "Seyahate çıkmadan önce pasaportumun süresinin dolmak üzere olduğunu fark ettiğim için hemen yenileme başvurusu yaptım .",
+        "es": "Antes de viajar , me di cuenta de que mi pasaporte estaba a punto de caducar , así que solicité inmediatamente su renovación ."
+      },
+      {
+        "id": "tr-036",
+        "tr": "Bu mahallede yaşamak hoşuma gidiyor , çünkü hem sessiz hem de şehir merkezine ulaşım oldukça kolay .",
+        "es": "Me gusta vivir en este barrio porque es tranquilo y , al mismo tiempo , resulta bastante fácil llegar al centro de la ciudad ."
+      },
+      {
+        "id": "tr-037",
+        "tr": "Arkadaşlarım beni davet etmesine rağmen , ertesi gün erken kalkmam gerektiği için gece dışarı çıkmadım .",
+        "es": "Aunque mis amigos me invitaron , no salí por la noche porque tenía que levantarme temprano al día siguiente ."
+      },
+      {
+        "id": "tr-038",
+        "tr": "Müşteri ürünün beklediği kadar kaliteli olmadığını söyleyince , şirket ona başka bir ürün göndermeyi teklif etti .",
+        "es": "Cuando el cliente dijo que el producto no tenía la calidad que esperaba , la empresa le ofreció enviarle otro ."
+      },
+      {
+        "id": "tr-039",
+        "tr": "Çalışma ortamının daha rahat olması için ofisteki bazı mobilyaları değiştirmeye karar verdik .",
+        "es": "Decidimos cambiar algunos muebles de la oficina para que el ambiente de trabajo fuera más cómodo ."
+      },
+      {
+        "id": "tr-040",
+        "tr": "Ders sırasında telefonunu sürekli kullandığı için öğretmen öğrenciden cihazını kapatmasını istedi .",
+        "es": "Como utilizaba constantemente el teléfono durante la clase , el profesor le pidió al estudiante que apagara el dispositivo ."
+      },
+      {
+        "id": "tr-041",
+        "tr": "Bu bölgede ev kiraları son dönemde yükseldiğinden , birçok genç daha uygun fiyatlı mahallelere taşınıyor .",
+        "es": "Como los alquileres de viviendas han aumentado recientemente en esta zona , muchos jóvenes se están mudando a barrios más asequibles ."
+      },
+      {
+        "id": "tr-042",
+        "tr": "Yemeği hazırlarken tarifte yazandan biraz daha az tuz kullandım , çünkü fazla tuzlu yemeklerden hoşlanmıyorum .",
+        "es": "Al preparar la comida , utilicé un poco menos de sal de la indicada en la receta porque no me gustan los platos demasiado salados ."
+      },
+      {
+        "id": "tr-043",
+        "tr": "Şirketin yeni politikası çalışanların bir kısmı tarafından olumlu karşılanırken , diğerleri bazı değişikliklerin gereksiz olduğunu düşündü .",
+        "es": "Mientras que una parte de los empleados recibió positivamente la nueva política de la empresa , otros consideraron innecesarios algunos cambios ."
+      },
+      {
+        "id": "tr-044",
+        "tr": "Uzun bir yolculuktan sonra otele vardığımızda odanın henüz hazır olmadığını öğrendik .",
+        "es": "Cuando llegamos al hotel después de un largo viaje , descubrimos que la habitación todavía no estaba preparada ."
+      },
+      {
+        "id": "tr-045",
+        "tr": "Sorunu çözmek için birkaç yöntem denedik , fakat hiçbiri beklediğimiz sonucu vermedi .",
+        "es": "Probamos varios métodos para resolver el problema , pero ninguno dio el resultado que esperábamos ."
+      },
+      {
+        "id": "tr-046",
+        "tr": "Çocukların güvenliği için okul yönetimi giriş kapısında yeni güvenlik önlemleri almaya karar verdi .",
+        "es": "Por la seguridad de los niños , la dirección de la escuela decidió adoptar nuevas medidas de seguridad en la entrada ."
+      },
+      {
+        "id": "tr-047",
+        "tr": "İş görüşmesine hazırlanırken şirket hakkında mümkün olduğunca fazla bilgi toplamaya çalıştım .",
+        "es": "Mientras me preparaba para la entrevista de trabajo , intenté recopilar la mayor cantidad posible de información sobre la empresa ."
+      },
+      {
+        "id": "tr-048",
+        "tr": "Bu kararın sonuçlarını önceden tahmin etmek zor olduğu için yönetim daha fazla veri toplamaya karar verdi .",
+        "es": "Como era difícil prever las consecuencias de esta decisión , la dirección decidió recopilar más datos ."
+      },
+      {
+        "id": "tr-049",
+        "tr": "Kardeşim başka bir ülkede yaşamaya başladığından beri onunla internet üzerinden daha sık konuşuyoruz .",
+        "es": "Desde que mi hermano empezó a vivir en otro país , hablamos con él con más frecuencia por Internet ."
+      },
+      {
+        "id": "tr-050",
+        "tr": "Yolculuk uzun sürmesine rağmen , manzaralar çok güzel olduğu için otobüsten inmeye hiç pişman olmadık .",
+        "es": "Aunque el viaje fue largo , no nos arrepentimos en absoluto de haber tomado el autobús porque los paisajes eran muy bonitos ."
+      },
+      {
+        "id": "tr-051",
+        "tr": "Yeni sistemin nasıl çalıştığını anlamak için çalışanlara ayrıntılı bir kullanım kılavuzu dağıtıldı .",
+        "es": "Se distribuyó a los empleados un manual detallado para que entendieran cómo funcionaba el nuevo sistema ."
+      },
+      {
+        "id": "tr-052",
+        "tr": "Bütün belgeleri kontrol ettikten sonra başvuruyu gönderdim ve birkaç gün içinde cevap beklemeye başladım .",
+        "es": "Después de revisar todos los documentos , envié la solicitud y empecé a esperar una respuesta durante los días siguientes ."
+      },
+      {
+        "id": "tr-053",
+        "tr": "Arkadaşımın önerdiği filmi izledikten sonra neden bu kadar beğendiğini daha iyi anladım .",
+        "es": "Después de ver la película que me recomendó mi amigo , entendí mejor por qué le había gustado tanto ."
+      },
+      {
+        "id": "tr-054",
+        "tr": "Şehir merkezinde park yeri bulmak zor olduğu için arabayı evde bırakıp metroya binmeye karar verdim .",
+        "es": "Como es difícil encontrar aparcamiento en el centro de la ciudad , decidí dejar el coche en casa y tomar el metro ."
+      },
+      {
+        "id": "tr-055",
+        "tr": "Yeni projede görev almak istemesine rağmen , mevcut işlerinin yoğunluğu nedeniyle bunu kabul edemedi .",
+        "es": "Aunque quería participar en el nuevo proyecto , no pudo aceptarlo debido a la carga de trabajo que ya tenía ."
+      },
+      {
+        "id": "tr-056",
+        "tr": "Bu konuda farklı görüşlere sahip olsak da , ortak bir çözüm bulmak için birlikte çalışmaya devam ettik .",
+        "es": "Aunque teníamos opiniones diferentes sobre este asunto , seguimos trabajando juntos para encontrar una solución común ."
+      },
+      {
+        "id": "tr-057",
+        "tr": "Toplantıda herkes fikrini açıkça ifade etti ve sonunda çoğunluğun önerisini uygulamaya karar verdik .",
+        "es": "En la reunión , todos expresaron claramente su opinión y finalmente decidimos aplicar la propuesta de la mayoría ."
+      },
+      {
+        "id": "tr-058",
+        "tr": "Eğer gerekli belgeleri zamanında göndermezseniz , başvurunuzun değerlendirilmesi gelecek aya kadar ertelenebilir .",
+        "es": "Si no envía los documentos necesarios a tiempo , la evaluación de su solicitud podría aplazarse hasta el próximo mes ."
+      },
+      {
+        "id": "tr-059",
+        "tr": "Bu restoranın özellikle deniz ürünleriyle ünlü olduğunu duyduğumuz için akşam yemeği için buraya geldik .",
+        "es": "Vinimos aquí a cenar porque habíamos oído que este restaurante era especialmente famoso por sus mariscos ."
+      },
+      {
+        "id": "tr-060",
+        "tr": "Uzun süre bilgisayar başında çalıştığımda gözlerim yorulduğu için düzenli olarak kısa molalar vermeye çalışıyorum .",
+        "es": "Cuando trabajo mucho tiempo delante del ordenador , intento hacer pausas breves con regularidad porque se me cansan los ojos ."
+      },
+      {
+        "id": "tr-061",
+        "tr": "Yönetici , çalışanların önerilerini dikkate alarak gelecek ay yeni bir çalışma düzeni uygulayacağını açıkladı .",
+        "es": "El gerente anunció que el próximo mes aplicaría un nuevo horario de trabajo teniendo en cuenta las sugerencias de los empleados ."
+      },
+      {
+        "id": "tr-062",
+        "tr": "Arkadaşım taşınmadan önce yaşadığı evdeki eşyalarının çoğunu ihtiyaç sahibi insanlara bağışladı .",
+        "es": "Antes de mudarse , mi amigo donó la mayoría de los objetos que tenía en su antigua casa a personas necesitadas ."
+      },
+      {
+        "id": "tr-063",
+        "tr": "Bu kadar kısa sürede bu kadar çok işi tamamlamamız gerektiği için herkes normalden daha fazla çalıştı .",
+        "es": "Como teníamos que terminar tantas tareas en tan poco tiempo , todos trabajaron más de lo habitual ."
+      },
+      {
+        "id": "tr-064",
+        "tr": "Öğrencilerin sınav sonuçları beklenenden düşük çıkınca öğretmen ders programını yeniden gözden geçirdi .",
+        "es": "Cuando los resultados de los exámenes de los estudiantes fueron más bajos de lo esperado , el profesor revisó nuevamente el programa de estudios ."
+      },
+      {
+        "id": "tr-065",
+        "tr": "Bu şehirde yaşamanın en güzel taraflarından biri , farklı kültürlerden insanlarla tanışma fırsatının çok fazla olmasıdır .",
+        "es": "Una de las mejores cosas de vivir en esta ciudad es que hay muchas oportunidades de conocer a personas de diferentes culturas ."
+      },
+      {
+        "id": "tr-066",
+        "tr": "Bir karar vermeden önce bütün seçenekleri değerlendirmek gerektiğini düşündüğüm için acele etmek istemedim .",
+        "es": "Como pensaba que había que evaluar todas las opciones antes de tomar una decisión , no quise apresurarme ."
+      },
+      {
+        "id": "tr-067",
+        "tr": "Sınavdan sonra öğrencilerin çoğu sonuçların açıklanmasını sabırsızlıkla beklemeye başladı .",
+        "es": "Después del examen , la mayoría de los estudiantes empezó a esperar con impaciencia la publicación de los resultados ."
+      },
+      {
+        "id": "tr-068",
+        "tr": "Şirketin müşterilerine daha hızlı hizmet verebilmesi için çevrim içi destek sistemini geliştirmesi gerekiyor .",
+        "es": "La empresa necesita mejorar su sistema de asistencia en línea para poder atender más rápidamente a sus clientes ."
+      },
+      {
+        "id": "tr-069",
+        "tr": "Yıllardır aynı mahallede yaşamamıza rağmen , geçen hafta yakınlarımızda yeni bir kafe olduğunu fark ettik .",
+        "es": "A pesar de que llevamos años viviendo en el mismo barrio , la semana pasada descubrimos que había una cafetería nueva cerca de nosotros ."
+      },
+      {
+        "id": "tr-070",
+        "tr": "Toplantının sonunda herkes üzerinde anlaşabileceğimiz birkaç önemli noktayı belirlemeyi başardı .",
+        "es": "Al final de la reunión , todos conseguimos identificar varios puntos importantes en los que podíamos estar de acuerdo ."
+      },{
+        "id": "tr-071",
+        "tr": "Şirketin son dönemde uyguladığı tasarruf politikası bazı çalışanların tepkisine yol açsa da , yönetim bunun uzun vadede mali istikrar sağlayacağını savunuyor .",
+        "es": "Aunque la política de ahorro aplicada recientemente por la empresa ha provocado la reacción de algunos empleados , la dirección sostiene que garantizará la estabilidad financiera a largo plazo ."
+      },
+      {
+        "id": "tr-072",
+        "tr": "Kendisine yöneltilen eleştirileri kişisel bir saldırı olarak görmek yerine , bunların hangi noktalarda gelişmesi gerektiğini anlamasına yardımcı olabileceğini düşünüyordu .",
+        "es": "En lugar de considerar las críticas dirigidas contra él como un ataque personal , pensaba que podían ayudarle a comprender en qué aspectos debía mejorar ."
+      },
+      {
+        "id": "tr-073",
+        "tr": "Projenin ilk aşamasında öngörülemeyen bazı sorunlar ortaya çıktığından , teslim tarihini değiştirmeden önce bütün alternatifleri değerlendirmemiz gerekti .",
+        "es": "Como surgieron algunos problemas imprevistos durante la primera fase del proyecto , tuvimos que evaluar todas las alternativas antes de modificar la fecha de entrega ."
+      },
+      {
+        "id": "tr-074",
+        "tr": "Toplumun farklı kesimlerinden gelen insanların aynı meseleye farklı açılardan yaklaşması , konunun neden bu kadar tartışmalı olduğunu kısmen açıklıyor .",
+        "es": "El hecho de que personas de distintos sectores de la sociedad aborden el mismo asunto desde perspectivas diferentes explica en parte por qué el tema es tan controvertido ."
+      },
+      {
+        "id": "tr-075",
+        "tr": "Yönetim kurulunun aldığı karar , çalışanların beklentileriyle tamamen örtüşmese de , şirketin mevcut koşullar altında başka bir seçeneğinin bulunmadığı ileri sürüldü .",
+        "es": "Aunque la decisión adoptada por el consejo de administración no coincidía plenamente con las expectativas de los empleados , se argumentó que la empresa no tenía otra opción dadas las circunstancias actuales ."
+      },
+      {
+        "id": "tr-076",
+        "tr": "Uzmanlar ekonomik göstergelerdeki iyileşmenin kalıcı olup olmadığını anlamak için birkaç ay daha veri toplanması gerektiğini belirtiyor .",
+        "es": "Los expertos señalan que será necesario recopilar datos durante varios meses más para determinar si la mejora de los indicadores económicos es duradera ."
+      },
+      {
+        "id": "tr-077",
+        "tr": "İnsanların sosyal medyada karşılaştıkları bilgileri doğrulamadan paylaşmaları , yanlış bilgilerin kısa sürede geniş kitlelere ulaşmasına neden olabiliyor .",
+        "es": "El hecho de que la gente comparta en las redes sociales información que no ha verificado puede hacer que los datos falsos lleguen rápidamente a grandes audiencias ."
+      },
+      {
+        "id": "tr-078",
+        "tr": "Yeni düzenleme yürürlüğe girmeden önce işletmelerin sistemlerini buna uyarlayabilmeleri için yeterli zaman tanınması gerektiğini düşünüyorum .",
+        "es": "Creo que debería darse a las empresas tiempo suficiente para adaptar sus sistemas antes de que entre en vigor la nueva normativa ."
+      },
+      {
+        "id": "tr-079",
+        "tr": "İlk başta oldukça karmaşık görünen bu süreç , gerekli belgelerin nasıl hazırlanacağı açıklandıktan sonra çalışanlar tarafından daha kolay anlaşılmaya başlandı .",
+        "es": "Este proceso , que al principio parecía bastante complejo , empezó a ser entendido con mayor facilidad por los empleados una vez que se explicó cómo preparar los documentos necesarios ."
+      },
+      {
+        "id": "tr-080",
+        "tr": "Projeye ayrılan bütçenin beklenenden düşük olması , ekibin bazı önceliklerini yeniden belirlemesini zorunlu kıldı .",
+        "es": "El hecho de que el presupuesto asignado al proyecto fuera inferior al previsto obligó al equipo a redefinir algunas de sus prioridades ."
+      },
+      {
+        "id": "tr-081",
+        "tr": "Her ne kadar sonuçlar ilk bakışta olumlu görünse de , araştırmacılar elde edilen verilerin dikkatli yorumlanması gerektiği konusunda uyarıyor .",
+        "es": "Aunque los resultados parecen positivos a primera vista , los investigadores advierten que los datos obtenidos deben interpretarse con cautela ."
+      },
+      {
+        "id": "tr-082",
+        "tr": "Çalışanların önemli bir bölümünün uzaktan çalışmayı tercih etmesi , şirketin ofis kullanımına ilişkin politikasını yeniden değerlendirmesine neden oldu .",
+        "es": "El hecho de que una parte importante de los empleados prefiera trabajar a distancia llevó a la empresa a reconsiderar su política sobre el uso de las oficinas ."
+      },
+      {
+        "id": "tr-083",
+        "tr": "Kararın kamuoyunda nasıl karşılanacağını öngörmek zor olduğundan , yetkililer açıklamayı birkaç aşamada yapmayı tercih etti .",
+        "es": "Como era difícil prever cómo recibiría la opinión pública la decisión , las autoridades optaron por hacer el anuncio en varias etapas ."
+      },
+      {
+        "id": "tr-084",
+        "tr": "Toplantıda ortaya çıkan görüş ayrılıkları , tarafların aynı hedefi paylaşmalarına rağmen yönteme ilişkin beklentilerinin oldukça farklı olduğunu gösterdi .",
+        "es": "Las diferencias de opinión surgidas durante la reunión demostraron que , aunque las partes compartían el mismo objetivo , sus expectativas respecto al método eran bastante diferentes ."
+      },
+      {
+        "id": "tr-085",
+        "tr": "Bir ürünün yalnızca ucuz olması , tüketiciler açısından mutlaka daha iyi bir seçenek olduğu anlamına gelmez ; kalite ve dayanıklılık da dikkate alınmalıdır .",
+        "es": "Que un producto sea barato no significa necesariamente que sea una mejor opción para los consumidores ; también deben tenerse en cuenta la calidad y la durabilidad ."
+      },
+      {
+        "id": "tr-086",
+        "tr": "Uzun süredir üzerinde çalıştığımız raporun tamamlanması , elde edilen bulguların farklı ekipler tarafından tekrar kontrol edilmesine bağlıydı .",
+        "es": "La finalización del informe en el que llevábamos trabajando mucho tiempo dependía de que los resultados fueran revisados nuevamente por distintos equipos ."
+      },
+      {
+        "id": "tr-087",
+        "tr": "Şirketin büyüme hedeflerine ulaşabilmesi için yalnızca yeni müşteriler kazanması değil , mevcut müşterilerle ilişkilerini de güçlendirmesi gerekiyor .",
+        "es": "Para que la empresa alcance sus objetivos de crecimiento , no solo necesita conseguir nuevos clientes , sino también fortalecer sus relaciones con los actuales ."
+      },
+      {
+        "id": "tr-088",
+        "tr": "İnsanların yoğun çalışma temposuna rağmen aileleriyle yeterince zaman geçirebilmeleri için esnek çalışma modellerinin yaygınlaştırılması öneriliyor .",
+        "es": "Se recomienda ampliar los modelos de trabajo flexible para que las personas puedan pasar suficiente tiempo con sus familias a pesar del intenso ritmo laboral ."
+      },
+      {
+        "id": "tr-089",
+        "tr": "Toplumun bu konuya ilişkin beklentileri zaman içinde değiştiğinden , eski politikaların bugün aynı sonucu vermesi beklenemez .",
+        "es": "Dado que las expectativas de la sociedad respecto a este asunto han cambiado con el tiempo , no puede esperarse que las antiguas políticas produzcan hoy el mismo resultado ."
+      },
+      {
+        "id": "tr-090",
+        "tr": "Yaptığımız görüşmeler sonucunda , sorunun düşündüğümüzden daha kapsamlı olduğu ve tek bir çözümle ortadan kaldırılamayacağı ortaya çıktı .",
+        "es": "Como resultado de las conversaciones que mantuvimos , quedó claro que el problema era más amplio de lo que pensábamos y que no podía resolverse con una sola medida ."
+      },
+      {
+        "id": "tr-091",
+        "tr": "Bir kararın kısa vadede olumlu sonuç vermesi , uzun vadede aynı ölçüde başarılı olacağı anlamına gelmediğinden , sonuçların düzenli olarak izlenmesi gerekiyor .",
+        "es": "Que una decisión produzca resultados positivos a corto plazo no significa que vaya a ser igualmente eficaz a largo plazo , por lo que es necesario supervisar los resultados de forma periódica ."
+      },
+      {
+        "id": "tr-092",
+        "tr": "Yöneticinin çalışanlara karşı açık ve tutarlı bir iletişim kurması , belirsizlik dönemlerinde ekip içindeki güvenin korunmasına önemli ölçüde katkıda bulundu .",
+        "es": "El hecho de que el gerente mantuviera una comunicación abierta y coherente con los empleados contribuyó considerablemente a preservar la confianza dentro del equipo durante un periodo de incertidumbre ."
+      },
+      {
+        "id": "tr-093",
+        "tr": "Kent merkezindeki nüfus yoğunluğu arttıkça , belediyenin ulaşım altyapısına ilişkin uzun vadeli planlarını yeniden ele alması kaçınılmaz hale geldi .",
+        "es": "A medida que aumentaba la densidad de población en el centro urbano , se volvió inevitable que el ayuntamiento revisara sus planes a largo plazo para la infraestructura de transporte ."
+      },
+      {
+        "id": "tr-094",
+        "tr": "Araştırmanın sonuçları dikkat çekici olsa da , örneklemin sınırlı olması nedeniyle bunların bütün topluma genellenmesi doğru olmayabilir .",
+        "es": "Aunque los resultados de la investigación son llamativos , puede que no sea correcto generalizarlos a toda la sociedad debido al tamaño limitado de la muestra ."
+      },
+      {
+        "id": "tr-095",
+        "tr": "İş arkadaşları arasındaki küçük anlaşmazlıkların zamanında çözülmemesi , ilerleyen dönemlerde daha ciddi iletişim sorunlarına dönüşebilir .",
+        "es": "Si los pequeños desacuerdos entre compañeros de trabajo no se resuelven a tiempo , pueden convertirse en problemas de comunicación más graves con el paso del tiempo ."
+      },
+      {
+        "id": "tr-096",
+        "tr": "Yeni yatırım kararını verirken yalnızca beklenen kazancı değil , ekonomik koşulların değişmesi halinde ortaya çıkabilecek riskleri de hesaba kattık .",
+        "es": "Al tomar la decisión sobre la nueva inversión , tuvimos en cuenta no solo los beneficios esperados , sino también los riesgos que podrían surgir si cambiaran las condiciones económicas ."
+      },
+      {
+        "id": "tr-097",
+        "tr": "Birçok kişinin bu uygulamayı kullanmayı bırakmasının temel nedenlerinden biri , güncellemelerin kullanıcıların ihtiyaçlarına yeterince cevap vermemesiydi .",
+        "es": "Una de las principales razones por las que muchas personas dejaron de utilizar esta aplicación fue que las actualizaciones no respondían suficientemente a las necesidades de los usuarios ."
+      },
+      {
+        "id": "tr-098",
+        "tr": "Toplantının başında herkesin üzerinde uzlaştığı noktalar belirlenmiş olsaydı , tartışmanın bu kadar uzun sürmesi muhtemelen önlenebilirdi .",
+        "es": "Si al principio de la reunión se hubieran establecido los puntos en los que todos estaban de acuerdo , probablemente se habría evitado que el debate durara tanto ."
+      },
+      {
+        "id": "tr-099",
+        "tr": "Çevre sorunlarının yalnızca bireysel davranışlarla çözülebileceğini düşünmek , hükümetlerin ve şirketlerin sorumluluğunu göz ardı etmek anlamına gelir .",
+        "es": "Pensar que los problemas medioambientales pueden resolverse únicamente mediante comportamientos individuales significa ignorar la responsabilidad de los gobiernos y las empresas ."
+      },
+      {
+        "id": "tr-100",
+        "tr": "Çalışanların farklı şehirlerden görevlerini yerine getirebilmesi , şirketin yetenekli personel bulma konusunda daha geniş bir alana ulaşmasını sağladı .",
+        "es": "El hecho de que los empleados pudieran desempeñar sus funciones desde distintas ciudades permitió a la empresa acceder a un ámbito más amplio a la hora de encontrar personal cualificado ."
+      },
+      {
+        "id": "tr-101",
+        "tr": "Yönetim , maliyetleri azaltmak amacıyla bazı hizmetleri dışarıdan satın almayı değerlendirirken çalışanların olası sonuçlar konusunda bilgilendirilmesini istedi .",
+        "es": "La dirección pidió que se informara a los empleados sobre las posibles consecuencias mientras evaluaba la contratación externa de algunos servicios para reducir costes ."
+      },
+      {
+        "id": "tr-102",
+        "tr": "Bir toplumda eğitim seviyesinin yükselmesi , insanların ekonomik fırsatlara daha kolay erişebileceği anlamına gelmese de bu erişimi önemli ölçüde etkileyebilir .",
+        "es": "Aunque un mayor nivel educativo en una sociedad no significa necesariamente que las personas tengan un acceso más fácil a las oportunidades económicas , puede influir considerablemente en dicho acceso ."
+      },
+      {
+        "id": "tr-103",
+        "tr": "Uzmanların farklı sonuçlara ulaşmasının nedeni , aynı verileri farklı varsayımlar ve yöntemler kullanarak değerlendirmeleri olabilir .",
+        "es": "La razón por la que los expertos llegan a conclusiones diferentes puede ser que evalúan los mismos datos utilizando supuestos y métodos distintos ."
+      },
+      {
+        "id": "tr-104",
+        "tr": "Şirketin yeni pazara girmeden önce bölgedeki tüketici alışkanlıklarını ayrıntılı biçimde araştırmış olması , ilk satışların beklentilerin üzerinde gerçekleşmesini sağladı .",
+        "es": "El hecho de que la empresa hubiera estudiado detalladamente los hábitos de los consumidores de la región antes de entrar en el nuevo mercado permitió que las primeras ventas superaran las expectativas ."
+      },
+      {
+        "id": "tr-105",
+        "tr": "Günlük yaşamda karşılaştığımız küçük sorunların çoğu , doğru iletişim kurulduğunda gereksiz bir çatışmaya dönüşmeden çözülebilir .",
+        "es": "La mayoría de los pequeños problemas que encontramos en la vida cotidiana pueden resolverse sin convertirse en conflictos innecesarios cuando existe una comunicación adecuada ."
+      },
+      {
+        "id": "tr-106",
+        "tr": "Yeni düzenlemenin işletmeler üzerindeki etkisi , sektörlerin büyüklüğüne ve mevcut ekonomik koşullara bağlı olarak değişebilir .",
+        "es": "El impacto de la nueva normativa sobre las empresas puede variar en función del tamaño de los sectores y de las condiciones económicas existentes ."
+      },
+      {
+        "id": "tr-107",
+        "tr": "Çalışanların toplantılarda fikirlerini özgürce ifade edebilmeleri , yöneticilerin karar verirken farklı bakış açılarını dikkate almasına yardımcı oluyor .",
+        "es": "El hecho de que los empleados puedan expresar libremente sus opiniones en las reuniones ayuda a los directivos a tener en cuenta diferentes perspectivas al tomar decisiones ."
+      },
+      {
+        "id": "tr-108",
+        "tr": "Kısa vadeli ekonomik kazanç uğruna doğal kaynakların aşırı kullanılması , gelecekte çok daha yüksek maliyetlerle karşılaşılmasına neden olabilir .",
+        "es": "La explotación excesiva de los recursos naturales en busca de beneficios económicos a corto plazo puede provocar costes mucho mayores en el futuro ."
+      },
+      {
+        "id": "tr-109",
+        "tr": "İnsanların farklı kültürlerden gelen kişilerle daha sık etkileşim kurması , önyargıların azalmasına katkıda bulunabilecek önemli bir deneyimdir .",
+        "es": "El contacto más frecuente de las personas con individuos de diferentes culturas es una experiencia importante que puede contribuir a reducir los prejuicios ."
+      },
+      {
+        "id": "tr-110",
+        "tr": "Bu kararın uygulanmasından önce ilgili taraflarla yeterince görüşülmemiş olması , daha sonra ortaya çıkan bazı itirazların temel nedenlerinden biriydi .",
+        "es": "El hecho de que no se hubiera consultado suficientemente a las partes interesadas antes de aplicar esta decisión fue una de las principales causas de algunas de las objeciones que surgieron posteriormente ."
+      },
+      {
+        "id": "tr-111",
+        "tr": "Ekonomik belirsizliğin arttığı dönemlerde insanların harcamalarını azaltması , işletmelerin satışlarının beklenenden daha fazla düşmesine yol açabiliyor .",
+        "es": "En periodos de creciente incertidumbre económica , la reducción del gasto de los consumidores puede provocar que las ventas de las empresas caigan más de lo previsto ."
+      },
+      {
+        "id": "tr-112",
+        "tr": "Bir projenin başarılı olması , yalnızca iyi bir fikirle değil , bu fikrin uygulanmasını sağlayacak kaynakların ve deneyimli bir ekibin bulunmasıyla da ilgilidir .",
+        "es": "El éxito de un proyecto no depende únicamente de tener una buena idea , sino también de disponer de los recursos y del equipo experimentado necesarios para llevarla a cabo ."
+      },
+      {
+        "id": "tr-113",
+        "tr": "İş yükünün sürekli artmasına rağmen personel sayısının değiştirilmemesi , çalışanların motivasyonunun zamanla azalmasına neden oldu .",
+        "es": "El hecho de que el número de empleados no cambiara a pesar del aumento constante de la carga de trabajo provocó que la motivación del personal disminuyera con el tiempo ."
+      },
+      {
+        "id": "tr-114",
+        "tr": "Toplantıda herkesin aynı fikirde olması her zaman olumlu bir durum değildir ; bazen farklı görüşlerin ortaya çıkması daha sağlıklı kararlar alınmasını sağlar .",
+        "es": "Que todos estén de acuerdo en una reunión no siempre es algo positivo ; a veces , la aparición de opiniones diferentes permite tomar decisiones más equilibradas ."
+      },
+      {
+        "id": "tr-115",
+        "tr": "Yaptığı hatayı kabul etmekte zorlanmasına rağmen , sonunda sorunun ortaya çıkmasında kendi payının bulunduğunu açıkça ifade etti .",
+        "es": "Aunque le costaba admitir el error que había cometido , finalmente reconoció claramente que también tenía parte de responsabilidad en la aparición del problema ."
+      },
+      {
+        "id": "tr-116",
+        "tr": "Şirketin müşteri hizmetlerini geliştirmek için yaptığı yatırım , çalışanların yeni sistemi benimsemesiyle birlikte kısa sürede olumlu sonuçlar vermeye başladı .",
+        "es": "La inversión de la empresa para mejorar el servicio al cliente empezó a dar resultados positivos en poco tiempo , una vez que los empleados adoptaron el nuevo sistema ."
+      },
+      {
+        "id": "tr-117",
+        "tr": "İnsanların çalışma hayatında karşılaştıkları sorunları yalnızca bireysel başarısızlıklarla açıklamak , ekonomik ve sosyal koşulların etkisini küçümsemek olur .",
+        "es": "Explicar los problemas que las personas encuentran en la vida laboral únicamente como fracasos individuales supondría subestimar la influencia de las condiciones económicas y sociales ."
+      },
+      {
+        "id": "tr-118",
+        "tr": "Uzun vadeli bir plan hazırlanırken bugün karşılaşılan sorunların yanı sıra gelecekte ortaya çıkabilecek değişikliklerin de hesaba katılması gerekiyor .",
+        "es": "Al elaborar un plan a largo plazo , es necesario tener en cuenta no solo los problemas actuales , sino también los cambios que podrían surgir en el futuro ."
+      },
+      {
+        "id": "tr-119",
+        "tr": "Yetkililer , yeni ulaşım projesinin bölgedeki trafik yoğunluğunu azaltacağını umuyor , ancak bazı uzmanlar bunun tek başına yeterli olmayacağını düşünüyor .",
+        "es": "Las autoridades esperan que el nuevo proyecto de transporte reduzca la congestión de la zona , pero algunos expertos consideran que por sí solo no será suficiente ."
+      },
+      {
+        "id": "tr-120",
+        "tr": "Çocukların eğitiminde teknolojiden yararlanmak faydalı olabilir , ancak bunun geleneksel öğretim yöntemlerinin tamamen yerini alması gerektiğini düşünmüyorum .",
+        "es": "El uso de la tecnología en la educación de los niños puede ser beneficioso , pero no creo que deba sustituir por completo a los métodos tradicionales de enseñanza ."
+      },
+      {
+        "id": "tr-121",
+        "tr": "Şirketin başarısının arkasında yalnızca yöneticilerin aldığı kararlar değil , çalışanların yıllar boyunca oluşturduğu deneyim ve kurum kültürü de bulunuyor .",
+        "es": "Detrás del éxito de la empresa no solo están las decisiones tomadas por los directivos , sino también la experiencia acumulada por los empleados durante años y la cultura corporativa ."
+      },
+      {
+        "id": "tr-122",
+        "tr": "Bir ülkenin ekonomik büyümesinin toplumun bütün kesimlerine aynı ölçüde yansımaması , büyümenin niteliği konusunda yeni sorular ortaya çıkarıyor .",
+        "es": "El hecho de que el crecimiento económico de un país no se refleje por igual en todos los sectores de la sociedad plantea nuevas preguntas sobre la naturaleza de dicho crecimiento ."
+      },
+      {
+        "id": "tr-123",
+        "tr": "Proje ekibi , ilk planın beklenen sonuçları vermeyeceğini fark edince kaynakları tamamen farklı bir yönteme yönlendirmeye karar verdi .",
+        "es": "Cuando el equipo del proyecto se dio cuenta de que el plan inicial no produciría los resultados esperados , decidió destinar los recursos a un método completamente diferente ."
+      },
+      {
+        "id": "tr-124",
+        "tr": "Bir konuda hızlı karar almak gerektiğinde bile , kararın başkaları üzerindeki muhtemel sonuçlarını göz önünde bulundurmak önemlidir .",
+        "es": "Incluso cuando es necesario tomar una decisión rápidamente , es importante tener en cuenta sus posibles consecuencias para los demás ."
+      },
+      {
+        "id": "tr-125",
+        "tr": "İşletmelerin dijital teknolojilere yatırım yapması verimliliği artırabilir , ancak çalışanların bu teknolojileri kullanabilecek şekilde eğitilmesi de aynı derecede önemlidir .",
+        "es": "La inversión de las empresas en tecnologías digitales puede aumentar la productividad , pero formar a los empleados para utilizarlas adecuadamente es igualmente importante ."
+      },
+      {
+        "id": "tr-126",
+        "tr": "Sosyal ilişkilerde güvenin bir kez ciddi biçimde zarar görmesi , tarafların eski iletişim biçimine dönmesini oldukça zorlaştırabilir .",
+        "es": "Cuando la confianza se daña gravemente en una relación social , puede resultar muy difícil que las partes vuelvan a comunicarse como antes ."
+      },
+      {
+        "id": "tr-127",
+        "tr": "Toplantıya katılanların çoğu öneriyi desteklese de , uygulamanın maliyeti konusunda ortaya çıkan endişeler kararın ertelenmesine yol açtı .",
+        "es": "Aunque la mayoría de los participantes apoyaba la propuesta , las preocupaciones sobre el coste de su aplicación hicieron que la decisión se aplazara ."
+      },
+      {
+        "id": "tr-128",
+        "tr": "Bir şehrin yalnızca ekonomik açıdan büyümesi yeterli değildir ; insanların güvenli , sağlıklı ve sürdürülebilir bir ortamda yaşayabilmesi de gerekir .",
+        "es": "No basta con que una ciudad crezca únicamente desde el punto de vista económico ; las personas también deben poder vivir en un entorno seguro , saludable y sostenible ."
+      },
+      {
+        "id": "tr-129",
+        "tr": "Yıllardır aynı yöntemle çalışıldığı için sistemin eksiklikleri zamanla normal kabul edilmiş ve kimse bunları değiştirmeyi ciddi biçimde düşünmemişti .",
+        "es": "Como se llevaba años trabajando con el mismo método , las deficiencias del sistema se habían aceptado como normales y nadie había pensado seriamente en cambiarlas ."
+      },
+      {
+        "id": "tr-130",
+        "tr": "Yeni çalışanların deneyimli meslektaşlarıyla birlikte çalışması , yalnızca teknik bilgilerini geliştirmelerine değil , kurumun çalışma kültürünü anlamalarına da yardımcı oldu .",
+        "es": "Trabajar junto a colegas con experiencia ayudó a los nuevos empleados no solo a mejorar sus conocimientos técnicos , sino también a comprender la cultura laboral de la organización ."
+      },
+      {
+        "id": "tr-131",
+        "tr": "Araştırmacılar , elde ettikleri sonuçların daha geniş bir örneklem üzerinde test edilmeden kesin bir sonuca varmak için yeterli olmadığını belirtti .",
+        "es": "Los investigadores señalaron que los resultados obtenidos no eran suficientes para llegar a una conclusión definitiva sin probarlos en una muestra más amplia ."
+      },
+      {
+        "id": "tr-132",
+        "tr": "Ekibin farklı üyelerinin birbirinden bağımsız çalışması başlangıçta verimli görünse de , zamanla bilgi paylaşımı konusunda ciddi sorunlar ortaya çıktı .",
+        "es": "Aunque al principio parecía eficiente que los distintos miembros del equipo trabajaran de forma independiente , con el tiempo surgieron graves problemas de intercambio de información ."
+      },
+      {
+        "id": "tr-133",
+        "tr": "Bir şirketin müşterilerine verdiği sözleri yerine getirmesi , kısa vadeli satışlardan daha değerli olan uzun vadeli bir güven ilişkisi oluşturabilir .",
+        "es": "Que una empresa cumpla las promesas que hace a sus clientes puede crear una relación de confianza a largo plazo , más valiosa que las ventas inmediatas ."
+      },
+      {
+        "id": "tr-134",
+        "tr": "Hükümetin açıkladığı yeni önlemlerin etkili olabilmesi için yalnızca yasal düzenlemelerin yapılması değil , uygulamanın da düzenli biçimde denetlenmesi gerekiyor .",
+        "es": "Para que las nuevas medidas anunciadas por el Gobierno sean eficaces , no basta con aprobar las normas legales ; también es necesario supervisar regularmente su aplicación ."
+      },
+      {
+        "id": "tr-135",
+        "tr": "Kendisinden beklenen performansı gösterememesinin nedenlerini anlamaya çalışırken , iş yükünün yanı sıra çalışma ortamının da etkili olduğunu fark etti .",
+        "es": "Al intentar comprender por qué no alcanzaba el rendimiento esperado , se dio cuenta de que , además de la carga de trabajo , también influía el entorno laboral ."
+      },
+      {
+        "id": "tr-136",
+        "tr": "İnsanların farklı görüşlere sahip olması kaçınılmaz olsa da , bu farklılıkların karşılıklı saygı çerçevesinde ifade edilmesi toplumsal ilişkiler açısından büyük önem taşıyor .",
+        "es": "Aunque es inevitable que las personas tengan opiniones diferentes , expresar esas diferencias dentro de un marco de respeto mutuo es fundamental para las relaciones sociales ."
+      },
+      {
+        "id": "tr-137",
+        "tr": "Şirketin yeni pazarda beklediği ilgiyi görememesi üzerine yöneticiler , ürünün kendisinden çok tanıtım stratejisinin gözden geçirilmesi gerektiğine karar verdi .",
+        "es": "Después de que la empresa no obtuviera el interés esperado en el nuevo mercado , los directivos decidieron que debía revisarse más la estrategia de promoción que el propio producto ."
+      },
+      {
+        "id": "tr-138",
+        "tr": "Bir sorunun çözümünü yalnızca ilk ortaya çıktığı anda aramak yerine , sorunun hangi koşullar altında tekrarlandığını incelemek daha kalıcı sonuçlar sağlayabilir .",
+        "es": "En lugar de buscar una solución únicamente cuando surge un problema , analizar en qué circunstancias vuelve a producirse puede generar resultados más duraderos ."
+      },
+      {
+        "id": "tr-139",
+        "tr": "İş dünyasında başarılı olmak için teknik bilgi önemli olsa da , değişen koşullara uyum sağlama ve insanlarla etkili iletişim kurma becerileri de belirleyici olabilir .",
+        "es": "Aunque los conocimientos técnicos son importantes para tener éxito en el mundo laboral , la capacidad de adaptarse a las circunstancias cambiantes y comunicarse eficazmente con los demás también puede ser decisiva ."
+      },
+      {
+        "id": "tr-140",
+        "tr": "Toplumun geleceğine ilişkin kararlar alınırken yalnızca bugünkü ihtiyaçların değil , henüz ortaya çıkmamış kuşakların olası ihtiyaçlarının da düşünülmesi gerekir .",
+        "es": "Al tomar decisiones sobre el futuro de la sociedad , deben tenerse en cuenta no solo las necesidades actuales , sino también las posibles necesidades de las generaciones que aún no han llegado ."
+      },{
+        "id": "tr-141",
+        "tr": "Bir politikanın kısa vadede ölçülebilir sonuçlar üretmesi , onun uzun vadeli toplumsal etkilerinin de aynı doğrultuda olacağını varsaymamız için tek başına yeterli değildir .",
+        "es": "El hecho de que una política produzca resultados cuantificables a corto plazo no basta , por sí solo , para suponer que sus efectos sociales a largo plazo seguirán la misma dirección ."
+      },
+      {
+        "id": "tr-142",
+        "tr": "Kamuoyunda giderek güçlenen beklentilere rağmen hükümetin reformu ertelemesi , karar vericilerin ekonomik belirsizliğin yaratabileceği sonuçlardan çekindikleri şeklinde yorumlandı .",
+        "es": "A pesar de las expectativas cada vez más fuertes de la opinión pública , el aplazamiento de la reforma por parte del Gobierno se interpretó como una señal de que los responsables temían las consecuencias de la incertidumbre económica ."
+      },
+      {
+        "id": "tr-143",
+        "tr": "Bir kurumun yıllar içinde geliştirdiği çalışma kültürünü değiştirmek , yalnızca yeni kurallar koymayı değil , bu kuralların dayandığı alışkanlıkların ve beklentilerin de dönüşmesini gerektirir .",
+        "es": "Transformar la cultura de trabajo que una institución ha desarrollado a lo largo de los años no exige únicamente establecer nuevas reglas , sino también modificar los hábitos y expectativas en los que estas se sustentan ."
+      },
+      {
+        "id": "tr-144",
+        "tr": "Ekonomik büyümenin istatistiksel göstergelerde açıkça görülmesine karşın , bu büyümenin gelir dağılımındaki eşitsizlikleri azaltıp azaltmadığı ayrı bir mesele olarak değerlendirilmelidir .",
+        "es": "Aunque el crecimiento económico se refleja claramente en los indicadores estadísticos , la cuestión de si dicho crecimiento reduce o no las desigualdades en la distribución de la renta debe analizarse por separado ."
+      },
+      {
+        "id": "tr-145",
+        "tr": "Araştırmanın sonuçları önceki varsayımlarla çelişiyor gibi görünse de , verilerin farklı değişkenler arasındaki beklenmedik ilişkileri ortaya çıkarmış olması onları geçersiz kılmaz .",
+        "es": "Aunque los resultados de la investigación parecen contradecir las hipótesis anteriores , el hecho de que los datos hayan revelado relaciones inesperadas entre distintas variables no los invalida ."
+      },
+      {
+        "id": "tr-146",
+        "tr": "Bir kararın geniş kitleler tarafından desteklenmesi , kararın gerekçelerinin mutlaka sağlam olduğu anlamına gelmediğinden , kamuoyu desteği ile politik doğruluk birbirinden ayrılmalıdır .",
+        "es": "Dado que el amplio apoyo a una decisión no significa necesariamente que sus fundamentos sean sólidos , el respaldo de la opinión pública y la corrección de una política deben distinguirse ."
+      },
+      {
+        "id": "tr-147",
+        "tr": "Teknolojik gelişmelerin çalışma hayatını dönüştürmesi kaçınılmaz görünse de , bu dönüşümün bütün çalışanlar açısından aynı sonuçları doğuracağını varsaymak yanıltıcı olur .",
+        "es": "Aunque parece inevitable que los avances tecnológicos transformen la vida laboral , sería engañoso suponer que esta transformación tendrá las mismas consecuencias para todos los trabajadores ."
+      },
+      {
+        "id": "tr-148",
+        "tr": "Yetkililerin krizi yönetme biçimi , alınan ekonomik önlemler kadar önemliydi ; çünkü kamuoyunun güveni zedelendiğinde en doğru kararların bile uygulanması güçleşebilirdi .",
+        "es": "La manera en que las autoridades gestionaron la crisis fue tan importante como las medidas económicas adoptadas , ya que , una vez debilitada la confianza pública , incluso las decisiones más acertadas podían resultar difíciles de aplicar ."
+      },
+      {
+        "id": "tr-149",
+        "tr": "Bir kurumun şeffaf olması , bütün bilgileri herhangi bir sınırlama olmaksızın paylaşması gerektiği anlamına gelmez ; asıl mesele , hangi bilginin neden gizli tutulduğunun açıklanabilir olmasıdır .",
+        "es": "Que una institución sea transparente no significa que deba compartir toda la información sin ningún tipo de limitación ; lo esencial es que pueda explicarse por qué determinados datos se mantienen confidenciales ."
+      },
+      {
+        "id": "tr-150",
+        "tr": "Şirketin yıllardır kârlı görünmesine rağmen nakit akışı konusunda yaşadığı sorunlar , muhasebe kârlılığı ile gerçek finansal dayanıklılığın aynı şey olmadığını gösterdi .",
+        "es": "Los problemas de flujo de caja que experimentaba la empresa a pesar de parecer rentable durante años demostraron que la rentabilidad contable y la verdadera solidez financiera no son lo mismo ."
+      },
+      {
+        "id": "tr-151",
+        "tr": "Bir toplumda belirli bir görüşün baskın hale gelmesi , alternatif görüşlerin ortadan kalktığı anlamına gelmediği gibi , sessiz kalan insanların mutlaka bu görüşü benimsediği de söylenemez .",
+        "es": "Que una determinada opinión se vuelva dominante en una sociedad no significa que hayan desaparecido las opiniones alternativas , del mismo modo que tampoco puede afirmarse que quienes permanecen en silencio compartan necesariamente dicha postura ."
+      },
+      {
+        "id": "tr-152",
+        "tr": "Kurumlar kriz dönemlerinde hızlı hareket etmek zorunda kalsalar bile , aceleyle alınan kararların ileride yaratabileceği ikincil etkileri hesaba katmamaları ciddi sonuçlara yol açabilir .",
+        "es": "Aunque las instituciones se vean obligadas a actuar con rapidez durante las crisis , no tener en cuenta los efectos secundarios que las decisiones apresuradas podrían generar posteriormente puede acarrear consecuencias graves ."
+      },
+      {
+        "id": "tr-153",
+        "tr": "Bir politikanın başarısını yalnızca başlangıçta belirlenen hedeflere ulaşıp ulaşmadığı üzerinden değerlendirmek , uygulama sürecinde ortaya çıkan beklenmedik sonuçları göz ardı etme riskini taşır .",
+        "es": "Evaluar el éxito de una política únicamente en función de si alcanzó los objetivos establecidos al principio entraña el riesgo de ignorar las consecuencias imprevistas surgidas durante su aplicación ."
+      },
+      {
+        "id": "tr-154",
+        "tr": "Küresel ekonomide yaşanan değişimlerin yerel işletmeler üzerindeki etkisi , aynı sektör içinde faaliyet gösteren şirketlerin büyüklüğüne ve mali yapısına göre bile önemli ölçüde farklılaşabilir .",
+        "es": "El impacto de los cambios de la economía mundial sobre las empresas locales puede variar considerablemente incluso entre compañías del mismo sector , dependiendo de su tamaño y estructura financiera ."
+      },
+      {
+        "id": "tr-155",
+        "tr": "İnsanların bir konu hakkında sahip oldukları kanaatlerin yalnızca eriştikleri bilgilere değil , bu bilgileri değerlendirdikleri sosyal ve kültürel çerçeveye de bağlı olduğu göz ardı edilmemelidir .",
+        "es": "No debe ignorarse que las opiniones que las personas tienen sobre un asunto dependen no solo de la información a la que acceden , sino también del marco social y cultural desde el que la interpretan ."
+      },
+      {
+        "id": "tr-156",
+        "tr": "Bir kurumun geçmişte başarılı olmuş yöntemleri bugün de aynı sonucu verecekmiş gibi uygulamaya devam etmesi , değişen koşullara uyum sağlayamamasının temel nedenlerinden biri olabilir .",
+        "es": "Que una institución siga aplicando métodos que tuvieron éxito en el pasado como si fueran a producir los mismos resultados hoy puede ser una de las principales causas de su incapacidad para adaptarse a las circunstancias cambiantes ."
+      },
+      {
+        "id": "tr-157",
+        "tr": "Şirket yönetiminin çalışanlardan gelen uyarıları uzun süre dikkate almaması , sonradan çözülmesi çok daha pahalıya mal olan sorunların büyümesine zemin hazırladı .",
+        "es": "El hecho de que la dirección de la empresa ignorara durante mucho tiempo las advertencias de los empleados favoreció el agravamiento de problemas cuya solución posterior resultó mucho más costosa ."
+      },
+      {
+        "id": "tr-158",
+        "tr": "Bir ülkenin eğitim sistemini yalnızca sınav sonuçlarına göre değerlendirmek , öğrencilerin eleştirel düşünme , yaratıcılık ve iş birliği gibi ölçülmesi daha güç becerilerini gözden kaçırabilir .",
+        "es": "Evaluar el sistema educativo de un país únicamente a partir de los resultados de los exámenes puede hacer que se pasen por alto capacidades más difíciles de medir , como el pensamiento crítico , la creatividad y la colaboración ."
+      },
+      {
+        "id": "tr-159",
+        "tr": "Bir ekonomik reformun toplumun bütün kesimlerine aynı anda fayda sağlamasını beklemek gerçekçi olmayabilir ; bazı gruplar kısa vadede kayıplarla karşılaşırken diğerleri avantaj elde edebilir .",
+        "es": "Puede no ser realista esperar que una reforma económica beneficie simultáneamente a todos los sectores de la sociedad ; mientras algunos grupos pueden sufrir pérdidas a corto plazo , otros pueden obtener ventajas ."
+      },
+      {
+        "id": "tr-160",
+        "tr": "Toplumsal değişimlerin yönünü yalnızca siyasi kararlarla açıklamak , ekonomik koşulların , teknolojik dönüşümlerin ve bireysel davranışların birbirini nasıl etkilediğini yeterince hesaba katmaz .",
+        "es": "Explicar la dirección de los cambios sociales únicamente mediante decisiones políticas no tiene suficientemente en cuenta cómo interactúan las condiciones económicas , las transformaciones tecnológicas y los comportamientos individuales ."
+      },
+      {
+        "id": "tr-161",
+        "tr": "Şirketin yatırım kararını ertelemesi başlangıçta temkinli bir yaklaşım olarak görülse de , rakiplerin pazara daha erken girmesi sonradan telafisi güç bir avantaj kaybına neden oldu .",
+        "es": "Aunque el aplazamiento de la decisión de inversión de la empresa se consideró inicialmente una actitud prudente , la entrada anticipada de los competidores en el mercado provocó posteriormente una pérdida de ventaja difícil de recuperar ."
+      },
+      {
+        "id": "tr-162",
+        "tr": "Kamu politikalarının etkilerini değerlendirirken yalnızca doğrudan sonuçlara odaklanmak , bu politikaların farklı toplumsal gruplar üzerinde yarattığı dolaylı sonuçların gözden kaçmasına yol açabilir .",
+        "es": "Al evaluar los efectos de las políticas públicas , centrarse únicamente en las consecuencias directas puede hacer que se pasen por alto los efectos indirectos que generan sobre distintos grupos sociales ."
+      },
+      {
+        "id": "tr-163",
+        "tr": "Bir kurumda karar alma yetkisinin tek bir merkezde toplanması kısa vadede koordinasyonu kolaylaştırabilir , ancak uzun vadede farklı bakış açılarının sisteme dâhil edilmesini zorlaştırabilir .",
+        "es": "Concentrar la capacidad de decisión en un único centro puede facilitar la coordinación a corto plazo , pero a largo plazo puede dificultar la incorporación de perspectivas diferentes al sistema ."
+      },
+      {
+        "id": "tr-164",
+        "tr": "Araştırmacıların aynı verilerden farklı sonuçlara ulaşması , verilerin değersiz olduğunu değil , yorumlama sürecinde kullanılan varsayımların sonuçlar üzerinde ne kadar belirleyici olabileceğini gösterir .",
+        "es": "Que los investigadores lleguen a conclusiones diferentes a partir de los mismos datos no demuestra que estos carezcan de valor , sino hasta qué punto los supuestos utilizados en la interpretación pueden determinar los resultados ."
+      },
+      {
+        "id": "tr-165",
+        "tr": "Bir şirketin çalışanlarına sunduğu yüksek maaşlar , eğer çalışma koşulları sürdürülemez durumdaysa , yetenekli personeli uzun vadede elde tutmak için tek başına yeterli olmayabilir .",
+        "es": "Los salarios elevados que una empresa ofrece a sus empleados pueden no ser suficientes por sí solos para retener al personal cualificado a largo plazo si las condiciones laborales resultan insostenibles ."
+      },
+      {
+        "id": "tr-166",
+        "tr": "Kentlerin büyümesi kaçınılmaz olsa bile , plansız yapılaşmanın yol açacağı çevresel ve sosyal sorunların önceden öngörülmesi , gelecekte çok daha yüksek maliyetlerin ortaya çıkmasını engelleyebilir .",
+        "es": "Aunque el crecimiento de las ciudades sea inevitable , anticipar los problemas ambientales y sociales derivados de una urbanización descontrolada puede evitar que aparezcan costes mucho mayores en el futuro ."
+      },
+      {
+        "id": "tr-167",
+        "tr": "Bir yöneticinin çalışanlarına sürekli olarak ne yapmaları gerektiğini söylemesi , onların karar alma becerilerini geliştirmediği gibi , sorunlarla karşılaştıklarında bağımsız hareket etmelerini de zorlaştırabilir .",
+        "es": "Que un gerente diga constantemente a sus empleados qué deben hacer no solo impide que desarrollen su capacidad de tomar decisiones , sino que también puede dificultar que actúen de forma independiente cuando surgen problemas ."
+      },
+      {
+        "id": "tr-168",
+        "tr": "Ekonomik göstergelerin olumlu yönde değişmesi , toplumun bütün bireylerinin yaşam standartlarının aynı oranda yükseldiğini göstermeyeceğinden , ortalama değerlerin ötesine bakmak gerekir .",
+        "es": "Dado que una evolución positiva de los indicadores económicos no demuestra que el nivel de vida de todos los ciudadanos haya mejorado en la misma proporción , es necesario mirar más allá de los valores medios ."
+      },
+      {
+        "id": "tr-169",
+        "tr": "Kriz sonrasında normal koşullara dönülmüş olması , kriz sırasında ortaya çıkan yapısal sorunların kendiliğinden ortadan kalktığı anlamına gelmez .",
+        "es": "Que se haya vuelto a las condiciones normales después de una crisis no significa que los problemas estructurales surgidos durante ella hayan desaparecido por sí solos ."
+      },
+      {
+        "id": "tr-170",
+        "tr": "Bir projenin başarısızlığını tek bir kişinin hatasına bağlamak kolay olsa da , çoğu durumda sonuca yol açan etkenlerin birbirleriyle bağlantılı olduğu daha karmaşık bir tablo söz konusudur .",
+        "es": "Aunque resulte fácil atribuir el fracaso de un proyecto al error de una sola persona , en la mayoría de los casos existe un panorama más complejo en el que los factores que condujeron al resultado están interrelacionados ."
+      },
+      {
+        "id": "tr-171",
+        "tr": "İnsanların bilgiye erişiminin artması , doğru bilgiye ulaşmanın da aynı ölçüde kolaylaştığı anlamına gelmediğinden , dijital çağda bilgi seçme becerisi giderek daha önemli hale geliyor .",
+        "es": "Dado que un mayor acceso a la información no significa que resulte igualmente fácil encontrar información fiable , la capacidad de seleccionar contenidos se vuelve cada vez más importante en la era digital ."
+      },
+      {
+        "id": "tr-172",
+        "tr": "Şirketin büyüme stratejisinin başarılı olup olmayacağı , yalnızca yeni pazarlara girmesine değil , bu pazarlarda güvenilir ilişkiler kurup kuramayacağına da bağlı olacaktır .",
+        "es": "El éxito de la estrategia de crecimiento de la empresa dependerá no solo de si logra entrar en nuevos mercados , sino también de si consigue establecer relaciones fiables en ellos ."
+      },
+      {
+        "id": "tr-173",
+        "tr": "Bir kararın etik açıdan savunulabilir olması , onun bütün pratik sonuçlarının olumlu olacağı anlamına gelmez ; bazen doğru görülen bir tercih beklenmedik sorunları da beraberinde getirebilir .",
+        "es": "Que una decisión sea defendible desde el punto de vista ético no significa que todas sus consecuencias prácticas sean positivas ; a veces una elección que parece correcta puede traer consigo problemas inesperados ."
+      },
+      {
+        "id": "tr-174",
+        "tr": "Çalışanların performansını yalnızca sayısal göstergeler üzerinden değerlendiren bir sistem , ekip çalışması ve bilgi paylaşımı gibi ölçülmesi daha güç katkıları göz ardı edebilir .",
+        "es": "Un sistema que evalúa el rendimiento de los empleados únicamente mediante indicadores numéricos puede ignorar contribuciones más difíciles de medir , como el trabajo en equipo y el intercambio de conocimientos ."
+      },
+      {
+        "id": "tr-175",
+        "tr": "Kamuoyunun bir politikaya yönelik desteğinin zaman içinde azalması , politikanın mutlaka başarısız olduğunu göstermese de uygulamanın toplumsal maliyetleri konusunda yeniden düşünülmesini gerektirebilir .",
+        "es": "Aunque la disminución del apoyo público a una política con el tiempo no demuestre necesariamente que haya fracasado , puede exigir una nueva reflexión sobre los costes sociales de su aplicación ."
+      },
+      {
+        "id": "tr-176",
+        "tr": "Bir toplumun ekonomik refahını yalnızca kişi başına düşen gelir üzerinden ölçmek , sağlık , eğitim , güvenlik ve sosyal bağlar gibi yaşam kalitesinin diğer boyutlarını büyük ölçüde dışarıda bırakır .",
+        "es": "Medir el bienestar económico de una sociedad únicamente mediante la renta per cápita deja en gran medida fuera otras dimensiones de la calidad de vida , como la salud , la educación , la seguridad y los vínculos sociales ."
+      },
+      {
+        "id": "tr-177",
+        "tr": "Yöneticilerin çalışanların önerilerini dinlemesi önemli olmakla birlikte , her önerinin uygulanabilir olduğunu varsaymak yönetim sorumluluğunun gerektirdiği değerlendirme sürecini ortadan kaldırır .",
+        "es": "Aunque es importante que los directivos escuchen las propuestas de los empleados , suponer que todas son aplicables elimina el proceso de evaluación que exige la responsabilidad de la gestión ."
+      },
+      {
+        "id": "tr-178",
+        "tr": "Bir kurumun geçmiş başarılarına dayanarak gelecekte de başarılı olacağını varsaymak , başarının ortaya çıktığı koşulların zaman içinde değişebileceği gerçeğini göz ardı eder .",
+        "es": "Suponer que una institución seguirá teniendo éxito basándose en sus logros pasados ignora el hecho de que las condiciones que hicieron posible ese éxito pueden cambiar con el tiempo ."
+      },
+      {
+        "id": "tr-179",
+        "tr": "Toplumsal kutuplaşmanın derinleştiği ortamlarda insanlar aynı olaylara ilişkin tamamen farklı gerçeklik algılarına sahip olabildiğinden , ortak bir tartışma zemini oluşturmak giderek güçleşebilir .",
+        "es": "En contextos donde la polarización social se profundiza , las personas pueden desarrollar percepciones de la realidad completamente diferentes sobre los mismos acontecimientos , lo que dificulta cada vez más crear un espacio común de debate ."
+      },
+      {
+        "id": "tr-180",
+        "tr": "Bir kurumun yenilikçi olabilmesi için yalnızca yeni fikirleri desteklemesi yetmez ; başarısızlığın cezalandırılmadığı ve kontrollü denemelere izin veren bir ortam da oluşturması gerekir .",
+        "es": "Para que una institución sea innovadora , no basta con apoyar nuevas ideas ; también debe crear un entorno en el que el fracaso no sea castigado y se permitan experimentos controlados ."
+      },
+      {
+        "id": "tr-181",
+        "tr": "Küreselleşmenin farklı toplumları birbirine yaklaştırdığı açık olsa da , bu yakınlaşmanın kültürel farklılıkların zamanla ortadan kalkacağı anlamına geldiği düşüncesi aşırı basitleştirici olur .",
+        "es": "Aunque está claro que la globalización ha acercado a distintas sociedades , sería una simplificación excesiva pensar que este acercamiento implica que las diferencias culturales desaparecerán con el tiempo ."
+      },
+      {
+        "id": "tr-182",
+        "tr": "Bir kamu hizmetinin dijitalleştirilmesi işlemleri hızlandırabilir , ancak teknolojik imkânlara sınırlı erişimi olan insanların sistem dışında kalma ihtimali de aynı anda değerlendirilmelidir .",
+        "es": "La digitalización de un servicio público puede agilizar los trámites , pero también debe tenerse en cuenta la posibilidad de que las personas con acceso limitado a la tecnología queden excluidas del sistema ."
+      },
+      {
+        "id": "tr-183",
+        "tr": "Şirketin piyasadaki konumunu koruyabilmesi , rakiplerinin ne yaptığını takip etmesinden çok , müşterilerin ihtiyaçlarının nasıl değiştiğini zamanında fark edebilmesine bağlı olabilir .",
+        "es": "La capacidad de la empresa para mantener su posición en el mercado puede depender menos de seguir lo que hacen sus competidores que de detectar a tiempo cómo cambian las necesidades de sus clientes ."
+      },
+      {
+        "id": "tr-184",
+        "tr": "Bir araştırmanın sonucunun kamuoyunda büyük yankı uyandırması , sonuçların bilimsel açıdan yeterince sağlam olduğu konusunda tek başına güvenilir bir kanıt oluşturmaz .",
+        "es": "El gran impacto que un resultado de investigación tenga en la opinión pública no constituye por sí solo una prueba fiable de que los resultados sean suficientemente sólidos desde el punto de vista científico ."
+      },
+      {
+        "id": "tr-185",
+        "tr": "İş yaşamında sürekli verimlilik artışı talep edilmesi , çalışanların fiziksel ve zihinsel sınırlarının göz ardı edilmesi halinde uzun vadede tam tersine üretkenliği azaltabilir .",
+        "es": "Exigir aumentos constantes de productividad en la vida laboral puede acabar reduciendo la productividad a largo plazo si se ignoran los límites físicos y mentales de los empleados ."
+      },
+      {
+        "id": "tr-186",
+        "tr": "Bir toplumda güven duygusunun zayıflaması , yalnızca bireyler arasındaki ilişkileri değil , kurumların aldığı kararların meşruiyetine ilişkin algıyı da etkileyebilir .",
+        "es": "El debilitamiento de la confianza en una sociedad puede afectar no solo a las relaciones entre individuos , sino también a la percepción de la legitimidad de las decisiones adoptadas por las instituciones ."
+      },
+      {
+        "id": "tr-187",
+        "tr": "Bir politikanın uygulanmasında ortaya çıkan sorunları yalnızca uygulayıcıların yetersizliğiyle açıklamak , politikanın tasarımında bulunabilecek yapısal eksiklikleri görünmez hale getirebilir .",
+        "es": "Explicar los problemas surgidos durante la aplicación de una política únicamente por la falta de capacidad de quienes la ejecutan puede ocultar deficiencias estructurales presentes en el propio diseño de la política ."
+      },
+      {
+        "id": "tr-188",
+        "tr": "Şirketin farklı ülkelerde faaliyet göstermesi , yalnızca yeni müşterilere ulaşma imkânı yaratmakla kalmadı ; aynı zamanda farklı hukuki ve kültürel koşullara uyum sağlama zorunluluğunu da beraberinde getirdi .",
+        "es": "El hecho de que la empresa opere en distintos países no solo creó oportunidades para llegar a nuevos clientes , sino que también trajo consigo la necesidad de adaptarse a diferentes condiciones jurídicas y culturales ."
+      },
+      {
+        "id": "tr-189",
+        "tr": "Bir konuda uzlaşmaya varılması , tarafların bütün ayrıntılarda aynı düşünceye sahip olduğu anlamına gelmez ; bazen uzlaşma , yalnızca hangi farklılıkların kabul edilebilir olduğunu belirlemekten ibarettir .",
+        "es": "Llegar a un acuerdo sobre un asunto no significa que las partes compartan la misma opinión en todos los detalles ; a veces , llegar a un consenso consiste simplemente en determinar qué diferencias son aceptables ."
+      },
+      {
+        "id": "tr-190",
+        "tr": "Ekonomik krizlerin etkileri yıllar sonra bile hissedilebildiğinden , kriz yönetimini yalnızca acil önlemlerle sınırlamak yerine toparlanma dönemini de kapsayan kapsamlı bir yaklaşım benimsenmelidir .",
+        "es": "Dado que los efectos de las crisis económicas pueden seguir sintiéndose años después , la gestión de una crisis debería adoptar un enfoque integral que abarque también el periodo de recuperación , en lugar de limitarse a medidas de emergencia ."
+      },
+      {
+        "id": "tr-191",
+        "tr": "İnsanların bir kuruma duyduğu güvenin yıllar içinde oluşmasına karşın tek bir ciddi olay sonucunda hızla kaybedilebilmesi , kurumsal itibarın neden son derece kırılgan olduğunu açıklıyor .",
+        "es": "El hecho de que la confianza de las personas en una institución se construya durante años pero pueda perderse rápidamente como consecuencia de un solo acontecimiento grave explica por qué la reputación institucional es tan frágil ."
+      },
+      {
+        "id": "tr-192",
+        "tr": "Bir ülkenin teknolojik açıdan ilerlemesi , bu teknolojilerin toplumun bütün kesimlerinin yaşamına eşit biçimde yansıdığı anlamına gelmediğinden , dijital eşitsizlik ayrıca ele alınmalıdır .",
+        "es": "Dado que el progreso tecnológico de un país no significa que estas tecnologías mejoren por igual la vida de todos los sectores de la sociedad , la desigualdad digital debe abordarse por separado ."
+      },
+      {
+        "id": "tr-193",
+        "tr": "Yönetimin krizin ilk aşamalarında aldığı kararlar sonradan eleştirilmiş olsa da , o dönemde mevcut olan sınırlı bilgi ve belirsizlik dikkate alınmadan bu kararları değerlendirmek yanıltıcı olabilir .",
+        "es": "Aunque las decisiones tomadas por la dirección durante las primeras fases de la crisis fueron criticadas posteriormente , evaluarlas sin tener en cuenta la información limitada y la incertidumbre existentes en aquel momento puede resultar engañoso ."
+      },
+      {
+        "id": "tr-194",
+        "tr": "Bir projenin planlanan takvime uymaması her zaman kötü yönetimin göstergesi değildir ; bazen başlangıçta öngörülemeyen koşulların ortaya çıkması takvimin yeniden düzenlenmesini kaçınılmaz kılar .",
+        "es": "Que un proyecto no siga el calendario previsto no constituye siempre una señal de mala gestión ; a veces la aparición de circunstancias imprevistas al principio hace inevitable reorganizar los plazos ."
+      },
+      {
+        "id": "tr-195",
+        "tr": "Toplumların karşılaştığı karmaşık sorunlara tek bir nedensel açıklama getirme eğilimi , birbirini etkileyen ekonomik , siyasi ve kültürel faktörlerin önemini küçümseyebilir .",
+        "es": "La tendencia a ofrecer una única explicación causal para los problemas complejos a los que se enfrentan las sociedades puede subestimar la importancia de los factores económicos , políticos y culturales que interactúan entre sí ."
+      },
+      {
+        "id": "tr-196",
+        "tr": "Bir kurumun sürdürülebilir biçimde gelişebilmesi , yalnızca kaynaklarını artırmasına değil , bu kaynakları değişen ihtiyaçlara göre yeniden dağıtabilecek esnek bir yönetim anlayışına sahip olmasına da bağlıdır .",
+        "es": "El desarrollo sostenible de una institución no depende únicamente de aumentar sus recursos , sino también de contar con una gestión flexible capaz de redistribuirlos en función de las necesidades cambiantes ."
+      },
+      {
+        "id": "tr-197",
+        "tr": "Kamuoyunun dikkatini çeken tartışmaların çoğu , konunun bütün boyutlarını açıklamaktan ziyade belirli ve çarpıcı unsurları öne çıkardığı için , daha az görünür sonuçların ayrıca araştırılması gerekir .",
+        "es": "Dado que muchos debates que atraen la atención pública destacan determinados elementos llamativos en lugar de explicar todas las dimensiones del asunto , es necesario investigar también las consecuencias menos visibles ."
+      },
+      {
+        "id": "tr-198",
+        "tr": "Bir şirketin gelecekteki başarısını yalnızca mevcut pazar payına bakarak tahmin etmek , müşterilerin tercihleri , teknolojik gelişmeler ve rakiplerin stratejileri gibi değişkenlerin zaman içinde dönüşebileceğini göz ardı eder .",
+        "es": "Predecir el éxito futuro de una empresa basándose únicamente en su cuota de mercado actual ignora que variables como las preferencias de los clientes , los avances tecnológicos y las estrategias de los competidores pueden transformarse con el tiempo ."
+      },
+      {
+        "id": "tr-199",
+        "tr": "Bir kararın başlangıçta mantıklı görünmesi , daha sonra ortaya çıkan bilgiler ışığında yeniden değerlendirilmesini gereksiz kılmaz ; aksine , değişen koşullara göre düşünceyi güncellemek sağlıklı karar alma sürecinin bir parçasıdır .",
+        "es": "Que una decisión parezca razonable al principio no hace innecesaria su reevaluación a la luz de la información que aparezca posteriormente ; al contrario , actualizar el criterio en función de las circunstancias cambiantes forma parte de un proceso saludable de toma de decisiones ."
+      },
+      {
+        "id": "tr-200",
+        "tr": "Karmaşık bir toplumsal sorunun çözümünü yalnızca tek bir kurumun sorumluluğunda görmek , farklı aktörlerin birbirini tamamlayan rollerini göz ardı ettiği için , sürdürülebilir bir sonuç elde etme ihtimalini de azaltabilir .",
+        "es": "Considerar que la solución de un problema social complejo es responsabilidad exclusiva de una sola institución puede reducir las posibilidades de lograr un resultado sostenible , ya que ignora los papeles complementarios de los distintos actores ."
+      }],
     "turkishchinese": [ {
         "id": "tr-001",
         "tr": "Hava aniden değişmesine rağmen , hafta sonu için planladığımız yürüyüşü iptal etmemeye karar verdik .",
