@@ -2606,7 +2606,7 @@
       { "id": "pt-199", "pt": "Ela percebeu que precisava mudar sua rotina para ter mais tempo livre .", "hi": "उसे एहसास हुआ कि अधिक खाली समय पाने के लिए उसे अपनी दिनचर्या बदलनी होगी ।" },
       { "id": "pt-200", "pt": "Se todos colaborarem , conseguiremos terminar o trabalho antes do prazo previsto .", "hi": "अगर सभी सहयोग करें , तो हम निर्धारित समय सीमा से पहले काम पूरा कर सकेंगे ।" }
 ],
-    "portugueeserussian": [ { "id": "pt-001", "pt": "Olá , como você está ?", "ru": "Здравствуйте , как вы ?" },
+    "portugueserussian": [ { "id": "pt-001", "pt": "Olá , como você está ?", "ru": "Здравствуйте , как вы ?" },
       { "id": "pt-002", "pt": "Eu estou bem .", "ru": "У меня всё хорошо ." },
       { "id": "pt-003", "pt": "Meu nome é Ana .", "ru": "Меня зовут Анна ." },
       { "id": "pt-004", "pt": "Qual é o seu nome ?", "ru": "Как вас зовут ?" },
